@@ -1,4 +1,4 @@
-﻿Region/Country/Area,,Year,Series,Value
+Region/Country/Area,Country/Region Name,Year,Series,Value
 1,"Total, all countries or areas",2010,"Safely managed drinking water sources, urban (Proportion of population with access)",79.7
 1,"Total, all countries or areas",2010,"Safely managed drinking water sources, rural (Proportion of population with access)",51.3
 1,"Total, all countries or areas",2010,"Safely managed drinking water sources, total (Proportion of population with access)",65.9
@@ -48,9 +48,9 @@
 202,Sub-Saharan Africa,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",11.6
 202,Sub-Saharan Africa,2015,"Safely managed drinking water sources, total (Proportion of population with access)",26.8
 202,Sub-Saharan Africa,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",28.4
-202,Sub-Saharan Africa,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",18
-202,Sub-Saharan Africa,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",22
-202,Sub-Saharan Africa,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",53
+202,Sub-Saharan Africa,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",18.0
+202,Sub-Saharan Africa,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",22.0
+202,Sub-Saharan Africa,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",53.0
 202,Sub-Saharan Africa,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",15.2
 202,Sub-Saharan Africa,2022,"Safely managed drinking water sources, total (Proportion of population with access)",31.3
 202,Sub-Saharan Africa,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",30.5
@@ -91,7 +91,7 @@
 17,Middle Africa,2022,"Safely managed drinking water sources, total (Proportion of population with access)",21.4
 17,Middle Africa,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",22.5
 17,Middle Africa,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",11.2
-17,Middle Africa,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",17
+17,Middle Africa,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",17.0
 18,Southern Africa,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",86.2
 18,Southern Africa,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",58.9
 18,Southern Africa,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",58.8
@@ -100,28 +100,28 @@
 18,Southern Africa,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",62.5
 18,Southern Africa,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",80.1
 18,Southern Africa,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",63.6
-18,Southern Africa,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",67
+18,Southern Africa,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",67.0
 11,Western Africa,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",40.2
 11,Western Africa,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",12.6
 11,Western Africa,2010,"Safely managed drinking water sources, total (Proportion of population with access)",23.9
-11,Western Africa,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",20
+11,Western Africa,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",20.0
 11,Western Africa,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",15.9
 11,Western Africa,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",17.6
 11,Western Africa,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",40.8
 11,Western Africa,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",15.4
 11,Western Africa,2015,"Safely managed drinking water sources, total (Proportion of population with access)",26.7
-11,Western Africa,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",23
+11,Western Africa,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",23.0
 11,Western Africa,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",17.2
 11,Western Africa,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",19.8
 11,Western Africa,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",41.8
 11,Western Africa,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",19.6
 11,Western Africa,2022,"Safely managed drinking water sources, total (Proportion of population with access)",30.4
 11,Western Africa,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",27.4
-11,Western Africa,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",19
+11,Western Africa,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",19.0
 11,Western Africa,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",23.1
 21,Northern America,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",96.5
 21,Northern America,2010,"Safely managed drinking water sources, total (Proportion of population with access)",95.6
-21,Northern America,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",88
+21,Northern America,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",88.0
 21,Northern America,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",95.5
 21,Northern America,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",96.9
 21,Northern America,2015,"Safely managed drinking water sources, total (Proportion of population with access)",96.4
@@ -135,12 +135,12 @@
 419,Latin America & the Caribbean,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",45.1
 419,Latin America & the Caribbean,2010,"Safely managed drinking water sources, total (Proportion of population with access)",73.8
 419,Latin America & the Caribbean,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",27.9
-419,Latin America & the Caribbean,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",37
-419,Latin America & the Caribbean,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",82
+419,Latin America & the Caribbean,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",37.0
+419,Latin America & the Caribbean,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",82.0
 419,Latin America & the Caribbean,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",48.8
 419,Latin America & the Caribbean,2015,"Safely managed drinking water sources, total (Proportion of population with access)",75.3
 419,Latin America & the Caribbean,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",33.5
-419,Latin America & the Caribbean,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",42
+419,Latin America & the Caribbean,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",42.0
 419,Latin America & the Caribbean,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",80.2
 419,Latin America & the Caribbean,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",53.1
 419,Latin America & the Caribbean,2022,"Safely managed drinking water sources, total (Proportion of population with access)",75.2
@@ -148,16 +148,16 @@
 419,Latin America & the Caribbean,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",48.5
 29,Caribbean,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",65.5
 29,Caribbean,2010,"Safely managed drinking water sources, total (Proportion of population with access)",57.3
-29,Caribbean,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",42
+29,Caribbean,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",42.0
 29,Caribbean,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",42.6
 29,Caribbean,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",42.1
 29,Caribbean,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",63.5
-29,Caribbean,2015,"Safely managed drinking water sources, total (Proportion of population with access)",57
+29,Caribbean,2015,"Safely managed drinking water sources, total (Proportion of population with access)",57.0
 29,Caribbean,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",41.6
 29,Caribbean,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",43.5
 29,Caribbean,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",42.1
 29,Caribbean,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",60.9
-29,Caribbean,2022,"Safely managed drinking water sources, total (Proportion of population with access)",56
+29,Caribbean,2022,"Safely managed drinking water sources, total (Proportion of population with access)",56.0
 29,Caribbean,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",40.3
 29,Caribbean,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",43.9
 29,Caribbean,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",41.2
@@ -184,18 +184,18 @@
 5,South America,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",33.5
 5,South America,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",41.5
 5,South America,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",82.7
-5,South America,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",58
-5,South America,2022,"Safely managed drinking water sources, total (Proportion of population with access)",79
+5,South America,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",58.0
+5,South America,2022,"Safely managed drinking water sources, total (Proportion of population with access)",79.0
 5,South America,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",39.7
 5,South America,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",45.7
-142,Asia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",75
+142,Asia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",75.0
 142,Asia,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",54.1
 142,Asia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",63.4
 142,Asia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",33.3
 142,Asia,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",25.3
 142,Asia,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",36.7
 142,Asia,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",77.1
-142,Asia,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",61
+142,Asia,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",61.0
 142,Asia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",68.7
 142,Asia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",40.1
 142,Asia,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",35.3
@@ -206,7 +206,7 @@
 142,Asia,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",46.5
 142,Asia,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",49.8
 142,Asia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",58.6
-143,Central Asia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",87
+143,Central Asia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",87.0
 143,Central Asia,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",49.3
 143,Central Asia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",67.4
 143,Central Asia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",74.1
@@ -217,13 +217,13 @@
 143,Central Asia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",73.6
 143,Central Asia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",73.3
 143,Central Asia,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",80.4
-143,Central Asia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",77
-143,Central Asia,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",88
+143,Central Asia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",77.0
+143,Central Asia,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",88.0
 143,Central Asia,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",68.1
 143,Central Asia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",77.8
 143,Central Asia,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",72.7
 143,Central Asia,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",81.1
-143,Central Asia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",77
+143,Central Asia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",77.0
 30,Eastern Asia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",91.4
 30,Eastern Asia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",54.6
 30,Eastern Asia,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",17.6
@@ -240,11 +240,11 @@
 35,South-eastern Asia,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",30.5
 35,South-eastern Asia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",38.3
 35,South-eastern Asia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",42.7
-35,South-eastern Asia,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",38
+35,South-eastern Asia,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",38.0
 35,South-eastern Asia,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",40.1
 35,South-eastern Asia,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",48.7
 35,South-eastern Asia,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",32.1
-35,South-eastern Asia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",40
+35,South-eastern Asia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",40.0
 35,South-eastern Asia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",44.1
 35,South-eastern Asia,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",43.5
 35,South-eastern Asia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",43.8
@@ -253,7 +253,7 @@
 35,South-eastern Asia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",42.1
 35,South-eastern Asia,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",46.4
 35,South-eastern Asia,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",51.8
-35,South-eastern Asia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",49
+35,South-eastern Asia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",49.0
 34,Southern Asia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",61.5
 34,Southern Asia,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",50.2
 34,Southern Asia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",34.2
@@ -267,7 +267,7 @@
 34,Southern Asia,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",65.8
 34,Southern Asia,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",67.7
 34,Southern Asia,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",44.5
-34,Southern Asia,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",53
+34,Southern Asia,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",53.0
 34,Southern Asia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",49.8
 145,Western Asia,2007,"Safely managed drinking water sources, urban (Proportion of population with access)",75.5
 145,Western Asia,2007,"Safely managed drinking water sources, total (Proportion of population with access)",71.6
@@ -277,10 +277,10 @@
 145,Western Asia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",73.2
 145,Western Asia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",53.3
 145,Western Asia,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",47.6
-145,Western Asia,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",57
+145,Western Asia,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",57.0
 145,Western Asia,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",75.7
 145,Western Asia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",74.5
-145,Western Asia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",58
+145,Western Asia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",58.0
 145,Western Asia,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",50.5
 145,Western Asia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",61.4
 145,Western Asia,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",76.1
@@ -296,7 +296,7 @@
 150,Europe,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",74.9
 150,Europe,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",95.2
 150,Europe,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",86.7
-150,Europe,2015,"Safely managed drinking water sources, total (Proportion of population with access)",93
+150,Europe,2015,"Safely managed drinking water sources, total (Proportion of population with access)",93.0
 150,Europe,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",77.8
 150,Europe,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",46.4
 150,Europe,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",77.1
@@ -312,7 +312,7 @@
 151,Eastern Europe,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",61.1
 151,Eastern Europe,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",73.8
 151,Eastern Europe,2015,"Safely managed drinking water sources, total (Proportion of population with access)",83.8
-151,Eastern Europe,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",58
+151,Eastern Europe,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",58.0
 151,Eastern Europe,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",64.7
 151,Eastern Europe,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",73.6
 151,Eastern Europe,2022,"Safely managed drinking water sources, total (Proportion of population with access)",83.8
@@ -327,8 +327,8 @@
 154,Northern Europe,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",76.8
 154,Northern Europe,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",96.1
 154,Northern Europe,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99.5
-154,Northern Europe,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",97
-154,Northern Europe,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",77
+154,Northern Europe,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",97.0
+154,Northern Europe,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",77.0
 154,Northern Europe,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",96.7
 39,Southern Europe,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",96.8
 39,Southern Europe,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",93.3
@@ -353,14 +353,14 @@
 155,Western Europe,2010,"Safely managed drinking water sources, total (Proportion of population with access)",99.2
 155,Western Europe,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",97.9
 155,Western Europe,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",83.7
-155,Western Europe,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",97
+155,Western Europe,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",97.0
 155,Western Europe,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",99.5
 155,Western Europe,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",99.2
 155,Western Europe,2015,"Safely managed drinking water sources, total (Proportion of population with access)",99.4
 155,Western Europe,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",98.1
-155,Western Europe,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",84
+155,Western Europe,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",84.0
 155,Western Europe,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",97.3
-155,Western Europe,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100
+155,Western Europe,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
 155,Western Europe,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",99.2
 155,Western Europe,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99.8
 155,Western Europe,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",98.3
@@ -405,7 +405,7 @@
 57,Micronesia,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",26.8
 57,Micronesia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",56.2
 57,Micronesia,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",36.9
-61,Polynesia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",87
+61,Polynesia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",87.0
 61,Polynesia,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",59.8
 61,Polynesia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",71.8
 61,Polynesia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",37.4
@@ -416,7 +416,7 @@
 61,Polynesia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",70.3
 61,Polynesia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",34.5
 61,Polynesia,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",44.3
-61,Polynesia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",40
+61,Polynesia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",40.0
 61,Polynesia,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",78.4
 61,Polynesia,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",56.8
 61,Polynesia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",66.2
@@ -431,12 +431,12 @@
 4,Afghanistan,2015,"Safely managed drinking water sources, total (Proportion of population with access)",23.9
 4,Afghanistan,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",36.4
 4,Afghanistan,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",27.7
-4,Afghanistan,2022,"Safely managed drinking water sources, total (Proportion of population with access)",30
+4,Afghanistan,2022,"Safely managed drinking water sources, total (Proportion of population with access)",30.0
 8,Albania,2010,"Safely managed drinking water sources, total (Proportion of population with access)",62.3
-8,Albania,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",27
+8,Albania,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",27.0
 8,Albania,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",33.6
 8,Albania,2015,"Safely managed drinking water sources, total (Proportion of population with access)",70.6
-8,Albania,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",34
+8,Albania,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",34.0
 8,Albania,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",41.6
 8,Albania,2022,"Safely managed drinking water sources, total (Proportion of population with access)",70.7
 8,Albania,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",49.6
@@ -446,10 +446,10 @@
 12,Algeria,2010,"Safely managed drinking water sources, total (Proportion of population with access)",75.1
 12,Algeria,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",66.6
 12,Algeria,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",52.4
-12,Algeria,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",62
+12,Algeria,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",62.0
 12,Algeria,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",81.5
 12,Algeria,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",65.9
-12,Algeria,2015,"Safely managed drinking water sources, total (Proportion of population with access)",77
+12,Algeria,2015,"Safely managed drinking water sources, total (Proportion of population with access)",77.0
 12,Algeria,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",65.8
 12,Algeria,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",54.1
 12,Algeria,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",62.4
@@ -457,15 +457,15 @@
 12,Algeria,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",63.1
 12,Algeria,2022,"Safely managed drinking water sources, total (Proportion of population with access)",70.6
 12,Algeria,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",64.6
-12,Algeria,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",56
+12,Algeria,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",56.0
 12,Algeria,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",62.4
 16,American Samoa,2010,"Safely managed drinking water sources, total (Proportion of population with access)",88.2
 16,American Samoa,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",42.7
 16,American Samoa,2015,"Safely managed drinking water sources, total (Proportion of population with access)",89.4
 16,American Samoa,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",38.7
 16,American Samoa,2021,"Safely managed drinking water sources, total (Proportion of population with access)",89.9
-16,American Samoa,2021,"Safely managed sanitation facilities, total (Proportion of population with access)",37
-16,American Samoa,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",37
+16,American Samoa,2021,"Safely managed sanitation facilities, total (Proportion of population with access)",37.0
+16,American Samoa,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",37.0
 20,Andorra,2010,"Safely managed drinking water sources, total (Proportion of population with access)",90.6
 20,Andorra,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",75.2
 20,Andorra,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",75.2
@@ -475,24 +475,24 @@
 20,Andorra,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",98.2
 20,Andorra,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",98.2
 20,Andorra,2022,"Safely managed drinking water sources, total (Proportion of population with access)",90.6
-20,Andorra,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",100
-20,Andorra,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",100
-20,Andorra,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",100
+20,Andorra,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",100.0
+20,Andorra,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",100.0
+20,Andorra,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",100.0
 32,Argentina,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",45.4
 32,Argentina,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",45.6
-32,Argentina,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",46
+32,Argentina,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",46.0
 32,Argentina,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",46.1
 32,Argentina,2016,"Safely managed sanitation facilities, urban (Proportion of population with access)",46.1
 32,Argentina,2016,"Safely managed sanitation facilities, total (Proportion of population with access)",46.2
 32,Argentina,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",46.2
 51,Armenia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",83.2
-51,Armenia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",3
+51,Armenia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",3.0
 51,Armenia,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",12.9
 51,Armenia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",83.1
 51,Armenia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",1.1
 51,Armenia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",11.7
 51,Armenia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",82.4
-51,Armenia,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",0
+51,Armenia,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",0.0
 51,Armenia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",10.8
 36,Australia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",99.3
 36,Australia,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",94.6
@@ -501,20 +501,20 @@
 36,Australia,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",99.5
 36,Australia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",95.8
 40,Austria,2010,"Safely managed drinking water sources, total (Proportion of population with access)",98.4
-40,Austria,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",100
+40,Austria,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",100.0
 40,Austria,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",99.3
 40,Austria,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",99.7
 40,Austria,2015,"Safely managed drinking water sources, total (Proportion of population with access)",98.9
-40,Austria,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",100
+40,Austria,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",100.0
 40,Austria,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",99.3
 40,Austria,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",99.7
 40,Austria,2022,"Safely managed drinking water sources, total (Proportion of population with access)",98.9
-40,Austria,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",100
+40,Austria,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",100.0
 40,Austria,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",99.3
 40,Austria,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",99.7
 31,Azerbaijan,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",90.7
-31,Azerbaijan,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",58
-31,Azerbaijan,2010,"Safely managed drinking water sources, total (Proportion of population with access)",65
+31,Azerbaijan,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",58.0
+31,Azerbaijan,2010,"Safely managed drinking water sources, total (Proportion of population with access)",65.0
 31,Azerbaijan,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",48.7
 31,Azerbaijan,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",59.7
 31,Azerbaijan,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",91.5
@@ -526,11 +526,11 @@
 31,Azerbaijan,2019,"Safely managed drinking water sources, rural (Proportion of population with access)",77.5
 31,Azerbaijan,2019,"Safely managed drinking water sources, total (Proportion of population with access)",70.2
 31,Azerbaijan,2019,"Safely managed sanitation facilities, urban (Proportion of population with access)",59.3
-31,Azerbaijan,2019,"Safely managed sanitation facilities, total (Proportion of population with access)",69
+31,Azerbaijan,2019,"Safely managed sanitation facilities, total (Proportion of population with access)",69.0
 31,Azerbaijan,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",92.3
 31,Azerbaijan,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",81.1
 31,Azerbaijan,2022,"Safely managed drinking water sources, total (Proportion of population with access)",71.6
-31,Azerbaijan,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",63
+31,Azerbaijan,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",63.0
 48,Bahrain,2010,"Safely managed drinking water sources, total (Proportion of population with access)",98.9
 48,Bahrain,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",88.9
 48,Bahrain,2015,"Safely managed drinking water sources, total (Proportion of population with access)",98.9
@@ -539,7 +539,7 @@
 48,Bahrain,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",92.2
 50,Bangladesh,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",42.4
 50,Bangladesh,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",60.6
-50,Bangladesh,2010,"Safely managed drinking water sources, total (Proportion of population with access)",55
+50,Bangladesh,2010,"Safely managed drinking water sources, total (Proportion of population with access)",55.0
 50,Bangladesh,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",26.2
 50,Bangladesh,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",14.7
 50,Bangladesh,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",18.2
@@ -554,7 +554,7 @@
 50,Bangladesh,2022,"Safely managed drinking water sources, total (Proportion of population with access)",59.1
 50,Bangladesh,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",28.8
 50,Bangladesh,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",32.4
-50,Bangladesh,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",31
+50,Bangladesh,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",31.0
 112,Belarus,2010,"Safely managed drinking water sources, total (Proportion of population with access)",89.6
 112,Belarus,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",85.1
 112,Belarus,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",62.8
@@ -566,7 +566,7 @@
 112,Belarus,2022,"Safely managed drinking water sources, total (Proportion of population with access)",93.1
 112,Belarus,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",81.5
 112,Belarus,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",48.7
-112,Belarus,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",75
+112,Belarus,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",75.0
 56,Belgium,2010,"Safely managed drinking water sources, total (Proportion of population with access)",99.6
 56,Belgium,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",78.4
 56,Belgium,2015,"Safely managed drinking water sources, total (Proportion of population with access)",99.7
@@ -597,14 +597,14 @@
 64,Bhutan,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",58.9
 64,Bhutan,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",84.6
 64,Bhutan,2022,"Safely managed drinking water sources, total (Proportion of population with access)",73.3
-64,Bhutan,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",41
+64,Bhutan,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",41.0
 64,Bhutan,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",57.9
 64,Bhutan,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",50.5
 535,"Bonaire, St. Eustatius & Saba",2010,"Safely managed drinking water sources, total (Proportion of population with access)",91.3
 535,"Bonaire, St. Eustatius & Saba",2015,"Safely managed drinking water sources, total (Proportion of population with access)",95.3
-535,"Bonaire, St. Eustatius & Saba",2022,"Safely managed drinking water sources, total (Proportion of population with access)",100
+535,"Bonaire, St. Eustatius & Saba",2022,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 70,Bosnia and Herzegovina,2010,"Safely managed drinking water sources, total (Proportion of population with access)",88.5
-70,Bosnia and Herzegovina,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",8
+70,Bosnia and Herzegovina,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",8.0
 70,Bosnia and Herzegovina,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",29.2
 70,Bosnia and Herzegovina,2015,"Safely managed drinking water sources, total (Proportion of population with access)",88.8
 70,Bosnia and Herzegovina,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",28.2
@@ -612,7 +612,7 @@
 70,Bosnia and Herzegovina,2018,"Safely managed drinking water sources, total (Proportion of population with access)",88.9
 70,Bosnia and Herzegovina,2018,"Safely managed sanitation facilities, urban (Proportion of population with access)",42.6
 70,Bosnia and Herzegovina,2018,"Safely managed sanitation facilities, total (Proportion of population with access)",54.6
-70,Bosnia and Herzegovina,2022,"Safely managed drinking water sources, total (Proportion of population with access)",87
+70,Bosnia and Herzegovina,2022,"Safely managed drinking water sources, total (Proportion of population with access)",87.0
 70,Bosnia and Herzegovina,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",58.1
 72,Botswana,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",80.2
 72,Botswana,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",76.2
@@ -624,11 +624,11 @@
 76,Brazil,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",39.9
 76,Brazil,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",85.2
 76,Brazil,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",62.8
-76,Brazil,2015,"Safely managed drinking water sources, total (Proportion of population with access)",82
+76,Brazil,2015,"Safely managed drinking water sources, total (Proportion of population with access)",82.0
 76,Brazil,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",46.1
 76,Brazil,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",43.9
 76,Brazil,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",88.9
-76,Brazil,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",76
+76,Brazil,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",76.0
 76,Brazil,2022,"Safely managed drinking water sources, total (Proportion of population with access)",87.3
 76,Brazil,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",51.4
 76,Brazil,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",49.6
@@ -639,7 +639,7 @@
 100,Bulgaria,2015,"Safely managed drinking water sources, total (Proportion of population with access)",96.8
 100,Bulgaria,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",69.6
 100,Bulgaria,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",55.7
-100,Bulgaria,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",66
+100,Bulgaria,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",66.0
 100,Bulgaria,2022,"Safely managed drinking water sources, total (Proportion of population with access)",95.7
 100,Bulgaria,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",77.2
 100,Bulgaria,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",61.4
@@ -649,20 +649,20 @@
 854,Burkina Faso,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",6.6
 854,Burkina Faso,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",12.6
 854,Burkina Faso,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",6.2
-854,Burkina Faso,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",8
+854,Burkina Faso,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",8.0
 854,Burkina Faso,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",12.1
 854,Burkina Faso,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",8.6
 854,Burkina Faso,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",9.7
 116,Cambodia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",51.1
 116,Cambodia,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",14.6
-116,Cambodia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",22
+116,Cambodia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",22.0
 116,Cambodia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",35.5
 116,Cambodia,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",15.4
 116,Cambodia,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",19.5
 116,Cambodia,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",53.8
 116,Cambodia,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",16.7
 116,Cambodia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",24.9
-116,Cambodia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",39
+116,Cambodia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",39.0
 116,Cambodia,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",22.4
 116,Cambodia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",26.1
 116,Cambodia,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",57.5
@@ -677,23 +677,23 @@
 124,Canada,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",80.7
 124,Canada,2015,"Safely managed drinking water sources, total (Proportion of population with access)",98.8
 124,Canada,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",82.7
-124,Canada,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",82
+124,Canada,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",82.0
 124,Canada,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",82.6
-124,Canada,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99
-124,Canada,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",84
+124,Canada,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99.0
+124,Canada,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",84.0
 124,Canada,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",83.5
 124,Canada,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",83.9
 140,Central African Republic,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",14.2
 140,Central African Republic,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",2.8
 140,Central African Republic,2010,"Safely managed drinking water sources, total (Proportion of population with access)",7.3
 140,Central African Republic,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",31.5
-140,Central African Republic,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",8
+140,Central African Republic,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",8.0
 140,Central African Republic,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",17.2
 140,Central African Republic,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",12.8
 140,Central African Republic,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",2.6
 140,Central African Republic,2015,"Safely managed drinking water sources, total (Proportion of population with access)",6.7
 140,Central African Republic,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",27.7
-140,Central African Republic,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",7
+140,Central African Republic,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",7.0
 140,Central African Republic,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",15.3
 140,Central African Republic,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",11.3
 140,Central African Republic,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",2.2
@@ -704,28 +704,28 @@
 148,Chad,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",16.2
 148,Chad,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",2.9
 148,Chad,2010,"Safely managed drinking water sources, total (Proportion of population with access)",5.8
-148,Chad,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",23
+148,Chad,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",23.0
 148,Chad,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",5.2
 148,Chad,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",9.2
 148,Chad,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",16.8
 148,Chad,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",2.8
-148,Chad,2015,"Safely managed drinking water sources, total (Proportion of population with access)",6
+148,Chad,2015,"Safely managed drinking water sources, total (Proportion of population with access)",6.0
 148,Chad,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",26.9
 148,Chad,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",4.8
 148,Chad,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",9.8
 148,Chad,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",17.6
 148,Chad,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",2.7
 148,Chad,2022,"Safely managed drinking water sources, total (Proportion of population with access)",6.2
-148,Chad,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",32
+148,Chad,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",32.0
 148,Chad,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",4.2
 148,Chad,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",10.9
-830,Channel Islands,2010,"Safely managed drinking water sources, total (Proportion of population with access)",92
-830,Channel Islands,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",90
-830,Channel Islands,2015,"Safely managed drinking water sources, total (Proportion of population with access)",92
-830,Channel Islands,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",90
-830,Channel Islands,2017,"Safely managed drinking water sources, total (Proportion of population with access)",92
-830,Channel Islands,2017,"Safely managed sanitation facilities, total (Proportion of population with access)",90
-152,Chile,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",99
+830,Channel Islands,2010,"Safely managed drinking water sources, total (Proportion of population with access)",92.0
+830,Channel Islands,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",90.0
+830,Channel Islands,2015,"Safely managed drinking water sources, total (Proportion of population with access)",92.0
+830,Channel Islands,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",90.0
+830,Channel Islands,2017,"Safely managed drinking water sources, total (Proportion of population with access)",92.0
+830,Channel Islands,2017,"Safely managed sanitation facilities, total (Proportion of population with access)",90.0
+152,Chile,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",99.0
 152,Chile,2010,"Safely managed drinking water sources, total (Proportion of population with access)",96.4
 152,Chile,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",85.9
 152,Chile,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",82.4
@@ -740,10 +740,10 @@
 156,China,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",89.7
 156,China,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",53.4
 156,China,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",15.3
-156,China,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",34
+156,China,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",34.0
 156,China,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",93.8
 156,China,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",69.8
-156,China,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",24
+156,China,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",24.0
 156,China,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",49.4
 156,China,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",97.9
 156,China,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",84.7
@@ -753,24 +753,24 @@
 344,"China, Hong Kong SAR",2010,"Safely managed drinking water sources, total (Proportion of population with access)",99.4
 344,"China, Hong Kong SAR",2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",75.1
 344,"China, Hong Kong SAR",2010,"Safely managed sanitation facilities, total (Proportion of population with access)",75.1
-344,"China, Hong Kong SAR",2015,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-344,"China, Hong Kong SAR",2015,"Safely managed drinking water sources, total (Proportion of population with access)",100
+344,"China, Hong Kong SAR",2015,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+344,"China, Hong Kong SAR",2015,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 344,"China, Hong Kong SAR",2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",80.2
 344,"China, Hong Kong SAR",2015,"Safely managed sanitation facilities, total (Proportion of population with access)",80.2
-344,"China, Hong Kong SAR",2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-344,"China, Hong Kong SAR",2022,"Safely managed drinking water sources, total (Proportion of population with access)",100
+344,"China, Hong Kong SAR",2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+344,"China, Hong Kong SAR",2022,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 344,"China, Hong Kong SAR",2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",96.5
 344,"China, Hong Kong SAR",2022,"Safely managed sanitation facilities, total (Proportion of population with access)",96.5
-446,"China, Macao SAR",2010,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-446,"China, Macao SAR",2010,"Safely managed drinking water sources, total (Proportion of population with access)",100
-446,"China, Macao SAR",2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",56
-446,"China, Macao SAR",2010,"Safely managed sanitation facilities, total (Proportion of population with access)",56
-446,"China, Macao SAR",2015,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-446,"China, Macao SAR",2015,"Safely managed drinking water sources, total (Proportion of population with access)",100
+446,"China, Macao SAR",2010,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+446,"China, Macao SAR",2010,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
+446,"China, Macao SAR",2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",56.0
+446,"China, Macao SAR",2010,"Safely managed sanitation facilities, total (Proportion of population with access)",56.0
+446,"China, Macao SAR",2015,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+446,"China, Macao SAR",2015,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 446,"China, Macao SAR",2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",61.1
 446,"China, Macao SAR",2015,"Safely managed sanitation facilities, total (Proportion of population with access)",61.1
-446,"China, Macao SAR",2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-446,"China, Macao SAR",2022,"Safely managed drinking water sources, total (Proportion of population with access)",100
+446,"China, Macao SAR",2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+446,"China, Macao SAR",2022,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 446,"China, Macao SAR",2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",68.1
 446,"China, Macao SAR",2022,"Safely managed sanitation facilities, total (Proportion of population with access)",68.1
 170,Colombia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",81.1
@@ -781,7 +781,7 @@
 170,Colombia,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",81.2
 170,Colombia,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",38.3
 170,Colombia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",72.5
-170,Colombia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",16
+170,Colombia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",16.0
 170,Colombia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",17.5
 170,Colombia,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",81.2
 170,Colombia,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",40.2
@@ -792,7 +792,7 @@
 178,Congo,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",12.4
 178,Congo,2010,"Safely managed drinking water sources, total (Proportion of population with access)",39.6
 178,Congo,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",58.5
-178,Congo,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",17
+178,Congo,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",17.0
 178,Congo,2015,"Safely managed drinking water sources, total (Proportion of population with access)",44.2
 178,Congo,2021,"Safely managed drinking water sources, urban (Proportion of population with access)",58.6
 178,Congo,2021,"Safely managed drinking water sources, rural (Proportion of population with access)",19.1
@@ -806,8 +806,8 @@
 188,Costa Rica,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",80.3
 188,Costa Rica,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",79.6
 188,Costa Rica,2015,"Safely managed drinking water sources, total (Proportion of population with access)",80.1
-188,Costa Rica,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",21
-188,Costa Rica,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",35
+188,Costa Rica,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",21.0
+188,Costa Rica,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",35.0
 188,Costa Rica,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",24.2
 188,Costa Rica,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",80.4
 188,Costa Rica,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",81.1
@@ -820,11 +820,11 @@
 384,Côte d’Ivoire,2010,"Safely managed drinking water sources, total (Proportion of population with access)",24.6
 384,Côte d’Ivoire,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",18.1
 384,Côte d’Ivoire,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",8.4
-384,Côte d’Ivoire,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",13
-384,Côte d’Ivoire,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",46
+384,Côte d’Ivoire,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",13.0
+384,Côte d’Ivoire,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",46.0
 384,Côte d’Ivoire,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",24.3
-384,Côte d’Ivoire,2015,"Safely managed drinking water sources, total (Proportion of population with access)",35
-384,Côte d’Ivoire,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",19
+384,Côte d’Ivoire,2015,"Safely managed drinking water sources, total (Proportion of population with access)",35.0
+384,Côte d’Ivoire,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",19.0
 384,Côte d’Ivoire,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",10.8
 384,Côte d’Ivoire,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",14.8
 384,Côte d’Ivoire,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",58.8
@@ -834,7 +834,7 @@
 384,Côte d’Ivoire,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",14.1
 384,Côte d’Ivoire,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",17.2
 191,Croatia,2007,"Safely managed drinking water sources, urban (Proportion of population with access)",96.6
-191,Croatia,2007,"Safely managed drinking water sources, rural (Proportion of population with access)",72
+191,Croatia,2007,"Safely managed drinking water sources, rural (Proportion of population with access)",72.0
 191,Croatia,2007,"Safely managed drinking water sources, total (Proportion of population with access)",85.4
 191,Croatia,2007,"Safely managed sanitation facilities, urban (Proportion of population with access)",88.6
 191,Croatia,2007,"Safely managed sanitation facilities, total (Proportion of population with access)",78.2
@@ -846,7 +846,7 @@
 191,Croatia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",77.5
 191,Croatia,2021,"Safely managed drinking water sources, urban (Proportion of population with access)",96.6
 191,Croatia,2021,"Safely managed sanitation facilities, urban (Proportion of population with access)",88.1
-191,Croatia,2021,"Safely managed sanitation facilities, total (Proportion of population with access)",78
+191,Croatia,2021,"Safely managed sanitation facilities, total (Proportion of population with access)",78.0
 191,Croatia,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",96.6
 192,Cuba,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",38.7
 192,Cuba,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",54.5
@@ -855,12 +855,12 @@
 192,Cuba,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",54.9
 192,Cuba,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",41.8
 192,Cuba,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",37.1
-192,Cuba,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",56
+192,Cuba,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",56.0
 192,Cuba,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",41.3
 196,Cyprus,2010,"Safely managed drinking water sources, total (Proportion of population with access)",97.7
 196,Cyprus,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",86.2
 196,Cyprus,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",76.3
-196,Cyprus,2015,"Safely managed drinking water sources, total (Proportion of population with access)",99
+196,Cyprus,2015,"Safely managed drinking water sources, total (Proportion of population with access)",99.0
 196,Cyprus,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",86.2
 196,Cyprus,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",76.6
 196,Cyprus,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99.8
@@ -870,29 +870,29 @@
 203,Czechia,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",96.4
 203,Czechia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",97.4
 203,Czechia,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",86.1
-203,Czechia,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",98
+203,Czechia,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",98.0
 203,Czechia,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",97.7
 203,Czechia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",97.9
 203,Czechia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",87.4
-203,Czechia,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",98
+203,Czechia,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",98.0
 203,Czechia,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",97.7
 203,Czechia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",97.9
 203,Czechia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",89.7
-408,Dem. People's Rep. Korea,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",78
+408,Dem. People's Rep. Korea,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",78.0
 408,Dem. People's Rep. Korea,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",52.4
 408,Dem. People's Rep. Korea,2010,"Safely managed drinking water sources, total (Proportion of population with access)",67.8
 408,Dem. People's Rep. Korea,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",18.4
 408,Dem. People's Rep. Korea,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",77.4
 408,Dem. People's Rep. Korea,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",50.4
-408,Dem. People's Rep. Korea,2015,"Safely managed drinking water sources, total (Proportion of population with access)",67
-408,Dem. People's Rep. Korea,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",9
-408,Dem. People's Rep. Korea,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",77
+408,Dem. People's Rep. Korea,2015,"Safely managed drinking water sources, total (Proportion of population with access)",67.0
+408,Dem. People's Rep. Korea,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",9.0
+408,Dem. People's Rep. Korea,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",77.0
 408,Dem. People's Rep. Korea,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",48.8
 408,Dem. People's Rep. Korea,2022,"Safely managed drinking water sources, total (Proportion of population with access)",66.5
 408,Dem. People's Rep. Korea,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",1.2
 180,Dem. Rep. of the Congo,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",29.1
 180,Dem. Rep. of the Congo,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",0.6
-180,Dem. Rep. of the Congo,2010,"Safely managed drinking water sources, total (Proportion of population with access)",12
+180,Dem. Rep. of the Congo,2010,"Safely managed drinking water sources, total (Proportion of population with access)",12.0
 180,Dem. Rep. of the Congo,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",17.7
 180,Dem. Rep. of the Congo,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",17.4
 180,Dem. Rep. of the Congo,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",17.5
@@ -907,7 +907,7 @@
 180,Dem. Rep. of the Congo,2022,"Safely managed drinking water sources, total (Proportion of population with access)",11.6
 180,Dem. Rep. of the Congo,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",15.2
 180,Dem. Rep. of the Congo,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",11.2
-180,Dem. Rep. of the Congo,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",13
+180,Dem. Rep. of the Congo,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",13.0
 208,Denmark,2010,"Safely managed drinking water sources, total (Proportion of population with access)",96.8
 208,Denmark,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",95.6
 208,Denmark,2015,"Safely managed drinking water sources, total (Proportion of population with access)",98.8
@@ -919,11 +919,11 @@
 262,Djibouti,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",31.7
 262,Djibouti,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",41.2
 262,Djibouti,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",18.2
-262,Djibouti,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",36
+262,Djibouti,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",36.0
 262,Djibouti,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",44.8
 262,Djibouti,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",20.9
 262,Djibouti,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",39.6
-214,Dominican Republic,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",47
+214,Dominican Republic,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",47.0
 214,Dominican Republic,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",34.3
 214,Dominican Republic,2010,"Safely managed drinking water sources, total (Proportion of population with access)",43.6
 214,Dominican Republic,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",46.5
@@ -946,29 +946,29 @@
 218,Ecuador,2010,"Safely managed drinking water sources, total (Proportion of population with access)",63.1
 218,Ecuador,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",35.3
 218,Ecuador,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",50.7
-218,Ecuador,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",41
-218,Ecuador,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",74
+218,Ecuador,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",41.0
+218,Ecuador,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",74.0
 218,Ecuador,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",50.3
 218,Ecuador,2015,"Safely managed drinking water sources, total (Proportion of population with access)",65.4
-218,Ecuador,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",34
-218,Ecuador,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",55
+218,Ecuador,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",34.0
+218,Ecuador,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",55.0
 218,Ecuador,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",41.7
 218,Ecuador,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",74.7
 218,Ecuador,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",53.3
 218,Ecuador,2022,"Safely managed drinking water sources, total (Proportion of population with access)",67.1
 218,Ecuador,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",30.9
-218,Ecuador,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",61
+218,Ecuador,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",61.0
 218,Ecuador,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",41.6
 818,Egypt,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",67.6
 818,Egypt,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",52.9
 818,Egypt,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",59.2
 818,Egypt,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",69.9
 818,Egypt,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",57.9
-818,Egypt,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",63
+818,Egypt,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",63.0
 818,Egypt,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",72.6
 818,Egypt,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",63.1
 818,Egypt,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",67.2
-222,El Salvador,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",82
+222,El Salvador,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",82.0
 222,El Salvador,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",18.1
 222,El Salvador,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",80.6
 222,El Salvador,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",17.8
@@ -980,7 +980,7 @@
 233,Estonia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",96.8
 233,Estonia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",96.4
 233,Estonia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",90.4
-233,Estonia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",97
+233,Estonia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",97.0
 233,Estonia,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",97.7
 233,Estonia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",90.4
 748,Eswatini,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",80.3
@@ -1012,12 +1012,12 @@
 242,Fiji,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",46.5
 242,Fiji,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",52.5
 242,Fiji,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",27.1
-242,Fiji,2015,"Safely managed drinking water sources, total (Proportion of population with access)",41
+242,Fiji,2015,"Safely managed drinking water sources, total (Proportion of population with access)",41.0
 242,Fiji,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",42.9
 242,Fiji,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",54.5
 242,Fiji,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",48.1
 242,Fiji,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",52.5
-242,Fiji,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",27
+242,Fiji,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",27.0
 242,Fiji,2022,"Safely managed drinking water sources, total (Proportion of population with access)",41.9
 242,Fiji,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",42.7
 242,Fiji,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",57.3
@@ -1027,16 +1027,16 @@
 246,Finland,2015,"Safely managed drinking water sources, total (Proportion of population with access)",99.6
 246,Finland,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",88.9
 246,Finland,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99.6
-246,Finland,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",90
+246,Finland,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",90.0
 250,France,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",98.2
 250,France,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",98.4
 250,France,2010,"Safely managed drinking water sources, total (Proportion of population with access)",98.2
 250,France,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",88.8
-250,France,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",99
+250,France,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",99.0
 250,France,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",98.4
 250,France,2015,"Safely managed drinking water sources, total (Proportion of population with access)",98.8
 250,France,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",89.1
-250,France,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100
+250,France,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
 250,France,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",98.4
 250,France,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99.7
 250,France,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",89.7
@@ -1045,8 +1045,8 @@
 254,French Guiana,2015,"Safely managed drinking water sources, total (Proportion of population with access)",90.6
 254,French Guiana,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",73.1
 254,French Guiana,2022,"Safely managed drinking water sources, total (Proportion of population with access)",91.5
-254,French Guiana,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",75
-258,French Polynesia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",92
+254,French Guiana,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",75.0
+258,French Polynesia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",92.0
 258,French Polynesia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",87.8
 258,French Polynesia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",81.8
 270,Gambia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",57.5
@@ -1056,7 +1056,7 @@
 270,Gambia,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",41.5
 270,Gambia,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",35.2
 270,Gambia,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",65.3
-270,Gambia,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",9
+270,Gambia,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",9.0
 270,Gambia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",42.3
 270,Gambia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",31.3
 270,Gambia,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",33.7
@@ -1064,9 +1064,9 @@
 270,Gambia,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",67.8
 270,Gambia,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",12.2
 270,Gambia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",47.7
-270,Gambia,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",31
+270,Gambia,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",31.0
 270,Gambia,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",22.6
-270,Gambia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",28
+270,Gambia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",28.0
 268,Georgia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",87.6
 268,Georgia,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",39.4
 268,Georgia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",66.1
@@ -1079,7 +1079,7 @@
 268,Georgia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",18.8
 268,Georgia,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",44.5
 268,Georgia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",29.7
-268,Georgia,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",88
+268,Georgia,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",88.0
 268,Georgia,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",40.5
 268,Georgia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",69.1
 268,Georgia,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",14.1
@@ -1088,8 +1088,8 @@
 276,Germany,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",99.9
 276,Germany,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",99.8
 276,Germany,2010,"Safely managed drinking water sources, total (Proportion of population with access)",99.9
-276,Germany,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",98
-276,Germany,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",91
+276,Germany,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",98.0
+276,Germany,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",91.0
 276,Germany,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",96.4
 276,Germany,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",99.9
 276,Germany,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",99.7
@@ -1097,7 +1097,7 @@
 276,Germany,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",98.3
 276,Germany,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",91.2
 276,Germany,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",96.7
-276,Germany,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100
+276,Germany,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
 276,Germany,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",99.6
 276,Germany,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99.9
 276,Germany,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",98.5
@@ -1110,7 +1110,7 @@
 288,Ghana,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",7.9
 288,Ghana,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",8.8
 288,Ghana,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",52.1
-288,Ghana,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",11
+288,Ghana,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",11.0
 288,Ghana,2015,"Safely managed drinking water sources, total (Proportion of population with access)",33.2
 288,Ghana,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",11.6
 288,Ghana,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",11.9
@@ -1118,15 +1118,15 @@
 288,Ghana,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",62.6
 288,Ghana,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",18.8
 288,Ghana,2022,"Safely managed drinking water sources, total (Proportion of population with access)",44.5
-288,Ghana,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",14
+288,Ghana,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",14.0
 288,Ghana,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",18.4
 288,Ghana,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",15.8
-292,Gibraltar,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-292,Gibraltar,2010,"Safely managed drinking water sources, total (Proportion of population with access)",100
-292,Gibraltar,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-292,Gibraltar,2015,"Safely managed drinking water sources, total (Proportion of population with access)",100
-292,Gibraltar,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-292,Gibraltar,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100
+292,Gibraltar,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+292,Gibraltar,2010,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
+292,Gibraltar,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+292,Gibraltar,2015,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
+292,Gibraltar,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+292,Gibraltar,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 300,Greece,2010,"Safely managed drinking water sources, total (Proportion of population with access)",99.4
 300,Greece,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",90.9
 300,Greece,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",84.1
@@ -1136,15 +1136,15 @@
 300,Greece,2022,"Safely managed drinking water sources, total (Proportion of population with access)",98.9
 300,Greece,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",97.4
 300,Greece,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",92.2
-304,Greenland,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",0
-304,Greenland,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",0
+304,Greenland,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",0.0
+304,Greenland,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",0.0
 308,Grenada,2010,"Safely managed drinking water sources, total (Proportion of population with access)",87.7
 308,Grenada,2015,"Safely managed drinking water sources, total (Proportion of population with access)",89.9
 308,Grenada,2017,"Safely managed drinking water sources, total (Proportion of population with access)",89.9
 312,Guadeloupe,2010,"Safely managed drinking water sources, total (Proportion of population with access)",98.5
 312,Guadeloupe,2015,"Safely managed drinking water sources, total (Proportion of population with access)",97.7
 312,Guadeloupe,2022,"Safely managed drinking water sources, total (Proportion of population with access)",95.7
-316,Guam,2010,"Safely managed drinking water sources, total (Proportion of population with access)",99
+316,Guam,2010,"Safely managed drinking water sources, total (Proportion of population with access)",99.0
 316,Guam,2015,"Safely managed drinking water sources, total (Proportion of population with access)",99.1
 316,Guam,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99.1
 320,Guatemala,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",61.5
@@ -1154,12 +1154,12 @@
 320,Guatemala,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",43.9
 320,Guatemala,2015,"Safely managed drinking water sources, total (Proportion of population with access)",54.2
 320,Guatemala,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",65.5
-320,Guatemala,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",46
+320,Guatemala,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",46.0
 320,Guatemala,2022,"Safely managed drinking water sources, total (Proportion of population with access)",56.3
 624,Guinea-Bissau,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",39.4
 624,Guinea-Bissau,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",8.2
 624,Guinea-Bissau,2010,"Safely managed drinking water sources, total (Proportion of population with access)",20.7
-624,Guinea-Bissau,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",12
+624,Guinea-Bissau,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",12.0
 624,Guinea-Bissau,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",3.8
 624,Guinea-Bissau,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",7.1
 624,Guinea-Bissau,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",38.1
@@ -1177,15 +1177,15 @@
 328,Guyana,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",39.1
 328,Guyana,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",54.7
 328,Guyana,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",50.5
-328,Guyana,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",37
+328,Guyana,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",37.0
 328,Guyana,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",51.9
-328,Guyana,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",48
+328,Guyana,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",48.0
 328,Guyana,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",34.1
-328,Guyana,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",48
+328,Guyana,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",48.0
 328,Guyana,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",44.2
 340,Honduras,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",65.6
 340,Honduras,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",41.5
-340,Honduras,2010,"Safely managed drinking water sources, total (Proportion of population with access)",54
+340,Honduras,2010,"Safely managed drinking water sources, total (Proportion of population with access)",54.0
 340,Honduras,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",39.5
 340,Honduras,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",58.6
 340,Honduras,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",48.7
@@ -1202,35 +1202,35 @@
 340,Honduras,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",70.5
 340,Honduras,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",52.6
 348,Hungary,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",89.7
-348,Hungary,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",81
-348,Hungary,2010,"Safely managed drinking water sources, total (Proportion of population with access)",87
+348,Hungary,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",81.0
+348,Hungary,2010,"Safely managed drinking water sources, total (Proportion of population with access)",87.0
 348,Hungary,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",77.3
 348,Hungary,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",69.2
 348,Hungary,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",74.7
 348,Hungary,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",93.3
 348,Hungary,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",87.7
 348,Hungary,2015,"Safely managed drinking water sources, total (Proportion of population with access)",91.6
-348,Hungary,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",86
+348,Hungary,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",86.0
 348,Hungary,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",75.5
 348,Hungary,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",82.9
-348,Hungary,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-348,Hungary,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",100
-348,Hungary,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100
+348,Hungary,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+348,Hungary,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",100.0
+348,Hungary,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 348,Hungary,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",90.5
 348,Hungary,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",80.7
 348,Hungary,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",87.8
 352,Iceland,2010,"Safely managed drinking water sources, total (Proportion of population with access)",95.5
 352,Iceland,2015,"Safely managed drinking water sources, total (Proportion of population with access)",98.2
-352,Iceland,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100
+352,Iceland,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 356,India,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",43.8
 356,India,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",29.7
 356,India,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",23.8
 356,India,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",25.6
 356,India,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",52.6
 356,India,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",34.8
-356,India,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",38
-356,India,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",37
-356,India,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",66
+356,India,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",38.0
+356,India,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",37.0
+356,India,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",66.0
 356,India,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",42.7
 356,India,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",57.4
 356,India,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",52.1
@@ -1247,7 +1247,7 @@
 364,Iran (Islamic Republic of),2010,"Safely managed drinking water sources, rural (Proportion of population with access)",84.1
 364,Iran (Islamic Republic of),2010,"Safely managed drinking water sources, total (Proportion of population with access)",92.4
 364,Iran (Islamic Republic of),2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",80.9
-364,Iran (Islamic Republic of),2015,"Safely managed drinking water sources, urban (Proportion of population with access)",96
+364,Iran (Islamic Republic of),2015,"Safely managed drinking water sources, urban (Proportion of population with access)",96.0
 364,Iran (Islamic Republic of),2015,"Safely managed drinking water sources, rural (Proportion of population with access)",85.6
 364,Iran (Islamic Republic of),2015,"Safely managed drinking water sources, total (Proportion of population with access)",93.2
 364,Iran (Islamic Republic of),2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",79.5
@@ -1257,7 +1257,7 @@
 364,Iran (Islamic Republic of),2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",76.2
 368,Iraq,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",62.7
 368,Iraq,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",37.8
-368,Iraq,2010,"Safely managed drinking water sources, total (Proportion of population with access)",55
+368,Iraq,2010,"Safely managed drinking water sources, total (Proportion of population with access)",55.0
 368,Iraq,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",34.9
 368,Iraq,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",32.8
 368,Iraq,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",34.3
@@ -1271,7 +1271,7 @@
 368,Iraq,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",47.6
 368,Iraq,2022,"Safely managed drinking water sources, total (Proportion of population with access)",59.7
 368,Iraq,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",54.7
-368,Iraq,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",48
+368,Iraq,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",48.0
 368,Iraq,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",52.8
 372,Ireland,2010,"Safely managed drinking water sources, total (Proportion of population with access)",92.1
 372,Ireland,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",70.1
@@ -1281,7 +1281,7 @@
 372,Ireland,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",81.8
 372,Ireland,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",70.7
 372,Ireland,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",77.7
-372,Ireland,2022,"Safely managed drinking water sources, total (Proportion of population with access)",96
+372,Ireland,2022,"Safely managed drinking water sources, total (Proportion of population with access)",96.0
 372,Ireland,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",84.8
 372,Ireland,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",70.7
 372,Ireland,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",79.8
@@ -1302,7 +1302,7 @@
 376,Israel,2015,"Safely managed drinking water sources, total (Proportion of population with access)",99.6
 376,Israel,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",91.2
 376,Israel,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",89.1
-376,Israel,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",91
+376,Israel,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",91.0
 376,Israel,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",99.5
 376,Israel,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",99.4
 376,Israel,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99.5
@@ -1312,22 +1312,22 @@
 380,Italy,2010,"Safely managed drinking water sources, total (Proportion of population with access)",95.4
 380,Italy,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",79.4
 380,Italy,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",78.1
-380,Italy,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",79
+380,Italy,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",79.0
 380,Italy,2015,"Safely managed drinking water sources, total (Proportion of population with access)",94.3
 380,Italy,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",79.4
 380,Italy,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",78.1
-380,Italy,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",79
+380,Italy,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",79.0
 380,Italy,2022,"Safely managed drinking water sources, total (Proportion of population with access)",92.7
 380,Italy,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",79.4
 380,Italy,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",78.1
-380,Italy,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",79
+380,Italy,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",79.0
 392,Japan,2010,"Safely managed drinking water sources, total (Proportion of population with access)",98.1
 392,Japan,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",97.9
 392,Japan,2015,"Safely managed drinking water sources, total (Proportion of population with access)",98.4
 392,Japan,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",98.6
 392,Japan,2022,"Safely managed drinking water sources, total (Proportion of population with access)",98.7
 392,Japan,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",99.1
-400,Jordan,2010,"Safely managed drinking water sources, total (Proportion of population with access)",64
+400,Jordan,2010,"Safely managed drinking water sources, total (Proportion of population with access)",64.0
 400,Jordan,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",83.8
 400,Jordan,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",79.4
 400,Jordan,2015,"Safely managed drinking water sources, total (Proportion of population with access)",74.8
@@ -1350,7 +1350,7 @@
 404,Kenya,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",30.6
 404,Kenya,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",29.3
 404,Kenya,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",27.9
-404,Kenya,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",33
+404,Kenya,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",33.0
 404,Kenya,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",31.5
 296,Kiribati,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",18.4
 296,Kiribati,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",5.8
@@ -1370,18 +1370,18 @@
 296,Kiribati,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",24.6
 296,Kiribati,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",25.1
 296,Kiribati,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",24.8
-414,Kuwait,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-414,Kuwait,2010,"Safely managed drinking water sources, total (Proportion of population with access)",100
-414,Kuwait,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",100
-414,Kuwait,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",100
-414,Kuwait,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-414,Kuwait,2015,"Safely managed drinking water sources, total (Proportion of population with access)",100
-414,Kuwait,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",100
-414,Kuwait,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",100
-414,Kuwait,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-414,Kuwait,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100
-414,Kuwait,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",100
-414,Kuwait,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",100
+414,Kuwait,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+414,Kuwait,2010,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
+414,Kuwait,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",100.0
+414,Kuwait,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",100.0
+414,Kuwait,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+414,Kuwait,2015,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
+414,Kuwait,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",100.0
+414,Kuwait,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",100.0
+414,Kuwait,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+414,Kuwait,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
+414,Kuwait,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",100.0
+414,Kuwait,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",100.0
 417,Kyrgyzstan,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",87.6
 417,Kyrgyzstan,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",41.2
 417,Kyrgyzstan,2010,"Safely managed drinking water sources, total (Proportion of population with access)",57.6
@@ -1405,14 +1405,14 @@
 418,Lao People's Dem. Rep.,2010,"Safely managed drinking water sources, total (Proportion of population with access)",13.7
 418,Lao People's Dem. Rep.,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",55.5
 418,Lao People's Dem. Rep.,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",39.1
-418,Lao People's Dem. Rep.,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",44
+418,Lao People's Dem. Rep.,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",44.0
 418,Lao People's Dem. Rep.,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",25.8
-418,Lao People's Dem. Rep.,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",11
+418,Lao People's Dem. Rep.,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",11.0
 418,Lao People's Dem. Rep.,2015,"Safely managed drinking water sources, total (Proportion of population with access)",15.9
 418,Lao People's Dem. Rep.,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",60.4
 418,Lao People's Dem. Rep.,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",50.7
 418,Lao People's Dem. Rep.,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",53.9
-418,Lao People's Dem. Rep.,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",27
+418,Lao People's Dem. Rep.,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",27.0
 418,Lao People's Dem. Rep.,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",12.4
 418,Lao People's Dem. Rep.,2022,"Safely managed drinking water sources, total (Proportion of population with access)",17.9
 418,Lao People's Dem. Rep.,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",63.3
@@ -1432,31 +1432,31 @@
 422,Lebanon,2022,"Safely managed drinking water sources, total (Proportion of population with access)",47.7
 422,Lebanon,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",25.7
 426,Lesotho,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",59.1
-426,Lesotho,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",5
+426,Lesotho,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",5.0
 426,Lesotho,2010,"Safely managed drinking water sources, total (Proportion of population with access)",18.4
 426,Lesotho,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",28.4
 426,Lesotho,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",28.6
 426,Lesotho,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",28.6
 426,Lesotho,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",66.2
-426,Lesotho,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",7
-426,Lesotho,2015,"Safely managed drinking water sources, total (Proportion of population with access)",23
-426,Lesotho,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",34
-426,Lesotho,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",40
+426,Lesotho,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",7.0
+426,Lesotho,2015,"Safely managed drinking water sources, total (Proportion of population with access)",23.0
+426,Lesotho,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",34.0
+426,Lesotho,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",40.0
 426,Lesotho,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",38.4
 426,Lesotho,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",72.6
 426,Lesotho,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",9.2
 426,Lesotho,2022,"Safely managed drinking water sources, total (Proportion of population with access)",28.2
 426,Lesotho,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",39.4
-426,Lesotho,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",51
+426,Lesotho,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",51.0
 426,Lesotho,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",47.5
 434,Libya,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",25.1
 434,Libya,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",24.1
 434,Libya,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",23.8
-438,Liechtenstein,2010,"Safely managed drinking water sources, total (Proportion of population with access)",100
+438,Liechtenstein,2010,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 438,Liechtenstein,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",96.2
-438,Liechtenstein,2015,"Safely managed drinking water sources, total (Proportion of population with access)",100
+438,Liechtenstein,2015,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 438,Liechtenstein,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",96.2
-438,Liechtenstein,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100
+438,Liechtenstein,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 438,Liechtenstein,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",96.2
 440,Lithuania,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",96.9
 440,Lithuania,2010,"Safely managed drinking water sources, total (Proportion of population with access)",82.5
@@ -1467,20 +1467,20 @@
 440,Lithuania,2015,"Safely managed drinking water sources, total (Proportion of population with access)",92.3
 440,Lithuania,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",94.4
 440,Lithuania,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",80.9
-440,Lithuania,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",90
+440,Lithuania,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",90.0
 440,Lithuania,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",99.3
-440,Lithuania,2022,"Safely managed drinking water sources, total (Proportion of population with access)",95
+440,Lithuania,2022,"Safely managed drinking water sources, total (Proportion of population with access)",95.0
 440,Lithuania,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",97.5
 440,Lithuania,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",90.5
 440,Lithuania,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",95.3
 442,Luxembourg,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",99.8
-442,Luxembourg,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",100
+442,Luxembourg,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",100.0
 442,Luxembourg,2010,"Safely managed drinking water sources, total (Proportion of population with access)",99.8
 442,Luxembourg,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",93.3
 442,Luxembourg,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",85.9
 442,Luxembourg,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",92.5
 442,Luxembourg,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",99.8
-442,Luxembourg,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",98
+442,Luxembourg,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",98.0
 442,Luxembourg,2015,"Safely managed drinking water sources, total (Proportion of population with access)",99.6
 442,Luxembourg,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",94.3
 442,Luxembourg,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",86.6
@@ -1512,11 +1512,11 @@
 454,Malawi,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",43.7
 454,Malawi,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",5.1
 454,Malawi,2010,"Safely managed drinking water sources, total (Proportion of population with access)",11.1
-454,Malawi,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",26
-454,Malawi,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",20
+454,Malawi,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",26.0
+454,Malawi,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",20.0
 454,Malawi,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",20.9
 454,Malawi,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",47.3
-454,Malawi,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",7
+454,Malawi,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",7.0
 454,Malawi,2015,"Safely managed drinking water sources, total (Proportion of population with access)",13.6
 454,Malawi,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",32.4
 454,Malawi,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",31.5
@@ -1532,7 +1532,7 @@
 458,Malaysia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",93.6
 458,Malaysia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",81.2
 458,Malaysia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",93.9
-458,Malaysia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",86
+458,Malaysia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",86.0
 466,Mali,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",6.5
 466,Mali,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",11.5
 466,Mali,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",9.7
@@ -1542,14 +1542,14 @@
 466,Mali,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",7.5
 466,Mali,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",22.9
 466,Mali,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",15.9
-470,Malta,2010,"Safely managed drinking water sources, total (Proportion of population with access)",100
+470,Malta,2010,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 470,Malta,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",93.3
 470,Malta,2015,"Safely managed drinking water sources, total (Proportion of population with access)",99.9
-470,Malta,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",89
+470,Malta,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",89.0
 470,Malta,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99.8
 470,Malta,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",88.2
 474,Martinique,2010,"Safely managed drinking water sources, total (Proportion of population with access)",99.2
-474,Martinique,2015,"Safely managed drinking water sources, total (Proportion of population with access)",99
+474,Martinique,2015,"Safely managed drinking water sources, total (Proportion of population with access)",99.0
 474,Martinique,2022,"Safely managed drinking water sources, total (Proportion of population with access)",98.8
 175,Mayotte,2010,"Safely managed drinking water sources, total (Proportion of population with access)",79.1
 175,Mayotte,2015,"Safely managed drinking water sources, total (Proportion of population with access)",90.6
@@ -1560,30 +1560,30 @@
 484,Mexico,2015,"Safely managed drinking water sources, total (Proportion of population with access)",42.2
 484,Mexico,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",47.4
 484,Mexico,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",45.5
-484,Mexico,2022,"Safely managed drinking water sources, total (Proportion of population with access)",43
+484,Mexico,2022,"Safely managed drinking water sources, total (Proportion of population with access)",43.0
 484,Mexico,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",65.1
 484,Mexico,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",62.5
-492,Monaco,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-492,Monaco,2010,"Safely managed drinking water sources, total (Proportion of population with access)",100
-492,Monaco,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",100
-492,Monaco,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",100
-492,Monaco,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-492,Monaco,2015,"Safely managed drinking water sources, total (Proportion of population with access)",100
-492,Monaco,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",100
-492,Monaco,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",100
-492,Monaco,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-492,Monaco,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100
-492,Monaco,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",100
-492,Monaco,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",100
-496,Mongolia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",40
+492,Monaco,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+492,Monaco,2010,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
+492,Monaco,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",100.0
+492,Monaco,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",100.0
+492,Monaco,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+492,Monaco,2015,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
+492,Monaco,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",100.0
+492,Monaco,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",100.0
+492,Monaco,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+492,Monaco,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
+492,Monaco,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",100.0
+492,Monaco,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",100.0
+496,Mongolia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",40.0
 496,Mongolia,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",5.1
 496,Mongolia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",28.7
-496,Mongolia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",62
+496,Mongolia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",62.0
 496,Mongolia,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",35.9
 496,Mongolia,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",53.5
 496,Mongolia,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",44.6
 496,Mongolia,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",7.9
-496,Mongolia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",33
+496,Mongolia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",33.0
 496,Mongolia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",66.1
 496,Mongolia,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",44.5
 496,Mongolia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",59.2
@@ -1592,8 +1592,8 @@
 496,Mongolia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",39.3
 496,Mongolia,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",70.3
 496,Mongolia,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",56.3
-496,Mongolia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",66
-499,Montenegro,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",87
+496,Mongolia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",66.0
+499,Montenegro,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",87.0
 499,Montenegro,2010,"Safely managed drinking water sources, total (Proportion of population with access)",84.3
 499,Montenegro,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",31.8
 499,Montenegro,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",35.3
@@ -1622,7 +1622,7 @@
 504,Morocco,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",46.7
 504,Morocco,2022,"Safely managed drinking water sources, total (Proportion of population with access)",74.8
 504,Morocco,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",34.4
-504,Morocco,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",61
+504,Morocco,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",61.0
 508,Mozambique,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",9.6
 508,Mozambique,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",14.2
 508,Mozambique,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",20.9
@@ -1631,10 +1631,10 @@
 104,Myanmar,2010,"Safely managed drinking water sources, total (Proportion of population with access)",43.2
 104,Myanmar,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",60.8
 104,Myanmar,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",61.1
-104,Myanmar,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",61
+104,Myanmar,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",61.0
 104,Myanmar,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",70.4
 104,Myanmar,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",41.4
-104,Myanmar,2015,"Safely managed drinking water sources, total (Proportion of population with access)",50
+104,Myanmar,2015,"Safely managed drinking water sources, total (Proportion of population with access)",50.0
 104,Myanmar,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",57.1
 104,Myanmar,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",62.6
 104,Myanmar,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",60.9
@@ -1649,8 +1649,8 @@
 524,Nepal,2010,"Safely managed drinking water sources, total (Proportion of population with access)",29.4
 524,Nepal,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",28.5
 524,Nepal,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",26.7
-524,Nepal,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",27
-524,Nepal,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",33
+524,Nepal,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",27.0
+524,Nepal,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",33.0
 524,Nepal,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",23.8
 524,Nepal,2015,"Safely managed drinking water sources, total (Proportion of population with access)",25.5
 524,Nepal,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",35.4
@@ -1662,15 +1662,15 @@
 524,Nepal,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",44.6
 524,Nepal,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",52.2
 524,Nepal,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",50.6
-528,Netherlands (Kingdom of the),2010,"Safely managed drinking water sources, total (Proportion of population with access)",100
+528,Netherlands (Kingdom of the),2010,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 528,Netherlands (Kingdom of the),2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",97.5
 528,Netherlands (Kingdom of the),2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",97.4
 528,Netherlands (Kingdom of the),2010,"Safely managed sanitation facilities, total (Proportion of population with access)",97.5
-528,Netherlands (Kingdom of the),2015,"Safely managed drinking water sources, total (Proportion of population with access)",100
+528,Netherlands (Kingdom of the),2015,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 528,Netherlands (Kingdom of the),2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",97.5
 528,Netherlands (Kingdom of the),2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",97.5
 528,Netherlands (Kingdom of the),2015,"Safely managed sanitation facilities, total (Proportion of population with access)",97.5
-528,Netherlands (Kingdom of the),2022,"Safely managed drinking water sources, total (Proportion of population with access)",100
+528,Netherlands (Kingdom of the),2022,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 528,Netherlands (Kingdom of the),2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",97.5
 528,Netherlands (Kingdom of the),2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",97.5
 528,Netherlands (Kingdom of the),2022,"Safely managed sanitation facilities, total (Proportion of population with access)",97.5
@@ -1681,7 +1681,7 @@
 554,New Zealand,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",86.3
 554,New Zealand,2015,"Safely managed drinking water sources, total (Proportion of population with access)",94.2
 554,New Zealand,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",87.7
-554,New Zealand,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100
+554,New Zealand,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 554,New Zealand,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",88.7
 558,Nicaragua,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",66.6
 558,Nicaragua,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",31.9
@@ -1709,16 +1709,16 @@
 566,Nigeria,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",24.7
 566,Nigeria,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",33.9
 566,Nigeria,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",16.8
-566,Nigeria,2015,"Safely managed drinking water sources, total (Proportion of population with access)",25
-566,Nigeria,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",30
+566,Nigeria,2015,"Safely managed drinking water sources, total (Proportion of population with access)",25.0
+566,Nigeria,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",30.0
 566,Nigeria,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",25.2
 566,Nigeria,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",27.5
 566,Nigeria,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",35.7
 566,Nigeria,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",21.2
-566,Nigeria,2022,"Safely managed drinking water sources, total (Proportion of population with access)",29
+566,Nigeria,2022,"Safely managed drinking water sources, total (Proportion of population with access)",29.0
 566,Nigeria,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",36.6
 566,Nigeria,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",26.6
-566,Nigeria,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",32
+566,Nigeria,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",32.0
 570,Niue,2010,"Safely managed drinking water sources, total (Proportion of population with access)",97.4
 570,Niue,2015,"Safely managed drinking water sources, total (Proportion of population with access)",95.3
 570,Niue,2022,"Safely managed drinking water sources, total (Proportion of population with access)",93.5
@@ -1738,7 +1738,7 @@
 807,North Macedonia,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",74.4
 807,North Macedonia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",80.4
 807,North Macedonia,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",8.2
-807,North Macedonia,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",18
+807,North Macedonia,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",18.0
 807,North Macedonia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",12.2
 580,Northern Mariana Islands,2010,"Safely managed drinking water sources, total (Proportion of population with access)",86.5
 580,Northern Mariana Islands,2015,"Safely managed drinking water sources, total (Proportion of population with access)",89.4
@@ -1775,7 +1775,7 @@
 585,Palau,2022,"Safely managed drinking water sources, total (Proportion of population with access)",90.4
 591,Panama,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",12.2
 591,Panama,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",28.6
-591,Panama,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",50
+591,Panama,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",50.0
 598,Papua New Guinea,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",29.8
 598,Papua New Guinea,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",29.1
 598,Papua New Guinea,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",28.3
@@ -1794,22 +1794,22 @@
 600,Paraguay,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",72.2
 600,Paraguay,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",50.7
 600,Paraguay,2022,"Safely managed drinking water sources, total (Proportion of population with access)",64.2
-600,Paraguay,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",53
-600,Paraguay,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",59
+600,Paraguay,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",53.0
+600,Paraguay,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",59.0
 600,Paraguay,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",55.2
 604,Peru,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",57.9
-604,Peru,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",18
+604,Peru,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",18.0
 604,Peru,2010,"Safely managed drinking water sources, total (Proportion of population with access)",48.5
 604,Peru,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",32.3
 604,Peru,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",29.7
 604,Peru,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",58.7
 604,Peru,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",20.1
-604,Peru,2015,"Safely managed drinking water sources, total (Proportion of population with access)",50
-604,Peru,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",44
+604,Peru,2015,"Safely managed drinking water sources, total (Proportion of population with access)",50.0
+604,Peru,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",44.0
 604,Peru,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",40.7
 604,Peru,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",59.8
-604,Peru,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",23
-604,Peru,2022,"Safely managed drinking water sources, total (Proportion of population with access)",52
+604,Peru,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",23.0
+604,Peru,2022,"Safely managed drinking water sources, total (Proportion of population with access)",52.0
 604,Peru,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",61.6
 604,Peru,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",57.7
 608,Philippines,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",60.7
@@ -1817,7 +1817,7 @@
 608,Philippines,2010,"Safely managed drinking water sources, total (Proportion of population with access)",45.2
 608,Philippines,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",49.4
 608,Philippines,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",52.3
-608,Philippines,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",51
+608,Philippines,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",51.0
 608,Philippines,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",61.2
 608,Philippines,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",33.5
 608,Philippines,2015,"Safely managed drinking water sources, total (Proportion of population with access)",46.3
@@ -1825,7 +1825,7 @@
 608,Philippines,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",58.9
 608,Philippines,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",55.8
 608,Philippines,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",61.9
-608,Philippines,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",35
+608,Philippines,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",35.0
 608,Philippines,2022,"Safely managed drinking water sources, total (Proportion of population with access)",47.9
 608,Philippines,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",56.2
 608,Philippines,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",68.8
@@ -1836,7 +1836,7 @@
 616,Poland,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",96.3
 616,Poland,2022,"Safely managed drinking water sources, total (Proportion of population with access)",88.9
 616,Poland,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",97.9
-620,Portugal,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",97
+620,Portugal,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",97.0
 620,Portugal,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",89.6
 620,Portugal,2010,"Safely managed drinking water sources, total (Proportion of population with access)",94.1
 620,Portugal,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",73.6
@@ -1845,7 +1845,7 @@
 620,Portugal,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",97.1
 620,Portugal,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",90.3
 620,Portugal,2015,"Safely managed drinking water sources, total (Proportion of population with access)",94.6
-620,Portugal,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",87
+620,Portugal,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",87.0
 620,Portugal,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",74.9
 620,Portugal,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",82.6
 620,Portugal,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",97.1
@@ -1860,7 +1860,7 @@
 630,Puerto Rico,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",32.5
 630,Puerto Rico,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99.9
 630,Puerto Rico,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",32.5
-634,Qatar,2010,"Safely managed drinking water sources, total (Proportion of population with access)",97
+634,Qatar,2010,"Safely managed drinking water sources, total (Proportion of population with access)",97.0
 634,Qatar,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",89.3
 634,Qatar,2015,"Safely managed drinking water sources, total (Proportion of population with access)",97.3
 634,Qatar,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",93.8
@@ -1884,15 +1884,15 @@
 638,Réunion,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",74.7
 638,Réunion,2022,"Safely managed drinking water sources, total (Proportion of population with access)",95.8
 638,Réunion,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",76.7
-642,Romania,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",95
+642,Romania,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",95.0
 642,Romania,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",66.7
 642,Romania,2010,"Safely managed drinking water sources, total (Proportion of population with access)",81.9
 642,Romania,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",59.5
-642,Romania,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",95
+642,Romania,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",95.0
 642,Romania,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",66.7
 642,Romania,2015,"Safely managed drinking water sources, total (Proportion of population with access)",81.9
 642,Romania,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",71.4
-642,Romania,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",95
+642,Romania,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",95.0
 642,Romania,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",66.7
 642,Romania,2022,"Safely managed drinking water sources, total (Proportion of population with access)",82.1
 642,Romania,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",87.6
@@ -1905,7 +1905,7 @@
 643,Russian Federation,2022,"Safely managed drinking water sources, total (Proportion of population with access)",76.2
 643,Russian Federation,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",64.2
 643,Russian Federation,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",61.2
-646,Rwanda,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",37
+646,Rwanda,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",37.0
 646,Rwanda,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",43.8
 646,Rwanda,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",44.6
 646,Rwanda,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",50.2
@@ -1915,8 +1915,8 @@
 652,Saint Barthélemy,2010,"Safely managed drinking water sources, total (Proportion of population with access)",99.5
 652,Saint Barthélemy,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",99.9
 652,Saint Barthélemy,2015,"Safely managed drinking water sources, total (Proportion of population with access)",99.9
-652,Saint Barthélemy,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-652,Saint Barthélemy,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100
+652,Saint Barthélemy,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+652,Saint Barthélemy,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 654,Saint Helena,2010,"Safely managed drinking water sources, total (Proportion of population with access)",88.9
 654,Saint Helena,2015,"Safely managed drinking water sources, total (Proportion of population with access)",89.1
 654,Saint Helena,2022,"Safely managed drinking water sources, total (Proportion of population with access)",89.2
@@ -1931,7 +1931,7 @@
 666,Saint Pierre and Miquelon,2020,"Safely managed drinking water sources, total (Proportion of population with access)",83.1
 882,Samoa,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",85.5
 882,Samoa,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",54.9
-882,Samoa,2010,"Safely managed drinking water sources, total (Proportion of population with access)",61
+882,Samoa,2010,"Safely managed drinking water sources, total (Proportion of population with access)",61.0
 882,Samoa,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",42.9
 882,Samoa,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",50.7
 882,Samoa,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",49.2
@@ -1947,14 +1947,14 @@
 882,Samoa,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",36.7
 882,Samoa,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",44.3
 882,Samoa,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",42.9
-674,San Marino,2010,"Safely managed drinking water sources, total (Proportion of population with access)",100
+674,San Marino,2010,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 674,San Marino,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",90.2
-674,San Marino,2015,"Safely managed drinking water sources, total (Proportion of population with access)",100
+674,San Marino,2015,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 674,San Marino,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",90.2
-674,San Marino,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100
+674,San Marino,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
 674,San Marino,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",90.2
 678,Sao Tome and Principe,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",36.2
-678,Sao Tome and Principe,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",21
+678,Sao Tome and Principe,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",21.0
 678,Sao Tome and Principe,2010,"Safely managed drinking water sources, total (Proportion of population with access)",30.9
 678,Sao Tome and Principe,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",25.5
 678,Sao Tome and Principe,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",18.6
@@ -1964,29 +1964,29 @@
 678,Sao Tome and Principe,2015,"Safely managed drinking water sources, total (Proportion of population with access)",33.5
 678,Sao Tome and Principe,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",29.7
 678,Sao Tome and Principe,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",24.2
-678,Sao Tome and Principe,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",28
+678,Sao Tome and Principe,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",28.0
 678,Sao Tome and Principe,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",40.3
 678,Sao Tome and Principe,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",23.8
 678,Sao Tome and Principe,2022,"Safely managed drinking water sources, total (Proportion of population with access)",36.3
 678,Sao Tome and Principe,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",34.8
 678,Sao Tome and Principe,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",31.5
-678,Sao Tome and Principe,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",34
+678,Sao Tome and Principe,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",34.0
 682,Saudi Arabia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",82.4
 682,Saudi Arabia,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",79.5
 682,Saudi Arabia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",82.4
 682,Saudi Arabia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",79.7
 682,Saudi Arabia,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",82.4
 682,Saudi Arabia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",79.9
-686,Senegal,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",40
+686,Senegal,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",40.0
 686,Senegal,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",9.7
-686,Senegal,2010,"Safely managed drinking water sources, total (Proportion of population with access)",23
+686,Senegal,2010,"Safely managed drinking water sources, total (Proportion of population with access)",23.0
 686,Senegal,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",19.9
 686,Senegal,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",19.4
 686,Senegal,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",19.6
 686,Senegal,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",40.5
 686,Senegal,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",10.9
 686,Senegal,2015,"Safely managed drinking water sources, total (Proportion of population with access)",24.5
-686,Senegal,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",17
+686,Senegal,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",17.0
 686,Senegal,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",17.2
 686,Senegal,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",17.1
 686,Senegal,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",41.3
@@ -2031,18 +2031,18 @@
 694,Sierra Leone,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",22.5
 694,Sierra Leone,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",9.8
 694,Sierra Leone,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",15.4
-702,Singapore,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-702,Singapore,2010,"Safely managed drinking water sources, total (Proportion of population with access)",100
-702,Singapore,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",100
-702,Singapore,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",100
-702,Singapore,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-702,Singapore,2015,"Safely managed drinking water sources, total (Proportion of population with access)",100
-702,Singapore,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",100
-702,Singapore,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",100
-702,Singapore,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100
-702,Singapore,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100
-702,Singapore,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",100
-702,Singapore,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",100
+702,Singapore,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+702,Singapore,2010,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
+702,Singapore,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",100.0
+702,Singapore,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",100.0
+702,Singapore,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+702,Singapore,2015,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
+702,Singapore,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",100.0
+702,Singapore,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",100.0
+702,Singapore,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",100.0
+702,Singapore,2022,"Safely managed drinking water sources, total (Proportion of population with access)",100.0
+702,Singapore,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",100.0
+702,Singapore,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",100.0
 703,Slovakia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",97.9
 703,Slovakia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",88.9
 703,Slovakia,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",76.5
@@ -2060,7 +2060,7 @@
 705,Slovenia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",95.2
 705,Slovenia,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",79.2
 705,Slovenia,2022,"Safely managed drinking water sources, total (Proportion of population with access)",98.3
-705,Slovenia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",84
+705,Slovenia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",84.0
 706,Somalia,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",38.4
 706,Somalia,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",12.5
 706,Somalia,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",22.7
@@ -2070,7 +2070,7 @@
 706,Somalia,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",44.5
 706,Somalia,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",21.8
 706,Somalia,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",32.6
-710,South Africa,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",87
+710,South Africa,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",87.0
 710,South Africa,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",69.3
 710,South Africa,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",62.7
 710,South Africa,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",84.3
@@ -2090,14 +2090,14 @@
 724,Spain,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",99.8
 724,Spain,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",98.6
 724,Spain,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99.6
-724,Spain,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",90
+724,Spain,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",90.0
 144,Sri Lanka,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",88.1
-144,Sri Lanka,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",37
+144,Sri Lanka,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",37.0
 144,Sri Lanka,2010,"Safely managed drinking water sources, total (Proportion of population with access)",46.3
 144,Sri Lanka,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",90.3
 144,Sri Lanka,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",37.7
 144,Sri Lanka,2015,"Safely managed drinking water sources, total (Proportion of population with access)",47.3
-144,Sri Lanka,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",83
+144,Sri Lanka,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",83.0
 144,Sri Lanka,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",38.7
 144,Sri Lanka,2022,"Safely managed drinking water sources, total (Proportion of population with access)",47.1
 275,State of Palestine,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",78.1
@@ -2127,7 +2127,7 @@
 740,Suriname,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",63.1
 740,Suriname,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",38.2
 740,Suriname,2015,"Safely managed drinking water sources, total (Proportion of population with access)",54.7
-740,Suriname,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",22
+740,Suriname,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",22.0
 740,Suriname,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",36.2
 740,Suriname,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",26.8
 740,Suriname,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",63.4
@@ -2141,11 +2141,11 @@
 752,Sweden,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",91.4
 752,Sweden,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",95.2
 752,Sweden,2015,"Safely managed drinking water sources, total (Proportion of population with access)",99.6
-752,Sweden,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",96
+752,Sweden,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",96.0
 752,Sweden,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",91.6
 752,Sweden,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",95.4
 752,Sweden,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99.7
-752,Sweden,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",96
+752,Sweden,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",96.0
 752,Sweden,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",91.8
 752,Sweden,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",95.6
 756,Switzerland,2010,"Safely managed drinking water sources, total (Proportion of population with access)",96.7
@@ -2167,21 +2167,21 @@
 762,Tajikistan,2022,"Safely managed drinking water sources, total (Proportion of population with access)",55.3
 762,Tajikistan,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",59.3
 764,Thailand,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",25.9
-764,Thailand,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",20
+764,Thailand,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",20.0
 764,Thailand,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",22.6
 764,Thailand,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",27.7
 764,Thailand,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",21.1
 764,Thailand,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",24.3
-764,Thailand,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",30
+764,Thailand,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",30.0
 764,Thailand,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",22.2
 764,Thailand,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",26.3
 768,Togo,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",23.2
-768,Togo,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",0
+768,Togo,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",0.0
 768,Togo,2010,"Safely managed drinking water sources, total (Proportion of population with access)",8.7
 768,Togo,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",7.3
 768,Togo,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",2.8
 768,Togo,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",4.5
-768,Togo,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",31
+768,Togo,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",31.0
 768,Togo,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",6.8
 768,Togo,2015,"Safely managed drinking water sources, total (Proportion of population with access)",16.5
 768,Togo,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",7.2
@@ -2198,7 +2198,7 @@
 776,Tonga,2010,"Safely managed drinking water sources, total (Proportion of population with access)",29.4
 776,Tonga,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",29.3
 776,Tonga,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",39.4
-776,Tonga,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",37
+776,Tonga,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",37.0
 776,Tonga,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",50.5
 776,Tonga,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",23.1
 776,Tonga,2015,"Safely managed drinking water sources, total (Proportion of population with access)",29.5
@@ -2209,8 +2209,8 @@
 776,Tonga,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",23.1
 776,Tonga,2022,"Safely managed drinking water sources, total (Proportion of population with access)",29.5
 776,Tonga,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",22.3
-776,Tonga,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",35
-776,Tonga,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",32
+776,Tonga,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",35.0
+776,Tonga,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",32.0
 788,Tunisia,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",83.4
 788,Tunisia,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",56.6
 788,Tunisia,2010,"Safely managed drinking water sources, total (Proportion of population with access)",74.5
@@ -2218,7 +2218,7 @@
 788,Tunisia,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",41.7
 788,Tunisia,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",66.7
 788,Tunisia,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",83.6
-788,Tunisia,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",61
+788,Tunisia,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",61.0
 788,Tunisia,2015,"Safely managed drinking water sources, total (Proportion of population with access)",76.4
 788,Tunisia,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",84.1
 788,Tunisia,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",51.8
@@ -2235,7 +2235,7 @@
 792,Türkiye,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",63.5
 792,Türkiye,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",67.3
 792,Türkiye,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",64.5
-792,Türkiye,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",78
+792,Türkiye,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",78.0
 792,Türkiye,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",81.1
 792,Türkiye,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",78.7
 795,Turkmenistan,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",91.5
@@ -2254,7 +2254,7 @@
 796,Turks and Caicos Islands,2022,"Safely managed drinking water sources, total (Proportion of population with access)",47.1
 796,Turks and Caicos Islands,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",33.3
 796,Turks and Caicos Islands,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",43.9
-796,Turks and Caicos Islands,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",34
+796,Turks and Caicos Islands,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",34.0
 798,Tuvalu,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",10.4
 798,Tuvalu,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",5.3
 798,Tuvalu,2010,"Safely managed drinking water sources, total (Proportion of population with access)",8.1
@@ -2320,11 +2320,11 @@
 826,United Kingdom,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",93.6
 826,United Kingdom,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",97.9
 826,United Kingdom,2015,"Safely managed drinking water sources, total (Proportion of population with access)",99.9
-826,United Kingdom,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",99
+826,United Kingdom,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",99.0
 826,United Kingdom,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",93.6
-826,United Kingdom,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",98
+826,United Kingdom,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",98.0
 826,United Kingdom,2022,"Safely managed drinking water sources, total (Proportion of population with access)",99.8
-826,United Kingdom,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",99
+826,United Kingdom,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",99.0
 826,United Kingdom,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",93.6
 826,United Kingdom,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",98.1
 834,United Rep. of Tanzania,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",22.3
@@ -2347,16 +2347,16 @@
 834,United Rep. of Tanzania,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",25.1
 840,United States of America,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",96.5
 840,United States of America,2010,"Safely managed drinking water sources, total (Proportion of population with access)",95.6
-840,United States of America,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",97
+840,United States of America,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",97.0
 840,United States of America,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",97.1
-840,United States of America,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",97
+840,United States of America,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",97.0
 840,United States of America,2015,"Safely managed drinking water sources, total (Proportion of population with access)",96.4
 840,United States of America,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",97.2
 840,United States of America,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",97.2
 840,United States of America,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",97.6
 840,United States of America,2022,"Safely managed drinking water sources, total (Proportion of population with access)",97.5
 840,United States of America,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",97.2
-840,United States of America,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",97
+840,United States of America,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",97.0
 850,United States Virgin Islands,2010,"Safely managed drinking water sources, total (Proportion of population with access)",97.9
 850,United States Virgin Islands,2015,"Safely managed drinking water sources, total (Proportion of population with access)",97.9
 850,United States Virgin Islands,2020,"Safely managed drinking water sources, total (Proportion of population with access)",97.9
@@ -2396,9 +2396,9 @@
 704,Viet Nam,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",40.2
 704,Viet Nam,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",36.8
 704,Viet Nam,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",37.8
-704,Viet Nam,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",75
+704,Viet Nam,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",75.0
 704,Viet Nam,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",43.3
-704,Viet Nam,2015,"Safely managed drinking water sources, total (Proportion of population with access)",54
+704,Viet Nam,2015,"Safely managed drinking water sources, total (Proportion of population with access)",54.0
 704,Viet Nam,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",40.5
 704,Viet Nam,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",40.4
 704,Viet Nam,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",40.4
@@ -2408,10 +2408,10 @@
 704,Viet Nam,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",40.8
 704,Viet Nam,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",45.4
 704,Viet Nam,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",43.7
-876,Wallis and Futuna Islands,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",69
-876,Wallis and Futuna Islands,2010,"Safely managed drinking water sources, total (Proportion of population with access)",69
-876,Wallis and Futuna Islands,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",69
-876,Wallis and Futuna Islands,2015,"Safely managed drinking water sources, total (Proportion of population with access)",69
+876,Wallis and Futuna Islands,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",69.0
+876,Wallis and Futuna Islands,2010,"Safely managed drinking water sources, total (Proportion of population with access)",69.0
+876,Wallis and Futuna Islands,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",69.0
+876,Wallis and Futuna Islands,2015,"Safely managed drinking water sources, total (Proportion of population with access)",69.0
 876,Wallis and Futuna Islands,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",68.9
 876,Wallis and Futuna Islands,2022,"Safely managed drinking water sources, total (Proportion of population with access)",68.9
 887,Yemen,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",64.3
@@ -2433,11 +2433,11 @@
 716,Zimbabwe,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",31.7
 716,Zimbabwe,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",26.3
 716,Zimbabwe,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",54.9
-716,Zimbabwe,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",14
+716,Zimbabwe,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",14.0
 716,Zimbabwe,2015,"Safely managed drinking water sources, total (Proportion of population with access)",27.3
 716,Zimbabwe,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",33.1
 716,Zimbabwe,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",31.5
-716,Zimbabwe,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",32
+716,Zimbabwe,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",32.0
 716,Zimbabwe,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",55.5
 716,Zimbabwe,2022,"Safely managed drinking water sources, rural (Proportion of population with access)",12.6
 716,Zimbabwe,2022,"Safely managed drinking water sources, total (Proportion of population with access)",26.5
@@ -2445,7 +2445,7 @@
 716,Zimbabwe,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",30.4
 716,Zimbabwe,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",31.8
 199,LDC§,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",49.6
-199,LDC§,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",22
+199,LDC§,2010,"Safely managed drinking water sources, rural (Proportion of population with access)",22.0
 199,LDC§,2010,"Safely managed drinking water sources, total (Proportion of population with access)",30.2
 199,LDC§,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",26.3
 199,LDC§,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",16.4
@@ -2469,7 +2469,7 @@
 432,LLDCs,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",22.9
 432,LLDCs,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",27.5
 432,LLDCs,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",66.5
-432,LLDCs,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",20
+432,LLDCs,2015,"Safely managed drinking water sources, rural (Proportion of population with access)",20.0
 432,LLDCs,2015,"Safely managed drinking water sources, total (Proportion of population with access)",33.9
 432,LLDCs,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",39.3
 432,LLDCs,2015,"Safely managed sanitation facilities, rural (Proportion of population with access)",25.2
@@ -2480,21 +2480,21 @@
 432,LLDCs,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",39.7
 432,LLDCs,2022,"Safely managed sanitation facilities, rural (Proportion of population with access)",28.6
 432,LLDCs,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",32.2
-722,SIDS,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",70
+722,SIDS,2010,"Safely managed drinking water sources, urban (Proportion of population with access)",70.0
 722,SIDS,2010,"Safely managed drinking water sources, total (Proportion of population with access)",55.4
 722,SIDS,2010,"Safely managed sanitation facilities, urban (Proportion of population with access)",25.4
-722,SIDS,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",32
+722,SIDS,2010,"Safely managed sanitation facilities, rural (Proportion of population with access)",32.0
 722,SIDS,2010,"Safely managed sanitation facilities, total (Proportion of population with access)",41.6
 722,SIDS,2011,"Safely managed drinking water sources, urban (Proportion of population with access)",69.8
 722,SIDS,2011,"Safely managed drinking water sources, total (Proportion of population with access)",55.5
 722,SIDS,2011,"Safely managed sanitation facilities, urban (Proportion of population with access)",25.5
-722,SIDS,2011,"Safely managed sanitation facilities, rural (Proportion of population with access)",32
+722,SIDS,2011,"Safely managed sanitation facilities, rural (Proportion of population with access)",32.0
 722,SIDS,2011,"Safely managed sanitation facilities, total (Proportion of population with access)",41.7
 722,SIDS,2015,"Safely managed drinking water sources, urban (Proportion of population with access)",68.8
 722,SIDS,2015,"Safely managed drinking water sources, total (Proportion of population with access)",55.8
 722,SIDS,2015,"Safely managed sanitation facilities, urban (Proportion of population with access)",25.5
 722,SIDS,2015,"Safely managed sanitation facilities, total (Proportion of population with access)",41.3
 722,SIDS,2022,"Safely managed drinking water sources, urban (Proportion of population with access)",66.8
-722,SIDS,2022,"Safely managed drinking water sources, total (Proportion of population with access)",56
-722,SIDS,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",47
+722,SIDS,2022,"Safely managed drinking water sources, total (Proportion of population with access)",56.0
+722,SIDS,2022,"Safely managed sanitation facilities, urban (Proportion of population with access)",47.0
 722,SIDS,2022,"Safely managed sanitation facilities, total (Proportion of population with access)",40.2

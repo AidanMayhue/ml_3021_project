@@ -1,4 +1,4 @@
-﻿Region/Country/Area,,Year,Series,Value
+Region/Country/Area,Country/Region Name,Year,Series,Value
 1,"Total, all countries or areas",1995,GDP in current prices (millions of US dollars),"31,290,901"
 1,"Total, all countries or areas",2005,GDP in current prices (millions of US dollars),"47,816,593"
 1,"Total, all countries or areas",2010,GDP in current prices (millions of US dollars),"66,633,612"

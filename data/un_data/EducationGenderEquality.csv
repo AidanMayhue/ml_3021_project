@@ -1,8 +1,8 @@
-﻿Region/Country/Area,,Year,Series,Value
+Region/Country/Area,Country/Region Name,Year,Series,Value
 1,"Total, all countries or areas",1995,Ratio of girls to boys in primary education,0.91
 1,"Total, all countries or areas",2005,Ratio of girls to boys in primary education,0.95
 1,"Total, all countries or areas",2010,Ratio of girls to boys in primary education,0.97
-1,"Total, all countries or areas",2015,Ratio of girls to boys in primary education,1
+1,"Total, all countries or areas",2015,Ratio of girls to boys in primary education,1.0
 1,"Total, all countries or areas",2020,Ratio of girls to boys in primary education,0.98
 1,"Total, all countries or areas",2021,Ratio of girls to boys in primary education,0.98
 1,"Total, all countries or areas",2022,Ratio of girls to boys in primary education,0.98
@@ -63,17 +63,17 @@
 21,Northern America,1995,Ratio of girls to boys in primary education,0.99
 21,Northern America,2005,Ratio of girls to boys in primary education,0.99
 21,Northern America,2010,Ratio of girls to boys in primary education,0.99
-21,Northern America,2015,Ratio of girls to boys in primary education,1
+21,Northern America,2015,Ratio of girls to boys in primary education,1.0
 21,Northern America,2020,Ratio of girls to boys in primary education,0.99
 21,Northern America,2021,Ratio of girls to boys in primary education,0.99
-21,Northern America,2022,Ratio of girls to boys in primary education,1
+21,Northern America,2022,Ratio of girls to boys in primary education,1.0
 21,Northern America,1995,Ratio of girls to boys in lower secondary education,0.99
 21,Northern America,2005,Ratio of girls to boys in lower secondary education,0.98
 21,Northern America,2010,Ratio of girls to boys in lower secondary education,0.98
-21,Northern America,2015,Ratio of girls to boys in lower secondary education,1
+21,Northern America,2015,Ratio of girls to boys in lower secondary education,1.0
 21,Northern America,2020,Ratio of girls to boys in lower secondary education,0.98
-21,Northern America,2021,Ratio of girls to boys in lower secondary education,1
-21,Northern America,2022,Ratio of girls to boys in lower secondary education,1
+21,Northern America,2021,Ratio of girls to boys in lower secondary education,1.0
+21,Northern America,2022,Ratio of girls to boys in lower secondary education,1.0
 21,Northern America,1995,Ratio of girls to boys in upper secondary education,1.05
 21,Northern America,2005,Ratio of girls to boys in upper secondary education,1.04
 21,Northern America,2010,Ratio of girls to boys in upper secondary education,1.03
@@ -113,27 +113,27 @@
 143,Central Asia,2020,Ratio of girls to boys in lower secondary education,0.99
 143,Central Asia,2021,Ratio of girls to boys in lower secondary education,0.99
 143,Central Asia,2005,Ratio of girls to boys in upper secondary education,0.98
-143,Central Asia,2010,Ratio of girls to boys in upper secondary education,1
-143,Central Asia,2015,Ratio of girls to boys in upper secondary education,1
+143,Central Asia,2010,Ratio of girls to boys in upper secondary education,1.0
+143,Central Asia,2015,Ratio of girls to boys in upper secondary education,1.0
 143,Central Asia,2020,Ratio of girls to boys in upper secondary education,0.99
 143,Central Asia,2021,Ratio of girls to boys in upper secondary education,0.99
 30,Eastern Asia,1995,Ratio of girls to boys in primary education,0.97
 30,Eastern Asia,2005,Ratio of girls to boys in primary education,1.01
-30,Eastern Asia,2010,Ratio of girls to boys in primary education,1
+30,Eastern Asia,2010,Ratio of girls to boys in primary education,1.0
 30,Eastern Asia,2015,Ratio of girls to boys in primary education,1.01
 30,Eastern Asia,2020,Ratio of girls to boys in primary education,1.01
 30,Eastern Asia,2021,Ratio of girls to boys in primary education,1.02
 30,Eastern Asia,2022,Ratio of girls to boys in primary education,1.01
 30,Eastern Asia,1995,Ratio of girls to boys in lower secondary education,0.89
-30,Eastern Asia,2005,Ratio of girls to boys in lower secondary education,1
+30,Eastern Asia,2005,Ratio of girls to boys in lower secondary education,1.0
 30,Eastern Asia,2010,Ratio of girls to boys in lower secondary education,1.03
 30,Eastern Asia,2015,Ratio of girls to boys in lower secondary education,1.02
 30,Eastern Asia,2020,Ratio of girls to boys in lower secondary education,1.01
 30,Eastern Asia,2021,Ratio of girls to boys in lower secondary education,1.01
 30,Eastern Asia,2022,Ratio of girls to boys in lower secondary education,1.01
 30,Eastern Asia,1995,Ratio of girls to boys in upper secondary education,0.88
-30,Eastern Asia,2005,Ratio of girls to boys in upper secondary education,1
-30,Eastern Asia,2010,Ratio of girls to boys in upper secondary education,1
+30,Eastern Asia,2005,Ratio of girls to boys in upper secondary education,1.0
+30,Eastern Asia,2010,Ratio of girls to boys in upper secondary education,1.0
 30,Eastern Asia,2015,Ratio of girls to boys in upper secondary education,1.06
 30,Eastern Asia,2020,Ratio of girls to boys in upper secondary education,1.04
 30,Eastern Asia,2021,Ratio of girls to boys in upper secondary education,1.03
@@ -172,8 +172,8 @@
 35,South-eastern Asia,2020,Ratio of girls to boys in lower secondary education,1.02
 35,South-eastern Asia,2021,Ratio of girls to boys in lower secondary education,1.02
 35,South-eastern Asia,1995,Ratio of girls to boys in upper secondary education,0.94
-35,South-eastern Asia,2005,Ratio of girls to boys in upper secondary education,1
-35,South-eastern Asia,2010,Ratio of girls to boys in upper secondary education,1
+35,South-eastern Asia,2005,Ratio of girls to boys in upper secondary education,1.0
+35,South-eastern Asia,2010,Ratio of girls to boys in upper secondary education,1.0
 35,South-eastern Asia,2015,Ratio of girls to boys in upper secondary education,0.97
 35,South-eastern Asia,2020,Ratio of girls to boys in upper secondary education,1.04
 35,South-eastern Asia,2021,Ratio of girls to boys in upper secondary education,1.05
@@ -221,12 +221,12 @@
 145,Western Asia,2022,Ratio of girls to boys in upper secondary education,0.94
 150,Europe,1995,Ratio of girls to boys in primary education,0.99
 150,Europe,2005,Ratio of girls to boys in primary education,0.99
-150,Europe,2010,Ratio of girls to boys in primary education,1
-150,Europe,2015,Ratio of girls to boys in primary education,1
+150,Europe,2010,Ratio of girls to boys in primary education,1.0
+150,Europe,2015,Ratio of girls to boys in primary education,1.0
 150,Europe,2020,Ratio of girls to boys in primary education,0.99
-150,Europe,2021,Ratio of girls to boys in primary education,1
-150,Europe,2022,Ratio of girls to boys in primary education,1
-150,Europe,1995,Ratio of girls to boys in lower secondary education,1
+150,Europe,2021,Ratio of girls to boys in primary education,1.0
+150,Europe,2022,Ratio of girls to boys in primary education,1.0
+150,Europe,1995,Ratio of girls to boys in lower secondary education,1.0
 150,Europe,2005,Ratio of girls to boys in lower secondary education,0.99
 150,Europe,2010,Ratio of girls to boys in lower secondary education,0.99
 150,Europe,2015,Ratio of girls to boys in lower secondary education,0.99
@@ -236,10 +236,10 @@
 150,Europe,1995,Ratio of girls to boys in upper secondary education,1.03
 150,Europe,2005,Ratio of girls to boys in upper secondary education,1.01
 150,Europe,2010,Ratio of girls to boys in upper secondary education,0.99
-150,Europe,2015,Ratio of girls to boys in upper secondary education,1
-150,Europe,2020,Ratio of girls to boys in upper secondary education,1
-150,Europe,2021,Ratio of girls to boys in upper secondary education,1
-150,Europe,2022,Ratio of girls to boys in upper secondary education,1
+150,Europe,2015,Ratio of girls to boys in upper secondary education,1.0
+150,Europe,2020,Ratio of girls to boys in upper secondary education,1.0
+150,Europe,2021,Ratio of girls to boys in upper secondary education,1.0
+150,Europe,2022,Ratio of girls to boys in upper secondary education,1.0
 9,Oceania,1995,Ratio of girls to boys in primary education,0.99
 9,Oceania,2005,Ratio of girls to boys in primary education,0.98
 9,Oceania,2010,Ratio of girls to boys in primary education,0.98
@@ -254,22 +254,22 @@
 9,Oceania,2020,Ratio of girls to boys in lower secondary education,0.95
 9,Oceania,2021,Ratio of girls to boys in lower secondary education,0.96
 9,Oceania,2022,Ratio of girls to boys in lower secondary education,0.95
-9,Oceania,1995,Ratio of girls to boys in upper secondary education,1
+9,Oceania,1995,Ratio of girls to boys in upper secondary education,1.0
 9,Oceania,2005,Ratio of girls to boys in upper secondary education,0.96
 9,Oceania,2010,Ratio of girls to boys in upper secondary education,0.93
 9,Oceania,2015,Ratio of girls to boys in upper secondary education,0.9
-9,Oceania,2020,Ratio of girls to boys in upper secondary education,1
+9,Oceania,2020,Ratio of girls to boys in upper secondary education,1.0
 9,Oceania,2021,Ratio of girls to boys in upper secondary education,0.99
 9,Oceania,2022,Ratio of girls to boys in upper secondary education,0.99
-53,Australia and New Zealand,1995,Ratio of girls to boys in primary education,1
-53,Australia and New Zealand,2005,Ratio of girls to boys in primary education,1
-53,Australia and New Zealand,2010,Ratio of girls to boys in primary education,1
-53,Australia and New Zealand,2015,Ratio of girls to boys in primary education,1
-53,Australia and New Zealand,2020,Ratio of girls to boys in primary education,1
-53,Australia and New Zealand,2021,Ratio of girls to boys in primary education,1
-53,Australia and New Zealand,2022,Ratio of girls to boys in primary education,1
+53,Australia and New Zealand,1995,Ratio of girls to boys in primary education,1.0
+53,Australia and New Zealand,2005,Ratio of girls to boys in primary education,1.0
+53,Australia and New Zealand,2010,Ratio of girls to boys in primary education,1.0
+53,Australia and New Zealand,2015,Ratio of girls to boys in primary education,1.0
+53,Australia and New Zealand,2020,Ratio of girls to boys in primary education,1.0
+53,Australia and New Zealand,2021,Ratio of girls to boys in primary education,1.0
+53,Australia and New Zealand,2022,Ratio of girls to boys in primary education,1.0
 53,Australia and New Zealand,1995,Ratio of girls to boys in lower secondary education,1.02
-53,Australia and New Zealand,2005,Ratio of girls to boys in lower secondary education,1
+53,Australia and New Zealand,2005,Ratio of girls to boys in lower secondary education,1.0
 53,Australia and New Zealand,2010,Ratio of girls to boys in lower secondary education,0.95
 53,Australia and New Zealand,2015,Ratio of girls to boys in lower secondary education,0.9
 53,Australia and New Zealand,2020,Ratio of girls to boys in lower secondary education,0.97
@@ -279,7 +279,7 @@
 53,Australia and New Zealand,2005,Ratio of girls to boys in upper secondary education,0.95
 53,Australia and New Zealand,2010,Ratio of girls to boys in upper secondary education,0.92
 53,Australia and New Zealand,2015,Ratio of girls to boys in upper secondary education,0.89
-53,Australia and New Zealand,2020,Ratio of girls to boys in upper secondary education,1
+53,Australia and New Zealand,2020,Ratio of girls to boys in upper secondary education,1.0
 53,Australia and New Zealand,2021,Ratio of girls to boys in upper secondary education,0.99
 53,Australia and New Zealand,2022,Ratio of girls to boys in upper secondary education,0.99
 4,Afghanistan,1995,Ratio of girls to boys in primary education,0.49
@@ -329,12 +329,12 @@
 20,Andorra,2015,Ratio of girls to boys in primary education,0.98
 20,Andorra,2020,Ratio of girls to boys in primary education,0.98
 20,Andorra,2021,Ratio of girls to boys in primary education,0.98
-20,Andorra,2022,Ratio of girls to boys in primary education,1
+20,Andorra,2022,Ratio of girls to boys in primary education,1.0
 20,Andorra,2005,Ratio of girls to boys in lower secondary education,1.07
 20,Andorra,2010,Ratio of girls to boys in lower secondary education,1.01
 20,Andorra,2015,Ratio of girls to boys in lower secondary education,0.94
 20,Andorra,2020,Ratio of girls to boys in lower secondary education,0.99
-20,Andorra,2021,Ratio of girls to boys in lower secondary education,1
+20,Andorra,2021,Ratio of girls to boys in lower secondary education,1.0
 20,Andorra,2022,Ratio of girls to boys in lower secondary education,0.97
 20,Andorra,2005,Ratio of girls to boys in upper secondary education,1.19
 20,Andorra,2010,Ratio of girls to boys in upper secondary education,1.2
@@ -348,11 +348,11 @@
 24,Angola,2010,Ratio of girls to boys in upper secondary education,0.56
 660,Anguilla,2005,Ratio of girls to boys in primary education,1.03
 660,Anguilla,2010,Ratio of girls to boys in primary education,0.92
-660,Anguilla,2015,Ratio of girls to boys in primary education,1
+660,Anguilla,2015,Ratio of girls to boys in primary education,1.0
 660,Anguilla,2022,Ratio of girls to boys in primary education,0.92
 660,Anguilla,2005,Ratio of girls to boys in lower secondary education,1.01
 660,Anguilla,2010,Ratio of girls to boys in lower secondary education,0.94
-660,Anguilla,2015,Ratio of girls to boys in lower secondary education,1
+660,Anguilla,2015,Ratio of girls to boys in lower secondary education,1.0
 660,Anguilla,2005,Ratio of girls to boys in upper secondary education,1.01
 660,Anguilla,2010,Ratio of girls to boys in upper secondary education,1.14
 28,Antigua and Barbuda,2010,Ratio of girls to boys in primary education,0.92
@@ -362,7 +362,7 @@
 28,Antigua and Barbuda,2010,Ratio of girls to boys in upper secondary education,1.33
 28,Antigua and Barbuda,2015,Ratio of girls to boys in upper secondary education,1.13
 32,Argentina,2005,Ratio of girls to boys in primary education,1.01
-32,Argentina,2010,Ratio of girls to boys in primary education,1
+32,Argentina,2010,Ratio of girls to boys in primary education,1.0
 32,Argentina,2015,Ratio of girls to boys in primary education,1.02
 32,Argentina,2020,Ratio of girls to boys in primary education,1.02
 32,Argentina,2021,Ratio of girls to boys in primary education,1.02
@@ -376,9 +376,9 @@
 32,Argentina,2015,Ratio of girls to boys in upper secondary education,1.14
 32,Argentina,2020,Ratio of girls to boys in upper secondary education,1.11
 32,Argentina,2021,Ratio of girls to boys in upper secondary education,1.08
-51,Armenia,1995,Ratio of girls to boys in primary education,1
+51,Armenia,1995,Ratio of girls to boys in primary education,1.0
 51,Armenia,2005,Ratio of girls to boys in primary education,1.02
-51,Armenia,2010,Ratio of girls to boys in primary education,1
+51,Armenia,2010,Ratio of girls to boys in primary education,1.0
 51,Armenia,2015,Ratio of girls to boys in primary education,0.99
 51,Armenia,2020,Ratio of girls to boys in primary education,0.99
 51,Armenia,2021,Ratio of girls to boys in primary education,0.98
@@ -391,22 +391,22 @@
 51,Armenia,2010,Ratio of girls to boys in upper secondary education,0.97
 51,Armenia,2015,Ratio of girls to boys in upper secondary education,1.04
 51,Armenia,2020,Ratio of girls to boys in upper secondary education,1.03
-51,Armenia,2021,Ratio of girls to boys in upper secondary education,1
+51,Armenia,2021,Ratio of girls to boys in upper secondary education,1.0
 51,Armenia,2022,Ratio of girls to boys in upper secondary education,1.02
 533,Aruba,2005,Ratio of girls to boys in primary education,0.96
 533,Aruba,2010,Ratio of girls to boys in primary education,0.99
-533,Aruba,2015,Ratio of girls to boys in primary education,1
+533,Aruba,2015,Ratio of girls to boys in primary education,1.0
 533,Aruba,2005,Ratio of girls to boys in lower secondary education,0.91
 533,Aruba,2010,Ratio of girls to boys in lower secondary education,0.93
 533,Aruba,2005,Ratio of girls to boys in upper secondary education,1.14
 533,Aruba,2010,Ratio of girls to boys in upper secondary education,1.15
-36,Australia,1995,Ratio of girls to boys in primary education,1
-36,Australia,2005,Ratio of girls to boys in primary education,1
+36,Australia,1995,Ratio of girls to boys in primary education,1.0
+36,Australia,2005,Ratio of girls to boys in primary education,1.0
 36,Australia,2010,Ratio of girls to boys in primary education,0.99
-36,Australia,2015,Ratio of girls to boys in primary education,1
-36,Australia,2020,Ratio of girls to boys in primary education,1
-36,Australia,2021,Ratio of girls to boys in primary education,1
-36,Australia,2022,Ratio of girls to boys in primary education,1
+36,Australia,2015,Ratio of girls to boys in primary education,1.0
+36,Australia,2020,Ratio of girls to boys in primary education,1.0
+36,Australia,2021,Ratio of girls to boys in primary education,1.0
+36,Australia,2022,Ratio of girls to boys in primary education,1.0
 36,Australia,1995,Ratio of girls to boys in lower secondary education,1.02
 36,Australia,2015,Ratio of girls to boys in lower secondary education,0.89
 36,Australia,2020,Ratio of girls to boys in lower secondary education,0.97
@@ -424,10 +424,10 @@
 40,Austria,2020,Ratio of girls to boys in primary education,0.99
 40,Austria,2021,Ratio of girls to boys in primary education,0.99
 40,Austria,2022,Ratio of girls to boys in primary education,0.99
-40,Austria,1995,Ratio of girls to boys in lower secondary education,1
+40,Austria,1995,Ratio of girls to boys in lower secondary education,1.0
 40,Austria,2005,Ratio of girls to boys in lower secondary education,0.99
-40,Austria,2010,Ratio of girls to boys in lower secondary education,1
-40,Austria,2015,Ratio of girls to boys in lower secondary education,1
+40,Austria,2010,Ratio of girls to boys in lower secondary education,1.0
+40,Austria,2015,Ratio of girls to boys in lower secondary education,1.0
 40,Austria,2020,Ratio of girls to boys in lower secondary education,0.99
 40,Austria,2021,Ratio of girls to boys in lower secondary education,0.99
 40,Austria,2022,Ratio of girls to boys in lower secondary education,0.99
@@ -442,7 +442,7 @@
 31,Azerbaijan,2010,Ratio of girls to boys in primary education,0.99
 31,Azerbaijan,2015,Ratio of girls to boys in primary education,0.98
 31,Azerbaijan,2020,Ratio of girls to boys in primary education,1.03
-31,Azerbaijan,2021,Ratio of girls to boys in primary education,1
+31,Azerbaijan,2021,Ratio of girls to boys in primary education,1.0
 31,Azerbaijan,2022,Ratio of girls to boys in primary education,0.99
 31,Azerbaijan,2005,Ratio of girls to boys in lower secondary education,0.96
 31,Azerbaijan,2010,Ratio of girls to boys in lower secondary education,0.97
@@ -458,7 +458,7 @@
 44,Bahamas,2010,Ratio of girls to boys in primary education,0.97
 44,Bahamas,2021,Ratio of girls to boys in primary education,0.99
 44,Bahamas,2005,Ratio of girls to boys in lower secondary education,0.95
-44,Bahamas,2010,Ratio of girls to boys in lower secondary education,1
+44,Bahamas,2010,Ratio of girls to boys in lower secondary education,1.0
 44,Bahamas,2021,Ratio of girls to boys in lower secondary education,0.99
 44,Bahamas,2005,Ratio of girls to boys in upper secondary education,1.07
 44,Bahamas,2010,Ratio of girls to boys in upper secondary education,1.05
@@ -470,7 +470,7 @@
 48,Bahrain,2005,Ratio of girls to boys in lower secondary education,1.08
 48,Bahrain,2010,Ratio of girls to boys in lower secondary education,1.01
 48,Bahrain,2015,Ratio of girls to boys in lower secondary education,0.98
-48,Bahrain,2022,Ratio of girls to boys in lower secondary education,1
+48,Bahrain,2022,Ratio of girls to boys in lower secondary education,1.0
 48,Bahrain,2005,Ratio of girls to boys in upper secondary education,1.21
 48,Bahrain,2010,Ratio of girls to boys in upper secondary education,1.08
 48,Bahrain,2015,Ratio of girls to boys in upper secondary education,1.07
@@ -493,16 +493,16 @@
 50,Bangladesh,2021,Ratio of girls to boys in upper secondary education,1.22
 50,Bangladesh,2022,Ratio of girls to boys in upper secondary education,1.07
 52,Barbados,2005,Ratio of girls to boys in primary education,0.98
-52,Barbados,2010,Ratio of girls to boys in primary education,1
+52,Barbados,2010,Ratio of girls to boys in primary education,1.0
 52,Barbados,2015,Ratio of girls to boys in primary education,0.98
 52,Barbados,2020,Ratio of girls to boys in primary education,0.97
 52,Barbados,2021,Ratio of girls to boys in primary education,0.97
 52,Barbados,2022,Ratio of girls to boys in primary education,0.97
 52,Barbados,2005,Ratio of girls to boys in lower secondary education,0.95
 52,Barbados,2010,Ratio of girls to boys in lower secondary education,0.93
-52,Barbados,2015,Ratio of girls to boys in lower secondary education,1
+52,Barbados,2015,Ratio of girls to boys in lower secondary education,1.0
 52,Barbados,2020,Ratio of girls to boys in lower secondary education,0.97
-52,Barbados,2021,Ratio of girls to boys in lower secondary education,1
+52,Barbados,2021,Ratio of girls to boys in lower secondary education,1.0
 52,Barbados,2022,Ratio of girls to boys in lower secondary education,1.01
 52,Barbados,2005,Ratio of girls to boys in upper secondary education,1.02
 52,Barbados,2010,Ratio of girls to boys in upper secondary education,1.05
@@ -530,11 +530,11 @@
 112,Belarus,2021,Ratio of girls to boys in upper secondary education,0.93
 112,Belarus,2022,Ratio of girls to boys in upper secondary education,0.94
 56,Belgium,1995,Ratio of girls to boys in primary education,0.99
-56,Belgium,2005,Ratio of girls to boys in primary education,1
-56,Belgium,2010,Ratio of girls to boys in primary education,1
-56,Belgium,2015,Ratio of girls to boys in primary education,1
-56,Belgium,2020,Ratio of girls to boys in primary education,1
-56,Belgium,2021,Ratio of girls to boys in primary education,1
+56,Belgium,2005,Ratio of girls to boys in primary education,1.0
+56,Belgium,2010,Ratio of girls to boys in primary education,1.0
+56,Belgium,2015,Ratio of girls to boys in primary education,1.0
+56,Belgium,2020,Ratio of girls to boys in primary education,1.0
+56,Belgium,2021,Ratio of girls to boys in primary education,1.0
 56,Belgium,1995,Ratio of girls to boys in lower secondary education,1.12
 56,Belgium,2005,Ratio of girls to boys in lower secondary education,1.13
 56,Belgium,2010,Ratio of girls to boys in lower secondary education,1.03
@@ -554,10 +554,10 @@
 84,Belize,2020,Ratio of girls to boys in primary education,0.97
 84,Belize,2021,Ratio of girls to boys in primary education,0.97
 84,Belize,2022,Ratio of girls to boys in primary education,0.98
-84,Belize,2005,Ratio of girls to boys in lower secondary education,1
+84,Belize,2005,Ratio of girls to boys in lower secondary education,1.0
 84,Belize,2010,Ratio of girls to boys in lower secondary education,1.04
 84,Belize,2015,Ratio of girls to boys in lower secondary education,1.01
-84,Belize,2020,Ratio of girls to boys in lower secondary education,1
+84,Belize,2020,Ratio of girls to boys in lower secondary education,1.0
 84,Belize,2021,Ratio of girls to boys in lower secondary education,0.99
 84,Belize,2022,Ratio of girls to boys in lower secondary education,0.99
 84,Belize,2005,Ratio of girls to boys in upper secondary education,1.13
@@ -602,7 +602,7 @@
 60,Bermuda,2021,Ratio of girls to boys in upper secondary education,1.11
 60,Bermuda,2022,Ratio of girls to boys in upper secondary education,1.11
 64,Bhutan,1995,Ratio of girls to boys in primary education,0.79
-64,Bhutan,2005,Ratio of girls to boys in primary education,1
+64,Bhutan,2005,Ratio of girls to boys in primary education,1.0
 64,Bhutan,2010,Ratio of girls to boys in primary education,1.06
 64,Bhutan,2015,Ratio of girls to boys in primary education,1.03
 64,Bhutan,2020,Ratio of girls to boys in primary education,1.05
@@ -620,12 +620,12 @@
 64,Bhutan,2021,Ratio of girls to boys in upper secondary education,1.07
 64,Bhutan,2022,Ratio of girls to boys in upper secondary education,1.12
 68,Bolivia (Plurin. State of),1995,Ratio of girls to boys in primary education,0.97
-68,Bolivia (Plurin. State of),2005,Ratio of girls to boys in primary education,1
-68,Bolivia (Plurin. State of),2010,Ratio of girls to boys in primary education,1
+68,Bolivia (Plurin. State of),2005,Ratio of girls to boys in primary education,1.0
+68,Bolivia (Plurin. State of),2010,Ratio of girls to boys in primary education,1.0
 68,Bolivia (Plurin. State of),2015,Ratio of girls to boys in primary education,0.98
-68,Bolivia (Plurin. State of),2020,Ratio of girls to boys in primary education,1
-68,Bolivia (Plurin. State of),2021,Ratio of girls to boys in primary education,1
-68,Bolivia (Plurin. State of),2022,Ratio of girls to boys in primary education,1
+68,Bolivia (Plurin. State of),2020,Ratio of girls to boys in primary education,1.0
+68,Bolivia (Plurin. State of),2021,Ratio of girls to boys in primary education,1.0
+68,Bolivia (Plurin. State of),2022,Ratio of girls to boys in primary education,1.0
 68,Bolivia (Plurin. State of),2005,Ratio of girls to boys in lower secondary education,0.95
 68,Bolivia (Plurin. State of),2010,Ratio of girls to boys in lower secondary education,0.98
 68,Bolivia (Plurin. State of),2015,Ratio of girls to boys in lower secondary education,0.96
@@ -634,14 +634,14 @@
 68,Bolivia (Plurin. State of),2022,Ratio of girls to boys in lower secondary education,0.98
 68,Bolivia (Plurin. State of),2005,Ratio of girls to boys in upper secondary education,0.95
 68,Bolivia (Plurin. State of),2010,Ratio of girls to boys in upper secondary education,1.01
-68,Bolivia (Plurin. State of),2015,Ratio of girls to boys in upper secondary education,1
+68,Bolivia (Plurin. State of),2015,Ratio of girls to boys in upper secondary education,1.0
 68,Bolivia (Plurin. State of),2020,Ratio of girls to boys in upper secondary education,1.02
 68,Bolivia (Plurin. State of),2021,Ratio of girls to boys in upper secondary education,1.01
 68,Bolivia (Plurin. State of),2022,Ratio of girls to boys in upper secondary education,1.01
 70,Bosnia and Herzegovina,2010,Ratio of girls to boys in primary education,1.01
 70,Bosnia and Herzegovina,2015,Ratio of girls to boys in primary education,0.99
 70,Bosnia and Herzegovina,2020,Ratio of girls to boys in primary education,0.99
-70,Bosnia and Herzegovina,2021,Ratio of girls to boys in primary education,1
+70,Bosnia and Herzegovina,2021,Ratio of girls to boys in primary education,1.0
 70,Bosnia and Herzegovina,2022,Ratio of girls to boys in primary education,0.99
 70,Bosnia and Herzegovina,2010,Ratio of girls to boys in lower secondary education,0.99
 70,Bosnia and Herzegovina,2015,Ratio of girls to boys in lower secondary education,0.98
@@ -669,7 +669,7 @@
 76,Brazil,2020,Ratio of girls to boys in primary education,0.95
 76,Brazil,2021,Ratio of girls to boys in primary education,0.97
 76,Brazil,2015,Ratio of girls to boys in lower secondary education,0.99
-76,Brazil,2020,Ratio of girls to boys in lower secondary education,1
+76,Brazil,2020,Ratio of girls to boys in lower secondary education,1.0
 76,Brazil,2021,Ratio of girls to boys in lower secondary education,0.99
 76,Brazil,2015,Ratio of girls to boys in upper secondary education,1.14
 76,Brazil,2020,Ratio of girls to boys in upper secondary education,1.1
@@ -692,29 +692,29 @@
 92,British Virgin Islands,2021,Ratio of girls to boys in upper secondary education,1.02
 96,Brunei Darussalam,1995,Ratio of girls to boys in primary education,0.96
 96,Brunei Darussalam,2005,Ratio of girls to boys in primary education,0.98
-96,Brunei Darussalam,2010,Ratio of girls to boys in primary education,1
-96,Brunei Darussalam,2015,Ratio of girls to boys in primary education,1
+96,Brunei Darussalam,2010,Ratio of girls to boys in primary education,1.0
+96,Brunei Darussalam,2015,Ratio of girls to boys in primary education,1.0
 96,Brunei Darussalam,2020,Ratio of girls to boys in primary education,1.01
 96,Brunei Darussalam,1995,Ratio of girls to boys in lower secondary education,1.15
 96,Brunei Darussalam,2005,Ratio of girls to boys in lower secondary education,0.94
 96,Brunei Darussalam,2010,Ratio of girls to boys in lower secondary education,0.98
 96,Brunei Darussalam,2015,Ratio of girls to boys in lower secondary education,0.99
-96,Brunei Darussalam,2020,Ratio of girls to boys in lower secondary education,1
+96,Brunei Darussalam,2020,Ratio of girls to boys in lower secondary education,1.0
 96,Brunei Darussalam,2005,Ratio of girls to boys in upper secondary education,1.15
 96,Brunei Darussalam,2010,Ratio of girls to boys in upper secondary education,1.02
 96,Brunei Darussalam,2015,Ratio of girls to boys in upper secondary education,0.98
 96,Brunei Darussalam,2020,Ratio of girls to boys in upper secondary education,1.05
 100,Bulgaria,1995,Ratio of girls to boys in primary education,0.96
 100,Bulgaria,2005,Ratio of girls to boys in primary education,0.99
-100,Bulgaria,2010,Ratio of girls to boys in primary education,1
+100,Bulgaria,2010,Ratio of girls to boys in primary education,1.0
 100,Bulgaria,2015,Ratio of girls to boys in primary education,0.99
-100,Bulgaria,2020,Ratio of girls to boys in primary education,1
-100,Bulgaria,2021,Ratio of girls to boys in primary education,1
+100,Bulgaria,2020,Ratio of girls to boys in primary education,1.0
+100,Bulgaria,2021,Ratio of girls to boys in primary education,1.0
 100,Bulgaria,1995,Ratio of girls to boys in lower secondary education,0.91
 100,Bulgaria,2005,Ratio of girls to boys in lower secondary education,0.94
 100,Bulgaria,2010,Ratio of girls to boys in lower secondary education,0.95
 100,Bulgaria,2015,Ratio of girls to boys in lower secondary education,0.96
-100,Bulgaria,2020,Ratio of girls to boys in lower secondary education,1
+100,Bulgaria,2020,Ratio of girls to boys in lower secondary education,1.0
 100,Bulgaria,2021,Ratio of girls to boys in lower secondary education,0.99
 100,Bulgaria,1995,Ratio of girls to boys in upper secondary education,1.04
 100,Bulgaria,2005,Ratio of girls to boys in upper secondary education,0.98
@@ -726,7 +726,7 @@
 854,Burkina Faso,2005,Ratio of girls to boys in primary education,0.8
 854,Burkina Faso,2010,Ratio of girls to boys in primary education,0.9
 854,Burkina Faso,2015,Ratio of girls to boys in primary education,0.97
-854,Burkina Faso,2020,Ratio of girls to boys in primary education,1
+854,Burkina Faso,2020,Ratio of girls to boys in primary education,1.0
 854,Burkina Faso,2021,Ratio of girls to boys in primary education,1.01
 854,Burkina Faso,2022,Ratio of girls to boys in primary education,1.02
 854,Burkina Faso,2005,Ratio of girls to boys in lower secondary education,0.73
@@ -768,7 +768,7 @@
 132,Cabo Verde,2010,Ratio of girls to boys in lower secondary education,1.11
 132,Cabo Verde,2015,Ratio of girls to boys in lower secondary education,1.03
 132,Cabo Verde,2020,Ratio of girls to boys in lower secondary education,1.01
-132,Cabo Verde,2021,Ratio of girls to boys in lower secondary education,1
+132,Cabo Verde,2021,Ratio of girls to boys in lower secondary education,1.0
 132,Cabo Verde,2005,Ratio of girls to boys in upper secondary education,1.14
 132,Cabo Verde,2010,Ratio of girls to boys in upper secondary education,1.26
 132,Cabo Verde,2015,Ratio of girls to boys in upper secondary education,1.22
@@ -818,14 +818,14 @@
 124,Canada,2005,Ratio of girls to boys in lower secondary education,0.98
 124,Canada,2010,Ratio of girls to boys in lower secondary education,0.99
 124,Canada,2015,Ratio of girls to boys in lower secondary education,0.99
-124,Canada,2020,Ratio of girls to boys in lower secondary education,1
+124,Canada,2020,Ratio of girls to boys in lower secondary education,1.0
 124,Canada,2021,Ratio of girls to boys in lower secondary education,0.99
 124,Canada,1995,Ratio of girls to boys in upper secondary education,1.01
 124,Canada,2005,Ratio of girls to boys in upper secondary education,0.97
 124,Canada,2010,Ratio of girls to boys in upper secondary education,0.97
 124,Canada,2015,Ratio of girls to boys in upper secondary education,1.02
 124,Canada,2020,Ratio of girls to boys in upper secondary education,1.01
-124,Canada,2021,Ratio of girls to boys in upper secondary education,1
+124,Canada,2021,Ratio of girls to boys in upper secondary education,1.0
 136,Cayman Islands,2005,Ratio of girls to boys in primary education,0.98
 136,Cayman Islands,2010,Ratio of girls to boys in primary education,1.04
 136,Cayman Islands,2015,Ratio of girls to boys in primary education,1.18
@@ -867,7 +867,7 @@
 152,Chile,2021,Ratio of girls to boys in primary education,0.97
 152,Chile,2022,Ratio of girls to boys in primary education,0.97
 152,Chile,2005,Ratio of girls to boys in lower secondary education,0.98
-152,Chile,2010,Ratio of girls to boys in lower secondary education,1
+152,Chile,2010,Ratio of girls to boys in lower secondary education,1.0
 152,Chile,2015,Ratio of girls to boys in lower secondary education,0.98
 152,Chile,2020,Ratio of girls to boys in lower secondary education,0.97
 152,Chile,2021,Ratio of girls to boys in lower secondary education,0.96
@@ -875,18 +875,18 @@
 152,Chile,2005,Ratio of girls to boys in upper secondary education,1.03
 152,Chile,2010,Ratio of girls to boys in upper secondary education,1.05
 152,Chile,2015,Ratio of girls to boys in upper secondary education,1.02
-152,Chile,2020,Ratio of girls to boys in upper secondary education,1
-152,Chile,2021,Ratio of girls to boys in upper secondary education,1
+152,Chile,2020,Ratio of girls to boys in upper secondary education,1.0
+152,Chile,2021,Ratio of girls to boys in upper secondary education,1.0
 152,Chile,2022,Ratio of girls to boys in upper secondary education,0.99
 156,China,1995,Ratio of girls to boys in primary education,0.96
-156,China,2010,Ratio of girls to boys in primary education,1
+156,China,2010,Ratio of girls to boys in primary education,1.0
 156,China,2015,Ratio of girls to boys in primary education,1.01
 156,China,2020,Ratio of girls to boys in primary education,1.02
 156,China,2021,Ratio of girls to boys in primary education,1.02
 156,China,2022,Ratio of girls to boys in primary education,1.02
 156,China,1995,Ratio of girls to boys in lower secondary education,0.87
 156,China,2010,Ratio of girls to boys in lower secondary education,1.03
-156,China,2010,Ratio of girls to boys in upper secondary education,1
+156,China,2010,Ratio of girls to boys in upper secondary education,1.0
 156,China,2015,Ratio of girls to boys in upper secondary education,1.07
 156,China,2020,Ratio of girls to boys in upper secondary education,1.04
 156,China,2021,Ratio of girls to boys in upper secondary education,1.03
@@ -920,7 +920,7 @@
 446,"China, Macao SAR",2010,Ratio of girls to boys in lower secondary education,0.96
 446,"China, Macao SAR",2015,Ratio of girls to boys in lower secondary education,0.97
 446,"China, Macao SAR",2020,Ratio of girls to boys in lower secondary education,1.01
-446,"China, Macao SAR",2021,Ratio of girls to boys in lower secondary education,1
+446,"China, Macao SAR",2021,Ratio of girls to boys in lower secondary education,1.0
 446,"China, Macao SAR",2022,Ratio of girls to boys in lower secondary education,0.94
 446,"China, Macao SAR",2005,Ratio of girls to boys in upper secondary education,1.1
 446,"China, Macao SAR",2010,Ratio of girls to boys in upper secondary education,1.06
@@ -940,7 +940,7 @@
 170,Colombia,2015,Ratio of girls to boys in lower secondary education,1.03
 170,Colombia,2020,Ratio of girls to boys in lower secondary education,1.01
 170,Colombia,2021,Ratio of girls to boys in lower secondary education,1.01
-170,Colombia,2022,Ratio of girls to boys in lower secondary education,1
+170,Colombia,2022,Ratio of girls to boys in lower secondary education,1.0
 170,Colombia,2005,Ratio of girls to boys in upper secondary education,1.14
 170,Colombia,2010,Ratio of girls to boys in upper secondary education,1.15
 170,Colombia,2015,Ratio of girls to boys in upper secondary education,1.15
@@ -954,11 +954,11 @@
 178,Congo,2005,Ratio of girls to boys in lower secondary education,0.88
 178,Congo,2010,Ratio of girls to boys in upper secondary education,0.59
 184,Cook Islands,2005,Ratio of girls to boys in primary education,0.98
-184,Cook Islands,2010,Ratio of girls to boys in primary education,1
+184,Cook Islands,2010,Ratio of girls to boys in primary education,1.0
 184,Cook Islands,2015,Ratio of girls to boys in primary education,0.99
-184,Cook Islands,2020,Ratio of girls to boys in primary education,1
+184,Cook Islands,2020,Ratio of girls to boys in primary education,1.0
 184,Cook Islands,2021,Ratio of girls to boys in primary education,0.96
-184,Cook Islands,2022,Ratio of girls to boys in primary education,1
+184,Cook Islands,2022,Ratio of girls to boys in primary education,1.0
 184,Cook Islands,2010,Ratio of girls to boys in lower secondary education,1.01
 184,Cook Islands,2015,Ratio of girls to boys in lower secondary education,1.02
 184,Cook Islands,2020,Ratio of girls to boys in lower secondary education,0.91
@@ -972,7 +972,7 @@
 188,Costa Rica,1995,Ratio of girls to boys in primary education,0.99
 188,Costa Rica,2005,Ratio of girls to boys in primary education,0.99
 188,Costa Rica,2010,Ratio of girls to boys in primary education,0.99
-188,Costa Rica,2015,Ratio of girls to boys in primary education,1
+188,Costa Rica,2015,Ratio of girls to boys in primary education,1.0
 188,Costa Rica,2020,Ratio of girls to boys in primary education,1.02
 188,Costa Rica,2021,Ratio of girls to boys in primary education,1.02
 188,Costa Rica,2022,Ratio of girls to boys in primary education,1.02
@@ -1005,10 +1005,10 @@
 384,Côte d’Ivoire,2022,Ratio of girls to boys in upper secondary education,0.83
 191,Croatia,1995,Ratio of girls to boys in primary education,0.98
 191,Croatia,2005,Ratio of girls to boys in primary education,0.99
-191,Croatia,2010,Ratio of girls to boys in primary education,1
+191,Croatia,2010,Ratio of girls to boys in primary education,1.0
 191,Croatia,2015,Ratio of girls to boys in primary education,1.01
-191,Croatia,2020,Ratio of girls to boys in primary education,1
-191,Croatia,2021,Ratio of girls to boys in primary education,1
+191,Croatia,2020,Ratio of girls to boys in primary education,1.0
+191,Croatia,2021,Ratio of girls to boys in primary education,1.0
 191,Croatia,2005,Ratio of girls to boys in lower secondary education,1.02
 191,Croatia,2010,Ratio of girls to boys in lower secondary education,1.03
 191,Croatia,2015,Ratio of girls to boys in lower secondary education,1.04
@@ -1039,15 +1039,15 @@
 192,Cuba,2021,Ratio of girls to boys in upper secondary education,1.01
 192,Cuba,2022,Ratio of girls to boys in upper secondary education,1.07
 531,Curaçao,2020,Ratio of girls to boys in primary education,0.97
-531,Curaçao,2020,Ratio of girls to boys in lower secondary education,1
+531,Curaçao,2020,Ratio of girls to boys in lower secondary education,1.0
 531,Curaçao,2020,Ratio of girls to boys in upper secondary education,1.32
-196,Cyprus,2005,Ratio of girls to boys in primary education,1
-196,Cyprus,2010,Ratio of girls to boys in primary education,1
-196,Cyprus,2015,Ratio of girls to boys in primary education,1
+196,Cyprus,2005,Ratio of girls to boys in primary education,1.0
+196,Cyprus,2010,Ratio of girls to boys in primary education,1.0
+196,Cyprus,2015,Ratio of girls to boys in primary education,1.0
 196,Cyprus,2020,Ratio of girls to boys in primary education,0.99
-196,Cyprus,2021,Ratio of girls to boys in primary education,1
+196,Cyprus,2021,Ratio of girls to boys in primary education,1.0
 196,Cyprus,2005,Ratio of girls to boys in lower secondary education,1.01
-196,Cyprus,2010,Ratio of girls to boys in lower secondary education,1
+196,Cyprus,2010,Ratio of girls to boys in lower secondary education,1.0
 196,Cyprus,2015,Ratio of girls to boys in lower secondary education,0.99
 196,Cyprus,2020,Ratio of girls to boys in lower secondary education,0.98
 196,Cyprus,2021,Ratio of girls to boys in lower secondary education,0.99
@@ -1056,18 +1056,18 @@
 196,Cyprus,2015,Ratio of girls to boys in upper secondary education,0.99
 196,Cyprus,2020,Ratio of girls to boys in upper secondary education,0.96
 196,Cyprus,2021,Ratio of girls to boys in upper secondary education,0.97
-203,Czechia,1995,Ratio of girls to boys in primary education,1
+203,Czechia,1995,Ratio of girls to boys in primary education,1.0
 203,Czechia,2005,Ratio of girls to boys in primary education,0.99
-203,Czechia,2010,Ratio of girls to boys in primary education,1
-203,Czechia,2015,Ratio of girls to boys in primary education,1
-203,Czechia,2020,Ratio of girls to boys in primary education,1
-203,Czechia,2021,Ratio of girls to boys in primary education,1
-203,Czechia,1995,Ratio of girls to boys in lower secondary education,1
+203,Czechia,2010,Ratio of girls to boys in primary education,1.0
+203,Czechia,2015,Ratio of girls to boys in primary education,1.0
+203,Czechia,2020,Ratio of girls to boys in primary education,1.0
+203,Czechia,2021,Ratio of girls to boys in primary education,1.0
+203,Czechia,1995,Ratio of girls to boys in lower secondary education,1.0
 203,Czechia,2005,Ratio of girls to boys in lower secondary education,1.01
-203,Czechia,2010,Ratio of girls to boys in lower secondary education,1
-203,Czechia,2015,Ratio of girls to boys in lower secondary education,1
-203,Czechia,2020,Ratio of girls to boys in lower secondary education,1
-203,Czechia,2021,Ratio of girls to boys in lower secondary education,1
+203,Czechia,2010,Ratio of girls to boys in lower secondary education,1.0
+203,Czechia,2015,Ratio of girls to boys in lower secondary education,1.0
+203,Czechia,2020,Ratio of girls to boys in lower secondary education,1.0
+203,Czechia,2021,Ratio of girls to boys in lower secondary education,1.0
 203,Czechia,1995,Ratio of girls to boys in upper secondary education,1.05
 203,Czechia,2005,Ratio of girls to boys in upper secondary education,1.02
 203,Czechia,2010,Ratio of girls to boys in upper secondary education,1.02
@@ -1088,24 +1088,24 @@
 180,Dem. Rep. of the Congo,2015,Ratio of girls to boys in upper secondary education,0.62
 180,Dem. Rep. of the Congo,2021,Ratio of girls to boys in upper secondary education,0.62
 208,Denmark,1995,Ratio of girls to boys in primary education,1.01
-208,Denmark,2005,Ratio of girls to boys in primary education,1
-208,Denmark,2010,Ratio of girls to boys in primary education,1
+208,Denmark,2005,Ratio of girls to boys in primary education,1.0
+208,Denmark,2010,Ratio of girls to boys in primary education,1.0
 208,Denmark,2015,Ratio of girls to boys in primary education,0.99
 208,Denmark,2020,Ratio of girls to boys in primary education,0.99
 208,Denmark,2021,Ratio of girls to boys in primary education,0.99
 208,Denmark,2022,Ratio of girls to boys in primary education,0.99
-208,Denmark,1995,Ratio of girls to boys in lower secondary education,1
+208,Denmark,1995,Ratio of girls to boys in lower secondary education,1.0
 208,Denmark,2005,Ratio of girls to boys in lower secondary education,1.02
 208,Denmark,2010,Ratio of girls to boys in lower secondary education,1.02
-208,Denmark,2015,Ratio of girls to boys in lower secondary education,1
+208,Denmark,2015,Ratio of girls to boys in lower secondary education,1.0
 208,Denmark,2020,Ratio of girls to boys in lower secondary education,0.99
 208,Denmark,2021,Ratio of girls to boys in lower secondary education,0.99
-208,Denmark,2022,Ratio of girls to boys in lower secondary education,1
+208,Denmark,2022,Ratio of girls to boys in lower secondary education,1.0
 208,Denmark,1995,Ratio of girls to boys in upper secondary education,1.04
 208,Denmark,2005,Ratio of girls to boys in upper secondary education,1.05
-208,Denmark,2010,Ratio of girls to boys in upper secondary education,1
+208,Denmark,2010,Ratio of girls to boys in upper secondary education,1.0
 208,Denmark,2015,Ratio of girls to boys in upper secondary education,1.06
-208,Denmark,2020,Ratio of girls to boys in upper secondary education,1
+208,Denmark,2020,Ratio of girls to boys in upper secondary education,1.0
 208,Denmark,2021,Ratio of girls to boys in upper secondary education,0.99
 208,Denmark,2022,Ratio of girls to boys in upper secondary education,0.98
 262,Djibouti,1995,Ratio of girls to boys in primary education,0.78
@@ -1162,9 +1162,9 @@
 214,Dominican Republic,2021,Ratio of girls to boys in upper secondary education,1.16
 214,Dominican Republic,2022,Ratio of girls to boys in upper secondary education,1.18
 218,Ecuador,1995,Ratio of girls to boys in primary education,0.99
-218,Ecuador,2005,Ratio of girls to boys in primary education,1
-218,Ecuador,2010,Ratio of girls to boys in primary education,1
-218,Ecuador,2015,Ratio of girls to boys in primary education,1
+218,Ecuador,2005,Ratio of girls to boys in primary education,1.0
+218,Ecuador,2010,Ratio of girls to boys in primary education,1.0
+218,Ecuador,2015,Ratio of girls to boys in primary education,1.0
 218,Ecuador,2020,Ratio of girls to boys in primary education,1.02
 218,Ecuador,2021,Ratio of girls to boys in primary education,1.02
 218,Ecuador,2022,Ratio of girls to boys in primary education,1.02
@@ -1172,7 +1172,7 @@
 218,Ecuador,2010,Ratio of girls to boys in lower secondary education,1.02
 218,Ecuador,2015,Ratio of girls to boys in lower secondary education,1.03
 218,Ecuador,2020,Ratio of girls to boys in lower secondary education,1.01
-218,Ecuador,2021,Ratio of girls to boys in lower secondary education,1
+218,Ecuador,2021,Ratio of girls to boys in lower secondary education,1.0
 218,Ecuador,2022,Ratio of girls to boys in lower secondary education,1.01
 218,Ecuador,2005,Ratio of girls to boys in upper secondary education,1.07
 218,Ecuador,2010,Ratio of girls to boys in upper secondary education,1.08
@@ -1183,11 +1183,11 @@
 818,Egypt,1995,Ratio of girls to boys in primary education,0.89
 818,Egypt,2005,Ratio of girls to boys in primary education,0.96
 818,Egypt,2010,Ratio of girls to boys in primary education,0.96
-818,Egypt,2020,Ratio of girls to boys in primary education,1
-818,Egypt,2021,Ratio of girls to boys in primary education,1
-818,Egypt,2022,Ratio of girls to boys in primary education,1
+818,Egypt,2020,Ratio of girls to boys in primary education,1.0
+818,Egypt,2021,Ratio of girls to boys in primary education,1.0
+818,Egypt,2022,Ratio of girls to boys in primary education,1.0
 818,Egypt,1995,Ratio of girls to boys in lower secondary education,0.88
-818,Egypt,2010,Ratio of girls to boys in lower secondary education,1
+818,Egypt,2010,Ratio of girls to boys in lower secondary education,1.0
 818,Egypt,2020,Ratio of girls to boys in lower secondary education,0.98
 818,Egypt,2021,Ratio of girls to boys in lower secondary education,0.98
 818,Egypt,1995,Ratio of girls to boys in upper secondary education,0.9
@@ -1210,7 +1210,7 @@
 222,El Salvador,2021,Ratio of girls to boys in upper secondary education,1.12
 226,Equatorial Guinea,2005,Ratio of girls to boys in primary education,0.96
 226,Equatorial Guinea,2010,Ratio of girls to boys in primary education,1.02
-226,Equatorial Guinea,2015,Ratio of girls to boys in primary education,1
+226,Equatorial Guinea,2015,Ratio of girls to boys in primary education,1.0
 226,Equatorial Guinea,2005,Ratio of girls to boys in lower secondary education,0.82
 226,Equatorial Guinea,2015,Ratio of girls to boys in lower secondary education,1.07
 226,Equatorial Guinea,2005,Ratio of girls to boys in upper secondary education,0.45
@@ -1227,10 +1227,10 @@
 233,Estonia,1995,Ratio of girls to boys in primary education,0.98
 233,Estonia,2005,Ratio of girls to boys in primary education,0.97
 233,Estonia,2010,Ratio of girls to boys in primary education,0.99
-233,Estonia,2015,Ratio of girls to boys in primary education,1
+233,Estonia,2015,Ratio of girls to boys in primary education,1.0
 233,Estonia,2020,Ratio of girls to boys in primary education,0.99
-233,Estonia,2021,Ratio of girls to boys in primary education,1
-233,Estonia,2022,Ratio of girls to boys in primary education,1
+233,Estonia,2021,Ratio of girls to boys in primary education,1.0
+233,Estonia,2022,Ratio of girls to boys in primary education,1.0
 233,Estonia,2005,Ratio of girls to boys in lower secondary education,0.96
 233,Estonia,2010,Ratio of girls to boys in lower secondary education,0.95
 233,Estonia,2015,Ratio of girls to boys in lower secondary education,0.98
@@ -1249,7 +1249,7 @@
 748,Eswatini,2015,Ratio of girls to boys in primary education,0.9
 748,Eswatini,2005,Ratio of girls to boys in lower secondary education,0.99
 748,Eswatini,2010,Ratio of girls to boys in lower secondary education,0.95
-748,Eswatini,2015,Ratio of girls to boys in lower secondary education,1
+748,Eswatini,2015,Ratio of girls to boys in lower secondary education,1.0
 748,Eswatini,2005,Ratio of girls to boys in upper secondary education,0.88
 748,Eswatini,2010,Ratio of girls to boys in upper secondary education,0.93
 748,Eswatini,2015,Ratio of girls to boys in upper secondary education,0.97
@@ -1276,7 +1276,7 @@
 242,Fiji,2021,Ratio of girls to boys in primary education,0.95
 242,Fiji,2022,Ratio of girls to boys in primary education,0.95
 242,Fiji,2010,Ratio of girls to boys in lower secondary education,1.03
-242,Fiji,2015,Ratio of girls to boys in lower secondary education,1
+242,Fiji,2015,Ratio of girls to boys in lower secondary education,1.0
 242,Fiji,2020,Ratio of girls to boys in lower secondary education,0.95
 242,Fiji,2021,Ratio of girls to boys in lower secondary education,0.95
 242,Fiji,2022,Ratio of girls to boys in lower secondary education,0.79
@@ -1284,17 +1284,17 @@
 242,Fiji,2020,Ratio of girls to boys in upper secondary education,1.18
 242,Fiji,2021,Ratio of girls to boys in upper secondary education,1.17
 242,Fiji,2022,Ratio of girls to boys in upper secondary education,1.16
-246,Finland,1995,Ratio of girls to boys in primary education,1
+246,Finland,1995,Ratio of girls to boys in primary education,1.0
 246,Finland,2005,Ratio of girls to boys in primary education,0.99
 246,Finland,2010,Ratio of girls to boys in primary education,0.99
 246,Finland,2015,Ratio of girls to boys in primary education,0.99
-246,Finland,2020,Ratio of girls to boys in primary education,1
-246,Finland,2021,Ratio of girls to boys in primary education,1
-246,Finland,2022,Ratio of girls to boys in primary education,1
+246,Finland,2020,Ratio of girls to boys in primary education,1.0
+246,Finland,2021,Ratio of girls to boys in primary education,1.0
+246,Finland,2022,Ratio of girls to boys in primary education,1.0
 246,Finland,1995,Ratio of girls to boys in lower secondary education,1.02
-246,Finland,2005,Ratio of girls to boys in lower secondary education,1
-246,Finland,2010,Ratio of girls to boys in lower secondary education,1
-246,Finland,2015,Ratio of girls to boys in lower secondary education,1
+246,Finland,2005,Ratio of girls to boys in lower secondary education,1.0
+246,Finland,2010,Ratio of girls to boys in lower secondary education,1.0
+246,Finland,2015,Ratio of girls to boys in lower secondary education,1.0
 246,Finland,2020,Ratio of girls to boys in lower secondary education,0.99
 246,Finland,2021,Ratio of girls to boys in lower secondary education,0.99
 246,Finland,2022,Ratio of girls to boys in lower secondary education,0.99
@@ -1311,20 +1311,20 @@
 250,France,2015,Ratio of girls to boys in primary education,0.99
 250,France,2020,Ratio of girls to boys in primary education,0.99
 250,France,2021,Ratio of girls to boys in primary education,0.99
-250,France,2022,Ratio of girls to boys in primary education,1
+250,France,2022,Ratio of girls to boys in primary education,1.0
 250,France,1995,Ratio of girls to boys in lower secondary education,0.99
 250,France,2005,Ratio of girls to boys in lower secondary education,0.99
-250,France,2010,Ratio of girls to boys in lower secondary education,1
-250,France,2015,Ratio of girls to boys in lower secondary education,1
-250,France,2020,Ratio of girls to boys in lower secondary education,1
-250,France,2021,Ratio of girls to boys in lower secondary education,1
-250,France,2022,Ratio of girls to boys in lower secondary education,1
+250,France,2010,Ratio of girls to boys in lower secondary education,1.0
+250,France,2015,Ratio of girls to boys in lower secondary education,1.0
+250,France,2020,Ratio of girls to boys in lower secondary education,1.0
+250,France,2021,Ratio of girls to boys in lower secondary education,1.0
+250,France,2022,Ratio of girls to boys in lower secondary education,1.0
 250,France,1995,Ratio of girls to boys in upper secondary education,0.99
 250,France,2005,Ratio of girls to boys in upper secondary education,1.02
 250,France,2010,Ratio of girls to boys in upper secondary education,1.03
 250,France,2015,Ratio of girls to boys in upper secondary education,1.03
 250,France,2020,Ratio of girls to boys in upper secondary education,1.01
-250,France,2021,Ratio of girls to boys in upper secondary education,1
+250,France,2021,Ratio of girls to boys in upper secondary education,1.0
 250,France,2022,Ratio of girls to boys in upper secondary education,1.01
 254,French Guiana,1995,Ratio of girls to boys in primary education,0.97
 258,French Polynesia,1995,Ratio of girls to boys in primary education,0.96
@@ -1350,7 +1350,7 @@
 268,Georgia,2015,Ratio of girls to boys in primary education,0.97
 268,Georgia,2020,Ratio of girls to boys in primary education,0.98
 268,Georgia,2021,Ratio of girls to boys in primary education,0.99
-268,Georgia,2022,Ratio of girls to boys in primary education,1
+268,Georgia,2022,Ratio of girls to boys in primary education,1.0
 268,Georgia,2005,Ratio of girls to boys in lower secondary education,0.97
 268,Georgia,2010,Ratio of girls to boys in lower secondary education,0.97
 268,Georgia,2015,Ratio of girls to boys in lower secondary education,0.96
@@ -1363,13 +1363,13 @@
 268,Georgia,2021,Ratio of girls to boys in upper secondary education,0.97
 268,Georgia,2022,Ratio of girls to boys in upper secondary education,0.96
 276,Germany,1995,Ratio of girls to boys in primary education,0.99
-276,Germany,2005,Ratio of girls to boys in primary education,1
-276,Germany,2010,Ratio of girls to boys in primary education,1
-276,Germany,2015,Ratio of girls to boys in primary education,1
-276,Germany,2020,Ratio of girls to boys in primary education,1
-276,Germany,2021,Ratio of girls to boys in primary education,1
+276,Germany,2005,Ratio of girls to boys in primary education,1.0
+276,Germany,2010,Ratio of girls to boys in primary education,1.0
+276,Germany,2015,Ratio of girls to boys in primary education,1.0
+276,Germany,2020,Ratio of girls to boys in primary education,1.0
+276,Germany,2021,Ratio of girls to boys in primary education,1.0
 276,Germany,1995,Ratio of girls to boys in lower secondary education,1.01
-276,Germany,2005,Ratio of girls to boys in lower secondary education,1
+276,Germany,2005,Ratio of girls to boys in lower secondary education,1.0
 276,Germany,2010,Ratio of girls to boys in lower secondary education,0.99
 276,Germany,2015,Ratio of girls to boys in lower secondary education,0.98
 276,Germany,2020,Ratio of girls to boys in lower secondary education,0.98
@@ -1383,8 +1383,8 @@
 288,Ghana,1995,Ratio of girls to boys in primary education,0.89
 288,Ghana,2005,Ratio of girls to boys in primary education,0.94
 288,Ghana,2015,Ratio of girls to boys in primary education,0.98
-288,Ghana,2020,Ratio of girls to boys in primary education,1
-288,Ghana,2021,Ratio of girls to boys in primary education,1
+288,Ghana,2020,Ratio of girls to boys in primary education,1.0
+288,Ghana,2021,Ratio of girls to boys in primary education,1.0
 288,Ghana,2022,Ratio of girls to boys in primary education,0.97
 288,Ghana,2005,Ratio of girls to boys in lower secondary education,0.86
 288,Ghana,2015,Ratio of girls to boys in lower secondary education,0.96
@@ -1395,7 +1395,7 @@
 288,Ghana,2015,Ratio of girls to boys in upper secondary education,0.88
 288,Ghana,2020,Ratio of girls to boys in upper secondary education,0.95
 288,Ghana,2021,Ratio of girls to boys in upper secondary education,0.96
-288,Ghana,2022,Ratio of girls to boys in upper secondary education,1
+288,Ghana,2022,Ratio of girls to boys in upper secondary education,1.0
 292,Gibraltar,2020,Ratio of girls to boys in primary education,1.08
 292,Gibraltar,2021,Ratio of girls to boys in primary education,1.05
 292,Gibraltar,2022,Ratio of girls to boys in primary education,1.03
@@ -1409,9 +1409,9 @@
 300,Greece,2005,Ratio of girls to boys in primary education,0.99
 300,Greece,2010,Ratio of girls to boys in primary education,0.99
 300,Greece,2015,Ratio of girls to boys in primary education,0.99
-300,Greece,2020,Ratio of girls to boys in primary education,1
-300,Greece,2021,Ratio of girls to boys in primary education,1
-300,Greece,1995,Ratio of girls to boys in lower secondary education,1
+300,Greece,2020,Ratio of girls to boys in primary education,1.0
+300,Greece,2021,Ratio of girls to boys in primary education,1.0
+300,Greece,1995,Ratio of girls to boys in lower secondary education,1.0
 300,Greece,2005,Ratio of girls to boys in lower secondary education,0.96
 300,Greece,2010,Ratio of girls to boys in lower secondary education,0.93
 300,Greece,2015,Ratio of girls to boys in lower secondary education,0.97
@@ -1424,7 +1424,7 @@
 300,Greece,2020,Ratio of girls to boys in upper secondary education,0.98
 300,Greece,2021,Ratio of girls to boys in upper secondary education,0.98
 308,Grenada,1995,Ratio of girls to boys in primary education,0.92
-308,Grenada,2005,Ratio of girls to boys in primary education,1
+308,Grenada,2005,Ratio of girls to boys in primary education,1.0
 308,Grenada,2010,Ratio of girls to boys in primary education,0.96
 308,Grenada,2015,Ratio of girls to boys in primary education,0.95
 308,Grenada,2021,Ratio of girls to boys in primary education,0.93
@@ -1474,8 +1474,8 @@
 328,Guyana,2005,Ratio of girls to boys in primary education,0.99
 328,Guyana,2010,Ratio of girls to boys in primary education,0.99
 328,Guyana,2015,Ratio of girls to boys in primary education,1.01
-328,Guyana,2020,Ratio of girls to boys in primary education,1
-328,Guyana,2021,Ratio of girls to boys in primary education,1
+328,Guyana,2020,Ratio of girls to boys in primary education,1.0
+328,Guyana,2021,Ratio of girls to boys in primary education,1.0
 328,Guyana,2005,Ratio of girls to boys in lower secondary education,1.01
 328,Guyana,2010,Ratio of girls to boys in lower secondary education,1.04
 328,Guyana,2020,Ratio of girls to boys in lower secondary education,1.04
@@ -1488,7 +1488,7 @@
 340,Honduras,1995,Ratio of girls to boys in primary education,1.02
 340,Honduras,2005,Ratio of girls to boys in primary education,1.01
 340,Honduras,2010,Ratio of girls to boys in primary education,1.01
-340,Honduras,2015,Ratio of girls to boys in primary education,1
+340,Honduras,2015,Ratio of girls to boys in primary education,1.0
 340,Honduras,2020,Ratio of girls to boys in primary education,1.01
 340,Honduras,2021,Ratio of girls to boys in primary education,1.02
 340,Honduras,2005,Ratio of girls to boys in lower secondary education,1.17
@@ -1497,33 +1497,33 @@
 348,Hungary,1995,Ratio of girls to boys in primary education,0.98
 348,Hungary,2005,Ratio of girls to boys in primary education,0.98
 348,Hungary,2010,Ratio of girls to boys in primary education,0.99
-348,Hungary,2015,Ratio of girls to boys in primary education,1
+348,Hungary,2015,Ratio of girls to boys in primary education,1.0
 348,Hungary,2020,Ratio of girls to boys in primary education,0.98
 348,Hungary,2021,Ratio of girls to boys in primary education,0.99
 348,Hungary,1995,Ratio of girls to boys in lower secondary education,0.98
 348,Hungary,2005,Ratio of girls to boys in lower secondary education,0.98
 348,Hungary,2010,Ratio of girls to boys in lower secondary education,0.97
 348,Hungary,2015,Ratio of girls to boys in lower secondary education,0.99
-348,Hungary,2020,Ratio of girls to boys in lower secondary education,1
+348,Hungary,2020,Ratio of girls to boys in lower secondary education,1.0
 348,Hungary,2021,Ratio of girls to boys in lower secondary education,0.99
 348,Hungary,1995,Ratio of girls to boys in upper secondary education,1.08
-348,Hungary,2005,Ratio of girls to boys in upper secondary education,1
-348,Hungary,2010,Ratio of girls to boys in upper secondary education,1
+348,Hungary,2005,Ratio of girls to boys in upper secondary education,1.0
+348,Hungary,2010,Ratio of girls to boys in upper secondary education,1.0
 348,Hungary,2015,Ratio of girls to boys in upper secondary education,1.02
 348,Hungary,2020,Ratio of girls to boys in upper secondary education,0.99
-348,Hungary,2021,Ratio of girls to boys in upper secondary education,1
-352,Iceland,1995,Ratio of girls to boys in primary education,1
+348,Hungary,2021,Ratio of girls to boys in upper secondary education,1.0
+352,Iceland,1995,Ratio of girls to boys in primary education,1.0
 352,Iceland,2005,Ratio of girls to boys in primary education,0.98
-352,Iceland,2010,Ratio of girls to boys in primary education,1
-352,Iceland,2015,Ratio of girls to boys in primary education,1
-352,Iceland,2020,Ratio of girls to boys in primary education,1
-352,Iceland,2021,Ratio of girls to boys in primary education,1
-352,Iceland,1995,Ratio of girls to boys in lower secondary education,1
-352,Iceland,2005,Ratio of girls to boys in lower secondary education,1
+352,Iceland,2010,Ratio of girls to boys in primary education,1.0
+352,Iceland,2015,Ratio of girls to boys in primary education,1.0
+352,Iceland,2020,Ratio of girls to boys in primary education,1.0
+352,Iceland,2021,Ratio of girls to boys in primary education,1.0
+352,Iceland,1995,Ratio of girls to boys in lower secondary education,1.0
+352,Iceland,2005,Ratio of girls to boys in lower secondary education,1.0
 352,Iceland,2010,Ratio of girls to boys in lower secondary education,0.99
 352,Iceland,2015,Ratio of girls to boys in lower secondary education,0.99
-352,Iceland,2020,Ratio of girls to boys in lower secondary education,1
-352,Iceland,2021,Ratio of girls to boys in lower secondary education,1
+352,Iceland,2020,Ratio of girls to boys in lower secondary education,1.0
+352,Iceland,2021,Ratio of girls to boys in lower secondary education,1.0
 352,Iceland,1995,Ratio of girls to boys in upper secondary education,0.96
 352,Iceland,2005,Ratio of girls to boys in upper secondary education,1.03
 352,Iceland,2010,Ratio of girls to boys in upper secondary education,1.04
@@ -1534,8 +1534,8 @@
 356,India,2010,Ratio of girls to boys in primary education,1.01
 356,India,2015,Ratio of girls to boys in primary education,1.02
 356,India,2020,Ratio of girls to boys in primary education,1.01
-356,India,2021,Ratio of girls to boys in primary education,1
-356,India,2022,Ratio of girls to boys in primary education,1
+356,India,2021,Ratio of girls to boys in primary education,1.0
+356,India,2022,Ratio of girls to boys in primary education,1.0
 356,India,1995,Ratio of girls to boys in lower secondary education,0.7
 356,India,2005,Ratio of girls to boys in lower secondary education,0.87
 356,India,2010,Ratio of girls to boys in lower secondary education,0.96
@@ -1566,7 +1566,7 @@
 360,Indonesia,2022,Ratio of girls to boys in lower secondary education,0.98
 360,Indonesia,1995,Ratio of girls to boys in upper secondary education,0.85
 360,Indonesia,2005,Ratio of girls to boys in upper secondary education,0.97
-360,Indonesia,2010,Ratio of girls to boys in upper secondary education,1
+360,Indonesia,2010,Ratio of girls to boys in upper secondary education,1.0
 360,Indonesia,2015,Ratio of girls to boys in upper secondary education,0.96
 360,Indonesia,2020,Ratio of girls to boys in upper secondary education,1.04
 360,Indonesia,2021,Ratio of girls to boys in upper secondary education,1.04
@@ -1582,16 +1582,16 @@
 364,Iran (Islamic Republic of),2005,Ratio of girls to boys in upper secondary education,1.01
 364,Iran (Islamic Republic of),2010,Ratio of girls to boys in upper secondary education,0.96
 364,Iran (Islamic Republic of),2020,Ratio of girls to boys in upper secondary education,0.99
-372,Ireland,1995,Ratio of girls to boys in primary education,1
-372,Ireland,2005,Ratio of girls to boys in primary education,1
-372,Ireland,2010,Ratio of girls to boys in primary education,1
-372,Ireland,2015,Ratio of girls to boys in primary education,1
-372,Ireland,2020,Ratio of girls to boys in primary education,1
+372,Ireland,1995,Ratio of girls to boys in primary education,1.0
+372,Ireland,2005,Ratio of girls to boys in primary education,1.0
+372,Ireland,2010,Ratio of girls to boys in primary education,1.0
+372,Ireland,2015,Ratio of girls to boys in primary education,1.0
+372,Ireland,2020,Ratio of girls to boys in primary education,1.0
 372,Ireland,2021,Ratio of girls to boys in primary education,1.01
 372,Ireland,1995,Ratio of girls to boys in lower secondary education,1.02
 372,Ireland,2005,Ratio of girls to boys in lower secondary education,1.04
 372,Ireland,2010,Ratio of girls to boys in lower secondary education,1.02
-372,Ireland,2015,Ratio of girls to boys in lower secondary education,1
+372,Ireland,2015,Ratio of girls to boys in lower secondary education,1.0
 372,Ireland,2020,Ratio of girls to boys in lower secondary education,1.03
 372,Ireland,2021,Ratio of girls to boys in lower secondary education,1.02
 372,Ireland,1995,Ratio of girls to boys in upper secondary education,1.09
@@ -1600,16 +1600,16 @@
 372,Ireland,2015,Ratio of girls to boys in upper secondary education,1.06
 372,Ireland,2020,Ratio of girls to boys in upper secondary education,1.14
 372,Ireland,2021,Ratio of girls to boys in upper secondary education,1.15
-376,Israel,2005,Ratio of girls to boys in primary education,1
-376,Israel,2010,Ratio of girls to boys in primary education,1
-376,Israel,2015,Ratio of girls to boys in primary education,1
+376,Israel,2005,Ratio of girls to boys in primary education,1.0
+376,Israel,2010,Ratio of girls to boys in primary education,1.0
+376,Israel,2015,Ratio of girls to boys in primary education,1.0
 376,Israel,2020,Ratio of girls to boys in primary education,1.01
-376,Israel,2021,Ratio of girls to boys in primary education,1
+376,Israel,2021,Ratio of girls to boys in primary education,1.0
 376,Israel,2005,Ratio of girls to boys in lower secondary education,1.01
 376,Israel,2010,Ratio of girls to boys in lower secondary education,1.02
-376,Israel,2015,Ratio of girls to boys in lower secondary education,1
+376,Israel,2015,Ratio of girls to boys in lower secondary education,1.0
 376,Israel,2020,Ratio of girls to boys in lower secondary education,1.01
-376,Israel,2021,Ratio of girls to boys in lower secondary education,1
+376,Israel,2021,Ratio of girls to boys in lower secondary education,1.0
 376,Israel,2005,Ratio of girls to boys in upper secondary education,0.99
 376,Israel,2010,Ratio of girls to boys in upper secondary education,1.02
 376,Israel,2015,Ratio of girls to boys in upper secondary education,1.01
@@ -1618,8 +1618,8 @@
 380,Italy,1995,Ratio of girls to boys in primary education,0.98
 380,Italy,2005,Ratio of girls to boys in primary education,0.99
 380,Italy,2010,Ratio of girls to boys in primary education,0.99
-380,Italy,2015,Ratio of girls to boys in primary education,1
-380,Italy,2020,Ratio of girls to boys in primary education,1
+380,Italy,2015,Ratio of girls to boys in primary education,1.0
+380,Italy,2020,Ratio of girls to boys in primary education,1.0
 380,Italy,2021,Ratio of girls to boys in primary education,0.99
 380,Italy,1995,Ratio of girls to boys in lower secondary education,0.95
 380,Italy,2005,Ratio of girls to boys in lower secondary education,0.97
@@ -1629,8 +1629,8 @@
 380,Italy,2021,Ratio of girls to boys in lower secondary education,0.98
 380,Italy,1995,Ratio of girls to boys in upper secondary education,1.02
 380,Italy,2005,Ratio of girls to boys in upper secondary education,1.01
-380,Italy,2010,Ratio of girls to boys in upper secondary education,1
-380,Italy,2015,Ratio of girls to boys in upper secondary education,1
+380,Italy,2010,Ratio of girls to boys in upper secondary education,1.0
+380,Italy,2015,Ratio of girls to boys in upper secondary education,1.0
 380,Italy,2020,Ratio of girls to boys in upper secondary education,0.99
 380,Italy,2021,Ratio of girls to boys in upper secondary education,0.99
 388,Jamaica,2005,Ratio of girls to boys in primary education,0.98
@@ -1640,35 +1640,35 @@
 388,Jamaica,2021,Ratio of girls to boys in primary education,1.01
 388,Jamaica,2022,Ratio of girls to boys in primary education,0.98
 388,Jamaica,2005,Ratio of girls to boys in lower secondary education,0.99
-388,Jamaica,2010,Ratio of girls to boys in lower secondary education,1
+388,Jamaica,2010,Ratio of girls to boys in lower secondary education,1.0
 388,Jamaica,2015,Ratio of girls to boys in lower secondary education,1.06
 388,Jamaica,2020,Ratio of girls to boys in lower secondary education,0.99
 388,Jamaica,2021,Ratio of girls to boys in lower secondary education,1.01
-388,Jamaica,2022,Ratio of girls to boys in lower secondary education,1
+388,Jamaica,2022,Ratio of girls to boys in lower secondary education,1.0
 388,Jamaica,2005,Ratio of girls to boys in upper secondary education,1.11
 388,Jamaica,2010,Ratio of girls to boys in upper secondary education,1.15
 388,Jamaica,2015,Ratio of girls to boys in upper secondary education,1.05
 388,Jamaica,2020,Ratio of girls to boys in upper secondary education,1.02
 388,Jamaica,2021,Ratio of girls to boys in upper secondary education,1.04
 388,Jamaica,2022,Ratio of girls to boys in upper secondary education,1.01
-392,Japan,1995,Ratio of girls to boys in primary education,1
-392,Japan,2015,Ratio of girls to boys in primary education,1
-392,Japan,2020,Ratio of girls to boys in primary education,1
-392,Japan,2021,Ratio of girls to boys in primary education,1
+392,Japan,1995,Ratio of girls to boys in primary education,1.0
+392,Japan,2015,Ratio of girls to boys in primary education,1.0
+392,Japan,2020,Ratio of girls to boys in primary education,1.0
+392,Japan,2021,Ratio of girls to boys in primary education,1.0
 392,Japan,1995,Ratio of girls to boys in lower secondary education,0.99
-392,Japan,2015,Ratio of girls to boys in lower secondary education,1
-392,Japan,2020,Ratio of girls to boys in lower secondary education,1
-392,Japan,2021,Ratio of girls to boys in lower secondary education,1
+392,Japan,2015,Ratio of girls to boys in lower secondary education,1.0
+392,Japan,2020,Ratio of girls to boys in lower secondary education,1.0
+392,Japan,2021,Ratio of girls to boys in lower secondary education,1.0
 392,Japan,1995,Ratio of girls to boys in upper secondary education,1.03
-392,Japan,2015,Ratio of girls to boys in upper secondary education,1
-392,Japan,2020,Ratio of girls to boys in upper secondary education,1
+392,Japan,2015,Ratio of girls to boys in upper secondary education,1.0
+392,Japan,2020,Ratio of girls to boys in upper secondary education,1.0
 392,Japan,2021,Ratio of girls to boys in upper secondary education,1.01
 400,Jordan,1995,Ratio of girls to boys in primary education,0.99
-400,Jordan,2005,Ratio of girls to boys in primary education,1
+400,Jordan,2005,Ratio of girls to boys in primary education,1.0
 400,Jordan,2010,Ratio of girls to boys in primary education,0.99
-400,Jordan,2005,Ratio of girls to boys in lower secondary education,1
+400,Jordan,2005,Ratio of girls to boys in lower secondary education,1.0
 400,Jordan,2010,Ratio of girls to boys in lower secondary education,1.01
-400,Jordan,2020,Ratio of girls to boys in lower secondary education,1
+400,Jordan,2020,Ratio of girls to boys in lower secondary education,1.0
 400,Jordan,2021,Ratio of girls to boys in lower secondary education,0.99
 400,Jordan,2022,Ratio of girls to boys in lower secondary education,0.98
 400,Jordan,2005,Ratio of girls to boys in upper secondary education,1.04
@@ -1678,20 +1678,20 @@
 400,Jordan,2022,Ratio of girls to boys in upper secondary education,1.05
 398,Kazakhstan,1995,Ratio of girls to boys in primary education,0.95
 398,Kazakhstan,2005,Ratio of girls to boys in primary education,0.97
-398,Kazakhstan,2010,Ratio of girls to boys in primary education,1
-398,Kazakhstan,2015,Ratio of girls to boys in primary education,1
-398,Kazakhstan,2020,Ratio of girls to boys in primary education,1
-398,Kazakhstan,2021,Ratio of girls to boys in primary education,1
-398,Kazakhstan,2022,Ratio of girls to boys in primary education,1
+398,Kazakhstan,2010,Ratio of girls to boys in primary education,1.0
+398,Kazakhstan,2015,Ratio of girls to boys in primary education,1.0
+398,Kazakhstan,2020,Ratio of girls to boys in primary education,1.0
+398,Kazakhstan,2021,Ratio of girls to boys in primary education,1.0
+398,Kazakhstan,2022,Ratio of girls to boys in primary education,1.0
 398,Kazakhstan,2005,Ratio of girls to boys in lower secondary education,0.95
 398,Kazakhstan,2010,Ratio of girls to boys in lower secondary education,0.97
 398,Kazakhstan,2015,Ratio of girls to boys in lower secondary education,1.01
-398,Kazakhstan,2020,Ratio of girls to boys in lower secondary education,1
+398,Kazakhstan,2020,Ratio of girls to boys in lower secondary education,1.0
 398,Kazakhstan,2021,Ratio of girls to boys in lower secondary education,0.99
 398,Kazakhstan,2022,Ratio of girls to boys in lower secondary education,0.99
 398,Kazakhstan,2010,Ratio of girls to boys in upper secondary education,1.01
 398,Kazakhstan,2015,Ratio of girls to boys in upper secondary education,1.07
-398,Kazakhstan,2020,Ratio of girls to boys in upper secondary education,1
+398,Kazakhstan,2020,Ratio of girls to boys in upper secondary education,1.0
 404,Kenya,1995,Ratio of girls to boys in primary education,0.97
 404,Kenya,2005,Ratio of girls to boys in primary education,0.95
 404,Kenya,2015,Ratio of girls to boys in primary education,0.99
@@ -1699,8 +1699,8 @@
 404,Kenya,2021,Ratio of girls to boys in primary education,0.96
 404,Kenya,2022,Ratio of girls to boys in primary education,0.98
 404,Kenya,2005,Ratio of girls to boys in lower secondary education,0.98
-404,Kenya,2015,Ratio of girls to boys in lower secondary education,1
-404,Kenya,2020,Ratio of girls to boys in lower secondary education,1
+404,Kenya,2015,Ratio of girls to boys in lower secondary education,1.0
+404,Kenya,2020,Ratio of girls to boys in lower secondary education,1.0
 404,Kenya,2021,Ratio of girls to boys in lower secondary education,0.85
 404,Kenya,2022,Ratio of girls to boys in lower secondary education,0.86
 404,Kenya,2005,Ratio of girls to boys in upper secondary education,0.89
@@ -1738,8 +1738,8 @@
 417,Kyrgyzstan,2005,Ratio of girls to boys in upper secondary education,0.95
 417,Kyrgyzstan,2010,Ratio of girls to boys in upper secondary education,1.02
 417,Kyrgyzstan,2015,Ratio of girls to boys in upper secondary education,1.04
-417,Kyrgyzstan,2020,Ratio of girls to boys in upper secondary education,1
-417,Kyrgyzstan,2021,Ratio of girls to boys in upper secondary education,1
+417,Kyrgyzstan,2020,Ratio of girls to boys in upper secondary education,1.0
+417,Kyrgyzstan,2021,Ratio of girls to boys in upper secondary education,1.0
 417,Kyrgyzstan,2022,Ratio of girls to boys in upper secondary education,0.98
 418,Lao People's Dem. Rep.,1995,Ratio of girls to boys in primary education,0.81
 418,Lao People's Dem. Rep.,2005,Ratio of girls to boys in primary education,0.88
@@ -1753,7 +1753,7 @@
 418,Lao People's Dem. Rep.,2015,Ratio of girls to boys in lower secondary education,0.94
 418,Lao People's Dem. Rep.,2020,Ratio of girls to boys in lower secondary education,0.97
 418,Lao People's Dem. Rep.,2021,Ratio of girls to boys in lower secondary education,0.98
-418,Lao People's Dem. Rep.,2022,Ratio of girls to boys in lower secondary education,1
+418,Lao People's Dem. Rep.,2022,Ratio of girls to boys in lower secondary education,1.0
 418,Lao People's Dem. Rep.,2005,Ratio of girls to boys in upper secondary education,0.72
 418,Lao People's Dem. Rep.,2010,Ratio of girls to boys in upper secondary education,0.83
 418,Lao People's Dem. Rep.,2015,Ratio of girls to boys in upper secondary education,0.91
@@ -1763,16 +1763,16 @@
 428,Latvia,1995,Ratio of girls to boys in primary education,0.94
 428,Latvia,2005,Ratio of girls to boys in primary education,0.98
 428,Latvia,2010,Ratio of girls to boys in primary education,0.98
-428,Latvia,2015,Ratio of girls to boys in primary education,1
-428,Latvia,2020,Ratio of girls to boys in primary education,1
-428,Latvia,2021,Ratio of girls to boys in primary education,1
-428,Latvia,2022,Ratio of girls to boys in primary education,1
+428,Latvia,2015,Ratio of girls to boys in primary education,1.0
+428,Latvia,2020,Ratio of girls to boys in primary education,1.0
+428,Latvia,2021,Ratio of girls to boys in primary education,1.0
+428,Latvia,2022,Ratio of girls to boys in primary education,1.0
 428,Latvia,1995,Ratio of girls to boys in lower secondary education,0.98
 428,Latvia,2005,Ratio of girls to boys in lower secondary education,0.96
 428,Latvia,2010,Ratio of girls to boys in lower secondary education,0.96
 428,Latvia,2015,Ratio of girls to boys in lower secondary education,0.97
 428,Latvia,2020,Ratio of girls to boys in lower secondary education,0.99
-428,Latvia,2021,Ratio of girls to boys in lower secondary education,1
+428,Latvia,2021,Ratio of girls to boys in lower secondary education,1.0
 428,Latvia,2022,Ratio of girls to boys in lower secondary education,0.99
 428,Latvia,1995,Ratio of girls to boys in upper secondary education,1.15
 428,Latvia,2005,Ratio of girls to boys in upper secondary education,1.04
@@ -1800,7 +1800,7 @@
 430,Liberia,2015,Ratio of girls to boys in upper secondary education,0.73
 430,Liberia,2020,Ratio of girls to boys in upper secondary education,0.96
 434,Libya,2005,Ratio of girls to boys in primary education,0.97
-434,Libya,2005,Ratio of girls to boys in lower secondary education,1
+434,Libya,2005,Ratio of girls to boys in lower secondary education,1.0
 434,Libya,2005,Ratio of girls to boys in upper secondary education,1.29
 438,Liechtenstein,2005,Ratio of girls to boys in primary education,1.02
 438,Liechtenstein,2010,Ratio of girls to boys in primary education,0.94
@@ -1808,7 +1808,7 @@
 438,Liechtenstein,2020,Ratio of girls to boys in primary education,0.97
 438,Liechtenstein,2021,Ratio of girls to boys in primary education,0.98
 438,Liechtenstein,2005,Ratio of girls to boys in lower secondary education,0.99
-438,Liechtenstein,2010,Ratio of girls to boys in lower secondary education,1
+438,Liechtenstein,2010,Ratio of girls to boys in lower secondary education,1.0
 438,Liechtenstein,2015,Ratio of girls to boys in lower secondary education,0.92
 438,Liechtenstein,2020,Ratio of girls to boys in lower secondary education,0.97
 438,Liechtenstein,2021,Ratio of girls to boys in lower secondary education,0.97
@@ -1820,9 +1820,9 @@
 440,Lithuania,1995,Ratio of girls to boys in primary education,0.94
 440,Lithuania,2005,Ratio of girls to boys in primary education,0.99
 440,Lithuania,2010,Ratio of girls to boys in primary education,0.99
-440,Lithuania,2015,Ratio of girls to boys in primary education,1
-440,Lithuania,2020,Ratio of girls to boys in primary education,1
-440,Lithuania,2021,Ratio of girls to boys in primary education,1
+440,Lithuania,2015,Ratio of girls to boys in primary education,1.0
+440,Lithuania,2020,Ratio of girls to boys in primary education,1.0
+440,Lithuania,2021,Ratio of girls to boys in primary education,1.0
 440,Lithuania,2005,Ratio of girls to boys in lower secondary education,0.98
 440,Lithuania,2010,Ratio of girls to boys in lower secondary education,0.97
 440,Lithuania,2015,Ratio of girls to boys in lower secondary education,0.96
@@ -1833,11 +1833,11 @@
 440,Lithuania,2015,Ratio of girls to boys in upper secondary education,0.95
 440,Lithuania,2020,Ratio of girls to boys in upper secondary education,0.96
 440,Lithuania,2021,Ratio of girls to boys in upper secondary education,0.95
-442,Luxembourg,2005,Ratio of girls to boys in primary education,1
+442,Luxembourg,2005,Ratio of girls to boys in primary education,1.0
 442,Luxembourg,2010,Ratio of girls to boys in primary education,1.01
-442,Luxembourg,2015,Ratio of girls to boys in primary education,1
-442,Luxembourg,2020,Ratio of girls to boys in primary education,1
-442,Luxembourg,2021,Ratio of girls to boys in primary education,1
+442,Luxembourg,2015,Ratio of girls to boys in primary education,1.0
+442,Luxembourg,2020,Ratio of girls to boys in primary education,1.0
+442,Luxembourg,2021,Ratio of girls to boys in primary education,1.0
 442,Luxembourg,1995,Ratio of girls to boys in lower secondary education,1.06
 442,Luxembourg,2005,Ratio of girls to boys in lower secondary education,1.04
 442,Luxembourg,2010,Ratio of girls to boys in lower secondary education,1.02
@@ -1852,12 +1852,12 @@
 442,Luxembourg,2021,Ratio of girls to boys in upper secondary education,1.08
 450,Madagascar,1995,Ratio of girls to boys in primary education,1.05
 450,Madagascar,2005,Ratio of girls to boys in primary education,0.98
-450,Madagascar,2010,Ratio of girls to boys in primary education,1
+450,Madagascar,2010,Ratio of girls to boys in primary education,1.0
 450,Madagascar,2015,Ratio of girls to boys in primary education,1.01
 450,Madagascar,2020,Ratio of girls to boys in primary education,1.02
 450,Madagascar,2021,Ratio of girls to boys in primary education,1.03
 450,Madagascar,2022,Ratio of girls to boys in primary education,1.03
-450,Madagascar,2005,Ratio of girls to boys in lower secondary education,1
+450,Madagascar,2005,Ratio of girls to boys in lower secondary education,1.0
 450,Madagascar,2015,Ratio of girls to boys in lower secondary education,1.02
 450,Madagascar,2021,Ratio of girls to boys in lower secondary education,1.07
 450,Madagascar,2005,Ratio of girls to boys in upper secondary education,0.91
@@ -1866,7 +1866,7 @@
 454,Malawi,1995,Ratio of girls to boys in primary education,0.9
 454,Malawi,2005,Ratio of girls to boys in primary education,0.98
 454,Malawi,2010,Ratio of girls to boys in primary education,0.99
-454,Malawi,2015,Ratio of girls to boys in primary education,1
+454,Malawi,2015,Ratio of girls to boys in primary education,1.0
 454,Malawi,2021,Ratio of girls to boys in primary education,1.04
 454,Malawi,2022,Ratio of girls to boys in primary education,1.03
 454,Malawi,2005,Ratio of girls to boys in lower secondary education,0.78
@@ -1879,13 +1879,13 @@
 454,Malawi,2015,Ratio of girls to boys in upper secondary education,0.8
 454,Malawi,2021,Ratio of girls to boys in upper secondary education,0.9
 454,Malawi,2022,Ratio of girls to boys in upper secondary education,0.91
-458,Malaysia,1995,Ratio of girls to boys in primary education,1
+458,Malaysia,1995,Ratio of girls to boys in primary education,1.0
 458,Malaysia,2005,Ratio of girls to boys in primary education,1.01
 458,Malaysia,2010,Ratio of girls to boys in primary education,1.01
-458,Malaysia,2015,Ratio of girls to boys in primary education,1
+458,Malaysia,2015,Ratio of girls to boys in primary education,1.0
 458,Malaysia,2020,Ratio of girls to boys in primary education,1.02
 458,Malaysia,2021,Ratio of girls to boys in primary education,1.02
-458,Malaysia,2022,Ratio of girls to boys in primary education,1
+458,Malaysia,2022,Ratio of girls to boys in primary education,1.0
 458,Malaysia,2005,Ratio of girls to boys in lower secondary education,1.03
 458,Malaysia,2010,Ratio of girls to boys in lower secondary education,1.02
 458,Malaysia,2015,Ratio of girls to boys in lower secondary education,1.05
@@ -1928,7 +1928,7 @@
 470,Malta,2015,Ratio of girls to boys in primary education,1.03
 470,Malta,2020,Ratio of girls to boys in primary education,0.99
 470,Malta,2021,Ratio of girls to boys in primary education,0.99
-470,Malta,2022,Ratio of girls to boys in primary education,1
+470,Malta,2022,Ratio of girls to boys in primary education,1.0
 470,Malta,2005,Ratio of girls to boys in lower secondary education,1.02
 470,Malta,2010,Ratio of girls to boys in lower secondary education,0.97
 470,Malta,2015,Ratio of girls to boys in lower secondary education,0.99
@@ -1944,13 +1944,13 @@
 584,Marshall Islands,2005,Ratio of girls to boys in primary education,1.21
 584,Marshall Islands,2015,Ratio of girls to boys in primary education,0.99
 584,Marshall Islands,2020,Ratio of girls to boys in primary education,1.01
-584,Marshall Islands,2021,Ratio of girls to boys in primary education,1
+584,Marshall Islands,2021,Ratio of girls to boys in primary education,1.0
 584,Marshall Islands,2022,Ratio of girls to boys in primary education,1.03
 584,Marshall Islands,2005,Ratio of girls to boys in lower secondary education,0.97
 584,Marshall Islands,2015,Ratio of girls to boys in lower secondary education,1.09
 584,Marshall Islands,2020,Ratio of girls to boys in lower secondary education,1.12
 584,Marshall Islands,2021,Ratio of girls to boys in lower secondary education,1.03
-584,Marshall Islands,2022,Ratio of girls to boys in lower secondary education,1
+584,Marshall Islands,2022,Ratio of girls to boys in lower secondary education,1.0
 584,Marshall Islands,2005,Ratio of girls to boys in upper secondary education,1.05
 584,Marshall Islands,2015,Ratio of girls to boys in upper secondary education,1.14
 584,Marshall Islands,2020,Ratio of girls to boys in upper secondary education,1.14
@@ -1971,10 +1971,10 @@
 478,Mauritania,2005,Ratio of girls to boys in upper secondary education,0.85
 478,Mauritania,2010,Ratio of girls to boys in upper secondary education,0.74
 478,Mauritania,2015,Ratio of girls to boys in upper secondary education,0.79
-478,Mauritania,2020,Ratio of girls to boys in upper secondary education,1
+478,Mauritania,2020,Ratio of girls to boys in upper secondary education,1.0
 480,Mauritius,1995,Ratio of girls to boys in primary education,1.01
-480,Mauritius,2005,Ratio of girls to boys in primary education,1
-480,Mauritius,2010,Ratio of girls to boys in primary education,1
+480,Mauritius,2005,Ratio of girls to boys in primary education,1.0
+480,Mauritius,2010,Ratio of girls to boys in primary education,1.0
 480,Mauritius,2015,Ratio of girls to boys in primary education,1.01
 480,Mauritius,2020,Ratio of girls to boys in primary education,1.01
 480,Mauritius,2021,Ratio of girls to boys in primary education,1.02
@@ -1991,9 +1991,9 @@
 484,Mexico,2005,Ratio of girls to boys in primary education,0.98
 484,Mexico,2010,Ratio of girls to boys in primary education,0.99
 484,Mexico,2015,Ratio of girls to boys in primary education,0.99
-484,Mexico,2020,Ratio of girls to boys in primary education,1
-484,Mexico,2021,Ratio of girls to boys in primary education,1
-484,Mexico,2022,Ratio of girls to boys in primary education,1
+484,Mexico,2020,Ratio of girls to boys in primary education,1.0
+484,Mexico,2021,Ratio of girls to boys in primary education,1.0
+484,Mexico,2022,Ratio of girls to boys in primary education,1.0
 484,Mexico,1995,Ratio of girls to boys in lower secondary education,0.98
 484,Mexico,2005,Ratio of girls to boys in lower secondary education,1.07
 484,Mexico,2010,Ratio of girls to boys in lower secondary education,1.08
@@ -2011,8 +2011,8 @@
 583,Micronesia (Fed. States of),2005,Ratio of girls to boys in primary education,0.97
 583,Micronesia (Fed. States of),2015,Ratio of girls to boys in primary education,0.94
 583,Micronesia (Fed. States of),2020,Ratio of girls to boys in primary education,1.01
-583,Micronesia (Fed. States of),2021,Ratio of girls to boys in primary education,1
-583,Micronesia (Fed. States of),2022,Ratio of girls to boys in primary education,1
+583,Micronesia (Fed. States of),2021,Ratio of girls to boys in primary education,1.0
+583,Micronesia (Fed. States of),2022,Ratio of girls to boys in primary education,1.0
 583,Micronesia (Fed. States of),2005,Ratio of girls to boys in lower secondary education,1.06
 583,Micronesia (Fed. States of),2015,Ratio of girls to boys in lower secondary education,1.01
 583,Micronesia (Fed. States of),2020,Ratio of girls to boys in lower secondary education,1.06
@@ -2023,10 +2023,10 @@
 492,Monaco,1995,Ratio of girls to boys in lower secondary education,1.03
 492,Monaco,1995,Ratio of girls to boys in upper secondary education,1.01
 496,Mongolia,1995,Ratio of girls to boys in primary education,1.02
-496,Mongolia,2005,Ratio of girls to boys in primary education,1
+496,Mongolia,2005,Ratio of girls to boys in primary education,1.0
 496,Mongolia,2010,Ratio of girls to boys in primary education,0.99
-496,Mongolia,2015,Ratio of girls to boys in primary education,1
-496,Mongolia,2020,Ratio of girls to boys in primary education,1
+496,Mongolia,2015,Ratio of girls to boys in primary education,1.0
+496,Mongolia,2020,Ratio of girls to boys in primary education,1.0
 496,Mongolia,2021,Ratio of girls to boys in primary education,1.01
 496,Mongolia,2022,Ratio of girls to boys in primary education,1.01
 496,Mongolia,1995,Ratio of girls to boys in lower secondary education,1.22
@@ -2046,8 +2046,8 @@
 499,Montenegro,2010,Ratio of girls to boys in primary education,0.96
 499,Montenegro,2015,Ratio of girls to boys in primary education,0.97
 499,Montenegro,2020,Ratio of girls to boys in primary education,0.99
-499,Montenegro,2021,Ratio of girls to boys in primary education,1
-499,Montenegro,2022,Ratio of girls to boys in primary education,1
+499,Montenegro,2021,Ratio of girls to boys in primary education,1.0
+499,Montenegro,2022,Ratio of girls to boys in primary education,1.0
 499,Montenegro,2005,Ratio of girls to boys in lower secondary education,0.96
 499,Montenegro,2010,Ratio of girls to boys in lower secondary education,0.96
 499,Montenegro,2015,Ratio of girls to boys in lower secondary education,0.97
@@ -2057,8 +2057,8 @@
 499,Montenegro,2005,Ratio of girls to boys in upper secondary education,1.02
 499,Montenegro,2010,Ratio of girls to boys in upper secondary education,1.02
 499,Montenegro,2015,Ratio of girls to boys in upper secondary education,0.97
-499,Montenegro,2020,Ratio of girls to boys in upper secondary education,1
-499,Montenegro,2021,Ratio of girls to boys in upper secondary education,1
+499,Montenegro,2020,Ratio of girls to boys in upper secondary education,1.0
+499,Montenegro,2021,Ratio of girls to boys in upper secondary education,1.0
 499,Montenegro,2022,Ratio of girls to boys in upper secondary education,1.03
 500,Montserrat,1995,Ratio of girls to boys in primary education,0.98
 500,Montserrat,2005,Ratio of girls to boys in primary education,0.98
@@ -2113,13 +2113,13 @@
 508,Mozambique,2005,Ratio of girls to boys in upper secondary education,0.62
 508,Mozambique,2010,Ratio of girls to boys in upper secondary education,0.75
 508,Mozambique,2015,Ratio of girls to boys in upper secondary education,0.92
-508,Mozambique,2020,Ratio of girls to boys in upper secondary education,1
+508,Mozambique,2020,Ratio of girls to boys in upper secondary education,1.0
 508,Mozambique,2021,Ratio of girls to boys in upper secondary education,1.1
 508,Mozambique,2022,Ratio of girls to boys in upper secondary education,0.98
 104,Myanmar,1995,Ratio of girls to boys in primary education,0.98
 104,Myanmar,2005,Ratio of girls to boys in primary education,1.04
 104,Myanmar,2010,Ratio of girls to boys in primary education,1.03
-104,Myanmar,2005,Ratio of girls to boys in lower secondary education,1
+104,Myanmar,2005,Ratio of girls to boys in lower secondary education,1.0
 104,Myanmar,2010,Ratio of girls to boys in lower secondary education,1.07
 104,Myanmar,2005,Ratio of girls to boys in upper secondary education,1.04
 104,Myanmar,2010,Ratio of girls to boys in upper secondary education,1.14
@@ -2157,7 +2157,7 @@
 524,Nepal,2010,Ratio of girls to boys in lower secondary education,0.99
 524,Nepal,2015,Ratio of girls to boys in lower secondary education,1.07
 524,Nepal,2020,Ratio of girls to boys in lower secondary education,1.02
-524,Nepal,2021,Ratio of girls to boys in lower secondary education,1
+524,Nepal,2021,Ratio of girls to boys in lower secondary education,1.0
 524,Nepal,2022,Ratio of girls to boys in lower secondary education,0.98
 524,Nepal,1995,Ratio of girls to boys in upper secondary education,0.56
 524,Nepal,2005,Ratio of girls to boys in upper secondary education,0.79
@@ -2184,18 +2184,18 @@
 528,Netherlands (Kingdom of the),2015,Ratio of girls to boys in upper secondary education,1.06
 528,Netherlands (Kingdom of the),2020,Ratio of girls to boys in upper secondary education,1.06
 528,Netherlands (Kingdom of the),2021,Ratio of girls to boys in upper secondary education,1.06
-554,New Zealand,1995,Ratio of girls to boys in primary education,1
+554,New Zealand,1995,Ratio of girls to boys in primary education,1.0
 554,New Zealand,2005,Ratio of girls to boys in primary education,0.99
-554,New Zealand,2010,Ratio of girls to boys in primary education,1
-554,New Zealand,2015,Ratio of girls to boys in primary education,1
-554,New Zealand,2020,Ratio of girls to boys in primary education,1
-554,New Zealand,2021,Ratio of girls to boys in primary education,1
-554,New Zealand,1995,Ratio of girls to boys in lower secondary education,1
+554,New Zealand,2010,Ratio of girls to boys in primary education,1.0
+554,New Zealand,2015,Ratio of girls to boys in primary education,1.0
+554,New Zealand,2020,Ratio of girls to boys in primary education,1.0
+554,New Zealand,2021,Ratio of girls to boys in primary education,1.0
+554,New Zealand,1995,Ratio of girls to boys in lower secondary education,1.0
 554,New Zealand,2005,Ratio of girls to boys in lower secondary education,0.99
 554,New Zealand,2010,Ratio of girls to boys in lower secondary education,0.99
-554,New Zealand,2015,Ratio of girls to boys in lower secondary education,1
-554,New Zealand,2020,Ratio of girls to boys in lower secondary education,1
-554,New Zealand,2021,Ratio of girls to boys in lower secondary education,1
+554,New Zealand,2015,Ratio of girls to boys in lower secondary education,1.0
+554,New Zealand,2020,Ratio of girls to boys in lower secondary education,1.0
+554,New Zealand,2021,Ratio of girls to boys in lower secondary education,1.0
 554,New Zealand,1995,Ratio of girls to boys in upper secondary education,0.96
 554,New Zealand,2005,Ratio of girls to boys in upper secondary education,1.11
 554,New Zealand,2010,Ratio of girls to boys in upper secondary education,1.08
@@ -2244,7 +2244,7 @@
 566,Nigeria,2021,Ratio of girls to boys in upper secondary education,0.99
 570,Niue,2005,Ratio of girls to boys in primary education,1.07
 570,Niue,2015,Ratio of girls to boys in primary education,0.84
-570,Niue,2020,Ratio of girls to boys in primary education,1
+570,Niue,2020,Ratio of girls to boys in primary education,1.0
 570,Niue,2021,Ratio of girls to boys in primary education,0.89
 570,Niue,2015,Ratio of girls to boys in lower secondary education,1.14
 570,Niue,2020,Ratio of girls to boys in lower secondary education,0.82
@@ -2256,32 +2256,32 @@
 570,Niue,2022,Ratio of girls to boys in upper secondary education,0.78
 807,North Macedonia,1995,Ratio of girls to boys in primary education,0.98
 807,North Macedonia,2005,Ratio of girls to boys in primary education,1.01
-807,North Macedonia,2010,Ratio of girls to boys in primary education,1
+807,North Macedonia,2010,Ratio of girls to boys in primary education,1.0
 807,North Macedonia,2015,Ratio of girls to boys in primary education,1.01
-807,North Macedonia,2020,Ratio of girls to boys in primary education,1
+807,North Macedonia,2020,Ratio of girls to boys in primary education,1.0
 807,North Macedonia,2021,Ratio of girls to boys in primary education,1.01
 807,North Macedonia,2022,Ratio of girls to boys in primary education,1.01
 807,North Macedonia,2005,Ratio of girls to boys in lower secondary education,0.99
 807,North Macedonia,2010,Ratio of girls to boys in lower secondary education,1.01
-807,North Macedonia,2015,Ratio of girls to boys in lower secondary education,1
-807,North Macedonia,2020,Ratio of girls to boys in lower secondary education,1
+807,North Macedonia,2015,Ratio of girls to boys in lower secondary education,1.0
+807,North Macedonia,2020,Ratio of girls to boys in lower secondary education,1.0
 807,North Macedonia,2021,Ratio of girls to boys in lower secondary education,0.99
 807,North Macedonia,2022,Ratio of girls to boys in lower secondary education,1.01
 807,North Macedonia,2005,Ratio of girls to boys in upper secondary education,0.93
 807,North Macedonia,2010,Ratio of girls to boys in upper secondary education,0.97
-807,North Macedonia,2015,Ratio of girls to boys in upper secondary education,1
+807,North Macedonia,2015,Ratio of girls to boys in upper secondary education,1.0
 807,North Macedonia,2020,Ratio of girls to boys in upper secondary education,0.99
 807,North Macedonia,2021,Ratio of girls to boys in upper secondary education,1.02
 807,North Macedonia,2022,Ratio of girls to boys in upper secondary education,1.02
-578,Norway,1995,Ratio of girls to boys in primary education,1
-578,Norway,2005,Ratio of girls to boys in primary education,1
-578,Norway,2010,Ratio of girls to boys in primary education,1
-578,Norway,2015,Ratio of girls to boys in primary education,1
-578,Norway,2020,Ratio of girls to boys in primary education,1
-578,Norway,2021,Ratio of girls to boys in primary education,1
-578,Norway,1995,Ratio of girls to boys in lower secondary education,1
+578,Norway,1995,Ratio of girls to boys in primary education,1.0
+578,Norway,2005,Ratio of girls to boys in primary education,1.0
+578,Norway,2010,Ratio of girls to boys in primary education,1.0
+578,Norway,2015,Ratio of girls to boys in primary education,1.0
+578,Norway,2020,Ratio of girls to boys in primary education,1.0
+578,Norway,2021,Ratio of girls to boys in primary education,1.0
+578,Norway,1995,Ratio of girls to boys in lower secondary education,1.0
 578,Norway,2005,Ratio of girls to boys in lower secondary education,1.01
-578,Norway,2010,Ratio of girls to boys in lower secondary education,1
+578,Norway,2010,Ratio of girls to boys in lower secondary education,1.0
 578,Norway,2015,Ratio of girls to boys in lower secondary education,1.01
 578,Norway,2020,Ratio of girls to boys in lower secondary education,1.02
 578,Norway,2021,Ratio of girls to boys in lower secondary education,1.03
@@ -2299,7 +2299,7 @@
 512,Oman,2022,Ratio of girls to boys in primary education,1.02
 512,Oman,1995,Ratio of girls to boys in lower secondary education,0.92
 512,Oman,2005,Ratio of girls to boys in lower secondary education,0.93
-512,Oman,2015,Ratio of girls to boys in lower secondary education,1
+512,Oman,2015,Ratio of girls to boys in lower secondary education,1.0
 512,Oman,2020,Ratio of girls to boys in lower secondary education,0.98
 512,Oman,2021,Ratio of girls to boys in lower secondary education,0.99
 512,Oman,2022,Ratio of girls to boys in lower secondary education,0.99
@@ -2322,11 +2322,11 @@
 586,Pakistan,2021,Ratio of girls to boys in upper secondary education,0.82
 585,Palau,2020,Ratio of girls to boys in primary education,1.05
 585,Palau,2021,Ratio of girls to boys in primary education,0.99
-585,Palau,2020,Ratio of girls to boys in lower secondary education,1
+585,Palau,2020,Ratio of girls to boys in lower secondary education,1.0
 585,Palau,2021,Ratio of girls to boys in lower secondary education,1.16
 585,Palau,2005,Ratio of girls to boys in upper secondary education,1.15
 585,Palau,2020,Ratio of girls to boys in upper secondary education,1.02
-585,Palau,2021,Ratio of girls to boys in upper secondary education,1
+585,Palau,2021,Ratio of girls to boys in upper secondary education,1.0
 591,Panama,2005,Ratio of girls to boys in primary education,0.97
 591,Panama,2010,Ratio of girls to boys in primary education,0.97
 591,Panama,2015,Ratio of girls to boys in primary education,0.98
@@ -2337,7 +2337,7 @@
 591,Panama,2010,Ratio of girls to boys in lower secondary education,1.01
 591,Panama,2015,Ratio of girls to boys in lower secondary education,1.02
 591,Panama,2020,Ratio of girls to boys in lower secondary education,1.02
-591,Panama,2021,Ratio of girls to boys in lower secondary education,1
+591,Panama,2021,Ratio of girls to boys in lower secondary education,1.0
 591,Panama,2022,Ratio of girls to boys in lower secondary education,1.02
 591,Panama,2005,Ratio of girls to boys in upper secondary education,1.13
 591,Panama,2010,Ratio of girls to boys in upper secondary education,1.14
@@ -2367,27 +2367,27 @@
 604,Peru,2005,Ratio of girls to boys in primary education,0.99
 604,Peru,2010,Ratio of girls to boys in primary education,0.98
 604,Peru,2015,Ratio of girls to boys in primary education,0.99
-604,Peru,2020,Ratio of girls to boys in primary education,1
-604,Peru,2021,Ratio of girls to boys in primary education,1
-604,Peru,2022,Ratio of girls to boys in primary education,1
+604,Peru,2020,Ratio of girls to boys in primary education,1.0
+604,Peru,2021,Ratio of girls to boys in primary education,1.0
+604,Peru,2022,Ratio of girls to boys in primary education,1.0
 604,Peru,2005,Ratio of girls to boys in lower secondary education,0.97
 604,Peru,2010,Ratio of girls to boys in lower secondary education,0.94
 604,Peru,2015,Ratio of girls to boys in lower secondary education,0.95
 604,Peru,2020,Ratio of girls to boys in lower secondary education,0.99
 604,Peru,2021,Ratio of girls to boys in lower secondary education,1.01
-604,Peru,2022,Ratio of girls to boys in lower secondary education,1
+604,Peru,2022,Ratio of girls to boys in lower secondary education,1.0
 604,Peru,2005,Ratio of girls to boys in upper secondary education,0.95
 604,Peru,2010,Ratio of girls to boys in upper secondary education,0.98
 604,Peru,2015,Ratio of girls to boys in upper secondary education,0.96
 604,Peru,2020,Ratio of girls to boys in upper secondary education,1.01
 604,Peru,2021,Ratio of girls to boys in upper secondary education,1.01
 604,Peru,2022,Ratio of girls to boys in upper secondary education,0.99
-608,Philippines,1995,Ratio of girls to boys in primary education,1
-608,Philippines,2005,Ratio of girls to boys in primary education,1
+608,Philippines,1995,Ratio of girls to boys in primary education,1.0
+608,Philippines,2005,Ratio of girls to boys in primary education,1.0
 608,Philippines,2015,Ratio of girls to boys in primary education,0.98
-608,Philippines,2020,Ratio of girls to boys in primary education,1
-608,Philippines,2021,Ratio of girls to boys in primary education,1
-608,Philippines,2022,Ratio of girls to boys in primary education,1
+608,Philippines,2020,Ratio of girls to boys in primary education,1.0
+608,Philippines,2021,Ratio of girls to boys in primary education,1.0
+608,Philippines,2022,Ratio of girls to boys in primary education,1.0
 608,Philippines,2005,Ratio of girls to boys in lower secondary education,1.09
 608,Philippines,2015,Ratio of girls to boys in lower secondary education,1.06
 608,Philippines,2020,Ratio of girls to boys in lower secondary education,1.06
@@ -2404,15 +2404,15 @@
 616,Poland,2010,Ratio of girls to boys in primary education,0.99
 616,Poland,2020,Ratio of girls to boys in primary education,0.97
 616,Poland,2021,Ratio of girls to boys in primary education,0.99
-616,Poland,2022,Ratio of girls to boys in primary education,1
+616,Poland,2022,Ratio of girls to boys in primary education,1.0
 616,Poland,2005,Ratio of girls to boys in lower secondary education,0.98
 616,Poland,2010,Ratio of girls to boys in lower secondary education,0.97
 616,Poland,2015,Ratio of girls to boys in lower secondary education,0.97
-616,Poland,2020,Ratio of girls to boys in lower secondary education,1
+616,Poland,2020,Ratio of girls to boys in lower secondary education,1.0
 616,Poland,2021,Ratio of girls to boys in lower secondary education,0.99
 616,Poland,2022,Ratio of girls to boys in lower secondary education,0.98
 616,Poland,2005,Ratio of girls to boys in upper secondary education,1.01
-616,Poland,2010,Ratio of girls to boys in upper secondary education,1
+616,Poland,2010,Ratio of girls to boys in upper secondary education,1.0
 616,Poland,2015,Ratio of girls to boys in upper secondary education,0.97
 616,Poland,2020,Ratio of girls to boys in upper secondary education,0.99
 616,Poland,2021,Ratio of girls to boys in upper secondary education,0.99
@@ -2435,55 +2435,55 @@
 620,Portugal,2015,Ratio of girls to boys in upper secondary education,1.01
 620,Portugal,2020,Ratio of girls to boys in upper secondary education,1.03
 620,Portugal,2021,Ratio of girls to boys in upper secondary education,1.04
-630,Puerto Rico,2010,Ratio of girls to boys in primary education,1
+630,Puerto Rico,2010,Ratio of girls to boys in primary education,1.0
 630,Puerto Rico,2015,Ratio of girls to boys in primary education,0.98
 630,Puerto Rico,2010,Ratio of girls to boys in lower secondary education,1.03
 630,Puerto Rico,2015,Ratio of girls to boys in lower secondary education,0.98
 630,Puerto Rico,2010,Ratio of girls to boys in upper secondary education,1.1
 630,Puerto Rico,2015,Ratio of girls to boys in upper secondary education,1.06
-634,Qatar,1995,Ratio of girls to boys in primary education,1
+634,Qatar,1995,Ratio of girls to boys in primary education,1.0
 634,Qatar,2005,Ratio of girls to boys in primary education,1.06
 634,Qatar,2010,Ratio of girls to boys in primary education,1.02
 634,Qatar,2015,Ratio of girls to boys in primary education,1.01
-634,Qatar,2020,Ratio of girls to boys in primary education,1
+634,Qatar,2020,Ratio of girls to boys in primary education,1.0
 634,Qatar,2005,Ratio of girls to boys in lower secondary education,1.15
 634,Qatar,2010,Ratio of girls to boys in lower secondary education,1.01
-634,Qatar,2015,Ratio of girls to boys in lower secondary education,1
+634,Qatar,2015,Ratio of girls to boys in lower secondary education,1.0
 634,Qatar,2020,Ratio of girls to boys in lower secondary education,0.99
 634,Qatar,2005,Ratio of girls to boys in upper secondary education,1.28
 634,Qatar,2010,Ratio of girls to boys in upper secondary education,1.04
 634,Qatar,2015,Ratio of girls to boys in upper secondary education,1.04
 634,Qatar,2020,Ratio of girls to boys in upper secondary education,0.97
-410,Republic of Korea,1995,Ratio of girls to boys in primary education,1
-410,Republic of Korea,2005,Ratio of girls to boys in primary education,1
-410,Republic of Korea,2010,Ratio of girls to boys in primary education,1
-410,Republic of Korea,2015,Ratio of girls to boys in primary education,1
-410,Republic of Korea,2020,Ratio of girls to boys in primary education,1
-410,Republic of Korea,2021,Ratio of girls to boys in primary education,1
-410,Republic of Korea,2022,Ratio of girls to boys in primary education,1
+410,Republic of Korea,1995,Ratio of girls to boys in primary education,1.0
+410,Republic of Korea,2005,Ratio of girls to boys in primary education,1.0
+410,Republic of Korea,2010,Ratio of girls to boys in primary education,1.0
+410,Republic of Korea,2015,Ratio of girls to boys in primary education,1.0
+410,Republic of Korea,2020,Ratio of girls to boys in primary education,1.0
+410,Republic of Korea,2021,Ratio of girls to boys in primary education,1.0
+410,Republic of Korea,2022,Ratio of girls to boys in primary education,1.0
 410,Republic of Korea,1995,Ratio of girls to boys in lower secondary education,0.99
 410,Republic of Korea,2005,Ratio of girls to boys in lower secondary education,1.01
-410,Republic of Korea,2010,Ratio of girls to boys in lower secondary education,1
+410,Republic of Korea,2010,Ratio of girls to boys in lower secondary education,1.0
 410,Republic of Korea,2015,Ratio of girls to boys in lower secondary education,0.99
-410,Republic of Korea,2020,Ratio of girls to boys in lower secondary education,1
-410,Republic of Korea,2021,Ratio of girls to boys in lower secondary education,1
-410,Republic of Korea,2022,Ratio of girls to boys in lower secondary education,1
+410,Republic of Korea,2020,Ratio of girls to boys in lower secondary education,1.0
+410,Republic of Korea,2021,Ratio of girls to boys in lower secondary education,1.0
+410,Republic of Korea,2022,Ratio of girls to boys in lower secondary education,1.0
 410,Republic of Korea,1995,Ratio of girls to boys in upper secondary education,0.99
-410,Republic of Korea,2005,Ratio of girls to boys in upper secondary education,1
-410,Republic of Korea,2010,Ratio of girls to boys in upper secondary education,1
-410,Republic of Korea,2015,Ratio of girls to boys in upper secondary education,1
+410,Republic of Korea,2005,Ratio of girls to boys in upper secondary education,1.0
+410,Republic of Korea,2010,Ratio of girls to boys in upper secondary education,1.0
+410,Republic of Korea,2015,Ratio of girls to boys in upper secondary education,1.0
 410,Republic of Korea,2020,Ratio of girls to boys in upper secondary education,0.99
 410,Republic of Korea,2021,Ratio of girls to boys in upper secondary education,0.99
 410,Republic of Korea,2022,Ratio of girls to boys in upper secondary education,0.99
 498,Republic of Moldova,2005,Ratio of girls to boys in primary education,0.99
-498,Republic of Moldova,2010,Ratio of girls to boys in primary education,1
+498,Republic of Moldova,2010,Ratio of girls to boys in primary education,1.0
 498,Republic of Moldova,2015,Ratio of girls to boys in primary education,0.99
 498,Republic of Moldova,2020,Ratio of girls to boys in primary education,0.98
 498,Republic of Moldova,2021,Ratio of girls to boys in primary education,0.99
 498,Republic of Moldova,2022,Ratio of girls to boys in primary education,0.99
-498,Republic of Moldova,2005,Ratio of girls to boys in lower secondary education,1
+498,Republic of Moldova,2005,Ratio of girls to boys in lower secondary education,1.0
 498,Republic of Moldova,2010,Ratio of girls to boys in lower secondary education,0.99
-498,Republic of Moldova,2015,Ratio of girls to boys in lower secondary education,1
+498,Republic of Moldova,2015,Ratio of girls to boys in lower secondary education,1.0
 498,Republic of Moldova,2020,Ratio of girls to boys in lower secondary education,0.98
 498,Republic of Moldova,2021,Ratio of girls to boys in lower secondary education,0.99
 498,Republic of Moldova,2022,Ratio of girls to boys in lower secondary education,0.99
@@ -2491,7 +2491,7 @@
 498,Republic of Moldova,2010,Ratio of girls to boys in upper secondary education,1.1
 498,Republic of Moldova,2015,Ratio of girls to boys in upper secondary education,1.04
 498,Republic of Moldova,2020,Ratio of girls to boys in upper secondary education,1.03
-498,Republic of Moldova,2021,Ratio of girls to boys in upper secondary education,1
+498,Republic of Moldova,2021,Ratio of girls to boys in upper secondary education,1.0
 498,Republic of Moldova,2022,Ratio of girls to boys in upper secondary education,1.01
 642,Romania,1995,Ratio of girls to boys in primary education,0.97
 642,Romania,2005,Ratio of girls to boys in primary education,0.98
@@ -2510,12 +2510,12 @@
 642,Romania,2020,Ratio of girls to boys in upper secondary education,0.91
 642,Romania,2021,Ratio of girls to boys in upper secondary education,1.03
 643,Russian Federation,1995,Ratio of girls to boys in primary education,0.99
-643,Russian Federation,2005,Ratio of girls to boys in primary education,1
+643,Russian Federation,2005,Ratio of girls to boys in primary education,1.0
 643,Russian Federation,2015,Ratio of girls to boys in primary education,1.01
 643,Russian Federation,2020,Ratio of girls to boys in primary education,0.99
 643,Russian Federation,2021,Ratio of girls to boys in primary education,0.99
-643,Russian Federation,2022,Ratio of girls to boys in primary education,1
-643,Russian Federation,2005,Ratio of girls to boys in lower secondary education,1
+643,Russian Federation,2022,Ratio of girls to boys in primary education,1.0
+643,Russian Federation,2005,Ratio of girls to boys in lower secondary education,1.0
 643,Russian Federation,2015,Ratio of girls to boys in lower secondary education,1.01
 643,Russian Federation,2020,Ratio of girls to boys in lower secondary education,0.94
 643,Russian Federation,2021,Ratio of girls to boys in lower secondary education,0.95
@@ -2529,7 +2529,7 @@
 646,Rwanda,2010,Ratio of girls to boys in primary education,1.01
 646,Rwanda,2015,Ratio of girls to boys in primary education,1.02
 646,Rwanda,2021,Ratio of girls to boys in primary education,1.01
-646,Rwanda,2022,Ratio of girls to boys in primary education,1
+646,Rwanda,2022,Ratio of girls to boys in primary education,1.0
 646,Rwanda,2005,Ratio of girls to boys in lower secondary education,0.88
 646,Rwanda,2010,Ratio of girls to boys in lower secondary education,1.05
 646,Rwanda,2015,Ratio of girls to boys in lower secondary education,1.12
@@ -2550,18 +2550,18 @@
 659,Saint Kitts and Nevis,2015,Ratio of girls to boys in lower secondary education,1.01
 659,Saint Kitts and Nevis,2021,Ratio of girls to boys in lower secondary education,0.95
 659,Saint Kitts and Nevis,2005,Ratio of girls to boys in upper secondary education,1.24
-659,Saint Kitts and Nevis,2010,Ratio of girls to boys in upper secondary education,1
+659,Saint Kitts and Nevis,2010,Ratio of girls to boys in upper secondary education,1.0
 659,Saint Kitts and Nevis,2015,Ratio of girls to boys in upper secondary education,1.06
 659,Saint Kitts and Nevis,2021,Ratio of girls to boys in upper secondary education,0.92
 662,Saint Lucia,2005,Ratio of girls to boys in primary education,0.97
 662,Saint Lucia,2010,Ratio of girls to boys in primary education,0.99
-662,Saint Lucia,2015,Ratio of girls to boys in primary education,1
+662,Saint Lucia,2015,Ratio of girls to boys in primary education,1.0
 662,Saint Lucia,2020,Ratio of girls to boys in primary education,1.03
 662,Saint Lucia,2021,Ratio of girls to boys in primary education,1.01
 662,Saint Lucia,2022,Ratio of girls to boys in primary education,1.02
 662,Saint Lucia,2005,Ratio of girls to boys in lower secondary education,1.17
 662,Saint Lucia,2010,Ratio of girls to boys in lower secondary education,0.97
-662,Saint Lucia,2015,Ratio of girls to boys in lower secondary education,1
+662,Saint Lucia,2015,Ratio of girls to boys in lower secondary education,1.0
 662,Saint Lucia,2020,Ratio of girls to boys in lower secondary education,1.03
 662,Saint Lucia,2021,Ratio of girls to boys in lower secondary education,1.05
 662,Saint Lucia,2022,Ratio of girls to boys in lower secondary education,1.08
@@ -2575,7 +2575,7 @@
 670,Saint Vincent & Grenadines,2010,Ratio of girls to boys in primary education,0.95
 670,Saint Vincent & Grenadines,2015,Ratio of girls to boys in primary education,0.99
 670,Saint Vincent & Grenadines,2020,Ratio of girls to boys in primary education,1.01
-670,Saint Vincent & Grenadines,2021,Ratio of girls to boys in primary education,1
+670,Saint Vincent & Grenadines,2021,Ratio of girls to boys in primary education,1.0
 670,Saint Vincent & Grenadines,2022,Ratio of girls to boys in primary education,1.01
 670,Saint Vincent & Grenadines,2005,Ratio of girls to boys in lower secondary education,1.16
 670,Saint Vincent & Grenadines,2010,Ratio of girls to boys in lower secondary education,0.95
@@ -2595,7 +2595,7 @@
 882,Samoa,2015,Ratio of girls to boys in primary education,0.99
 882,Samoa,2020,Ratio of girls to boys in primary education,0.99
 882,Samoa,2021,Ratio of girls to boys in primary education,1.01
-882,Samoa,2022,Ratio of girls to boys in primary education,1
+882,Samoa,2022,Ratio of girls to boys in primary education,1.0
 882,Samoa,1995,Ratio of girls to boys in lower secondary education,1.04
 882,Samoa,2005,Ratio of girls to boys in lower secondary education,1.03
 882,Samoa,2010,Ratio of girls to boys in lower secondary education,0.95
@@ -2613,8 +2613,8 @@
 674,San Marino,2021,Ratio of girls to boys in primary education,0.99
 674,San Marino,2022,Ratio of girls to boys in primary education,1.03
 674,San Marino,2010,Ratio of girls to boys in lower secondary education,0.96
-674,San Marino,2015,Ratio of girls to boys in lower secondary education,1
-674,San Marino,2020,Ratio of girls to boys in lower secondary education,1
+674,San Marino,2015,Ratio of girls to boys in lower secondary education,1.0
+674,San Marino,2020,Ratio of girls to boys in lower secondary education,1.0
 674,San Marino,2021,Ratio of girls to boys in lower secondary education,1.08
 674,San Marino,2022,Ratio of girls to boys in lower secondary education,0.99
 674,San Marino,2010,Ratio of girls to boys in upper secondary education,1.07
@@ -2639,13 +2639,13 @@
 682,Saudi Arabia,2005,Ratio of girls to boys in lower secondary education,0.87
 682,Saudi Arabia,2015,Ratio of girls to boys in lower secondary education,1.03
 682,Saudi Arabia,2020,Ratio of girls to boys in lower secondary education,0.99
-682,Saudi Arabia,2021,Ratio of girls to boys in lower secondary education,1
+682,Saudi Arabia,2021,Ratio of girls to boys in lower secondary education,1.0
 682,Saudi Arabia,2022,Ratio of girls to boys in lower secondary education,0.99
 682,Saudi Arabia,2005,Ratio of girls to boys in upper secondary education,0.89
 682,Saudi Arabia,2015,Ratio of girls to boys in upper secondary education,0.97
 682,Saudi Arabia,2020,Ratio of girls to boys in upper secondary education,0.98
 682,Saudi Arabia,2021,Ratio of girls to boys in upper secondary education,0.96
-682,Saudi Arabia,2022,Ratio of girls to boys in upper secondary education,1
+682,Saudi Arabia,2022,Ratio of girls to boys in upper secondary education,1.0
 686,Senegal,1995,Ratio of girls to boys in primary education,0.76
 686,Senegal,2005,Ratio of girls to boys in primary education,0.97
 686,Senegal,2010,Ratio of girls to boys in primary education,1.06
@@ -2661,18 +2661,18 @@
 686,Senegal,2020,Ratio of girls to boys in upper secondary education,1.07
 686,Senegal,2021,Ratio of girls to boys in upper secondary education,1.13
 686,Senegal,2022,Ratio of girls to boys in upper secondary education,1.16
-688,Serbia,2005,Ratio of girls to boys in primary education,1
-688,Serbia,2010,Ratio of girls to boys in primary education,1
-688,Serbia,2015,Ratio of girls to boys in primary education,1
-688,Serbia,2020,Ratio of girls to boys in primary education,1
-688,Serbia,2021,Ratio of girls to boys in primary education,1
+688,Serbia,2005,Ratio of girls to boys in primary education,1.0
+688,Serbia,2010,Ratio of girls to boys in primary education,1.0
+688,Serbia,2015,Ratio of girls to boys in primary education,1.0
+688,Serbia,2020,Ratio of girls to boys in primary education,1.0
+688,Serbia,2021,Ratio of girls to boys in primary education,1.0
 688,Serbia,2022,Ratio of girls to boys in primary education,1.01
 688,Serbia,2005,Ratio of girls to boys in lower secondary education,0.99
 688,Serbia,2010,Ratio of girls to boys in lower secondary education,0.99
 688,Serbia,2015,Ratio of girls to boys in lower secondary education,0.99
-688,Serbia,2020,Ratio of girls to boys in lower secondary education,1
-688,Serbia,2021,Ratio of girls to boys in lower secondary education,1
-688,Serbia,2022,Ratio of girls to boys in lower secondary education,1
+688,Serbia,2020,Ratio of girls to boys in lower secondary education,1.0
+688,Serbia,2021,Ratio of girls to boys in lower secondary education,1.0
+688,Serbia,2022,Ratio of girls to boys in lower secondary education,1.0
 688,Serbia,2005,Ratio of girls to boys in upper secondary education,1.07
 688,Serbia,2010,Ratio of girls to boys in upper secondary education,1.05
 688,Serbia,2015,Ratio of girls to boys in upper secondary education,1.04
@@ -2684,7 +2684,7 @@
 690,Seychelles,2010,Ratio of girls to boys in primary education,1.02
 690,Seychelles,2015,Ratio of girls to boys in primary education,1.01
 690,Seychelles,2020,Ratio of girls to boys in primary education,1.02
-690,Seychelles,2021,Ratio of girls to boys in primary education,1
+690,Seychelles,2021,Ratio of girls to boys in primary education,1.0
 690,Seychelles,2022,Ratio of girls to boys in primary education,1.01
 690,Seychelles,1995,Ratio of girls to boys in lower secondary education,1.02
 690,Seychelles,2005,Ratio of girls to boys in lower secondary education,1.04
@@ -2711,27 +2711,27 @@
 694,Sierra Leone,2021,Ratio of girls to boys in upper secondary education,1.01
 702,Singapore,2010,Ratio of girls to boys in primary education,0.99
 702,Singapore,2015,Ratio of girls to boys in primary education,0.99
-702,Singapore,2020,Ratio of girls to boys in primary education,1
-702,Singapore,2021,Ratio of girls to boys in primary education,1
+702,Singapore,2020,Ratio of girls to boys in primary education,1.0
+702,Singapore,2021,Ratio of girls to boys in primary education,1.0
 702,Singapore,2010,Ratio of girls to boys in lower secondary education,0.98
 702,Singapore,2015,Ratio of girls to boys in lower secondary education,0.99
-702,Singapore,2020,Ratio of girls to boys in lower secondary education,1
-702,Singapore,2021,Ratio of girls to boys in lower secondary education,1
+702,Singapore,2020,Ratio of girls to boys in lower secondary education,1.0
+702,Singapore,2021,Ratio of girls to boys in lower secondary education,1.0
 702,Singapore,2010,Ratio of girls to boys in upper secondary education,0.98
 702,Singapore,2015,Ratio of girls to boys in upper secondary education,0.99
 702,Singapore,2020,Ratio of girls to boys in upper secondary education,0.99
 702,Singapore,2021,Ratio of girls to boys in upper secondary education,0.99
-703,Slovakia,1995,Ratio of girls to boys in primary education,1
+703,Slovakia,1995,Ratio of girls to boys in primary education,1.0
 703,Slovakia,2005,Ratio of girls to boys in primary education,0.99
-703,Slovakia,2010,Ratio of girls to boys in primary education,1
-703,Slovakia,2015,Ratio of girls to boys in primary education,1
-703,Slovakia,2020,Ratio of girls to boys in primary education,1
-703,Slovakia,2021,Ratio of girls to boys in primary education,1
-703,Slovakia,2022,Ratio of girls to boys in primary education,1
+703,Slovakia,2010,Ratio of girls to boys in primary education,1.0
+703,Slovakia,2015,Ratio of girls to boys in primary education,1.0
+703,Slovakia,2020,Ratio of girls to boys in primary education,1.0
+703,Slovakia,2021,Ratio of girls to boys in primary education,1.0
+703,Slovakia,2022,Ratio of girls to boys in primary education,1.0
 703,Slovakia,2005,Ratio of girls to boys in lower secondary education,0.99
 703,Slovakia,2010,Ratio of girls to boys in lower secondary education,0.99
 703,Slovakia,2015,Ratio of girls to boys in lower secondary education,0.99
-703,Slovakia,2020,Ratio of girls to boys in lower secondary education,1
+703,Slovakia,2020,Ratio of girls to boys in lower secondary education,1.0
 703,Slovakia,2021,Ratio of girls to boys in lower secondary education,0.99
 703,Slovakia,2022,Ratio of girls to boys in lower secondary education,0.99
 703,Slovakia,2005,Ratio of girls to boys in upper secondary education,1.03
@@ -2742,25 +2742,25 @@
 703,Slovakia,2022,Ratio of girls to boys in upper secondary education,1.04
 705,Slovenia,1995,Ratio of girls to boys in primary education,0.98
 705,Slovenia,2005,Ratio of girls to boys in primary education,0.99
-705,Slovenia,2010,Ratio of girls to boys in primary education,1
-705,Slovenia,2015,Ratio of girls to boys in primary education,1
-705,Slovenia,2020,Ratio of girls to boys in primary education,1
-705,Slovenia,2021,Ratio of girls to boys in primary education,1
+705,Slovenia,2010,Ratio of girls to boys in primary education,1.0
+705,Slovenia,2015,Ratio of girls to boys in primary education,1.0
+705,Slovenia,2020,Ratio of girls to boys in primary education,1.0
+705,Slovenia,2021,Ratio of girls to boys in primary education,1.0
 705,Slovenia,2022,Ratio of girls to boys in primary education,0.99
 705,Slovenia,2005,Ratio of girls to boys in lower secondary education,0.99
-705,Slovenia,2010,Ratio of girls to boys in lower secondary education,1
-705,Slovenia,2015,Ratio of girls to boys in lower secondary education,1
-705,Slovenia,2020,Ratio of girls to boys in lower secondary education,1
-705,Slovenia,2021,Ratio of girls to boys in lower secondary education,1
+705,Slovenia,2010,Ratio of girls to boys in lower secondary education,1.0
+705,Slovenia,2015,Ratio of girls to boys in lower secondary education,1.0
+705,Slovenia,2020,Ratio of girls to boys in lower secondary education,1.0
+705,Slovenia,2021,Ratio of girls to boys in lower secondary education,1.0
 705,Slovenia,2022,Ratio of girls to boys in lower secondary education,1.01
-705,Slovenia,2005,Ratio of girls to boys in upper secondary education,1
+705,Slovenia,2005,Ratio of girls to boys in upper secondary education,1.0
 705,Slovenia,2010,Ratio of girls to boys in upper secondary education,0.99
 705,Slovenia,2015,Ratio of girls to boys in upper secondary education,1.01
 705,Slovenia,2020,Ratio of girls to boys in upper secondary education,1.03
 705,Slovenia,2021,Ratio of girls to boys in upper secondary education,1.01
 705,Slovenia,2022,Ratio of girls to boys in upper secondary education,1.02
 90,Solomon Islands,2005,Ratio of girls to boys in primary education,0.96
-90,Solomon Islands,2010,Ratio of girls to boys in primary education,1
+90,Solomon Islands,2010,Ratio of girls to boys in primary education,1.0
 90,Solomon Islands,2015,Ratio of girls to boys in primary education,1.02
 90,Solomon Islands,2005,Ratio of girls to boys in lower secondary education,0.87
 90,Solomon Islands,2010,Ratio of girls to boys in lower secondary education,0.97
@@ -2791,13 +2791,13 @@
 724,Spain,2010,Ratio of girls to boys in primary education,0.99
 724,Spain,2015,Ratio of girls to boys in primary education,1.01
 724,Spain,2020,Ratio of girls to boys in primary education,1.01
-724,Spain,2021,Ratio of girls to boys in primary education,1
+724,Spain,2021,Ratio of girls to boys in primary education,1.0
 724,Spain,1995,Ratio of girls to boys in lower secondary education,0.96
-724,Spain,2005,Ratio of girls to boys in lower secondary education,1
+724,Spain,2005,Ratio of girls to boys in lower secondary education,1.0
 724,Spain,2010,Ratio of girls to boys in lower secondary education,0.99
 724,Spain,2015,Ratio of girls to boys in lower secondary education,0.97
 724,Spain,2020,Ratio of girls to boys in lower secondary education,0.99
-724,Spain,2021,Ratio of girls to boys in lower secondary education,1
+724,Spain,2021,Ratio of girls to boys in lower secondary education,1.0
 724,Spain,1995,Ratio of girls to boys in upper secondary education,1.14
 724,Spain,2005,Ratio of girls to boys in upper secondary education,1.15
 724,Spain,2010,Ratio of girls to boys in upper secondary education,1.08
@@ -2811,7 +2811,7 @@
 144,Sri Lanka,2020,Ratio of girls to boys in primary education,1.01
 144,Sri Lanka,2021,Ratio of girls to boys in primary education,1.02
 144,Sri Lanka,1995,Ratio of girls to boys in lower secondary education,1.05
-144,Sri Lanka,2005,Ratio of girls to boys in lower secondary education,1
+144,Sri Lanka,2005,Ratio of girls to boys in lower secondary education,1.0
 144,Sri Lanka,2010,Ratio of girls to boys in lower secondary education,0.96
 144,Sri Lanka,2015,Ratio of girls to boys in lower secondary education,1.01
 144,Sri Lanka,2020,Ratio of girls to boys in lower secondary education,1.02
@@ -2832,7 +2832,7 @@
 275,State of Palestine,2010,Ratio of girls to boys in lower secondary education,1.02
 275,State of Palestine,2015,Ratio of girls to boys in lower secondary education,1.02
 275,State of Palestine,2020,Ratio of girls to boys in lower secondary education,1.01
-275,State of Palestine,2021,Ratio of girls to boys in lower secondary education,1
+275,State of Palestine,2021,Ratio of girls to boys in lower secondary education,1.0
 275,State of Palestine,2022,Ratio of girls to boys in lower secondary education,1.01
 275,State of Palestine,1995,Ratio of girls to boys in upper secondary education,0.87
 275,State of Palestine,2005,Ratio of girls to boys in upper secondary education,1.09
@@ -2847,7 +2847,7 @@
 729,Sudan,2005,Ratio of girls to boys in lower secondary education,0.88
 729,Sudan,2010,Ratio of girls to boys in lower secondary education,0.82
 729,Sudan,2015,Ratio of girls to boys in lower secondary education,0.92
-729,Sudan,2005,Ratio of girls to boys in upper secondary education,1
+729,Sudan,2005,Ratio of girls to boys in upper secondary education,1.0
 729,Sudan,2010,Ratio of girls to boys in upper secondary education,0.92
 729,Sudan,2015,Ratio of girls to boys in upper secondary education,1.05
 740,Suriname,2005,Ratio of girls to boys in primary education,0.94
@@ -2865,40 +2865,40 @@
 740,Suriname,2015,Ratio of girls to boys in upper secondary education,1.41
 740,Suriname,2021,Ratio of girls to boys in upper secondary education,1.27
 752,Sweden,1995,Ratio of girls to boys in primary education,1.02
-752,Sweden,2005,Ratio of girls to boys in primary education,1
-752,Sweden,2010,Ratio of girls to boys in primary education,1
+752,Sweden,2005,Ratio of girls to boys in primary education,1.0
+752,Sweden,2010,Ratio of girls to boys in primary education,1.0
 752,Sweden,2015,Ratio of girls to boys in primary education,1.04
 752,Sweden,2020,Ratio of girls to boys in primary education,1.05
 752,Sweden,2021,Ratio of girls to boys in primary education,1.06
 752,Sweden,2022,Ratio of girls to boys in primary education,1.06
 752,Sweden,1995,Ratio of girls to boys in lower secondary education,1.05
-752,Sweden,2005,Ratio of girls to boys in lower secondary education,1
+752,Sweden,2005,Ratio of girls to boys in lower secondary education,1.0
 752,Sweden,2010,Ratio of girls to boys in lower secondary education,0.99
 752,Sweden,2015,Ratio of girls to boys in lower secondary education,1.05
 752,Sweden,2020,Ratio of girls to boys in lower secondary education,1.04
 752,Sweden,2021,Ratio of girls to boys in lower secondary education,1.05
 752,Sweden,2022,Ratio of girls to boys in lower secondary education,1.05
 752,Sweden,1995,Ratio of girls to boys in upper secondary education,1.18
-752,Sweden,2005,Ratio of girls to boys in upper secondary education,1
+752,Sweden,2005,Ratio of girls to boys in upper secondary education,1.0
 752,Sweden,2010,Ratio of girls to boys in upper secondary education,0.99
 752,Sweden,2015,Ratio of girls to boys in upper secondary education,1.17
 752,Sweden,2020,Ratio of girls to boys in upper secondary education,1.13
 752,Sweden,2021,Ratio of girls to boys in upper secondary education,1.15
 752,Sweden,2022,Ratio of girls to boys in upper secondary education,1.17
 756,Switzerland,1995,Ratio of girls to boys in primary education,0.99
-756,Switzerland,2005,Ratio of girls to boys in primary education,1
-756,Switzerland,2010,Ratio of girls to boys in primary education,1
-756,Switzerland,2015,Ratio of girls to boys in primary education,1
-756,Switzerland,2020,Ratio of girls to boys in primary education,1
-756,Switzerland,2021,Ratio of girls to boys in primary education,1
-756,Switzerland,2022,Ratio of girls to boys in primary education,1
+756,Switzerland,2005,Ratio of girls to boys in primary education,1.0
+756,Switzerland,2010,Ratio of girls to boys in primary education,1.0
+756,Switzerland,2015,Ratio of girls to boys in primary education,1.0
+756,Switzerland,2020,Ratio of girls to boys in primary education,1.0
+756,Switzerland,2021,Ratio of girls to boys in primary education,1.0
+756,Switzerland,2022,Ratio of girls to boys in primary education,1.0
 756,Switzerland,1995,Ratio of girls to boys in lower secondary education,1.02
 756,Switzerland,2005,Ratio of girls to boys in lower secondary education,1.02
 756,Switzerland,2010,Ratio of girls to boys in lower secondary education,1.03
-756,Switzerland,2015,Ratio of girls to boys in lower secondary education,1
+756,Switzerland,2015,Ratio of girls to boys in lower secondary education,1.0
 756,Switzerland,2020,Ratio of girls to boys in lower secondary education,1.01
-756,Switzerland,2021,Ratio of girls to boys in lower secondary education,1
-756,Switzerland,2022,Ratio of girls to boys in lower secondary education,1
+756,Switzerland,2021,Ratio of girls to boys in lower secondary education,1.0
+756,Switzerland,2022,Ratio of girls to boys in lower secondary education,1.0
 756,Switzerland,1995,Ratio of girls to boys in upper secondary education,0.87
 756,Switzerland,2005,Ratio of girls to boys in upper secondary education,0.87
 756,Switzerland,2010,Ratio of girls to boys in upper secondary education,0.93
@@ -2909,9 +2909,9 @@
 760,Syrian Arab Republic,1995,Ratio of girls to boys in primary education,0.92
 760,Syrian Arab Republic,2005,Ratio of girls to boys in primary education,0.96
 760,Syrian Arab Republic,2010,Ratio of girls to boys in primary education,0.96
-760,Syrian Arab Republic,2020,Ratio of girls to boys in primary education,1
-760,Syrian Arab Republic,2021,Ratio of girls to boys in primary education,1
-760,Syrian Arab Republic,2022,Ratio of girls to boys in primary education,1
+760,Syrian Arab Republic,2020,Ratio of girls to boys in primary education,1.0
+760,Syrian Arab Republic,2021,Ratio of girls to boys in primary education,1.0
+760,Syrian Arab Republic,2022,Ratio of girls to boys in primary education,1.0
 760,Syrian Arab Republic,2005,Ratio of girls to boys in lower secondary education,0.93
 760,Syrian Arab Republic,2010,Ratio of girls to boys in lower secondary education,0.97
 760,Syrian Arab Republic,2020,Ratio of girls to boys in lower secondary education,1.07
@@ -2945,12 +2945,12 @@
 764,Thailand,2022,Ratio of girls to boys in lower secondary education,1.1
 764,Thailand,2005,Ratio of girls to boys in upper secondary education,1.12
 764,Thailand,2010,Ratio of girls to boys in upper secondary education,1.17
-764,Thailand,2015,Ratio of girls to boys in upper secondary education,1
+764,Thailand,2015,Ratio of girls to boys in upper secondary education,1.0
 764,Thailand,2020,Ratio of girls to boys in upper secondary education,1.08
 764,Thailand,2021,Ratio of girls to boys in upper secondary education,1.09
 764,Thailand,2022,Ratio of girls to boys in upper secondary education,1.01
 626,Timor-Leste,2005,Ratio of girls to boys in primary education,0.95
-626,Timor-Leste,2010,Ratio of girls to boys in primary education,1
+626,Timor-Leste,2010,Ratio of girls to boys in primary education,1.0
 626,Timor-Leste,2015,Ratio of girls to boys in primary education,1.02
 626,Timor-Leste,2020,Ratio of girls to boys in primary education,1.01
 626,Timor-Leste,2010,Ratio of girls to boys in lower secondary education,1.05
@@ -2985,8 +2985,8 @@
 776,Tonga,2015,Ratio of girls to boys in primary education,0.96
 776,Tonga,2020,Ratio of girls to boys in primary education,0.94
 776,Tonga,2021,Ratio of girls to boys in primary education,0.97
-776,Tonga,2022,Ratio of girls to boys in primary education,1
-776,Tonga,2015,Ratio of girls to boys in lower secondary education,1
+776,Tonga,2022,Ratio of girls to boys in primary education,1.0
+776,Tonga,2015,Ratio of girls to boys in lower secondary education,1.0
 776,Tonga,2020,Ratio of girls to boys in lower secondary education,1.1
 776,Tonga,2021,Ratio of girls to boys in lower secondary education,0.98
 776,Tonga,2022,Ratio of girls to boys in lower secondary education,0.97
@@ -2994,7 +2994,7 @@
 776,Tonga,2020,Ratio of girls to boys in upper secondary education,1.15
 776,Tonga,2021,Ratio of girls to boys in upper secondary education,1.4
 776,Tonga,2022,Ratio of girls to boys in upper secondary education,1.28
-780,Trinidad and Tobago,1995,Ratio of girls to boys in primary education,1
+780,Trinidad and Tobago,1995,Ratio of girls to boys in primary education,1.0
 780,Trinidad and Tobago,2005,Ratio of girls to boys in primary education,0.98
 780,Trinidad and Tobago,2010,Ratio of girls to boys in primary education,0.97
 780,Trinidad and Tobago,2005,Ratio of girls to boys in lower secondary education,1.03
@@ -3004,12 +3004,12 @@
 788,Tunisia,1995,Ratio of girls to boys in primary education,0.93
 788,Tunisia,2005,Ratio of girls to boys in primary education,0.97
 788,Tunisia,2010,Ratio of girls to boys in primary education,0.99
-788,Tunisia,2015,Ratio of girls to boys in primary education,1
+788,Tunisia,2015,Ratio of girls to boys in primary education,1.0
 788,Tunisia,2020,Ratio of girls to boys in primary education,0.98
 788,Tunisia,2021,Ratio of girls to boys in primary education,0.98
 788,Tunisia,2022,Ratio of girls to boys in primary education,0.98
 788,Tunisia,1995,Ratio of girls to boys in lower secondary education,0.91
-788,Tunisia,2005,Ratio of girls to boys in lower secondary education,1
+788,Tunisia,2005,Ratio of girls to boys in lower secondary education,1.0
 788,Tunisia,2010,Ratio of girls to boys in lower secondary education,0.94
 788,Tunisia,2015,Ratio of girls to boys in lower secondary education,0.99
 788,Tunisia,2020,Ratio of girls to boys in lower secondary education,1.03
@@ -3019,7 +3019,7 @@
 788,Tunisia,2010,Ratio of girls to boys in upper secondary education,1.17
 792,Türkiye,1995,Ratio of girls to boys in primary education,0.94
 792,Türkiye,2005,Ratio of girls to boys in primary education,0.97
-792,Türkiye,2010,Ratio of girls to boys in primary education,1
+792,Türkiye,2010,Ratio of girls to boys in primary education,1.0
 792,Türkiye,2015,Ratio of girls to boys in primary education,1.01
 792,Türkiye,2020,Ratio of girls to boys in primary education,0.99
 792,Türkiye,2021,Ratio of girls to boys in primary education,0.99
@@ -3069,15 +3069,15 @@
 798,Tuvalu,2022,Ratio of girls to boys in upper secondary education,1.23
 800,Uganda,1995,Ratio of girls to boys in primary education,0.83
 800,Uganda,2005,Ratio of girls to boys in primary education,0.98
-800,Uganda,2010,Ratio of girls to boys in primary education,1
-800,Uganda,2015,Ratio of girls to boys in primary education,1
+800,Uganda,2010,Ratio of girls to boys in primary education,1.0
+800,Uganda,2015,Ratio of girls to boys in primary education,1.0
 804,Ukraine,2005,Ratio of girls to boys in primary education,0.99
 804,Ukraine,2010,Ratio of girls to boys in primary education,1.01
 804,Ukraine,2015,Ratio of girls to boys in primary education,1.02
 804,Ukraine,2020,Ratio of girls to boys in primary education,1.01
 804,Ukraine,2021,Ratio of girls to boys in primary education,1.01
 804,Ukraine,2005,Ratio of girls to boys in lower secondary education,0.91
-804,Ukraine,2010,Ratio of girls to boys in lower secondary education,1
+804,Ukraine,2010,Ratio of girls to boys in lower secondary education,1.0
 804,Ukraine,2015,Ratio of girls to boys in lower secondary education,1.01
 804,Ukraine,2020,Ratio of girls to boys in lower secondary education,1.02
 804,Ukraine,2021,Ratio of girls to boys in lower secondary education,1.02
@@ -3086,10 +3086,10 @@
 804,Ukraine,2015,Ratio of girls to boys in upper secondary education,0.93
 804,Ukraine,2020,Ratio of girls to boys in upper secondary education,0.98
 804,Ukraine,2021,Ratio of girls to boys in upper secondary education,0.98
-784,United Arab Emirates,1995,Ratio of girls to boys in primary education,1
+784,United Arab Emirates,1995,Ratio of girls to boys in primary education,1.0
 784,United Arab Emirates,2005,Ratio of girls to boys in primary education,1.03
 784,United Arab Emirates,2010,Ratio of girls to boys in primary education,1.06
-784,United Arab Emirates,2015,Ratio of girls to boys in primary education,1
+784,United Arab Emirates,2015,Ratio of girls to boys in primary education,1.0
 784,United Arab Emirates,2020,Ratio of girls to boys in primary education,1.03
 784,United Arab Emirates,1995,Ratio of girls to boys in lower secondary education,1.04
 784,United Arab Emirates,2005,Ratio of girls to boys in lower secondary education,0.99
@@ -3098,27 +3098,27 @@
 784,United Arab Emirates,2020,Ratio of girls to boys in lower secondary education,1.04
 784,United Arab Emirates,1995,Ratio of girls to boys in upper secondary education,1.17
 784,United Arab Emirates,2020,Ratio of girls to boys in upper secondary education,0.95
-826,United Kingdom,2005,Ratio of girls to boys in primary education,1
+826,United Kingdom,2005,Ratio of girls to boys in primary education,1.0
 826,United Kingdom,2010,Ratio of girls to boys in primary education,0.99
-826,United Kingdom,2015,Ratio of girls to boys in primary education,1
-826,United Kingdom,2020,Ratio of girls to boys in primary education,1
-826,United Kingdom,2021,Ratio of girls to boys in primary education,1
-826,United Kingdom,2022,Ratio of girls to boys in primary education,1
-826,United Kingdom,1995,Ratio of girls to boys in lower secondary education,1
+826,United Kingdom,2015,Ratio of girls to boys in primary education,1.0
+826,United Kingdom,2020,Ratio of girls to boys in primary education,1.0
+826,United Kingdom,2021,Ratio of girls to boys in primary education,1.0
+826,United Kingdom,2022,Ratio of girls to boys in primary education,1.0
+826,United Kingdom,1995,Ratio of girls to boys in lower secondary education,1.0
 826,United Kingdom,2005,Ratio of girls to boys in lower secondary education,0.99
 826,United Kingdom,2010,Ratio of girls to boys in lower secondary education,0.96
 826,United Kingdom,2015,Ratio of girls to boys in lower secondary education,0.97
-826,United Kingdom,2020,Ratio of girls to boys in lower secondary education,1
+826,United Kingdom,2020,Ratio of girls to boys in lower secondary education,1.0
 826,United Kingdom,2021,Ratio of girls to boys in lower secondary education,0.99
-826,United Kingdom,2022,Ratio of girls to boys in lower secondary education,1
-826,United Kingdom,1995,Ratio of girls to boys in upper secondary education,1
+826,United Kingdom,2022,Ratio of girls to boys in lower secondary education,1.0
+826,United Kingdom,1995,Ratio of girls to boys in upper secondary education,1.0
 826,United Kingdom,2005,Ratio of girls to boys in upper secondary education,1.03
 826,United Kingdom,2010,Ratio of girls to boys in upper secondary education,1.04
 826,United Kingdom,2015,Ratio of girls to boys in upper secondary education,1.07
 826,United Kingdom,2020,Ratio of girls to boys in upper secondary education,1.06
 826,United Kingdom,2021,Ratio of girls to boys in upper secondary education,1.07
 826,United Kingdom,2022,Ratio of girls to boys in upper secondary education,1.06
-834,United Rep. of Tanzania,1995,Ratio of girls to boys in primary education,1
+834,United Rep. of Tanzania,1995,Ratio of girls to boys in primary education,1.0
 834,United Rep. of Tanzania,2005,Ratio of girls to boys in primary education,0.95
 834,United Rep. of Tanzania,2010,Ratio of girls to boys in primary education,0.99
 834,United Rep. of Tanzania,2015,Ratio of girls to boys in primary education,1.04
@@ -3137,16 +3137,16 @@
 834,United Rep. of Tanzania,2021,Ratio of girls to boys in upper secondary education,0.76
 840,United States of America,1995,Ratio of girls to boys in primary education,0.99
 840,United States of America,2005,Ratio of girls to boys in primary education,0.99
-840,United States of America,2015,Ratio of girls to boys in primary education,1
-840,United States of America,2020,Ratio of girls to boys in primary education,1
+840,United States of America,2015,Ratio of girls to boys in primary education,1.0
+840,United States of America,2020,Ratio of girls to boys in primary education,1.0
 840,United States of America,2021,Ratio of girls to boys in primary education,0.99
-840,United States of America,2022,Ratio of girls to boys in primary education,1
-840,United States of America,1995,Ratio of girls to boys in lower secondary education,1
+840,United States of America,2022,Ratio of girls to boys in primary education,1.0
+840,United States of America,1995,Ratio of girls to boys in lower secondary education,1.0
 840,United States of America,2005,Ratio of girls to boys in lower secondary education,0.99
-840,United States of America,2015,Ratio of girls to boys in lower secondary education,1
+840,United States of America,2015,Ratio of girls to boys in lower secondary education,1.0
 840,United States of America,2020,Ratio of girls to boys in lower secondary education,0.98
-840,United States of America,2021,Ratio of girls to boys in lower secondary education,1
-840,United States of America,2022,Ratio of girls to boys in lower secondary education,1
+840,United States of America,2021,Ratio of girls to boys in lower secondary education,1.0
+840,United States of America,2022,Ratio of girls to boys in lower secondary education,1.0
 840,United States of America,1995,Ratio of girls to boys in upper secondary education,1.05
 840,United States of America,2005,Ratio of girls to boys in upper secondary education,1.06
 840,United States of America,2015,Ratio of girls to boys in upper secondary education,1.02
@@ -3173,18 +3173,18 @@
 858,Uruguay,2021,Ratio of girls to boys in upper secondary education,1.18
 858,Uruguay,2022,Ratio of girls to boys in upper secondary education,1.18
 860,Uzbekistan,1995,Ratio of girls to boys in primary education,0.99
-860,Uzbekistan,2005,Ratio of girls to boys in primary education,1
+860,Uzbekistan,2005,Ratio of girls to boys in primary education,1.0
 860,Uzbekistan,2010,Ratio of girls to boys in primary education,0.99
 860,Uzbekistan,2015,Ratio of girls to boys in primary education,0.99
 860,Uzbekistan,2020,Ratio of girls to boys in primary education,0.99
-860,Uzbekistan,2021,Ratio of girls to boys in primary education,1
+860,Uzbekistan,2021,Ratio of girls to boys in primary education,1.0
 860,Uzbekistan,2022,Ratio of girls to boys in primary education,0.99
-860,Uzbekistan,2005,Ratio of girls to boys in lower secondary education,1
+860,Uzbekistan,2005,Ratio of girls to boys in lower secondary education,1.0
 860,Uzbekistan,2010,Ratio of girls to boys in lower secondary education,0.99
 860,Uzbekistan,2015,Ratio of girls to boys in lower secondary education,0.99
 860,Uzbekistan,2020,Ratio of girls to boys in lower secondary education,0.99
 860,Uzbekistan,2021,Ratio of girls to boys in lower secondary education,0.99
-860,Uzbekistan,2022,Ratio of girls to boys in lower secondary education,1
+860,Uzbekistan,2022,Ratio of girls to boys in lower secondary education,1.0
 860,Uzbekistan,2005,Ratio of girls to boys in upper secondary education,0.95
 860,Uzbekistan,2010,Ratio of girls to boys in upper secondary education,1.01
 860,Uzbekistan,2015,Ratio of girls to boys in upper secondary education,0.99
@@ -3219,7 +3219,7 @@
 704,Viet Nam,1995,Ratio of girls to boys in primary education,0.99
 704,Viet Nam,2005,Ratio of girls to boys in primary education,0.95
 704,Viet Nam,2010,Ratio of girls to boys in primary education,0.95
-704,Viet Nam,2015,Ratio of girls to boys in primary education,1
+704,Viet Nam,2015,Ratio of girls to boys in primary education,1.0
 704,Viet Nam,2020,Ratio of girls to boys in primary education,1.01
 704,Viet Nam,2021,Ratio of girls to boys in primary education,1.01
 704,Viet Nam,2022,Ratio of girls to boys in primary education,1.02
@@ -3292,7 +3292,7 @@
 722,SIDS,2020,Ratio of girls to boys in primary education,0.97
 722,SIDS,2021,Ratio of girls to boys in primary education,0.97
 722,SIDS,2022,Ratio of girls to boys in primary education,0.97
-722,SIDS,2005,Ratio of girls to boys in lower secondary education,1
+722,SIDS,2005,Ratio of girls to boys in lower secondary education,1.0
 722,SIDS,2010,Ratio of girls to boys in lower secondary education,0.98
 722,SIDS,2015,Ratio of girls to boys in lower secondary education,0.98
 722,SIDS,2020,Ratio of girls to boys in lower secondary education,0.97

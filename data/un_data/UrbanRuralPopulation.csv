@@ -1,4 +1,4 @@
-Region/Country/Area,,Year,Series,Capital City,Value
+Region/Country/Area,Country/Region Name,Year,Series,Capital City,Value
 1,"Total, all countries or areas",2005,Urban population (percent),,49.2
 1,"Total, all countries or areas",2005,Urban population (percent growth rate per annum),,2.3
 1,"Total, all countries or areas",2005,Rural population (percent growth rate per annum),,0.3
@@ -859,23 +859,23 @@ Region/Country/Area,,Year,Series,Capital City,Value
 120,Cameroon,2005,Urban population (percent),,48.5
 120,Cameroon,2005,Urban population (percent growth rate per annum),,3.9
 120,Cameroon,2005,Rural population (percent growth rate per annum),,1.5
-120,Cameroon,2005,Capital city population (thousands),Yaoundé,"1,781"
-120,Cameroon,2005,Capital city population (as a percentage of total population),Yaoundé,10.2
-120,Cameroon,2005,Capital city population (as a percentage of total urban population),Yaoundé,21.1
+120,Cameroon,2005,Capital city population (thousands),YaoundÃ©,"1,781"
+120,Cameroon,2005,Capital city population (as a percentage of total population),YaoundÃ©,10.2
+120,Cameroon,2005,Capital city population (as a percentage of total urban population),YaoundÃ©,21.1
 120,Cameroon,2010,Urban population (percent),,51.6
 120,Cameroon,2010,Urban population (percent growth rate per annum),,3.9
 120,Cameroon,2010,Rural population (percent growth rate per annum),,1.5
-120,Cameroon,2010,Capital city population (thousands),Yaoundé,"2,349"
-120,Cameroon,2010,Capital city population (as a percentage of total population),Yaoundé,11.8
-120,Cameroon,2010,Capital city population (as a percentage of total urban population),Yaoundé,22.8
+120,Cameroon,2010,Capital city population (thousands),YaoundÃ©,"2,349"
+120,Cameroon,2010,Capital city population (as a percentage of total population),YaoundÃ©,11.8
+120,Cameroon,2010,Capital city population (as a percentage of total urban population),YaoundÃ©,22.8
 120,Cameroon,2015,Urban population (percent),,54.6
 120,Cameroon,2015,Urban population (percent growth rate per annum),,3.8
 120,Cameroon,2015,Rural population (percent growth rate per annum),,1.4
-120,Cameroon,2015,Capital city population (thousands),Yaoundé,"3,097"
-120,Cameroon,2015,Capital city population (as a percentage of total population),Yaoundé,13.6
-120,Cameroon,2015,Capital city population (as a percentage of total urban population),Yaoundé,24.8
+120,Cameroon,2015,Capital city population (thousands),YaoundÃ©,"3,097"
+120,Cameroon,2015,Capital city population (as a percentage of total population),YaoundÃ©,13.6
+120,Cameroon,2015,Capital city population (as a percentage of total urban population),YaoundÃ©,24.8
 120,Cameroon,2018,Urban population (percent),,56.4
-120,Cameroon,2018,Capital city population (thousands),Yaoundé,"3,656"
+120,Cameroon,2018,Capital city population (thousands),YaoundÃ©,"3,656"
 124,Canada,2005,Urban population (percent),,80.1
 124,Canada,2005,Urban population (percent growth rate per annum),,1.1
 124,Canada,2005,Rural population (percent growth rate per annum),,0.3
@@ -1103,34 +1103,34 @@ Region/Country/Area,,Year,Series,Capital City,Value
 188,Costa Rica,2005,Urban population (percent),,65.7
 188,Costa Rica,2005,Urban population (percent growth rate per annum),,3.7
 188,Costa Rica,2005,Rural population (percent growth rate per annum),,-1.9
-188,Costa Rica,2005,Capital city population (thousands),San José,"1,114"
-188,Costa Rica,2005,Capital city population (as a percentage of total population),San José,26.2
-188,Costa Rica,2005,Capital city population (as a percentage of total urban population),San José,39.9
+188,Costa Rica,2005,Capital city population (thousands),San JosÃ©,"1,114"
+188,Costa Rica,2005,Capital city population (as a percentage of total population),San JosÃ©,26.2
+188,Costa Rica,2005,Capital city population (as a percentage of total urban population),San JosÃ©,39.9
 188,Costa Rica,2010,Urban population (percent),,71.7
 188,Costa Rica,2010,Urban population (percent growth rate per annum),,3.1
 188,Costa Rica,2010,Rural population (percent growth rate per annum),,-2.5
-188,Costa Rica,2010,Capital city population (thousands),San José,"1,202"
-188,Costa Rica,2010,Capital city population (as a percentage of total population),San José,26.4
-188,Costa Rica,2010,Capital city population (as a percentage of total urban population),San José,36.9
+188,Costa Rica,2010,Capital city population (thousands),San JosÃ©,"1,202"
+188,Costa Rica,2010,Capital city population (as a percentage of total population),San JosÃ©,26.4
+188,Costa Rica,2010,Capital city population (as a percentage of total urban population),San JosÃ©,36.9
 188,Costa Rica,2015,Urban population (percent),,76.9
 188,Costa Rica,2015,Urban population (percent growth rate per annum),,2.5
 188,Costa Rica,2015,Rural population (percent growth rate per annum),,-2.9
-188,Costa Rica,2015,Capital city population (thousands),San José,"1,297"
-188,Costa Rica,2015,Capital city population (as a percentage of total population),San José,27
-188,Costa Rica,2015,Capital city population (as a percentage of total urban population),San José,35.1
+188,Costa Rica,2015,Capital city population (thousands),San JosÃ©,"1,297"
+188,Costa Rica,2015,Capital city population (as a percentage of total population),San JosÃ©,27
+188,Costa Rica,2015,Capital city population (as a percentage of total urban population),San JosÃ©,35.1
 188,Costa Rica,2018,Urban population (percent),,79.3
-188,Costa Rica,2018,Capital city population (thousands),San José,"1,358"
-384,Côte d’Ivoire,2005,Urban population (percent),,45.2
-384,Côte d’Ivoire,2005,Urban population (percent growth rate per annum),,2.8
-384,Côte d’Ivoire,2005,Rural population (percent growth rate per annum),,1.1
-384,Côte d’Ivoire,2010,Urban population (percent),,47.3
-384,Côte d’Ivoire,2010,Urban population (percent growth rate per annum),,3
-384,Côte d’Ivoire,2010,Rural population (percent growth rate per annum),,1.4
-384,Côte d’Ivoire,2015,Urban population (percent),,49.4
-384,Côte d’Ivoire,2015,Urban population (percent growth rate per annum),,3.4
-384,Côte d’Ivoire,2015,Rural population (percent growth rate per annum),,1.7
-384,Côte d’Ivoire,2018,Urban population (percent),,50.8
-384,Côte d’Ivoire,2018,Capital city population (thousands),Yamoussoukro,231
+188,Costa Rica,2018,Capital city population (thousands),San JosÃ©,"1,358"
+384,CÃ´te dÂ’Ivoire,2005,Urban population (percent),,45.2
+384,CÃ´te dÂ’Ivoire,2005,Urban population (percent growth rate per annum),,2.8
+384,CÃ´te dÂ’Ivoire,2005,Rural population (percent growth rate per annum),,1.1
+384,CÃ´te dÂ’Ivoire,2010,Urban population (percent),,47.3
+384,CÃ´te dÂ’Ivoire,2010,Urban population (percent growth rate per annum),,3
+384,CÃ´te dÂ’Ivoire,2010,Rural population (percent growth rate per annum),,1.4
+384,CÃ´te dÂ’Ivoire,2015,Urban population (percent),,49.4
+384,CÃ´te dÂ’Ivoire,2015,Urban population (percent growth rate per annum),,3.4
+384,CÃ´te dÂ’Ivoire,2015,Rural population (percent growth rate per annum),,1.7
+384,CÃ´te dÂ’Ivoire,2018,Urban population (percent),,50.8
+384,CÃ´te dÂ’Ivoire,2018,Capital city population (thousands),Yamoussoukro,231
 191,Croatia,2005,Urban population (percent),,54.3
 191,Croatia,2005,Urban population (percent growth rate per annum),,0.1
 191,Croatia,2005,Rural population (percent growth rate per annum),,-0.6
@@ -1171,17 +1171,17 @@ Region/Country/Area,,Year,Series,Capital City,Value
 192,Cuba,2015,Capital city population (as a percentage of total urban population),Havana,24.1
 192,Cuba,2018,Urban population (percent),,77
 192,Cuba,2018,Capital city population (thousands),Havana,"2,136"
-531,Curaçao,2005,Urban population (percent),,90.5
-531,Curaçao,2005,Urban population (percent growth rate per annum),,-0.5
-531,Curaçao,2005,Rural population (percent growth rate per annum),,0.1
-531,Curaçao,2010,Urban population (percent),,89.9
-531,Curaçao,2010,Urban population (percent growth rate per annum),,2.5
-531,Curaçao,2010,Rural population (percent growth rate per annum),,3.9
-531,Curaçao,2015,Urban population (percent),,89.4
-531,Curaçao,2015,Urban population (percent growth rate per annum),,1.2
-531,Curaçao,2015,Rural population (percent growth rate per annum),,2.4
-531,Curaçao,2018,Urban population (percent),,89.1
-531,Curaçao,2018,Capital city population (thousands),Willemstad,144
+531,CuraÃ§ao,2005,Urban population (percent),,90.5
+531,CuraÃ§ao,2005,Urban population (percent growth rate per annum),,-0.5
+531,CuraÃ§ao,2005,Rural population (percent growth rate per annum),,0.1
+531,CuraÃ§ao,2010,Urban population (percent),,89.9
+531,CuraÃ§ao,2010,Urban population (percent growth rate per annum),,2.5
+531,CuraÃ§ao,2010,Rural population (percent growth rate per annum),,3.9
+531,CuraÃ§ao,2015,Urban population (percent),,89.4
+531,CuraÃ§ao,2015,Urban population (percent growth rate per annum),,1.2
+531,CuraÃ§ao,2015,Rural population (percent growth rate per annum),,2.4
+531,CuraÃ§ao,2018,Urban population (percent),,89.1
+531,CuraÃ§ao,2018,Capital city population (thousands),Willemstad,144
 196,Cyprus,2005,Urban population (percent),,68.3
 196,Cyprus,2005,Urban population (percent growth rate per annum),,1.6
 196,Cyprus,2005,Rural population (percent growth rate per annum),,2
@@ -1487,7 +1487,7 @@ Region/Country/Area,,Year,Series,Capital City,Value
 234,Faroe Islands,2015,Urban population (percent growth rate per annum),,0.5
 234,Faroe Islands,2015,Rural population (percent growth rate per annum),,-0.1
 234,Faroe Islands,2018,Urban population (percent),,42.1
-234,Faroe Islands,2018,Capital city population (thousands),Tórshavn,21
+234,Faroe Islands,2018,Capital city population (thousands),TÃ³rshavn,21
 242,Fiji,2005,Urban population (percent),,49.9
 242,Fiji,2005,Urban population (percent growth rate per annum),,1.1
 242,Fiji,2005,Rural population (percent growth rate per annum),,-0.5
@@ -1735,7 +1735,7 @@ Region/Country/Area,,Year,Series,Capital City,Value
 316,Guam,2015,Urban population (percent growth rate per annum),,0.4
 316,Guam,2015,Rural population (percent growth rate per annum),,-1.2
 316,Guam,2018,Urban population (percent),,94.8
-316,Guam,2018,Capital city population (thousands),Hagåtña,147
+316,Guam,2018,Capital city population (thousands),HagÃ¥tÃ±a,147
 320,Guatemala,2005,Urban population (percent),,46.9
 320,Guatemala,2005,Urban population (percent growth rate per annum),,3
 320,Guatemala,2005,Rural population (percent growth rate per annum),,1.8
@@ -2735,7 +2735,7 @@ Region/Country/Area,,Year,Series,Capital City,Value
 540,New Caledonia,2015,Urban population (percent growth rate per annum),,2.1
 540,New Caledonia,2015,Rural population (percent growth rate per annum),,0
 540,New Caledonia,2018,Urban population (percent),,70.7
-540,New Caledonia,2018,Capital city population (thousands),Nouméa,198
+540,New Caledonia,2018,Capital city population (thousands),NoumÃ©a,198
 554,New Zealand,2005,Urban population (percent),,86.3
 554,New Zealand,2005,Urban population (percent growth rate per annum),,1.5
 554,New Zealand,2005,Rural population (percent growth rate per annum),,0.9
@@ -2952,23 +2952,23 @@ Region/Country/Area,,Year,Series,Capital City,Value
 600,Paraguay,2005,Urban population (percent),,57.6
 600,Paraguay,2005,Urban population (percent growth rate per annum),,2.6
 600,Paraguay,2005,Rural population (percent growth rate per annum),,0.7
-600,Paraguay,2005,Capital city population (thousands),Asunción,"2,134"
-600,Paraguay,2005,Capital city population (as a percentage of total population),Asunción,36.8
-600,Paraguay,2005,Capital city population (as a percentage of total urban population),Asunción,63.9
+600,Paraguay,2005,Capital city population (thousands),AsunciÃ³n,"2,134"
+600,Paraguay,2005,Capital city population (as a percentage of total population),AsunciÃ³n,36.8
+600,Paraguay,2005,Capital city population (as a percentage of total urban population),AsunciÃ³n,63.9
 600,Paraguay,2010,Urban population (percent),,59.3
 600,Paraguay,2010,Urban population (percent growth rate per annum),,1.9
 600,Paraguay,2010,Rural population (percent growth rate per annum),,0.6
-600,Paraguay,2010,Capital city population (thousands),Asunción,"2,587"
-600,Paraguay,2010,Capital city population (as a percentage of total population),Asunción,41.7
-600,Paraguay,2010,Capital city population (as a percentage of total urban population),Asunción,70.3
+600,Paraguay,2010,Capital city population (thousands),AsunciÃ³n,"2,587"
+600,Paraguay,2010,Capital city population (as a percentage of total population),AsunciÃ³n,41.7
+600,Paraguay,2010,Capital city population (as a percentage of total urban population),AsunciÃ³n,70.3
 600,Paraguay,2015,Urban population (percent),,60.8
 600,Paraguay,2015,Urban population (percent growth rate per annum),,1.8
 600,Paraguay,2015,Rural population (percent growth rate per annum),,0.6
-600,Paraguay,2015,Capital city population (thousands),Asunción,"2,967"
-600,Paraguay,2015,Capital city population (as a percentage of total population),Asunción,44.7
-600,Paraguay,2015,Capital city population (as a percentage of total urban population),Asunción,73.6
+600,Paraguay,2015,Capital city population (thousands),AsunciÃ³n,"2,967"
+600,Paraguay,2015,Capital city population (as a percentage of total population),AsunciÃ³n,44.7
+600,Paraguay,2015,Capital city population (as a percentage of total urban population),AsunciÃ³n,73.6
 600,Paraguay,2018,Urban population (percent),,61.6
-600,Paraguay,2018,Capital city population (thousands),Asunción,"3,222"
+600,Paraguay,2018,Capital city population (thousands),AsunciÃ³n,"3,222"
 604,Peru,2005,Urban population (percent),,75
 604,Peru,2005,Urban population (percent growth rate per annum),,1.8
 604,Peru,2005,Rural population (percent growth rate per annum),,-0.3
@@ -3129,17 +3129,17 @@ Region/Country/Area,,Year,Series,Capital City,Value
 498,Republic of Moldova,2015,Capital city population (as a percentage of total urban population),Chisinau,30.5
 498,Republic of Moldova,2018,Urban population (percent),,42.6
 498,Republic of Moldova,2018,Capital city population (thousands),Chisinau,510
-638,Réunion,2005,Urban population (percent),,96.3
-638,Réunion,2005,Urban population (percent growth rate per annum),,2.5
-638,Réunion,2005,Rural population (percent growth rate per annum),,-16
-638,Réunion,2010,Urban population (percent),,98.5
-638,Réunion,2010,Urban population (percent growth rate per annum),,1.4
-638,Réunion,2010,Rural population (percent growth rate per annum),,-17.1
-638,Réunion,2015,Urban population (percent),,99.3
-638,Réunion,2015,Urban population (percent growth rate per annum),,0.9
-638,Réunion,2015,Rural population (percent growth rate per annum),,-15.6
-638,Réunion,2018,Urban population (percent),,99.6
-638,Réunion,2018,Capital city population (thousands),Saint-Denis,147
+638,RÃ©union,2005,Urban population (percent),,96.3
+638,RÃ©union,2005,Urban population (percent growth rate per annum),,2.5
+638,RÃ©union,2005,Rural population (percent growth rate per annum),,-16
+638,RÃ©union,2010,Urban population (percent),,98.5
+638,RÃ©union,2010,Urban population (percent growth rate per annum),,1.4
+638,RÃ©union,2010,Rural population (percent growth rate per annum),,-17.1
+638,RÃ©union,2015,Urban population (percent),,99.3
+638,RÃ©union,2015,Urban population (percent growth rate per annum),,0.9
+638,RÃ©union,2015,Rural population (percent growth rate per annum),,-15.6
+638,RÃ©union,2018,Urban population (percent),,99.6
+638,RÃ©union,2018,Capital city population (thousands),Saint-Denis,147
 642,Romania,2005,Urban population (percent),,53.2
 642,Romania,2005,Urban population (percent growth rate per annum),,-0.6
 642,Romania,2005,Rural population (percent growth rate per annum),,-0.7
@@ -3728,23 +3728,23 @@ Region/Country/Area,,Year,Series,Capital City,Value
 768,Togo,2005,Urban population (percent),,35.2
 768,Togo,2005,Urban population (percent growth rate per annum),,4
 768,Togo,2005,Rural population (percent growth rate per annum),,2
-768,Togo,2005,Capital city population (thousands),Lomé,"1,315"
-768,Togo,2005,Capital city population (as a percentage of total population),Lomé,23.1
-768,Togo,2005,Capital city population (as a percentage of total urban population),Lomé,65.8
+768,Togo,2005,Capital city population (thousands),LomÃ©,"1,315"
+768,Togo,2005,Capital city population (as a percentage of total population),LomÃ©,23.1
+768,Togo,2005,Capital city population (as a percentage of total urban population),LomÃ©,65.8
 768,Togo,2010,Urban population (percent),,37.5
 768,Togo,2010,Urban population (percent growth rate per annum),,4
 768,Togo,2010,Rural population (percent growth rate per annum),,2
-768,Togo,2010,Capital city population (thousands),Lomé,"1,466"
-768,Togo,2010,Capital city population (as a percentage of total population),Lomé,22.6
-768,Togo,2010,Capital city population (as a percentage of total urban population),Lomé,60.1
+768,Togo,2010,Capital city population (thousands),LomÃ©,"1,466"
+768,Togo,2010,Capital city population (as a percentage of total population),LomÃ©,22.6
+768,Togo,2010,Capital city population (as a percentage of total urban population),LomÃ©,60.1
 768,Togo,2015,Urban population (percent),,40.1
 768,Togo,2015,Urban population (percent growth rate per annum),,4
 768,Togo,2015,Rural population (percent growth rate per annum),,1.8
-768,Togo,2015,Capital city population (thousands),Lomé,"1,635"
-768,Togo,2015,Capital city population (as a percentage of total population),Lomé,22
-768,Togo,2015,Capital city population (as a percentage of total urban population),Lomé,55
+768,Togo,2015,Capital city population (thousands),LomÃ©,"1,635"
+768,Togo,2015,Capital city population (as a percentage of total population),LomÃ©,22
+768,Togo,2015,Capital city population (as a percentage of total urban population),LomÃ©,55
 768,Togo,2018,Urban population (percent),,41.7
-768,Togo,2018,Capital city population (thousands),Lomé,"1,746"
+768,Togo,2018,Capital city population (thousands),LomÃ©,"1,746"
 772,Tokelau,2005,Urban population (percent),,0
 772,Tokelau,2005,Urban population (percent growth rate per annum),,0
 772,Tokelau,2005,Rural population (percent growth rate per annum),,-5
@@ -4103,7 +4103,7 @@ Region/Country/Area,,Year,Series,Capital City,Value
 732,Western Sahara,2015,Urban population (percent growth rate per annum),,1.9
 732,Western Sahara,2015,Rural population (percent growth rate per annum),,1.5
 732,Western Sahara,2018,Urban population (percent),,86.7
-732,Western Sahara,2018,Capital city population (thousands),El Aaiún,232
+732,Western Sahara,2018,Capital city population (thousands),El AaiÃºn,232
 887,Yemen,2005,Urban population (percent),,28.9
 887,Yemen,2005,Urban population (percent growth rate per annum),,4.8
 887,Yemen,2005,Rural population (percent growth rate per annum),,2.1

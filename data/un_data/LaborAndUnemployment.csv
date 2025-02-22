@@ -1,20 +1,20 @@
-﻿Region/Country/Area,,Year,Series,Value
+Region/Country/Area,Country/Region Name,Year,Series,Value
 1,"Total, all countries or areas",2005,Labour force participation - Total,62.9
 1,"Total, all countries or areas",2005,Unemployment rate - Total,6.4
 1,"Total, all countries or areas",2005,Labour force participation - Male,76.1
 1,"Total, all countries or areas",2005,Unemployment rate - Male,6.2
 1,"Total, all countries or areas",2005,Labour force participation - Female,49.8
 1,"Total, all countries or areas",2005,Unemployment rate - Female,6.5
-1,"Total, all countries or areas",2010,Labour force participation - Total,62
+1,"Total, all countries or areas",2010,Labour force participation - Total,62.0
 1,"Total, all countries or areas",2010,Unemployment rate - Total,6.4
 1,"Total, all countries or areas",2010,Labour force participation - Male,75.3
 1,"Total, all countries or areas",2010,Unemployment rate - Male,6.3
 1,"Total, all countries or areas",2010,Labour force participation - Female,48.9
 1,"Total, all countries or areas",2010,Unemployment rate - Female,6.4
 1,"Total, all countries or areas",2015,Labour force participation - Total,61.2
-1,"Total, all countries or areas",2015,Unemployment rate - Total,6
+1,"Total, all countries or areas",2015,Unemployment rate - Total,6.0
 1,"Total, all countries or areas",2015,Labour force participation - Male,74.2
-1,"Total, all countries or areas",2015,Unemployment rate - Male,6
+1,"Total, all countries or areas",2015,Unemployment rate - Male,6.0
 1,"Total, all countries or areas",2015,Labour force participation - Female,48.2
 1,"Total, all countries or areas",2015,Unemployment rate - Female,6.1
 1,"Total, all countries or areas",2024,Labour force participation - Total,60.5
@@ -32,14 +32,14 @@
 2,Africa,2010,Labour force participation - Total,63.8
 2,Africa,2010,Unemployment rate - Total,6.7
 2,Africa,2010,Labour force participation - Male,73.5
-2,Africa,2010,Unemployment rate - Male,6
+2,Africa,2010,Unemployment rate - Male,6.0
 2,Africa,2010,Labour force participation - Female,54.3
 2,Africa,2010,Unemployment rate - Female,7.6
 2,Africa,2015,Labour force participation - Total,63.1
 2,Africa,2015,Unemployment rate - Total,6.8
 2,Africa,2015,Labour force participation - Male,72.4
 2,Africa,2015,Unemployment rate - Male,6.4
-2,Africa,2015,Labour force participation - Female,54
+2,Africa,2015,Labour force participation - Female,54.0
 2,Africa,2015,Unemployment rate - Female,7.4
 2,Africa,2024,Labour force participation - Total,62.8
 2,Africa,2024,Unemployment rate - Total,6.6
@@ -73,7 +73,7 @@
 15,Northern Africa,2024,Unemployment rate - Female,20.6
 202,Sub-Saharan Africa,2005,Labour force participation - Total,69.8
 202,Sub-Saharan Africa,2005,Unemployment rate - Total,5.7
-202,Sub-Saharan Africa,2005,Labour force participation - Male,75
+202,Sub-Saharan Africa,2005,Labour force participation - Male,75.0
 202,Sub-Saharan Africa,2005,Unemployment rate - Male,5.3
 202,Sub-Saharan Africa,2005,Labour force participation - Female,64.7
 202,Sub-Saharan Africa,2005,Unemployment rate - Female,6.1
@@ -88,12 +88,12 @@
 202,Sub-Saharan Africa,2015,Labour force participation - Male,73.2
 202,Sub-Saharan Africa,2015,Unemployment rate - Male,5.4
 202,Sub-Saharan Africa,2015,Labour force participation - Female,62.4
-202,Sub-Saharan Africa,2015,Unemployment rate - Female,6
+202,Sub-Saharan Africa,2015,Unemployment rate - Female,6.0
 202,Sub-Saharan Africa,2024,Labour force participation - Total,67.4
 202,Sub-Saharan Africa,2024,Unemployment rate - Total,5.8
-202,Sub-Saharan Africa,2024,Labour force participation - Male,73
+202,Sub-Saharan Africa,2024,Labour force participation - Male,73.0
 202,Sub-Saharan Africa,2024,Unemployment rate - Male,5.1
-202,Sub-Saharan Africa,2024,Labour force participation - Female,62
+202,Sub-Saharan Africa,2024,Labour force participation - Female,62.0
 202,Sub-Saharan Africa,2024,Unemployment rate - Female,6.6
 14,Eastern Africa,2005,Labour force participation - Total,76.3
 14,Eastern Africa,2005,Unemployment rate - Total,4.1
@@ -105,9 +105,9 @@
 14,Eastern Africa,2010,Unemployment rate - Total,4.2
 14,Eastern Africa,2010,Labour force participation - Male,80.6
 14,Eastern Africa,2010,Unemployment rate - Male,3.7
-14,Eastern Africa,2010,Labour force participation - Female,71
+14,Eastern Africa,2010,Labour force participation - Female,71.0
 14,Eastern Africa,2010,Unemployment rate - Female,4.7
-14,Eastern Africa,2015,Labour force participation - Total,75
+14,Eastern Africa,2015,Labour force participation - Total,75.0
 14,Eastern Africa,2015,Unemployment rate - Total,3.7
 14,Eastern Africa,2015,Labour force participation - Male,79.9
 14,Eastern Africa,2015,Unemployment rate - Male,3.2
@@ -122,11 +122,11 @@
 17,Middle Africa,2005,Labour force participation - Total,73.6
 17,Middle Africa,2005,Unemployment rate - Total,6.2
 17,Middle Africa,2005,Labour force participation - Male,76.5
-17,Middle Africa,2005,Unemployment rate - Male,6
+17,Middle Africa,2005,Unemployment rate - Male,6.0
 17,Middle Africa,2005,Labour force participation - Female,70.8
 17,Middle Africa,2005,Unemployment rate - Female,6.4
 17,Middle Africa,2010,Labour force participation - Total,70.2
-17,Middle Africa,2010,Unemployment rate - Total,7
+17,Middle Africa,2010,Unemployment rate - Total,7.0
 17,Middle Africa,2010,Labour force participation - Male,74.3
 17,Middle Africa,2010,Unemployment rate - Male,6.7
 17,Middle Africa,2010,Labour force participation - Female,66.3
@@ -143,19 +143,19 @@
 17,Middle Africa,2024,Unemployment rate - Male,6.8
 17,Middle Africa,2024,Labour force participation - Female,63.6
 17,Middle Africa,2024,Unemployment rate - Female,6.7
-18,Southern Africa,2005,Labour force participation - Total,60
+18,Southern Africa,2005,Labour force participation - Total,60.0
 18,Southern Africa,2005,Unemployment rate - Total,19.7
 18,Southern Africa,2005,Labour force participation - Male,68.6
 18,Southern Africa,2005,Unemployment rate - Male,17.6
 18,Southern Africa,2005,Labour force participation - Female,52.6
-18,Southern Africa,2005,Unemployment rate - Female,22
+18,Southern Africa,2005,Unemployment rate - Female,22.0
 18,Southern Africa,2010,Labour force participation - Total,54.8
 18,Southern Africa,2010,Unemployment rate - Total,22.7
 18,Southern Africa,2010,Labour force participation - Male,62.7
 18,Southern Africa,2010,Unemployment rate - Male,21.2
 18,Southern Africa,2010,Labour force participation - Female,47.7
 18,Southern Africa,2010,Unemployment rate - Female,24.6
-18,Southern Africa,2015,Labour force participation - Total,58
+18,Southern Africa,2015,Labour force participation - Total,58.0
 18,Southern Africa,2015,Unemployment rate - Total,22.4
 18,Southern Africa,2015,Labour force participation - Male,65.3
 18,Southern Africa,2015,Unemployment rate - Male,20.7
@@ -174,13 +174,13 @@
 11,Western Africa,2005,Labour force participation - Female,57.9
 11,Western Africa,2005,Unemployment rate - Female,4.1
 11,Western Africa,2010,Labour force participation - Total,63.3
-11,Western Africa,2010,Unemployment rate - Total,4
+11,Western Africa,2010,Unemployment rate - Total,4.0
 11,Western Africa,2010,Labour force participation - Male,69.2
-11,Western Africa,2010,Unemployment rate - Male,4
+11,Western Africa,2010,Unemployment rate - Male,4.0
 11,Western Africa,2010,Labour force participation - Female,57.4
-11,Western Africa,2010,Unemployment rate - Female,4
+11,Western Africa,2010,Unemployment rate - Female,4.0
 11,Western Africa,2015,Labour force participation - Total,61.7
-11,Western Africa,2015,Unemployment rate - Total,4
+11,Western Africa,2015,Unemployment rate - Total,4.0
 11,Western Africa,2015,Labour force participation - Male,67.9
 11,Western Africa,2015,Unemployment rate - Male,4.1
 11,Western Africa,2015,Labour force participation - Female,55.5
@@ -192,7 +192,7 @@
 11,Western Africa,2024,Labour force participation - Female,53.7
 11,Western Africa,2024,Unemployment rate - Female,4.1
 19,Americas,2005,Labour force participation - Total,64.3
-19,Americas,2005,Unemployment rate - Total,7
+19,Americas,2005,Unemployment rate - Total,7.0
 19,Americas,2005,Labour force participation - Male,75.7
 19,Americas,2005,Unemployment rate - Male,6.1
 19,Americas,2005,Labour force participation - Female,53.5
@@ -213,9 +213,9 @@
 19,Americas,2024,Unemployment rate - Total,5.4
 19,Americas,2024,Labour force participation - Male,71.7
 19,Americas,2024,Unemployment rate - Male,4.9
-19,Americas,2024,Labour force participation - Female,53
-19,Americas,2024,Unemployment rate - Female,6
-21,Northern America,2005,Labour force participation - Total,65
+19,Americas,2024,Labour force participation - Female,53.0
+19,Americas,2024,Unemployment rate - Female,6.0
+21,Northern America,2005,Labour force participation - Total,65.0
 21,Northern America,2005,Unemployment rate - Total,5.3
 21,Northern America,2005,Labour force participation - Male,71.9
 21,Northern America,2005,Unemployment rate - Male,5.3
@@ -235,10 +235,10 @@
 21,Northern America,2015,Unemployment rate - Female,5.3
 21,Northern America,2024,Labour force participation - Total,61.6
 21,Northern America,2024,Unemployment rate - Total,4.2
-21,Northern America,2024,Labour force participation - Male,67
+21,Northern America,2024,Labour force participation - Male,67.0
 21,Northern America,2024,Unemployment rate - Male,4.3
 21,Northern America,2024,Labour force participation - Female,56.3
-21,Northern America,2024,Unemployment rate - Female,4
+21,Northern America,2024,Unemployment rate - Female,4.0
 419,Latin America & the Caribbean,2005,Labour force participation - Total,63.9
 419,Latin America & the Caribbean,2005,Unemployment rate - Total,8.2
 419,Latin America & the Caribbean,2005,Labour force participation - Male,78.3
@@ -248,20 +248,20 @@
 419,Latin America & the Caribbean,2010,Labour force participation - Total,63.5
 419,Latin America & the Caribbean,2010,Unemployment rate - Total,7.2
 419,Latin America & the Caribbean,2010,Labour force participation - Male,77.1
-419,Latin America & the Caribbean,2010,Unemployment rate - Male,6
+419,Latin America & the Caribbean,2010,Unemployment rate - Male,6.0
 419,Latin America & the Caribbean,2010,Labour force participation - Female,50.5
-419,Latin America & the Caribbean,2010,Unemployment rate - Female,9
+419,Latin America & the Caribbean,2010,Unemployment rate - Female,9.0
 419,Latin America & the Caribbean,2015,Labour force participation - Total,63.2
 419,Latin America & the Caribbean,2015,Unemployment rate - Total,6.7
 419,Latin America & the Caribbean,2015,Labour force participation - Male,76.5
 419,Latin America & the Caribbean,2015,Unemployment rate - Male,5.8
 419,Latin America & the Caribbean,2015,Labour force participation - Female,50.5
-419,Latin America & the Caribbean,2015,Unemployment rate - Female,8
+419,Latin America & the Caribbean,2015,Unemployment rate - Female,8.0
 419,Latin America & the Caribbean,2024,Labour force participation - Total,62.5
 419,Latin America & the Caribbean,2024,Unemployment rate - Total,6.1
 419,Latin America & the Caribbean,2024,Labour force participation - Male,74.6
 419,Latin America & the Caribbean,2024,Unemployment rate - Male,5.2
-419,Latin America & the Caribbean,2024,Labour force participation - Female,51
+419,Latin America & the Caribbean,2024,Labour force participation - Female,51.0
 419,Latin America & the Caribbean,2024,Unemployment rate - Female,7.4
 29,Caribbean,2005,Labour force participation - Total,57.3
 29,Caribbean,2005,Unemployment rate - Total,7.7
@@ -272,23 +272,23 @@
 29,Caribbean,2010,Labour force participation - Total,57.3
 29,Caribbean,2010,Unemployment rate - Total,8.1
 29,Caribbean,2010,Labour force participation - Male,68.4
-29,Caribbean,2010,Unemployment rate - Male,7
+29,Caribbean,2010,Unemployment rate - Male,7.0
 29,Caribbean,2010,Labour force participation - Female,46.5
 29,Caribbean,2010,Unemployment rate - Female,9.7
 29,Caribbean,2015,Labour force participation - Total,59.3
-29,Caribbean,2015,Unemployment rate - Total,8
+29,Caribbean,2015,Unemployment rate - Total,8.0
 29,Caribbean,2015,Labour force participation - Male,69.9
 29,Caribbean,2015,Unemployment rate - Male,6.5
-29,Caribbean,2015,Labour force participation - Female,49
+29,Caribbean,2015,Labour force participation - Female,49.0
 29,Caribbean,2015,Unemployment rate - Female,10.1
 29,Caribbean,2024,Labour force participation - Total,60.2
 29,Caribbean,2024,Unemployment rate - Total,6.9
 29,Caribbean,2024,Labour force participation - Male,70.7
 29,Caribbean,2024,Unemployment rate - Male,5.3
 29,Caribbean,2024,Labour force participation - Female,50.1
-29,Caribbean,2024,Unemployment rate - Female,9
+29,Caribbean,2024,Unemployment rate - Female,9.0
 13,Central America,2005,Labour force participation - Total,60.7
-13,Central America,2005,Unemployment rate - Total,4
+13,Central America,2005,Unemployment rate - Total,4.0
 13,Central America,2005,Labour force participation - Male,81.1
 13,Central America,2005,Unemployment rate - Male,3.7
 13,Central America,2005,Labour force participation - Female,41.6
@@ -299,18 +299,18 @@
 13,Central America,2010,Unemployment rate - Male,5.2
 13,Central America,2010,Labour force participation - Female,43.1
 13,Central America,2010,Unemployment rate - Female,5.4
-13,Central America,2015,Labour force participation - Total,61
+13,Central America,2015,Labour force participation - Total,61.0
 13,Central America,2015,Unemployment rate - Total,4.4
 13,Central America,2015,Labour force participation - Male,79.1
 13,Central America,2015,Unemployment rate - Male,4.1
-13,Central America,2015,Labour force participation - Female,44
+13,Central America,2015,Labour force participation - Female,44.0
 13,Central America,2015,Unemployment rate - Female,4.9
 13,Central America,2024,Labour force participation - Total,61.3
 13,Central America,2024,Unemployment rate - Total,3.6
 13,Central America,2024,Labour force participation - Male,77.4
 13,Central America,2024,Unemployment rate - Male,3.3
 13,Central America,2024,Labour force participation - Female,46.2
-13,Central America,2024,Unemployment rate - Female,4
+13,Central America,2024,Unemployment rate - Female,4.0
 5,South America,2005,Labour force participation - Total,65.7
 5,South America,2005,Unemployment rate - Total,9.7
 5,South America,2005,Labour force participation - Male,78.2
@@ -322,7 +322,7 @@
 5,South America,2010,Labour force participation - Male,77.2
 5,South America,2010,Unemployment rate - Male,6.2
 5,South America,2010,Labour force participation - Female,53.7
-5,South America,2010,Unemployment rate - Female,10
+5,South America,2010,Unemployment rate - Female,10.0
 5,South America,2015,Labour force participation - Total,64.4
 5,South America,2015,Unemployment rate - Total,7.4
 5,South America,2015,Labour force participation - Male,76.1
@@ -330,10 +330,10 @@
 5,South America,2015,Labour force participation - Female,53.2
 5,South America,2015,Unemployment rate - Female,8.8
 5,South America,2024,Labour force participation - Total,63.2
-5,South America,2024,Unemployment rate - Total,7
+5,South America,2024,Unemployment rate - Total,7.0
 5,South America,2024,Labour force participation - Male,73.9
-5,South America,2024,Unemployment rate - Male,6
-5,South America,2024,Labour force participation - Female,53
+5,South America,2024,Unemployment rate - Male,6.0
+5,South America,2024,Labour force participation - Female,53.0
 5,South America,2024,Unemployment rate - Female,8.4
 143,Central Asia,2005,Labour force participation - Total,61.4
 143,Central Asia,2005,Unemployment rate - Total,7.4
@@ -346,9 +346,9 @@
 143,Central Asia,2010,Labour force participation - Male,70.8
 143,Central Asia,2010,Unemployment rate - Male,5.2
 143,Central Asia,2010,Labour force participation - Female,50.4
-143,Central Asia,2010,Unemployment rate - Female,6
+143,Central Asia,2010,Unemployment rate - Female,6.0
 143,Central Asia,2015,Labour force participation - Total,58.9
-143,Central Asia,2015,Unemployment rate - Total,5
+143,Central Asia,2015,Unemployment rate - Total,5.0
 143,Central Asia,2015,Labour force participation - Male,69.9
 143,Central Asia,2015,Unemployment rate - Male,5.1
 143,Central Asia,2015,Labour force participation - Female,48.6
@@ -368,14 +368,14 @@
 30,Eastern Asia,2010,Labour force participation - Total,69.5
 30,Eastern Asia,2010,Unemployment rate - Total,4.5
 30,Eastern Asia,2010,Labour force participation - Male,77.2
-30,Eastern Asia,2010,Unemployment rate - Male,5
+30,Eastern Asia,2010,Unemployment rate - Male,5.0
 30,Eastern Asia,2010,Labour force participation - Female,61.7
 30,Eastern Asia,2010,Unemployment rate - Female,3.9
 30,Eastern Asia,2015,Labour force participation - Total,68.1
 30,Eastern Asia,2015,Unemployment rate - Total,4.5
 30,Eastern Asia,2015,Labour force participation - Male,75.2
 30,Eastern Asia,2015,Unemployment rate - Male,4.9
-30,Eastern Asia,2015,Labour force participation - Female,61
+30,Eastern Asia,2015,Labour force participation - Female,61.0
 30,Eastern Asia,2015,Unemployment rate - Female,3.9
 30,Eastern Asia,2024,Labour force participation - Total,65.7
 30,Eastern Asia,2024,Unemployment rate - Total,4.7
@@ -398,7 +398,7 @@
 35,South-eastern Asia,2015,Labour force participation - Total,67.6
 35,South-eastern Asia,2015,Unemployment rate - Total,2.9
 35,South-eastern Asia,2015,Labour force participation - Male,79.8
-35,South-eastern Asia,2015,Unemployment rate - Male,3
+35,South-eastern Asia,2015,Unemployment rate - Male,3.0
 35,South-eastern Asia,2015,Labour force participation - Female,55.6
 35,South-eastern Asia,2015,Unemployment rate - Female,2.8
 35,South-eastern Asia,2024,Labour force participation - Total,66.1
@@ -422,7 +422,7 @@
 34,Southern Asia,2015,Labour force participation - Total,52.2
 34,Southern Asia,2015,Unemployment rate - Total,7.3
 34,Southern Asia,2015,Labour force participation - Male,76.8
-34,Southern Asia,2015,Unemployment rate - Male,7
+34,Southern Asia,2015,Unemployment rate - Male,7.0
 34,Southern Asia,2015,Labour force participation - Female,26.6
 34,Southern Asia,2015,Unemployment rate - Female,8.2
 34,Southern Asia,2024,Labour force participation - Total,53.6
@@ -430,16 +430,16 @@
 34,Southern Asia,2024,Labour force participation - Male,76.7
 34,Southern Asia,2024,Unemployment rate - Male,5.1
 34,Southern Asia,2024,Labour force participation - Female,29.7
-34,Southern Asia,2024,Unemployment rate - Female,5
+34,Southern Asia,2024,Unemployment rate - Female,5.0
 145,Western Asia,2005,Labour force participation - Total,48.2
-145,Western Asia,2005,Unemployment rate - Total,8
+145,Western Asia,2005,Unemployment rate - Total,8.0
 145,Western Asia,2005,Labour force participation - Male,74.9
-145,Western Asia,2005,Unemployment rate - Male,7
+145,Western Asia,2005,Unemployment rate - Male,7.0
 145,Western Asia,2005,Labour force participation - Female,16.7
 145,Western Asia,2005,Unemployment rate - Female,13.1
-145,Western Asia,2010,Labour force participation - Total,49
+145,Western Asia,2010,Labour force participation - Total,49.0
 145,Western Asia,2010,Unemployment rate - Total,7.2
-145,Western Asia,2010,Labour force participation - Male,75
+145,Western Asia,2010,Labour force participation - Male,75.0
 145,Western Asia,2010,Unemployment rate - Male,5.9
 145,Western Asia,2010,Labour force participation - Female,16.9
 145,Western Asia,2010,Unemployment rate - Female,14.1
@@ -448,16 +448,16 @@
 145,Western Asia,2015,Labour force participation - Male,74.2
 145,Western Asia,2015,Unemployment rate - Male,6.6
 145,Western Asia,2015,Labour force participation - Female,18.2
-145,Western Asia,2015,Unemployment rate - Female,18
+145,Western Asia,2015,Unemployment rate - Female,18.0
 145,Western Asia,2024,Labour force participation - Total,49.3
 145,Western Asia,2024,Unemployment rate - Total,9.8
 145,Western Asia,2024,Labour force participation - Male,73.9
 145,Western Asia,2024,Unemployment rate - Male,8.1
 145,Western Asia,2024,Labour force participation - Female,19.7
 145,Western Asia,2024,Unemployment rate - Female,17.8
-134,Caucasus,2005,Labour force participation - Total,51
+134,Caucasus,2005,Labour force participation - Total,51.0
 134,Caucasus,2005,Unemployment rate - Total,10.4
-134,Caucasus,2005,Labour force participation - Male,70
+134,Caucasus,2005,Labour force participation - Male,70.0
 134,Caucasus,2005,Unemployment rate - Male,10.3
 134,Caucasus,2005,Labour force participation - Female,32.6
 134,Caucasus,2005,Unemployment rate - Female,10.5
@@ -470,7 +470,7 @@
 134,Caucasus,2015,Labour force participation - Total,54.5
 134,Caucasus,2015,Unemployment rate - Total,9.7
 134,Caucasus,2015,Labour force participation - Male,71.1
-134,Caucasus,2015,Unemployment rate - Male,9
+134,Caucasus,2015,Unemployment rate - Male,9.0
 134,Caucasus,2015,Labour force participation - Female,38.5
 134,Caucasus,2015,Unemployment rate - Female,10.8
 134,Caucasus,2024,Labour force participation - Total,56.4
@@ -479,7 +479,7 @@
 134,Caucasus,2024,Unemployment rate - Male,7.9
 134,Caucasus,2024,Labour force participation - Female,41.9
 134,Caucasus,2024,Unemployment rate - Female,10.4
-151,Eastern Europe,2005,Labour force participation - Total,58
+151,Eastern Europe,2005,Labour force participation - Total,58.0
 151,Eastern Europe,2005,Unemployment rate - Total,8.7
 151,Eastern Europe,2005,Labour force participation - Male,64.7
 151,Eastern Europe,2005,Unemployment rate - Male,8.9
@@ -493,12 +493,12 @@
 151,Eastern Europe,2010,Unemployment rate - Female,7.4
 151,Eastern Europe,2015,Labour force participation - Total,59.8
 151,Eastern Europe,2015,Unemployment rate - Total,6.6
-151,Eastern Europe,2015,Labour force participation - Male,68
+151,Eastern Europe,2015,Labour force participation - Male,68.0
 151,Eastern Europe,2015,Unemployment rate - Male,6.9
 151,Eastern Europe,2015,Labour force participation - Female,52.8
 151,Eastern Europe,2015,Unemployment rate - Female,6.2
 151,Eastern Europe,2024,Labour force participation - Total,58.4
-151,Eastern Europe,2024,Unemployment rate - Total,4
+151,Eastern Europe,2024,Unemployment rate - Total,4.0
 151,Eastern Europe,2024,Labour force participation - Male,66.4
 151,Eastern Europe,2024,Unemployment rate - Male,3.8
 151,Eastern Europe,2024,Labour force participation - Female,51.5
@@ -507,7 +507,7 @@
 154,Northern Europe,2005,Unemployment rate - Total,5.4
 154,Northern Europe,2005,Labour force participation - Male,69.1
 154,Northern Europe,2005,Unemployment rate - Male,5.7
-154,Northern Europe,2005,Labour force participation - Female,56
+154,Northern Europe,2005,Labour force participation - Female,56.0
 154,Northern Europe,2005,Unemployment rate - Female,5.2
 154,Northern Europe,2010,Labour force participation - Total,62.3
 154,Northern Europe,2010,Unemployment rate - Total,8.6
@@ -517,7 +517,7 @@
 154,Northern Europe,2010,Unemployment rate - Female,7.6
 154,Northern Europe,2015,Labour force participation - Total,62.6
 154,Northern Europe,2015,Unemployment rate - Total,6.1
-154,Northern Europe,2015,Labour force participation - Male,68
+154,Northern Europe,2015,Labour force participation - Male,68.0
 154,Northern Europe,2015,Unemployment rate - Male,6.3
 154,Northern Europe,2015,Labour force participation - Female,57.4
 154,Northern Europe,2015,Unemployment rate - Female,5.9
@@ -525,14 +525,14 @@
 154,Northern Europe,2024,Unemployment rate - Total,5.4
 154,Northern Europe,2024,Labour force participation - Male,67.4
 154,Northern Europe,2024,Unemployment rate - Male,5.6
-154,Northern Europe,2024,Labour force participation - Female,59
+154,Northern Europe,2024,Labour force participation - Female,59.0
 154,Northern Europe,2024,Unemployment rate - Female,5.2
-39,Southern Europe,2005,Labour force participation - Total,53
+39,Southern Europe,2005,Labour force participation - Total,53.0
 39,Southern Europe,2005,Unemployment rate - Total,10.3
-39,Southern Europe,2005,Labour force participation - Male,64
+39,Southern Europe,2005,Labour force participation - Male,64.0
 39,Southern Europe,2005,Unemployment rate - Male,8.4
 39,Southern Europe,2005,Labour force participation - Female,42.6
-39,Southern Europe,2005,Unemployment rate - Female,13
+39,Southern Europe,2005,Unemployment rate - Female,13.0
 39,Southern Europe,2010,Labour force participation - Total,53.3
 39,Southern Europe,2010,Unemployment rate - Total,14.2
 39,Southern Europe,2010,Labour force participation - Male,62.7
@@ -561,13 +561,13 @@
 155,Western Europe,2010,Unemployment rate - Total,7.4
 155,Western Europe,2010,Labour force participation - Male,65.1
 155,Western Europe,2010,Unemployment rate - Male,7.4
-155,Western Europe,2010,Labour force participation - Female,53
+155,Western Europe,2010,Labour force participation - Female,53.0
 155,Western Europe,2010,Unemployment rate - Female,7.4
 155,Western Europe,2015,Labour force participation - Total,59.2
 155,Western Europe,2015,Unemployment rate - Total,6.9
 155,Western Europe,2015,Labour force participation - Male,64.6
 155,Western Europe,2015,Unemployment rate - Male,7.2
-155,Western Europe,2015,Labour force participation - Female,54
+155,Western Europe,2015,Labour force participation - Female,54.0
 155,Western Europe,2015,Unemployment rate - Female,6.6
 155,Western Europe,2024,Labour force participation - Total,59.8
 155,Western Europe,2024,Unemployment rate - Total,4.7
@@ -577,15 +577,15 @@
 155,Western Europe,2024,Unemployment rate - Female,4.5
 9,Oceania,2005,Labour force participation - Total,64.2
 9,Oceania,2005,Unemployment rate - Total,4.5
-9,Oceania,2005,Labour force participation - Male,71
+9,Oceania,2005,Labour force participation - Male,71.0
 9,Oceania,2005,Unemployment rate - Male,4.5
 9,Oceania,2005,Labour force participation - Female,57.6
 9,Oceania,2005,Unemployment rate - Female,4.6
 9,Oceania,2010,Labour force participation - Total,62.8
-9,Oceania,2010,Unemployment rate - Total,5
+9,Oceania,2010,Unemployment rate - Total,5.0
 9,Oceania,2010,Labour force participation - Male,68.7
 9,Oceania,2010,Unemployment rate - Male,4.9
-9,Oceania,2010,Labour force participation - Female,57
+9,Oceania,2010,Labour force participation - Female,57.0
 9,Oceania,2010,Unemployment rate - Female,5.1
 9,Oceania,2015,Labour force participation - Total,62.3
 9,Oceania,2015,Unemployment rate - Total,5.5
@@ -599,11 +599,11 @@
 9,Oceania,2024,Unemployment rate - Male,3.9
 9,Oceania,2024,Labour force participation - Female,58.6
 9,Oceania,2024,Unemployment rate - Female,3.6
-4,Afghanistan,2005,Labour force participation - Total,47
+4,Afghanistan,2005,Labour force participation - Total,47.0
 4,Afghanistan,2005,Unemployment rate - Total,7.9
 4,Afghanistan,2005,Labour force participation - Male,78.6
 4,Afghanistan,2005,Unemployment rate - Male,7.4
-4,Afghanistan,2005,Labour force participation - Female,16
+4,Afghanistan,2005,Labour force participation - Female,16.0
 4,Afghanistan,2005,Unemployment rate - Female,10.4
 4,Afghanistan,2010,Labour force participation - Total,46.8
 4,Afghanistan,2010,Unemployment rate - Total,7.9
@@ -612,7 +612,7 @@
 4,Afghanistan,2010,Labour force participation - Female,15.4
 4,Afghanistan,2010,Unemployment rate - Female,10.4
 4,Afghanistan,2015,Labour force participation - Total,47.2
-4,Afghanistan,2015,Unemployment rate - Total,9
+4,Afghanistan,2015,Unemployment rate - Total,9.0
 4,Afghanistan,2015,Labour force participation - Male,75.3
 4,Afghanistan,2015,Unemployment rate - Male,8.4
 4,Afghanistan,2015,Labour force participation - Female,19.1
@@ -621,11 +621,11 @@
 4,Afghanistan,2024,Unemployment rate - Total,16.3
 4,Afghanistan,2024,Labour force participation - Male,69.3
 4,Afghanistan,2024,Unemployment rate - Male,15.3
-4,Afghanistan,2024,Labour force participation - Female,5
-4,Afghanistan,2024,Unemployment rate - Female,31
+4,Afghanistan,2024,Labour force participation - Female,5.0
+4,Afghanistan,2024,Unemployment rate - Female,31.0
 8,Albania,2005,Labour force participation - Total,56.4
-8,Albania,2005,Unemployment rate - Total,16
-8,Albania,2005,Labour force participation - Male,66
+8,Albania,2005,Unemployment rate - Total,16.0
+8,Albania,2005,Labour force participation - Male,66.0
 8,Albania,2005,Unemployment rate - Male,15.6
 8,Albania,2005,Labour force participation - Female,47.1
 8,Albania,2005,Unemployment rate - Female,16.4
@@ -639,12 +639,12 @@
 8,Albania,2015,Unemployment rate - Total,17.2
 8,Albania,2015,Labour force participation - Male,64.1
 8,Albania,2015,Unemployment rate - Male,17.2
-8,Albania,2015,Labour force participation - Female,47
+8,Albania,2015,Labour force participation - Female,47.0
 8,Albania,2015,Unemployment rate - Female,17.1
 8,Albania,2024,Labour force participation - Total,59.6
 8,Albania,2024,Unemployment rate - Total,10.8
 8,Albania,2024,Labour force participation - Male,67.1
-8,Albania,2024,Unemployment rate - Male,11
+8,Albania,2024,Unemployment rate - Male,11.0
 8,Albania,2024,Labour force participation - Female,52.3
 8,Albania,2024,Unemployment rate - Female,10.7
 12,Algeria,2005,Labour force participation - Total,42.5
@@ -654,7 +654,7 @@
 12,Algeria,2005,Labour force participation - Female,13.1
 12,Algeria,2005,Unemployment rate - Female,17.2
 12,Algeria,2010,Labour force participation - Total,41.7
-12,Algeria,2010,Unemployment rate - Total,10
+12,Algeria,2010,Unemployment rate - Total,10.0
 12,Algeria,2010,Labour force participation - Male,68.4
 12,Algeria,2010,Unemployment rate - Male,8.1
 12,Algeria,2010,Labour force participation - Female,14.1
@@ -676,7 +676,7 @@
 16,American Samoa,2000,Labour force participation - Male,58.8
 16,American Samoa,2000,Unemployment rate - Male,4.9
 16,American Samoa,2000,Labour force participation - Female,41.2
-16,American Samoa,2000,Unemployment rate - Female,6
+16,American Samoa,2000,Unemployment rate - Female,6.0
 16,American Samoa,2005,Labour force participation - Total,59.9
 16,American Samoa,2010,Labour force participation - Total,52.8
 16,American Samoa,2010,Unemployment rate - Total,9.2
@@ -688,7 +688,7 @@
 24,Angola,2005,Unemployment rate - Female,18.1
 24,Angola,2010,Labour force participation - Total,77.3
 24,Angola,2010,Unemployment rate - Total,16.6
-24,Angola,2010,Labour force participation - Male,79
+24,Angola,2010,Labour force participation - Male,79.0
 24,Angola,2010,Unemployment rate - Male,14.5
 24,Angola,2010,Labour force participation - Female,75.6
 24,Angola,2010,Unemployment rate - Female,18.5
@@ -733,7 +733,7 @@
 51,Armenia,2005,Labour force participation - Male,67.7
 51,Armenia,2005,Unemployment rate - Male,9.3
 51,Armenia,2005,Labour force participation - Female,54.3
-51,Armenia,2005,Unemployment rate - Female,11
+51,Armenia,2005,Unemployment rate - Female,11.0
 51,Armenia,2010,Labour force participation - Total,61.2
 51,Armenia,2010,Unemployment rate - Total,10.9
 51,Armenia,2010,Labour force participation - Male,68.7
@@ -745,7 +745,7 @@
 51,Armenia,2015,Labour force participation - Male,69.4
 51,Armenia,2015,Unemployment rate - Male,13.6
 51,Armenia,2015,Labour force participation - Female,55.7
-51,Armenia,2015,Unemployment rate - Female,11
+51,Armenia,2015,Unemployment rate - Female,11.0
 51,Armenia,2024,Labour force participation - Total,60.7
 51,Armenia,2024,Unemployment rate - Total,8.3
 51,Armenia,2024,Labour force participation - Male,67.6
@@ -765,10 +765,10 @@
 533,Aruba,2011,Labour force participation - Male,69.6
 533,Aruba,2011,Labour force participation - Female,58.8
 36,Australia,2005,Labour force participation - Total,64.4
-36,Australia,2005,Unemployment rate - Total,5
+36,Australia,2005,Unemployment rate - Total,5.0
 36,Australia,2005,Labour force participation - Male,72.1
 36,Australia,2005,Unemployment rate - Male,4.9
-36,Australia,2005,Labour force participation - Female,57
+36,Australia,2005,Labour force participation - Female,57.0
 36,Australia,2005,Unemployment rate - Female,5.2
 36,Australia,2010,Labour force participation - Total,65.4
 36,Australia,2010,Unemployment rate - Total,5.2
@@ -776,10 +776,10 @@
 36,Australia,2010,Unemployment rate - Male,5.1
 36,Australia,2010,Labour force participation - Female,58.6
 36,Australia,2010,Unemployment rate - Female,5.4
-36,Australia,2015,Labour force participation - Total,65
+36,Australia,2015,Labour force participation - Total,65.0
 36,Australia,2015,Unemployment rate - Total,6.1
 36,Australia,2015,Labour force participation - Male,71.1
-36,Australia,2015,Unemployment rate - Male,6
+36,Australia,2015,Unemployment rate - Male,6.0
 36,Australia,2015,Labour force participation - Female,59.1
 36,Australia,2015,Unemployment rate - Female,6.1
 36,Australia,2024,Labour force participation - Total,66.2
@@ -790,7 +790,7 @@
 36,Australia,2024,Unemployment rate - Female,3.7
 40,Austria,2005,Labour force participation - Total,58.5
 40,Austria,2005,Unemployment rate - Total,5.7
-40,Austria,2005,Labour force participation - Male,66
+40,Austria,2005,Labour force participation - Male,66.0
 40,Austria,2005,Unemployment rate - Male,5.5
 40,Austria,2005,Labour force participation - Female,51.5
 40,Austria,2005,Unemployment rate - Female,5.9
@@ -825,14 +825,14 @@
 31,Azerbaijan,2010,Labour force participation - Female,59.7
 31,Azerbaijan,2010,Unemployment rate - Female,6.9
 31,Azerbaijan,2015,Labour force participation - Total,63.4
-31,Azerbaijan,2015,Unemployment rate - Total,5
+31,Azerbaijan,2015,Unemployment rate - Total,5.0
 31,Azerbaijan,2015,Labour force participation - Male,66.1
 31,Azerbaijan,2015,Unemployment rate - Male,4.1
-31,Azerbaijan,2015,Labour force participation - Female,61
+31,Azerbaijan,2015,Labour force participation - Female,61.0
 31,Azerbaijan,2015,Unemployment rate - Female,5.8
-31,Azerbaijan,2024,Labour force participation - Total,70
+31,Azerbaijan,2024,Labour force participation - Total,70.0
 31,Azerbaijan,2024,Unemployment rate - Total,5.7
-31,Azerbaijan,2024,Labour force participation - Male,73
+31,Azerbaijan,2024,Labour force participation - Male,73.0
 31,Azerbaijan,2024,Unemployment rate - Male,4.8
 31,Azerbaijan,2024,Labour force participation - Female,67.2
 31,Azerbaijan,2024,Unemployment rate - Female,6.6
@@ -849,11 +849,11 @@
 44,Bahamas,2010,Labour force participation - Female,67.4
 44,Bahamas,2010,Unemployment rate - Female,14.7
 44,Bahamas,2015,Labour force participation - Total,73.6
-44,Bahamas,2015,Unemployment rate - Total,12
+44,Bahamas,2015,Unemployment rate - Total,12.0
 44,Bahamas,2015,Labour force participation - Male,81.3
 44,Bahamas,2015,Unemployment rate - Male,11.1
 44,Bahamas,2015,Labour force participation - Female,66.7
-44,Bahamas,2015,Unemployment rate - Female,13
+44,Bahamas,2015,Unemployment rate - Female,13.0
 44,Bahamas,2024,Labour force participation - Total,71.8
 44,Bahamas,2024,Unemployment rate - Total,9.4
 44,Bahamas,2024,Labour force participation - Male,79.3
@@ -864,11 +864,11 @@
 48,Bahrain,2005,Unemployment rate - Total,1.1
 48,Bahrain,2005,Labour force participation - Male,84.7
 48,Bahrain,2005,Unemployment rate - Male,0.4
-48,Bahrain,2005,Labour force participation - Female,39
+48,Bahrain,2005,Labour force participation - Female,39.0
 48,Bahrain,2005,Unemployment rate - Female,3.5
 48,Bahrain,2010,Labour force participation - Total,71.8
 48,Bahrain,2010,Unemployment rate - Total,1.1
-48,Bahrain,2010,Labour force participation - Male,87
+48,Bahrain,2010,Labour force participation - Male,87.0
 48,Bahrain,2010,Unemployment rate - Male,0.4
 48,Bahrain,2010,Labour force participation - Female,43.6
 48,Bahrain,2010,Unemployment rate - Female,3.7
@@ -876,7 +876,7 @@
 48,Bahrain,2015,Unemployment rate - Total,1.2
 48,Bahrain,2015,Labour force participation - Male,86.2
 48,Bahrain,2015,Unemployment rate - Male,0.4
-48,Bahrain,2015,Labour force participation - Female,43
+48,Bahrain,2015,Labour force participation - Female,43.0
 48,Bahrain,2015,Unemployment rate - Female,3.8
 48,Bahrain,2024,Labour force participation - Total,71.8
 48,Bahrain,2024,Unemployment rate - Total,1.3
@@ -888,12 +888,12 @@
 50,Bangladesh,2005,Unemployment rate - Total,4.3
 50,Bangladesh,2005,Labour force participation - Male,86.7
 50,Bangladesh,2005,Unemployment rate - Male,3.3
-50,Bangladesh,2005,Labour force participation - Female,29
-50,Bangladesh,2005,Unemployment rate - Female,7
+50,Bangladesh,2005,Labour force participation - Female,29.0
+50,Bangladesh,2005,Unemployment rate - Female,7.0
 50,Bangladesh,2010,Labour force participation - Total,57.3
 50,Bangladesh,2010,Unemployment rate - Total,3.4
 50,Bangladesh,2010,Labour force participation - Male,84.2
-50,Bangladesh,2010,Unemployment rate - Male,3
+50,Bangladesh,2010,Unemployment rate - Male,3.0
 50,Bangladesh,2010,Labour force participation - Female,30.8
 50,Bangladesh,2010,Unemployment rate - Female,4.4
 50,Bangladesh,2015,Labour force participation - Total,56.3
@@ -902,7 +902,7 @@
 50,Bangladesh,2015,Unemployment rate - Male,3.1
 50,Bangladesh,2015,Labour force participation - Female,32.8
 50,Bangladesh,2015,Unemployment rate - Female,7.4
-50,Bangladesh,2024,Labour force participation - Total,58
+50,Bangladesh,2024,Labour force participation - Total,58.0
 50,Bangladesh,2024,Unemployment rate - Total,4.2
 50,Bangladesh,2024,Labour force participation - Male,79.9
 50,Bangladesh,2024,Unemployment rate - Male,3.1
@@ -920,12 +920,12 @@
 52,Barbados,2010,Unemployment rate - Male,10.9
 52,Barbados,2010,Labour force participation - Female,62.9
 52,Barbados,2010,Unemployment rate - Female,10.5
-52,Barbados,2015,Labour force participation - Total,64
+52,Barbados,2015,Labour force participation - Total,64.0
 52,Barbados,2015,Unemployment rate - Total,9.8
 52,Barbados,2015,Labour force participation - Male,67.5
 52,Barbados,2015,Unemployment rate - Male,10.6
 52,Barbados,2015,Labour force participation - Female,60.8
-52,Barbados,2015,Unemployment rate - Female,9
+52,Barbados,2015,Unemployment rate - Female,9.0
 52,Barbados,2024,Labour force participation - Total,61.7
 52,Barbados,2024,Unemployment rate - Total,7.6
 52,Barbados,2024,Labour force participation - Male,65.5
@@ -972,12 +972,12 @@
 56,Belgium,2015,Unemployment rate - Total,8.5
 56,Belgium,2015,Labour force participation - Male,58.9
 56,Belgium,2015,Unemployment rate - Male,9.1
-56,Belgium,2015,Labour force participation - Female,48
+56,Belgium,2015,Labour force participation - Female,48.0
 56,Belgium,2015,Unemployment rate - Female,7.8
 56,Belgium,2024,Labour force participation - Total,55.1
 56,Belgium,2024,Unemployment rate - Total,5.5
 56,Belgium,2024,Labour force participation - Male,59.6
-56,Belgium,2024,Unemployment rate - Male,6
+56,Belgium,2024,Unemployment rate - Male,6.0
 56,Belgium,2024,Labour force participation - Female,50.8
 56,Belgium,2024,Unemployment rate - Female,4.9
 84,Belize,2005,Labour force participation - Total,60.7
@@ -988,9 +988,9 @@
 84,Belize,2005,Unemployment rate - Female,17.3
 84,Belize,2010,Labour force participation - Total,61.9
 84,Belize,2010,Unemployment rate - Total,8.4
-84,Belize,2010,Labour force participation - Male,79
+84,Belize,2010,Labour force participation - Male,79.0
 84,Belize,2010,Unemployment rate - Male,5.9
-84,Belize,2010,Labour force participation - Female,45
+84,Belize,2010,Labour force participation - Female,45.0
 84,Belize,2010,Unemployment rate - Female,12.9
 84,Belize,2015,Labour force participation - Total,63.9
 84,Belize,2015,Unemployment rate - Total,7.6
@@ -999,7 +999,7 @@
 84,Belize,2015,Labour force participation - Female,48.3
 84,Belize,2015,Unemployment rate - Female,11.1
 84,Belize,2024,Labour force participation - Total,63.7
-84,Belize,2024,Unemployment rate - Total,8
+84,Belize,2024,Unemployment rate - Total,8.0
 84,Belize,2024,Labour force participation - Male,77.2
 84,Belize,2024,Unemployment rate - Male,5.2
 84,Belize,2024,Labour force participation - Female,50.3
@@ -1007,11 +1007,11 @@
 204,Benin,2005,Labour force participation - Total,71.8
 204,Benin,2005,Unemployment rate - Total,0.9
 204,Benin,2005,Labour force participation - Male,77.1
-204,Benin,2005,Unemployment rate - Male,1
+204,Benin,2005,Unemployment rate - Male,1.0
 204,Benin,2005,Labour force participation - Female,66.7
 204,Benin,2005,Unemployment rate - Female,0.7
 204,Benin,2010,Labour force participation - Total,71.9
-204,Benin,2010,Unemployment rate - Total,1
+204,Benin,2010,Unemployment rate - Total,1.0
 204,Benin,2010,Labour force participation - Male,74.7
 204,Benin,2010,Unemployment rate - Male,0.9
 204,Benin,2010,Labour force participation - Female,69.1
@@ -1031,25 +1031,25 @@
 60,Bermuda,2000,Unemployment rate - Total,2.7
 60,Bermuda,2000,Unemployment rate - Male,3.1
 60,Bermuda,2000,Unemployment rate - Female,2.3
-60,Bermuda,2009,Labour force participation - Total,82
+60,Bermuda,2009,Labour force participation - Total,82.0
 60,Bermuda,2009,Unemployment rate - Total,4.5
-60,Bermuda,2009,Labour force participation - Male,86
-60,Bermuda,2009,Unemployment rate - Male,6
-60,Bermuda,2009,Labour force participation - Female,79
-60,Bermuda,2009,Unemployment rate - Female,3
-60,Bermuda,2010,Labour force participation - Total,84
-60,Bermuda,2010,Labour force participation - Male,87
-60,Bermuda,2010,Labour force participation - Female,81
+60,Bermuda,2009,Labour force participation - Male,86.0
+60,Bermuda,2009,Unemployment rate - Male,6.0
+60,Bermuda,2009,Labour force participation - Female,79.0
+60,Bermuda,2009,Unemployment rate - Female,3.0
+60,Bermuda,2010,Labour force participation - Total,84.0
+60,Bermuda,2010,Labour force participation - Male,87.0
+60,Bermuda,2010,Labour force participation - Female,81.0
 60,Bermuda,2012,Labour force participation - Total,76.1
 60,Bermuda,2012,Unemployment rate - Total,8.4
-60,Bermuda,2012,Labour force participation - Male,80
+60,Bermuda,2012,Labour force participation - Male,80.0
 60,Bermuda,2012,Unemployment rate - Male,8.7
 60,Bermuda,2012,Labour force participation - Female,72.6
 60,Bermuda,2012,Unemployment rate - Female,8.2
 60,Bermuda,2013,Unemployment rate - Total,6.7
 64,Bhutan,2005,Labour force participation - Total,69.9
 64,Bhutan,2005,Unemployment rate - Total,3.1
-64,Bhutan,2005,Labour force participation - Male,75
+64,Bhutan,2005,Labour force participation - Male,75.0
 64,Bhutan,2005,Unemployment rate - Male,2.9
 64,Bhutan,2005,Labour force participation - Female,63.9
 64,Bhutan,2005,Unemployment rate - Female,3.3
@@ -1065,13 +1065,13 @@
 64,Bhutan,2015,Unemployment rate - Male,1.9
 64,Bhutan,2015,Labour force participation - Female,55.1
 64,Bhutan,2015,Unemployment rate - Female,3.3
-64,Bhutan,2024,Labour force participation - Total,69
+64,Bhutan,2024,Labour force participation - Total,69.0
 64,Bhutan,2024,Unemployment rate - Total,6.1
 64,Bhutan,2024,Labour force participation - Male,73.4
 64,Bhutan,2024,Unemployment rate - Male,4.5
 64,Bhutan,2024,Labour force participation - Female,64.1
 64,Bhutan,2024,Unemployment rate - Female,8.1
-68,Bolivia (Plurin. State of),2005,Labour force participation - Total,70
+68,Bolivia (Plurin. State of),2005,Labour force participation - Total,70.0
 68,Bolivia (Plurin. State of),2005,Unemployment rate - Total,2.6
 68,Bolivia (Plurin. State of),2005,Labour force participation - Male,79.8
 68,Bolivia (Plurin. State of),2005,Unemployment rate - Male,2.2
@@ -1098,14 +1098,14 @@
 70,Bosnia and Herzegovina,2005,Labour force participation - Total,43.2
 70,Bosnia and Herzegovina,2005,Unemployment rate - Total,30.2
 70,Bosnia and Herzegovina,2005,Labour force participation - Male,56.6
-70,Bosnia and Herzegovina,2005,Unemployment rate - Male,28
+70,Bosnia and Herzegovina,2005,Unemployment rate - Male,28.0
 70,Bosnia and Herzegovina,2005,Labour force participation - Female,30.8
-70,Bosnia and Herzegovina,2005,Unemployment rate - Female,34
+70,Bosnia and Herzegovina,2005,Unemployment rate - Female,34.0
 70,Bosnia and Herzegovina,2010,Labour force participation - Total,45.7
 70,Bosnia and Herzegovina,2010,Unemployment rate - Total,27.3
 70,Bosnia and Herzegovina,2010,Labour force participation - Male,58.2
 70,Bosnia and Herzegovina,2010,Unemployment rate - Male,25.7
-70,Bosnia and Herzegovina,2010,Labour force participation - Female,34
+70,Bosnia and Herzegovina,2010,Labour force participation - Female,34.0
 70,Bosnia and Herzegovina,2010,Unemployment rate - Female,29.9
 70,Bosnia and Herzegovina,2015,Labour force participation - Total,46.3
 70,Bosnia and Herzegovina,2015,Unemployment rate - Total,27.7
@@ -1117,8 +1117,8 @@
 70,Bosnia and Herzegovina,2024,Unemployment rate - Total,11.6
 70,Bosnia and Herzegovina,2024,Labour force participation - Male,59.5
 70,Bosnia and Herzegovina,2024,Unemployment rate - Male,9.9
-70,Bosnia and Herzegovina,2024,Labour force participation - Female,40
-70,Bosnia and Herzegovina,2024,Unemployment rate - Female,14
+70,Bosnia and Herzegovina,2024,Labour force participation - Female,40.0
+70,Bosnia and Herzegovina,2024,Unemployment rate - Female,14.0
 72,Botswana,2005,Labour force participation - Total,58.6
 72,Botswana,2005,Unemployment rate - Total,19.9
 72,Botswana,2005,Labour force participation - Male,66.2
@@ -1133,9 +1133,9 @@
 72,Botswana,2010,Unemployment rate - Female,21.6
 72,Botswana,2015,Labour force participation - Total,61.8
 72,Botswana,2015,Unemployment rate - Total,18.9
-72,Botswana,2015,Labour force participation - Male,68
+72,Botswana,2015,Labour force participation - Male,68.0
 72,Botswana,2015,Unemployment rate - Male,16.6
-72,Botswana,2015,Labour force participation - Female,56
+72,Botswana,2015,Labour force participation - Female,56.0
 72,Botswana,2015,Unemployment rate - Female,21.5
 72,Botswana,2024,Labour force participation - Total,64.4
 72,Botswana,2024,Unemployment rate - Total,23.5
@@ -1145,13 +1145,13 @@
 72,Botswana,2024,Unemployment rate - Female,25.9
 76,Brazil,2005,Labour force participation - Total,66.6
 76,Brazil,2005,Unemployment rate - Total,10.6
-76,Brazil,2005,Labour force participation - Male,78
-76,Brazil,2005,Unemployment rate - Male,8
+76,Brazil,2005,Labour force participation - Male,78.0
+76,Brazil,2005,Unemployment rate - Male,8.0
 76,Brazil,2005,Labour force participation - Female,55.6
-76,Brazil,2005,Unemployment rate - Female,14
+76,Brazil,2005,Unemployment rate - Female,14.0
 76,Brazil,2010,Labour force participation - Total,64.5
 76,Brazil,2010,Unemployment rate - Total,8.4
-76,Brazil,2010,Labour force participation - Male,76
+76,Brazil,2010,Labour force participation - Male,76.0
 76,Brazil,2010,Unemployment rate - Male,6.2
 76,Brazil,2010,Labour force participation - Female,53.7
 76,Brazil,2010,Unemployment rate - Female,11.5
@@ -1159,30 +1159,30 @@
 76,Brazil,2015,Unemployment rate - Total,8.5
 76,Brazil,2015,Labour force participation - Male,75.2
 76,Brazil,2015,Unemployment rate - Male,7.2
-76,Brazil,2015,Labour force participation - Female,53
+76,Brazil,2015,Labour force participation - Female,53.0
 76,Brazil,2015,Unemployment rate - Female,10.3
 76,Brazil,2024,Labour force participation - Total,62.9
 76,Brazil,2024,Unemployment rate - Total,7.6
-76,Brazil,2024,Labour force participation - Male,73
+76,Brazil,2024,Labour force participation - Male,73.0
 76,Brazil,2024,Unemployment rate - Male,6.4
 76,Brazil,2024,Labour force participation - Female,53.4
 76,Brazil,2024,Unemployment rate - Female,9.2
 96,Brunei Darussalam,2005,Labour force participation - Total,67.3
-96,Brunei Darussalam,2005,Unemployment rate - Total,6
+96,Brunei Darussalam,2005,Unemployment rate - Total,6.0
 96,Brunei Darussalam,2005,Labour force participation - Male,77.5
 96,Brunei Darussalam,2005,Unemployment rate - Male,5.1
 96,Brunei Darussalam,2005,Labour force participation - Female,56.1
 96,Brunei Darussalam,2005,Unemployment rate - Female,7.4
 96,Brunei Darussalam,2010,Labour force participation - Total,66.6
 96,Brunei Darussalam,2010,Unemployment rate - Total,6.5
-96,Brunei Darussalam,2010,Labour force participation - Male,76
+96,Brunei Darussalam,2010,Labour force participation - Male,76.0
 96,Brunei Darussalam,2010,Unemployment rate - Male,5.7
 96,Brunei Darussalam,2010,Labour force participation - Female,56.3
 96,Brunei Darussalam,2010,Unemployment rate - Female,7.6
-96,Brunei Darussalam,2015,Labour force participation - Total,64
+96,Brunei Darussalam,2015,Labour force participation - Total,64.0
 96,Brunei Darussalam,2015,Unemployment rate - Total,7.7
 96,Brunei Darussalam,2015,Labour force participation - Male,71.1
-96,Brunei Darussalam,2015,Unemployment rate - Male,7
+96,Brunei Darussalam,2015,Unemployment rate - Male,7.0
 96,Brunei Darussalam,2015,Labour force participation - Female,56.3
 96,Brunei Darussalam,2015,Unemployment rate - Female,8.6
 96,Brunei Darussalam,2024,Labour force participation - Total,64.1
@@ -1205,21 +1205,21 @@
 100,Bulgaria,2010,Unemployment rate - Female,9.6
 100,Bulgaria,2015,Labour force participation - Total,54.1
 100,Bulgaria,2015,Unemployment rate - Total,9.1
-100,Bulgaria,2015,Labour force participation - Male,60
+100,Bulgaria,2015,Labour force participation - Male,60.0
 100,Bulgaria,2015,Unemployment rate - Male,9.8
 100,Bulgaria,2015,Labour force participation - Female,48.6
 100,Bulgaria,2015,Unemployment rate - Female,8.4
-100,Bulgaria,2024,Labour force participation - Total,57
+100,Bulgaria,2024,Labour force participation - Total,57.0
 100,Bulgaria,2024,Unemployment rate - Total,3.9
 100,Bulgaria,2024,Labour force participation - Male,63.5
 100,Bulgaria,2024,Unemployment rate - Male,3.9
-100,Bulgaria,2024,Labour force participation - Female,51
+100,Bulgaria,2024,Labour force participation - Female,51.0
 100,Bulgaria,2024,Unemployment rate - Female,3.9
 854,Burkina Faso,2005,Labour force participation - Total,73.6
-854,Burkina Faso,2005,Unemployment rate - Total,4
+854,Burkina Faso,2005,Unemployment rate - Total,4.0
 854,Burkina Faso,2005,Labour force participation - Male,85.8
 854,Burkina Faso,2005,Unemployment rate - Male,3.5
-854,Burkina Faso,2005,Labour force participation - Female,62
+854,Burkina Faso,2005,Labour force participation - Female,62.0
 854,Burkina Faso,2005,Unemployment rate - Female,4.7
 854,Burkina Faso,2010,Labour force participation - Total,69.3
 854,Burkina Faso,2010,Unemployment rate - Total,3.7
@@ -1236,7 +1236,7 @@
 854,Burkina Faso,2024,Labour force participation - Total,64.8
 854,Burkina Faso,2024,Unemployment rate - Total,4.9
 854,Burkina Faso,2024,Labour force participation - Male,72.6
-854,Burkina Faso,2024,Unemployment rate - Male,5
+854,Burkina Faso,2024,Unemployment rate - Male,5.0
 854,Burkina Faso,2024,Labour force participation - Female,57.3
 854,Burkina Faso,2024,Unemployment rate - Female,4.8
 108,Burundi,2005,Labour force participation - Total,78.4
@@ -1265,9 +1265,9 @@
 108,Burundi,2024,Unemployment rate - Female,0.7
 132,Cabo Verde,2005,Labour force participation - Total,59.6
 132,Cabo Verde,2005,Unemployment rate - Total,13.5
-132,Cabo Verde,2005,Labour force participation - Male,74
+132,Cabo Verde,2005,Labour force participation - Male,74.0
 132,Cabo Verde,2005,Unemployment rate - Male,13.3
-132,Cabo Verde,2005,Labour force participation - Female,46
+132,Cabo Verde,2005,Labour force participation - Female,46.0
 132,Cabo Verde,2005,Unemployment rate - Female,13.7
 132,Cabo Verde,2010,Labour force participation - Total,59.1
 132,Cabo Verde,2010,Unemployment rate - Total,10.7
@@ -1276,7 +1276,7 @@
 132,Cabo Verde,2010,Labour force participation - Female,48.1
 132,Cabo Verde,2010,Unemployment rate - Female,10.9
 132,Cabo Verde,2015,Labour force participation - Total,59.2
-132,Cabo Verde,2015,Unemployment rate - Total,12
+132,Cabo Verde,2015,Unemployment rate - Total,12.0
 132,Cabo Verde,2015,Labour force participation - Male,67.6
 132,Cabo Verde,2015,Unemployment rate - Male,11.6
 132,Cabo Verde,2015,Labour force participation - Female,50.9
@@ -1292,7 +1292,7 @@
 116,Cambodia,2005,Labour force participation - Male,78.5
 116,Cambodia,2005,Unemployment rate - Male,1.1
 116,Cambodia,2005,Labour force participation - Female,68.7
-116,Cambodia,2005,Unemployment rate - Female,1
+116,Cambodia,2005,Unemployment rate - Female,1.0
 116,Cambodia,2010,Labour force participation - Total,69.5
 116,Cambodia,2010,Unemployment rate - Total,0.8
 116,Cambodia,2010,Labour force participation - Male,75.8
@@ -1303,7 +1303,7 @@
 116,Cambodia,2015,Unemployment rate - Total,0.4
 116,Cambodia,2015,Labour force participation - Male,78.4
 116,Cambodia,2015,Unemployment rate - Male,0.3
-116,Cambodia,2015,Labour force participation - Female,65
+116,Cambodia,2015,Labour force participation - Female,65.0
 116,Cambodia,2015,Unemployment rate - Female,0.5
 116,Cambodia,2024,Labour force participation - Total,75.5
 116,Cambodia,2024,Unemployment rate - Total,0.2
@@ -1327,8 +1327,8 @@
 120,Cameroon,2015,Unemployment rate - Total,3.5
 120,Cameroon,2015,Labour force participation - Male,77.2
 120,Cameroon,2015,Unemployment rate - Male,3.1
-120,Cameroon,2015,Labour force participation - Female,67
-120,Cameroon,2015,Unemployment rate - Female,4
+120,Cameroon,2015,Labour force participation - Female,67.0
+120,Cameroon,2015,Unemployment rate - Female,4.0
 120,Cameroon,2024,Labour force participation - Total,71.8
 120,Cameroon,2024,Unemployment rate - Total,3.7
 120,Cameroon,2024,Labour force participation - Male,76.6
@@ -1338,7 +1338,7 @@
 124,Canada,2005,Labour force participation - Total,67.1
 124,Canada,2005,Unemployment rate - Total,6.8
 124,Canada,2005,Labour force participation - Male,72.8
-124,Canada,2005,Unemployment rate - Male,7
+124,Canada,2005,Unemployment rate - Male,7.0
 124,Canada,2005,Labour force participation - Female,61.7
 124,Canada,2005,Unemployment rate - Female,6.5
 124,Canada,2010,Labour force participation - Total,66.9
@@ -1348,24 +1348,24 @@
 124,Canada,2010,Labour force participation - Female,62.4
 124,Canada,2010,Unemployment rate - Female,7.4
 124,Canada,2015,Labour force participation - Total,65.8
-124,Canada,2015,Unemployment rate - Total,7
+124,Canada,2015,Unemployment rate - Total,7.0
 124,Canada,2015,Labour force participation - Male,70.6
 124,Canada,2015,Unemployment rate - Male,7.5
 124,Canada,2015,Labour force participation - Female,61.2
 124,Canada,2015,Unemployment rate - Female,6.3
 124,Canada,2024,Labour force participation - Total,65.6
-124,Canada,2024,Unemployment rate - Total,6
+124,Canada,2024,Unemployment rate - Total,6.0
 124,Canada,2024,Labour force participation - Male,69.9
 124,Canada,2024,Unemployment rate - Male,6.2
 124,Canada,2024,Labour force participation - Female,61.4
 124,Canada,2024,Unemployment rate - Female,5.9
 136,Cayman Islands,2005,Unemployment rate - Total,3.5
 136,Cayman Islands,2009,Labour force participation - Total,84.2
-136,Cayman Islands,2009,Unemployment rate - Total,6
-136,Cayman Islands,2009,Labour force participation - Male,88
-136,Cayman Islands,2009,Unemployment rate - Male,7
+136,Cayman Islands,2009,Unemployment rate - Total,6.0
+136,Cayman Islands,2009,Labour force participation - Male,88.0
+136,Cayman Islands,2009,Unemployment rate - Male,7.0
 136,Cayman Islands,2009,Labour force participation - Female,80.6
-136,Cayman Islands,2009,Unemployment rate - Female,5
+136,Cayman Islands,2009,Unemployment rate - Female,5.0
 136,Cayman Islands,2010,Labour force participation - Total,81.8
 136,Cayman Islands,2010,Unemployment rate - Total,6.7
 136,Cayman Islands,2013,Labour force participation - Total,83.1
@@ -1387,10 +1387,10 @@
 140,Central African Republic,2010,Labour force participation - Female,63.2
 140,Central African Republic,2010,Unemployment rate - Female,6.8
 140,Central African Republic,2015,Labour force participation - Total,70.9
-140,Central African Republic,2015,Unemployment rate - Total,6
+140,Central African Republic,2015,Unemployment rate - Total,6.0
 140,Central African Republic,2015,Labour force participation - Male,78.8
 140,Central African Republic,2015,Unemployment rate - Male,5.3
-140,Central African Republic,2015,Labour force participation - Female,63
+140,Central African Republic,2015,Labour force participation - Female,63.0
 140,Central African Republic,2015,Unemployment rate - Female,6.9
 140,Central African Republic,2024,Labour force participation - Total,70.6
 140,Central African Republic,2024,Unemployment rate - Total,6.2
@@ -1402,7 +1402,7 @@
 148,Chad,2005,Unemployment rate - Total,0.6
 148,Chad,2005,Labour force participation - Male,76.6
 148,Chad,2005,Unemployment rate - Male,0.8
-148,Chad,2005,Labour force participation - Female,57
+148,Chad,2005,Labour force participation - Female,57.0
 148,Chad,2005,Unemployment rate - Female,0.4
 148,Chad,2010,Labour force participation - Total,64.2
 148,Chad,2010,Unemployment rate - Total,0.8
@@ -1428,20 +1428,20 @@
 830,Channel Islands,2005,Unemployment rate - Male,5.3
 830,Channel Islands,2005,Labour force participation - Female,52.5
 830,Channel Islands,2005,Unemployment rate - Female,6.4
-830,Channel Islands,2010,Labour force participation - Total,60
-830,Channel Islands,2010,Unemployment rate - Total,7
+830,Channel Islands,2010,Labour force participation - Total,60.0
+830,Channel Islands,2010,Unemployment rate - Total,7.0
 830,Channel Islands,2010,Labour force participation - Male,67.7
 830,Channel Islands,2010,Unemployment rate - Male,6.9
 830,Channel Islands,2010,Labour force participation - Female,52.6
-830,Channel Islands,2010,Unemployment rate - Female,7
+830,Channel Islands,2010,Unemployment rate - Female,7.0
 830,Channel Islands,2015,Labour force participation - Total,59.3
-830,Channel Islands,2015,Unemployment rate - Total,8
+830,Channel Islands,2015,Unemployment rate - Total,8.0
 830,Channel Islands,2015,Labour force participation - Male,67.3
 830,Channel Islands,2015,Unemployment rate - Male,7.8
 830,Channel Islands,2015,Labour force participation - Female,51.6
 830,Channel Islands,2015,Unemployment rate - Female,8.2
 830,Channel Islands,2024,Labour force participation - Total,57.7
-830,Channel Islands,2024,Unemployment rate - Total,6
+830,Channel Islands,2024,Unemployment rate - Total,6.0
 830,Channel Islands,2024,Labour force participation - Male,64.8
 830,Channel Islands,2024,Unemployment rate - Male,5.7
 830,Channel Islands,2024,Labour force participation - Female,50.8
@@ -1461,7 +1461,7 @@
 152,Chile,2015,Labour force participation - Total,59.9
 152,Chile,2015,Unemployment rate - Total,6.5
 152,Chile,2015,Labour force participation - Male,71.7
-152,Chile,2015,Unemployment rate - Male,6
+152,Chile,2015,Unemployment rate - Male,6.0
 152,Chile,2015,Labour force participation - Female,48.4
 152,Chile,2015,Unemployment rate - Female,7.1
 152,Chile,2024,Labour force participation - Total,60.8
@@ -1470,16 +1470,16 @@
 152,Chile,2024,Unemployment rate - Male,8.9
 152,Chile,2024,Labour force participation - Female,51.1
 152,Chile,2024,Unemployment rate - Female,9.8
-156,China,2005,Labour force participation - Total,74
+156,China,2005,Labour force participation - Total,74.0
 156,China,2005,Unemployment rate - Total,4.5
 156,China,2005,Labour force participation - Male,80.6
-156,China,2005,Unemployment rate - Male,5
+156,China,2005,Unemployment rate - Male,5.0
 156,China,2005,Labour force participation - Female,67.2
 156,China,2005,Unemployment rate - Female,3.9
-156,China,2010,Labour force participation - Total,71
+156,China,2010,Labour force participation - Total,71.0
 156,China,2010,Unemployment rate - Total,4.5
 156,China,2010,Labour force participation - Male,78.1
-156,China,2010,Unemployment rate - Male,5
+156,China,2010,Unemployment rate - Male,5.0
 156,China,2010,Labour force participation - Female,63.7
 156,China,2010,Unemployment rate - Female,3.9
 156,China,2015,Labour force participation - Total,69.3
@@ -1487,16 +1487,16 @@
 156,China,2015,Labour force participation - Male,75.8
 156,China,2015,Unemployment rate - Male,5.1
 156,China,2015,Labour force participation - Female,62.7
-156,China,2015,Unemployment rate - Female,4
-156,China,2024,Labour force participation - Total,66
-156,China,2024,Unemployment rate - Total,5
+156,China,2015,Unemployment rate - Female,4.0
+156,China,2024,Labour force participation - Total,66.0
+156,China,2024,Unemployment rate - Total,5.0
 156,China,2024,Labour force participation - Male,71.7
 156,China,2024,Unemployment rate - Male,5.5
 156,China,2024,Labour force participation - Female,60.1
 156,China,2024,Unemployment rate - Female,4.3
-344,"China, Hong Kong SAR",2005,Labour force participation - Total,61
+344,"China, Hong Kong SAR",2005,Labour force participation - Total,61.0
 344,"China, Hong Kong SAR",2005,Unemployment rate - Total,5.6
-344,"China, Hong Kong SAR",2005,Labour force participation - Male,71
+344,"China, Hong Kong SAR",2005,Labour force participation - Male,71.0
 344,"China, Hong Kong SAR",2005,Unemployment rate - Male,6.5
 344,"China, Hong Kong SAR",2005,Labour force participation - Female,51.9
 344,"China, Hong Kong SAR",2005,Unemployment rate - Female,4.4
@@ -1512,7 +1512,7 @@
 344,"China, Hong Kong SAR",2015,Unemployment rate - Male,3.4
 344,"China, Hong Kong SAR",2015,Labour force participation - Female,54.7
 344,"China, Hong Kong SAR",2015,Unemployment rate - Female,3.2
-344,"China, Hong Kong SAR",2024,Labour force participation - Total,57
+344,"China, Hong Kong SAR",2024,Labour force participation - Total,57.0
 344,"China, Hong Kong SAR",2024,Unemployment rate - Total,3.9
 344,"China, Hong Kong SAR",2024,Labour force participation - Male,63.3
 344,"China, Hong Kong SAR",2024,Unemployment rate - Male,4.5
@@ -1532,8 +1532,8 @@
 446,"China, Macao SAR",2010,Unemployment rate - Female,2.1
 446,"China, Macao SAR",2015,Labour force participation - Total,70.6
 446,"China, Macao SAR",2015,Unemployment rate - Total,1.8
-446,"China, Macao SAR",2015,Labour force participation - Male,76
-446,"China, Macao SAR",2015,Unemployment rate - Male,2
+446,"China, Macao SAR",2015,Labour force participation - Male,76.0
+446,"China, Macao SAR",2015,Unemployment rate - Male,2.0
 446,"China, Macao SAR",2015,Labour force participation - Female,65.9
 446,"China, Macao SAR",2015,Unemployment rate - Female,1.6
 446,"China, Macao SAR",2024,Labour force participation - Total,68.1
@@ -1541,7 +1541,7 @@
 446,"China, Macao SAR",2024,Labour force participation - Male,73.7
 446,"China, Macao SAR",2024,Unemployment rate - Male,1.2
 446,"China, Macao SAR",2024,Labour force participation - Female,63.4
-446,"China, Macao SAR",2024,Unemployment rate - Female,1
+446,"China, Macao SAR",2024,Unemployment rate - Female,1.0
 170,Colombia,2005,Labour force participation - Total,65.3
 170,Colombia,2005,Unemployment rate - Total,11.1
 170,Colombia,2005,Labour force participation - Male,80.1
@@ -1554,7 +1554,7 @@
 170,Colombia,2010,Unemployment rate - Male,8.9
 170,Colombia,2010,Labour force participation - Female,54.4
 170,Colombia,2010,Unemployment rate - Female,14.4
-170,Colombia,2015,Labour force participation - Total,67
+170,Colombia,2015,Labour force participation - Total,67.0
 170,Colombia,2015,Unemployment rate - Total,8.6
 170,Colombia,2015,Labour force participation - Male,79.3
 170,Colombia,2015,Unemployment rate - Male,6.7
@@ -1592,20 +1592,20 @@
 174,Comoros,2024,Unemployment rate - Female,6.4
 178,Congo,2005,Labour force participation - Total,67.9
 178,Congo,2005,Unemployment rate - Total,19.8
-178,Congo,2005,Labour force participation - Male,69
+178,Congo,2005,Labour force participation - Male,69.0
 178,Congo,2005,Unemployment rate - Male,18.5
 178,Congo,2005,Labour force participation - Female,66.8
 178,Congo,2005,Unemployment rate - Female,21.1
 178,Congo,2010,Labour force participation - Total,67.8
 178,Congo,2010,Unemployment rate - Total,19.2
 178,Congo,2010,Labour force participation - Male,68.8
-178,Congo,2010,Unemployment rate - Male,18
+178,Congo,2010,Unemployment rate - Male,18.0
 178,Congo,2010,Labour force participation - Female,66.9
 178,Congo,2010,Unemployment rate - Female,20.4
-178,Congo,2015,Labour force participation - Total,68
+178,Congo,2015,Labour force participation - Total,68.0
 178,Congo,2015,Unemployment rate - Total,20.3
 178,Congo,2015,Labour force participation - Male,69.3
-178,Congo,2015,Unemployment rate - Male,19
+178,Congo,2015,Unemployment rate - Male,19.0
 178,Congo,2015,Labour force participation - Female,66.7
 178,Congo,2015,Unemployment rate - Female,21.6
 178,Congo,2024,Labour force participation - Total,67.8
@@ -1616,14 +1616,14 @@
 178,Congo,2024,Unemployment rate - Female,20.9
 184,Cook Islands,2001,Labour force participation - Total,74.5
 184,Cook Islands,2001,Labour force participation - Male,75.5
-184,Cook Islands,2001,Labour force participation - Female,63
+184,Cook Islands,2001,Labour force participation - Female,63.0
 184,Cook Islands,2006,Labour force participation - Total,70.2
 184,Cook Islands,2006,Unemployment rate - Total,6.9
 184,Cook Islands,2006,Labour force participation - Male,76.1
 184,Cook Islands,2006,Unemployment rate - Male,6.7
 184,Cook Islands,2006,Labour force participation - Female,64.2
 184,Cook Islands,2006,Unemployment rate - Female,7.3
-184,Cook Islands,2011,Labour force participation - Total,71
+184,Cook Islands,2011,Labour force participation - Total,71.0
 184,Cook Islands,2011,Unemployment rate - Total,8.2
 184,Cook Islands,2011,Labour force participation - Male,76.6
 184,Cook Islands,2011,Unemployment rate - Male,8.2
@@ -1632,13 +1632,13 @@
 188,Costa Rica,2005,Labour force participation - Total,61.3
 188,Costa Rica,2005,Unemployment rate - Total,6.8
 188,Costa Rica,2005,Labour force participation - Male,79.2
-188,Costa Rica,2005,Unemployment rate - Male,5
+188,Costa Rica,2005,Unemployment rate - Male,5.0
 188,Costa Rica,2005,Labour force participation - Female,43.4
 188,Costa Rica,2005,Unemployment rate - Female,9.9
 188,Costa Rica,2010,Labour force participation - Total,59.2
 188,Costa Rica,2010,Unemployment rate - Total,7.2
 188,Costa Rica,2010,Labour force participation - Male,74.6
-188,Costa Rica,2010,Unemployment rate - Male,6
+188,Costa Rica,2010,Unemployment rate - Male,6.0
 188,Costa Rica,2010,Labour force participation - Female,43.9
 188,Costa Rica,2010,Unemployment rate - Female,9.1
 188,Costa Rica,2015,Labour force participation - Total,62.8
@@ -1648,12 +1648,12 @@
 188,Costa Rica,2015,Labour force participation - Female,49.9
 188,Costa Rica,2015,Unemployment rate - Female,10.4
 188,Costa Rica,2024,Labour force participation - Total,60.2
-188,Costa Rica,2024,Unemployment rate - Total,8
+188,Costa Rica,2024,Unemployment rate - Total,8.0
 188,Costa Rica,2024,Labour force participation - Male,72.8
 188,Costa Rica,2024,Unemployment rate - Male,6.9
 188,Costa Rica,2024,Labour force participation - Female,47.8
 188,Costa Rica,2024,Unemployment rate - Female,9.6
-384,Côte d’Ivoire,2005,Labour force participation - Total,65
+384,Côte d’Ivoire,2005,Labour force participation - Total,65.0
 384,Côte d’Ivoire,2005,Unemployment rate - Total,6.2
 384,Côte d’Ivoire,2005,Labour force participation - Male,78.8
 384,Côte d’Ivoire,2005,Unemployment rate - Male,6.1
@@ -1676,7 +1676,7 @@
 384,Côte d’Ivoire,2024,Labour force participation - Male,72.2
 384,Côte d’Ivoire,2024,Unemployment rate - Male,1.9
 384,Côte d’Ivoire,2024,Labour force participation - Female,56.5
-384,Côte d’Ivoire,2024,Unemployment rate - Female,3
+384,Côte d’Ivoire,2024,Unemployment rate - Female,3.0
 191,Croatia,2005,Labour force participation - Total,49.6
 191,Croatia,2005,Unemployment rate - Total,12.6
 191,Croatia,2005,Labour force participation - Male,57.4
@@ -1686,7 +1686,7 @@
 191,Croatia,2010,Labour force participation - Total,52.6
 191,Croatia,2010,Unemployment rate - Total,11.6
 191,Croatia,2010,Labour force participation - Male,59.7
-191,Croatia,2010,Unemployment rate - Male,11
+191,Croatia,2010,Unemployment rate - Male,11.0
 191,Croatia,2010,Labour force participation - Female,46.1
 191,Croatia,2010,Unemployment rate - Female,12.3
 191,Croatia,2015,Labour force participation - Total,52.7
@@ -1702,20 +1702,20 @@
 191,Croatia,2024,Labour force participation - Female,47.1
 191,Croatia,2024,Unemployment rate - Female,7.1
 192,Cuba,2005,Labour force participation - Total,53.4
-192,Cuba,2005,Unemployment rate - Total,2
+192,Cuba,2005,Unemployment rate - Total,2.0
 192,Cuba,2005,Labour force participation - Male,67.9
 192,Cuba,2005,Unemployment rate - Male,1.8
-192,Cuba,2005,Labour force participation - Female,39
+192,Cuba,2005,Labour force participation - Female,39.0
 192,Cuba,2005,Unemployment rate - Female,2.2
-192,Cuba,2010,Labour force participation - Total,55
+192,Cuba,2010,Labour force participation - Total,55.0
 192,Cuba,2010,Unemployment rate - Total,2.5
 192,Cuba,2010,Labour force participation - Male,68.4
 192,Cuba,2010,Unemployment rate - Male,2.4
 192,Cuba,2010,Labour force participation - Female,41.9
 192,Cuba,2010,Unemployment rate - Female,2.7
-192,Cuba,2015,Labour force participation - Total,56
+192,Cuba,2015,Labour force participation - Total,56.0
 192,Cuba,2015,Unemployment rate - Total,2.4
-192,Cuba,2015,Labour force participation - Male,70
+192,Cuba,2015,Labour force participation - Male,70.0
 192,Cuba,2015,Unemployment rate - Male,2.3
 192,Cuba,2015,Labour force participation - Female,42.3
 192,Cuba,2015,Unemployment rate - Female,2.6
@@ -1731,16 +1731,16 @@
 531,Curaçao,2005,Unemployment rate - Male,17.1
 531,Curaçao,2005,Labour force participation - Female,54.8
 531,Curaçao,2005,Unemployment rate - Female,19.2
-531,Curaçao,2008,Labour force participation - Total,59
+531,Curaçao,2008,Labour force participation - Total,59.0
 531,Curaçao,2008,Unemployment rate - Total,10.3
 531,Curaçao,2008,Labour force participation - Male,66.5
-531,Curaçao,2008,Unemployment rate - Male,8
+531,Curaçao,2008,Unemployment rate - Male,8.0
 531,Curaçao,2008,Labour force participation - Female,53.2
 531,Curaçao,2008,Unemployment rate - Female,12.5
 531,Curaçao,2009,Unemployment rate - Total,9.6
 531,Curaçao,2009,Unemployment rate - Male,7.8
 531,Curaçao,2009,Unemployment rate - Female,11.2
-531,Curaçao,2013,Unemployment rate - Total,13
+531,Curaçao,2013,Unemployment rate - Total,13.0
 531,Curaçao,2013,Unemployment rate - Male,10.5
 531,Curaçao,2013,Unemployment rate - Female,15.4
 196,Cyprus,2005,Labour force participation - Total,63.3
@@ -1756,14 +1756,14 @@
 196,Cyprus,2010,Labour force participation - Female,57.6
 196,Cyprus,2010,Unemployment rate - Female,6.5
 196,Cyprus,2015,Labour force participation - Total,62.4
-196,Cyprus,2015,Unemployment rate - Total,15
+196,Cyprus,2015,Unemployment rate - Total,15.0
 196,Cyprus,2015,Labour force participation - Male,67.2
 196,Cyprus,2015,Unemployment rate - Male,15.2
 196,Cyprus,2015,Labour force participation - Female,57.6
 196,Cyprus,2015,Unemployment rate - Female,14.9
 196,Cyprus,2024,Labour force participation - Total,65.6
 196,Cyprus,2024,Unemployment rate - Total,6.4
-196,Cyprus,2024,Labour force participation - Male,71
+196,Cyprus,2024,Labour force participation - Male,71.0
 196,Cyprus,2024,Unemployment rate - Male,6.3
 196,Cyprus,2024,Labour force participation - Female,60.2
 196,Cyprus,2024,Unemployment rate - Female,6.5
@@ -1775,13 +1775,13 @@
 203,Czechia,2005,Unemployment rate - Female,9.8
 203,Czechia,2010,Labour force participation - Total,58.4
 203,Czechia,2010,Unemployment rate - Total,7.3
-203,Czechia,2010,Labour force participation - Male,68
+203,Czechia,2010,Labour force participation - Male,68.0
 203,Czechia,2010,Unemployment rate - Male,6.4
 203,Czechia,2010,Labour force participation - Female,49.3
 203,Czechia,2010,Unemployment rate - Female,8.5
 203,Czechia,2015,Labour force participation - Total,59.4
 203,Czechia,2015,Unemployment rate - Total,5.1
-203,Czechia,2015,Labour force participation - Male,68
+203,Czechia,2015,Labour force participation - Male,68.0
 203,Czechia,2015,Unemployment rate - Male,4.2
 203,Czechia,2015,Labour force participation - Female,51.2
 203,Czechia,2015,Unemployment rate - Female,6.1
@@ -1790,9 +1790,9 @@
 203,Czechia,2024,Labour force participation - Male,68.9
 203,Czechia,2024,Unemployment rate - Male,2.2
 203,Czechia,2024,Labour force participation - Female,52.6
-203,Czechia,2024,Unemployment rate - Female,3
+203,Czechia,2024,Unemployment rate - Female,3.0
 408,Dem. People's Rep. Korea,2005,Labour force participation - Total,74.1
-408,Dem. People's Rep. Korea,2005,Unemployment rate - Total,3
+408,Dem. People's Rep. Korea,2005,Unemployment rate - Total,3.0
 408,Dem. People's Rep. Korea,2005,Labour force participation - Male,79.6
 408,Dem. People's Rep. Korea,2005,Unemployment rate - Male,2.8
 408,Dem. People's Rep. Korea,2005,Labour force participation - Female,69.1
@@ -1802,7 +1802,7 @@
 408,Dem. People's Rep. Korea,2010,Labour force participation - Male,79.6
 408,Dem. People's Rep. Korea,2010,Unemployment rate - Male,2.7
 408,Dem. People's Rep. Korea,2010,Labour force participation - Female,69.3
-408,Dem. People's Rep. Korea,2010,Unemployment rate - Female,3
+408,Dem. People's Rep. Korea,2010,Unemployment rate - Female,3.0
 408,Dem. People's Rep. Korea,2015,Labour force participation - Total,74.3
 408,Dem. People's Rep. Korea,2015,Unemployment rate - Total,2.9
 408,Dem. People's Rep. Korea,2015,Labour force participation - Male,79.6
@@ -1810,24 +1810,24 @@
 408,Dem. People's Rep. Korea,2015,Labour force participation - Female,69.2
 408,Dem. People's Rep. Korea,2015,Unemployment rate - Female,3.1
 408,Dem. People's Rep. Korea,2024,Labour force participation - Total,74.4
-408,Dem. People's Rep. Korea,2024,Unemployment rate - Total,3
+408,Dem. People's Rep. Korea,2024,Unemployment rate - Total,3.0
 408,Dem. People's Rep. Korea,2024,Labour force participation - Male,79.5
 408,Dem. People's Rep. Korea,2024,Unemployment rate - Male,2.8
 408,Dem. People's Rep. Korea,2024,Labour force participation - Female,69.4
 408,Dem. People's Rep. Korea,2024,Unemployment rate - Female,3.1
 180,Dem. Rep. of the Congo,2005,Labour force participation - Total,72.6
-180,Dem. Rep. of the Congo,2005,Unemployment rate - Total,3
+180,Dem. Rep. of the Congo,2005,Unemployment rate - Total,3.0
 180,Dem. Rep. of the Congo,2005,Labour force participation - Male,73.9
 180,Dem. Rep. of the Congo,2005,Unemployment rate - Male,3.6
 180,Dem. Rep. of the Congo,2005,Labour force participation - Female,71.3
 180,Dem. Rep. of the Congo,2005,Unemployment rate - Female,2.3
-180,Dem. Rep. of the Congo,2010,Labour force participation - Total,68
+180,Dem. Rep. of the Congo,2010,Labour force participation - Total,68.0
 180,Dem. Rep. of the Congo,2010,Unemployment rate - Total,4.1
-180,Dem. Rep. of the Congo,2010,Labour force participation - Male,71
+180,Dem. Rep. of the Congo,2010,Labour force participation - Male,71.0
 180,Dem. Rep. of the Congo,2010,Unemployment rate - Male,4.9
 180,Dem. Rep. of the Congo,2010,Labour force participation - Female,65.1
 180,Dem. Rep. of the Congo,2010,Unemployment rate - Female,3.3
-180,Dem. Rep. of the Congo,2015,Labour force participation - Total,66
+180,Dem. Rep. of the Congo,2015,Labour force participation - Total,66.0
 180,Dem. Rep. of the Congo,2015,Unemployment rate - Total,4.4
 180,Dem. Rep. of the Congo,2015,Labour force participation - Male,69.7
 180,Dem. Rep. of the Congo,2015,Unemployment rate - Male,5.2
@@ -1853,7 +1853,7 @@
 208,Denmark,2010,Unemployment rate - Female,6.8
 208,Denmark,2015,Labour force participation - Total,61.3
 208,Denmark,2015,Unemployment rate - Total,6.3
-208,Denmark,2015,Labour force participation - Male,66
+208,Denmark,2015,Labour force participation - Male,66.0
 208,Denmark,2015,Unemployment rate - Male,6.1
 208,Denmark,2015,Labour force participation - Female,56.7
 208,Denmark,2015,Unemployment rate - Female,6.5
@@ -1865,7 +1865,7 @@
 208,Denmark,2024,Unemployment rate - Female,4.9
 262,Djibouti,2005,Labour force participation - Total,34.9
 262,Djibouti,2005,Unemployment rate - Total,26.8
-262,Djibouti,2005,Labour force participation - Male,54
+262,Djibouti,2005,Labour force participation - Male,54.0
 262,Djibouti,2005,Unemployment rate - Male,23.3
 262,Djibouti,2005,Labour force participation - Female,16.4
 262,Djibouti,2005,Unemployment rate - Female,37.9
@@ -1879,10 +1879,10 @@
 262,Djibouti,2015,Unemployment rate - Total,26.1
 262,Djibouti,2015,Labour force participation - Male,47.3
 262,Djibouti,2015,Unemployment rate - Male,22.2
-262,Djibouti,2015,Labour force participation - Female,18
+262,Djibouti,2015,Labour force participation - Female,18.0
 262,Djibouti,2015,Unemployment rate - Female,36.1
 262,Djibouti,2024,Labour force participation - Total,32.1
-262,Djibouti,2024,Unemployment rate - Total,26
+262,Djibouti,2024,Unemployment rate - Total,26.0
 262,Djibouti,2024,Labour force participation - Male,46.1
 262,Djibouti,2024,Unemployment rate - Male,21.9
 262,Djibouti,2024,Labour force participation - Female,18.5
@@ -1899,19 +1899,19 @@
 214,Dominican Republic,2010,Unemployment rate - Male,4.1
 214,Dominican Republic,2010,Labour force participation - Female,41.5
 214,Dominican Republic,2010,Unemployment rate - Female,7.1
-214,Dominican Republic,2015,Labour force participation - Total,62
+214,Dominican Republic,2015,Labour force participation - Total,62.0
 214,Dominican Republic,2015,Unemployment rate - Total,7.6
 214,Dominican Republic,2015,Labour force participation - Male,75.9
 214,Dominican Republic,2015,Unemployment rate - Male,5.5
-214,Dominican Republic,2015,Labour force participation - Female,48
-214,Dominican Republic,2015,Unemployment rate - Female,11
+214,Dominican Republic,2015,Labour force participation - Female,48.0
+214,Dominican Republic,2015,Unemployment rate - Female,11.0
 214,Dominican Republic,2024,Labour force participation - Total,63.6
 214,Dominican Republic,2024,Unemployment rate - Total,5.5
 214,Dominican Republic,2024,Labour force participation - Male,75.8
 214,Dominican Republic,2024,Unemployment rate - Male,3.6
 214,Dominican Republic,2024,Labour force participation - Female,51.5
 214,Dominican Republic,2024,Unemployment rate - Female,8.2
-218,Ecuador,2005,Labour force participation - Total,67
+218,Ecuador,2005,Labour force participation - Total,67.0
 218,Ecuador,2005,Unemployment rate - Total,3.8
 218,Ecuador,2005,Labour force participation - Male,82.3
 218,Ecuador,2005,Unemployment rate - Male,3.2
@@ -1921,21 +1921,21 @@
 218,Ecuador,2010,Unemployment rate - Total,4.1
 218,Ecuador,2010,Labour force participation - Male,77.6
 218,Ecuador,2010,Unemployment rate - Male,3.5
-218,Ecuador,2010,Labour force participation - Female,48
-218,Ecuador,2010,Unemployment rate - Female,5
+218,Ecuador,2010,Labour force participation - Female,48.0
+218,Ecuador,2010,Unemployment rate - Female,5.0
 218,Ecuador,2015,Labour force participation - Total,65.7
 218,Ecuador,2015,Unemployment rate - Total,3.6
 218,Ecuador,2015,Labour force participation - Male,79.7
-218,Ecuador,2015,Unemployment rate - Male,3
+218,Ecuador,2015,Unemployment rate - Male,3.0
 218,Ecuador,2015,Labour force participation - Female,51.9
 218,Ecuador,2015,Unemployment rate - Female,4.5
 218,Ecuador,2024,Labour force participation - Total,65.7
 218,Ecuador,2024,Unemployment rate - Total,3.5
 218,Ecuador,2024,Labour force participation - Male,78.1
-218,Ecuador,2024,Unemployment rate - Male,3
+218,Ecuador,2024,Unemployment rate - Male,3.0
 218,Ecuador,2024,Labour force participation - Female,53.6
 218,Ecuador,2024,Unemployment rate - Female,4.3
-818,Egypt,2005,Labour force participation - Total,46
+818,Egypt,2005,Labour force participation - Total,46.0
 818,Egypt,2005,Unemployment rate - Total,11.1
 818,Egypt,2005,Labour force participation - Male,71.3
 818,Egypt,2005,Unemployment rate - Male,7.2
@@ -1946,8 +1946,8 @@
 818,Egypt,2010,Labour force participation - Male,75.2
 818,Egypt,2010,Unemployment rate - Male,4.7
 818,Egypt,2010,Labour force participation - Female,23.2
-818,Egypt,2010,Unemployment rate - Female,22
-818,Egypt,2015,Labour force participation - Total,47
+818,Egypt,2010,Unemployment rate - Female,22.0
+818,Egypt,2015,Labour force participation - Total,47.0
 818,Egypt,2015,Unemployment rate - Total,13.1
 818,Egypt,2015,Labour force participation - Male,70.8
 818,Egypt,2015,Unemployment rate - Male,9.4
@@ -1972,17 +1972,17 @@
 222,El Salvador,2010,Labour force participation - Female,45.9
 222,El Salvador,2010,Unemployment rate - Female,4.2
 222,El Salvador,2015,Labour force participation - Total,58.7
-222,El Salvador,2015,Unemployment rate - Total,4
+222,El Salvador,2015,Unemployment rate - Total,4.0
 222,El Salvador,2015,Labour force participation - Male,74.5
 222,El Salvador,2015,Unemployment rate - Male,4.4
-222,El Salvador,2015,Labour force participation - Female,45
+222,El Salvador,2015,Labour force participation - Female,45.0
 222,El Salvador,2015,Unemployment rate - Female,3.5
 222,El Salvador,2024,Labour force participation - Total,60.1
 222,El Salvador,2024,Unemployment rate - Total,2.7
 222,El Salvador,2024,Labour force participation - Male,76.4
 222,El Salvador,2024,Unemployment rate - Male,2.5
-222,El Salvador,2024,Labour force participation - Female,46
-222,El Salvador,2024,Unemployment rate - Female,3
+222,El Salvador,2024,Labour force participation - Female,46.0
+222,El Salvador,2024,Unemployment rate - Female,3.0
 226,Equatorial Guinea,2005,Labour force participation - Total,56.5
 226,Equatorial Guinea,2005,Unemployment rate - Total,8.2
 226,Equatorial Guinea,2005,Labour force participation - Male,62.1
@@ -2020,7 +2020,7 @@
 232,Eritrea,2010,Labour force participation - Female,71.5
 232,Eritrea,2010,Unemployment rate - Female,7.1
 232,Eritrea,2015,Labour force participation - Total,78.7
-232,Eritrea,2015,Unemployment rate - Total,6
+232,Eritrea,2015,Unemployment rate - Total,6.0
 232,Eritrea,2015,Labour force participation - Male,86.3
 232,Eritrea,2015,Unemployment rate - Male,5.2
 232,Eritrea,2015,Labour force participation - Female,71.5
@@ -2028,12 +2028,12 @@
 232,Eritrea,2024,Labour force participation - Total,78.3
 232,Eritrea,2024,Unemployment rate - Total,5.8
 232,Eritrea,2024,Labour force participation - Male,85.6
-232,Eritrea,2024,Unemployment rate - Male,5
+232,Eritrea,2024,Unemployment rate - Male,5.0
 232,Eritrea,2024,Labour force participation - Female,71.4
 232,Eritrea,2024,Unemployment rate - Female,6.6
 233,Estonia,2005,Labour force participation - Total,58.2
-233,Estonia,2005,Unemployment rate - Total,8
-233,Estonia,2005,Labour force participation - Male,64
+233,Estonia,2005,Unemployment rate - Total,8.0
+233,Estonia,2005,Labour force participation - Male,64.0
 233,Estonia,2005,Unemployment rate - Male,9.1
 233,Estonia,2005,Labour force participation - Female,53.3
 233,Estonia,2005,Unemployment rate - Female,6.9
@@ -2041,9 +2041,9 @@
 233,Estonia,2010,Unemployment rate - Total,16.7
 233,Estonia,2010,Labour force participation - Male,66.8
 233,Estonia,2010,Unemployment rate - Male,19.3
-233,Estonia,2010,Labour force participation - Female,55
+233,Estonia,2010,Labour force participation - Female,55.0
 233,Estonia,2010,Unemployment rate - Female,14.1
-233,Estonia,2015,Labour force participation - Total,62
+233,Estonia,2015,Labour force participation - Total,62.0
 233,Estonia,2015,Unemployment rate - Total,6.2
 233,Estonia,2015,Labour force participation - Male,69.2
 233,Estonia,2015,Unemployment rate - Male,6.2
@@ -2074,12 +2074,12 @@
 748,Eswatini,2015,Labour force participation - Female,46.8
 748,Eswatini,2015,Unemployment rate - Female,25.2
 748,Eswatini,2024,Labour force participation - Total,50.9
-748,Eswatini,2024,Unemployment rate - Total,22
+748,Eswatini,2024,Unemployment rate - Total,22.0
 748,Eswatini,2024,Labour force participation - Male,54.6
 748,Eswatini,2024,Unemployment rate - Male,20.3
 748,Eswatini,2024,Labour force participation - Female,47.4
 748,Eswatini,2024,Unemployment rate - Female,23.8
-231,Ethiopia,2005,Labour force participation - Total,82
+231,Ethiopia,2005,Labour force participation - Total,82.0
 231,Ethiopia,2005,Unemployment rate - Total,2.5
 231,Ethiopia,2005,Labour force participation - Male,89.6
 231,Ethiopia,2005,Unemployment rate - Male,1.8
@@ -2090,8 +2090,8 @@
 231,Ethiopia,2010,Labour force participation - Male,88.8
 231,Ethiopia,2010,Unemployment rate - Male,1.7
 231,Ethiopia,2010,Labour force participation - Female,74.3
-231,Ethiopia,2010,Unemployment rate - Female,3
-231,Ethiopia,2015,Labour force participation - Total,81
+231,Ethiopia,2010,Unemployment rate - Female,3.0
+231,Ethiopia,2015,Labour force participation - Total,81.0
 231,Ethiopia,2015,Unemployment rate - Total,2.4
 231,Ethiopia,2015,Labour force participation - Male,87.6
 231,Ethiopia,2015,Unemployment rate - Male,1.7
@@ -2105,7 +2105,7 @@
 231,Ethiopia,2024,Unemployment rate - Female,4.5
 238,Falkland Islands (Malvinas),2013,Labour force participation - Total,81.9
 238,Falkland Islands (Malvinas),2013,Unemployment rate - Total,1.2
-238,Falkland Islands (Malvinas),2013,Labour force participation - Male,86
+238,Falkland Islands (Malvinas),2013,Labour force participation - Male,86.0
 238,Falkland Islands (Malvinas),2013,Unemployment rate - Male,1.1
 238,Falkland Islands (Malvinas),2013,Labour force participation - Female,77.2
 238,Falkland Islands (Malvinas),2013,Unemployment rate - Female,1.4
@@ -2117,20 +2117,20 @@
 234,Faroe Islands,2010,Labour force participation - Male,85.3
 234,Faroe Islands,2010,Unemployment rate - Male,5.1
 234,Faroe Islands,2010,Labour force participation - Female,77.5
-234,Faroe Islands,2010,Unemployment rate - Female,8
+234,Faroe Islands,2010,Unemployment rate - Female,8.0
 234,Faroe Islands,2013,Labour force participation - Total,82.9
-234,Faroe Islands,2013,Unemployment rate - Total,4
-234,Faroe Islands,2013,Labour force participation - Male,86
+234,Faroe Islands,2013,Unemployment rate - Total,4.0
+234,Faroe Islands,2013,Labour force participation - Male,86.0
 234,Faroe Islands,2013,Unemployment rate - Male,3.4
 234,Faroe Islands,2013,Labour force participation - Female,79.4
 234,Faroe Islands,2013,Unemployment rate - Female,4.9
 242,Fiji,2005,Labour force participation - Total,56.7
 242,Fiji,2005,Unemployment rate - Total,3.9
-242,Fiji,2005,Labour force participation - Male,78
+242,Fiji,2005,Labour force participation - Male,78.0
 242,Fiji,2005,Unemployment rate - Male,3.3
 242,Fiji,2005,Labour force participation - Female,34.8
 242,Fiji,2005,Unemployment rate - Female,5.2
-242,Fiji,2010,Labour force participation - Total,62
+242,Fiji,2010,Labour force participation - Total,62.0
 242,Fiji,2010,Unemployment rate - Total,4.3
 242,Fiji,2010,Labour force participation - Male,79.8
 242,Fiji,2010,Unemployment rate - Male,4.1
@@ -2156,7 +2156,7 @@
 246,Finland,2005,Unemployment rate - Female,8.6
 246,Finland,2010,Labour force participation - Total,59.8
 246,Finland,2010,Unemployment rate - Total,8.4
-246,Finland,2010,Labour force participation - Male,64
+246,Finland,2010,Labour force participation - Male,64.0
 246,Finland,2010,Unemployment rate - Male,9.1
 246,Finland,2010,Labour force participation - Female,55.9
 246,Finland,2010,Unemployment rate - Female,7.6
@@ -2172,10 +2172,10 @@
 246,Finland,2024,Unemployment rate - Male,7.9
 246,Finland,2024,Labour force participation - Female,57.6
 246,Finland,2024,Unemployment rate - Female,6.6
-250,France,2005,Labour force participation - Total,56
+250,France,2005,Labour force participation - Total,56.0
 250,France,2005,Unemployment rate - Total,8.9
 250,France,2005,Labour force participation - Male,62.1
-250,France,2005,Unemployment rate - Male,8
+250,France,2005,Unemployment rate - Male,8.0
 250,France,2005,Labour force participation - Female,50.4
 250,France,2005,Unemployment rate - Female,9.8
 250,France,2010,Labour force participation - Total,56.3
@@ -2191,7 +2191,7 @@
 250,France,2015,Labour force participation - Female,51.6
 250,France,2015,Unemployment rate - Female,9.9
 250,France,2024,Labour force participation - Total,56.1
-250,France,2024,Unemployment rate - Total,7
+250,France,2024,Unemployment rate - Total,7.0
 250,France,2024,Labour force participation - Male,60.1
 250,France,2024,Unemployment rate - Male,7.2
 250,France,2024,Labour force participation - Female,52.5
@@ -2201,9 +2201,9 @@
 254,French Guiana,2005,Labour force participation - Male,48.2
 254,French Guiana,2005,Unemployment rate - Male,22.8
 254,French Guiana,2005,Labour force participation - Female,36.3
-254,French Guiana,2005,Unemployment rate - Female,27
+254,French Guiana,2005,Unemployment rate - Female,27.0
 254,French Guiana,2010,Labour force participation - Total,48.9
-254,French Guiana,2010,Unemployment rate - Total,21
+254,French Guiana,2010,Unemployment rate - Total,21.0
 254,French Guiana,2010,Labour force participation - Male,54.9
 254,French Guiana,2010,Unemployment rate - Male,17.8
 254,French Guiana,2010,Labour force participation - Female,43.2
@@ -2249,19 +2249,19 @@
 266,Gabon,2010,Labour force participation - Male,57.6
 266,Gabon,2010,Unemployment rate - Male,14.7
 266,Gabon,2010,Labour force participation - Female,39.5
-266,Gabon,2010,Unemployment rate - Female,29
+266,Gabon,2010,Unemployment rate - Female,29.0
 266,Gabon,2015,Labour force participation - Total,48.3
 266,Gabon,2015,Unemployment rate - Total,19.8
 266,Gabon,2015,Labour force participation - Male,56.3
 266,Gabon,2015,Unemployment rate - Male,14.3
 266,Gabon,2015,Labour force participation - Female,39.8
 266,Gabon,2015,Unemployment rate - Female,28.2
-266,Gabon,2024,Labour force participation - Total,49
+266,Gabon,2024,Labour force participation - Total,49.0
 266,Gabon,2024,Unemployment rate - Total,20.2
 266,Gabon,2024,Labour force participation - Male,57.6
 266,Gabon,2024,Unemployment rate - Male,14.3
 266,Gabon,2024,Labour force participation - Female,39.9
-266,Gabon,2024,Unemployment rate - Female,29
+266,Gabon,2024,Unemployment rate - Female,29.0
 270,Gambia,2005,Labour force participation - Total,58.8
 270,Gambia,2005,Unemployment rate - Total,9.8
 270,Gambia,2005,Labour force participation - Male,69.7
@@ -2272,7 +2272,7 @@
 270,Gambia,2010,Unemployment rate - Total,9.5
 270,Gambia,2010,Labour force participation - Male,69.2
 270,Gambia,2010,Unemployment rate - Male,7.2
-270,Gambia,2010,Labour force participation - Female,50
+270,Gambia,2010,Labour force participation - Female,50.0
 270,Gambia,2010,Unemployment rate - Female,12.4
 270,Gambia,2015,Labour force participation - Total,60.2
 270,Gambia,2015,Unemployment rate - Total,7.3
@@ -2290,11 +2290,11 @@
 268,Georgia,2005,Unemployment rate - Total,13.8
 268,Georgia,2005,Labour force participation - Male,73.7
 268,Georgia,2005,Unemployment rate - Male,14.8
-268,Georgia,2005,Labour force participation - Female,56
+268,Georgia,2005,Labour force participation - Female,56.0
 268,Georgia,2005,Unemployment rate - Female,12.7
 268,Georgia,2010,Labour force participation - Total,65.5
 268,Georgia,2010,Unemployment rate - Total,20.2
-268,Georgia,2010,Labour force participation - Male,77
+268,Georgia,2010,Labour force participation - Male,77.0
 268,Georgia,2010,Unemployment rate - Male,22.5
 268,Georgia,2010,Labour force participation - Female,55.8
 268,Georgia,2010,Unemployment rate - Female,17.6
@@ -2302,10 +2302,10 @@
 268,Georgia,2015,Unemployment rate - Total,16.5
 268,Georgia,2015,Labour force participation - Male,80.3
 268,Georgia,2015,Unemployment rate - Male,18.7
-268,Georgia,2015,Labour force participation - Female,59
+268,Georgia,2015,Labour force participation - Female,59.0
 268,Georgia,2015,Unemployment rate - Female,13.9
 268,Georgia,2024,Labour force participation - Total,62.5
-268,Georgia,2024,Unemployment rate - Total,12
+268,Georgia,2024,Unemployment rate - Total,12.0
 268,Georgia,2024,Labour force participation - Male,72.3
 268,Georgia,2024,Unemployment rate - Male,13.3
 268,Georgia,2024,Labour force participation - Female,54.3
@@ -2317,7 +2317,7 @@
 276,Germany,2005,Labour force participation - Female,51.2
 276,Germany,2005,Unemployment rate - Female,10.9
 276,Germany,2010,Labour force participation - Total,59.4
-276,Germany,2010,Unemployment rate - Total,7
+276,Germany,2010,Unemployment rate - Total,7.0
 276,Germany,2010,Labour force participation - Male,66.1
 276,Germany,2010,Unemployment rate - Male,7.4
 276,Germany,2010,Labour force participation - Female,53.1
@@ -2325,14 +2325,14 @@
 276,Germany,2015,Labour force participation - Total,60.2
 276,Germany,2015,Unemployment rate - Total,4.6
 276,Germany,2015,Labour force participation - Male,65.9
-276,Germany,2015,Unemployment rate - Male,5
+276,Germany,2015,Unemployment rate - Male,5.0
 276,Germany,2015,Labour force participation - Female,54.7
 276,Germany,2015,Unemployment rate - Female,4.2
 276,Germany,2024,Labour force participation - Total,61.2
 276,Germany,2024,Unemployment rate - Total,3.2
 276,Germany,2024,Labour force participation - Male,66.6
 276,Germany,2024,Unemployment rate - Male,3.4
-276,Germany,2024,Labour force participation - Female,56
+276,Germany,2024,Labour force participation - Female,56.0
 276,Germany,2024,Unemployment rate - Female,2.9
 288,Ghana,2005,Labour force participation - Total,72.9
 288,Ghana,2005,Unemployment rate - Total,5.8
@@ -2349,14 +2349,14 @@
 288,Ghana,2015,Labour force participation - Total,69.3
 288,Ghana,2015,Unemployment rate - Total,6.8
 288,Ghana,2015,Labour force participation - Male,73.5
-288,Ghana,2015,Unemployment rate - Male,7
+288,Ghana,2015,Unemployment rate - Male,7.0
 288,Ghana,2015,Labour force participation - Female,65.1
 288,Ghana,2015,Unemployment rate - Female,6.6
 288,Ghana,2024,Labour force participation - Total,68.6
 288,Ghana,2024,Unemployment rate - Total,3.6
 288,Ghana,2024,Labour force participation - Male,72.2
 288,Ghana,2024,Unemployment rate - Male,3.5
-288,Ghana,2024,Labour force participation - Female,65
+288,Ghana,2024,Labour force participation - Female,65.0
 288,Ghana,2024,Unemployment rate - Female,3.7
 300,Greece,2005,Labour force participation - Total,52.6
 300,Greece,2005,Unemployment rate - Total,10.1
@@ -2367,15 +2367,15 @@
 300,Greece,2010,Labour force participation - Total,52.9
 300,Greece,2010,Unemployment rate - Total,12.7
 300,Greece,2010,Labour force participation - Male,62.7
-300,Greece,2010,Unemployment rate - Male,10
+300,Greece,2010,Unemployment rate - Male,10.0
 300,Greece,2010,Labour force participation - Female,43.5
 300,Greece,2010,Unemployment rate - Female,16.4
 300,Greece,2015,Labour force participation - Total,51.4
-300,Greece,2015,Unemployment rate - Total,25
+300,Greece,2015,Unemployment rate - Total,25.0
 300,Greece,2015,Labour force participation - Male,58.7
 300,Greece,2015,Unemployment rate - Male,21.7
 300,Greece,2015,Labour force participation - Female,44.5
-300,Greece,2015,Unemployment rate - Female,29
+300,Greece,2015,Unemployment rate - Female,29.0
 300,Greece,2024,Labour force participation - Total,51.7
 300,Greece,2024,Unemployment rate - Total,9.7
 300,Greece,2024,Labour force participation - Male,59.2
@@ -2384,9 +2384,9 @@
 300,Greece,2024,Unemployment rate - Female,12.6
 304,Greenland,2005,Unemployment rate - Total,9.3
 304,Greenland,2005,Unemployment rate - Male,10.4
-304,Greenland,2005,Unemployment rate - Female,8
+304,Greenland,2005,Unemployment rate - Female,8.0
 304,Greenland,2006,Unemployment rate - Total,8.4
-304,Greenland,2006,Unemployment rate - Male,10
+304,Greenland,2006,Unemployment rate - Male,10.0
 304,Greenland,2006,Unemployment rate - Female,6.7
 304,Greenland,2013,Unemployment rate - Total,9.7
 304,Greenland,2013,Unemployment rate - Male,9.6
@@ -2402,7 +2402,7 @@
 312,Guadeloupe,2010,Labour force participation - Male,44.2
 312,Guadeloupe,2010,Unemployment rate - Male,21.4
 312,Guadeloupe,2010,Labour force participation - Female,39.5
-312,Guadeloupe,2010,Unemployment rate - Female,26
+312,Guadeloupe,2010,Unemployment rate - Female,26.0
 312,Guadeloupe,2013,Labour force participation - Total,52.7
 312,Guadeloupe,2013,Unemployment rate - Total,26.1
 312,Guadeloupe,2013,Labour force participation - Male,56.5
@@ -2410,7 +2410,7 @@
 312,Guadeloupe,2013,Labour force participation - Female,49.6
 312,Guadeloupe,2013,Unemployment rate - Female,28.3
 316,Guam,2005,Labour force participation - Total,61.1
-316,Guam,2005,Unemployment rate - Total,7
+316,Guam,2005,Unemployment rate - Total,7.0
 316,Guam,2005,Labour force participation - Male,67.2
 316,Guam,2005,Unemployment rate - Male,6.4
 316,Guam,2005,Labour force participation - Female,54.9
@@ -2431,13 +2431,13 @@
 316,Guam,2024,Unemployment rate - Total,5.5
 316,Guam,2024,Labour force participation - Male,68.4
 316,Guam,2024,Unemployment rate - Male,5.7
-316,Guam,2024,Labour force participation - Female,56
+316,Guam,2024,Labour force participation - Female,56.0
 316,Guam,2024,Unemployment rate - Female,5.2
 320,Guatemala,2005,Labour force participation - Total,62.7
 320,Guatemala,2005,Unemployment rate - Total,3.1
 320,Guatemala,2005,Labour force participation - Male,84.3
 320,Guatemala,2005,Unemployment rate - Male,2.8
-320,Guatemala,2005,Labour force participation - Female,42
+320,Guatemala,2005,Labour force participation - Female,42.0
 320,Guatemala,2005,Unemployment rate - Female,3.5
 320,Guatemala,2010,Labour force participation - Total,60.5
 320,Guatemala,2010,Unemployment rate - Total,3.5
@@ -2448,7 +2448,7 @@
 320,Guatemala,2015,Labour force participation - Total,60.6
 320,Guatemala,2015,Unemployment rate - Total,2.5
 320,Guatemala,2015,Labour force participation - Male,83.7
-320,Guatemala,2015,Unemployment rate - Male,2
+320,Guatemala,2015,Unemployment rate - Male,2.0
 320,Guatemala,2015,Labour force participation - Female,38.5
 320,Guatemala,2015,Unemployment rate - Female,3.6
 320,Guatemala,2024,Labour force participation - Total,60.6
@@ -2458,8 +2458,8 @@
 320,Guatemala,2024,Labour force participation - Female,40.9
 320,Guatemala,2024,Unemployment rate - Female,4.8
 324,Guinea,2005,Labour force participation - Total,62.5
-324,Guinea,2005,Unemployment rate - Total,5
-324,Guinea,2005,Labour force participation - Male,66
+324,Guinea,2005,Unemployment rate - Total,5.0
+324,Guinea,2005,Labour force participation - Male,66.0
 324,Guinea,2005,Unemployment rate - Male,5.9
 324,Guinea,2005,Labour force participation - Female,59.3
 324,Guinea,2005,Unemployment rate - Female,4.1
@@ -2510,7 +2510,7 @@
 328,Guyana,2005,Labour force participation - Male,77.2
 328,Guyana,2005,Unemployment rate - Male,9.7
 328,Guyana,2005,Labour force participation - Female,35.8
-328,Guyana,2005,Unemployment rate - Female,14
+328,Guyana,2005,Unemployment rate - Female,14.0
 328,Guyana,2010,Labour force participation - Total,55.4
 328,Guyana,2010,Unemployment rate - Total,11.8
 328,Guyana,2010,Labour force participation - Male,73.2
@@ -2523,11 +2523,11 @@
 328,Guyana,2015,Unemployment rate - Male,11.7
 328,Guyana,2015,Labour force participation - Female,40.9
 328,Guyana,2015,Unemployment rate - Female,15.9
-328,Guyana,2024,Labour force participation - Total,51
+328,Guyana,2024,Labour force participation - Total,51.0
 328,Guyana,2024,Unemployment rate - Total,9.4
 328,Guyana,2024,Labour force participation - Male,62.8
 328,Guyana,2024,Unemployment rate - Male,8.3
-328,Guyana,2024,Labour force participation - Female,40
+328,Guyana,2024,Labour force participation - Female,40.0
 328,Guyana,2024,Unemployment rate - Female,11.1
 332,Haiti,2005,Labour force participation - Total,63.8
 332,Haiti,2005,Unemployment rate - Total,14.6
@@ -2540,12 +2540,12 @@
 332,Haiti,2010,Labour force participation - Male,70.8
 332,Haiti,2010,Unemployment rate - Male,12.8
 332,Haiti,2010,Labour force participation - Female,60.6
-332,Haiti,2010,Unemployment rate - Female,18
+332,Haiti,2010,Unemployment rate - Female,18.0
 332,Haiti,2015,Labour force participation - Total,65.9
 332,Haiti,2015,Unemployment rate - Total,13.7
-332,Haiti,2015,Labour force participation - Male,70
-332,Haiti,2015,Unemployment rate - Male,11
-332,Haiti,2015,Labour force participation - Female,62
+332,Haiti,2015,Labour force participation - Male,70.0
+332,Haiti,2015,Unemployment rate - Male,11.0
+332,Haiti,2015,Labour force participation - Female,62.0
 332,Haiti,2015,Unemployment rate - Female,16.7
 332,Haiti,2024,Labour force participation - Total,65.6
 332,Haiti,2024,Unemployment rate - Total,14.7
@@ -2570,18 +2570,18 @@
 340,Honduras,2015,Labour force participation - Male,81.5
 340,Honduras,2015,Unemployment rate - Male,4.5
 340,Honduras,2015,Labour force participation - Female,46.5
-340,Honduras,2015,Unemployment rate - Female,9
+340,Honduras,2015,Unemployment rate - Female,9.0
 340,Honduras,2024,Labour force participation - Total,62.8
 340,Honduras,2024,Unemployment rate - Total,6.7
 340,Honduras,2024,Labour force participation - Male,75.6
 340,Honduras,2024,Unemployment rate - Male,5.1
-340,Honduras,2024,Labour force participation - Female,50
+340,Honduras,2024,Labour force participation - Female,50.0
 340,Honduras,2024,Unemployment rate - Female,9.2
 348,Hungary,2005,Labour force participation - Total,50.2
 348,Hungary,2005,Unemployment rate - Total,7.2
 348,Hungary,2005,Labour force participation - Male,58.3
-348,Hungary,2005,Unemployment rate - Male,7
-348,Hungary,2005,Labour force participation - Female,43
+348,Hungary,2005,Unemployment rate - Male,7.0
+348,Hungary,2005,Labour force participation - Female,43.0
 348,Hungary,2005,Unemployment rate - Female,7.4
 348,Hungary,2010,Labour force participation - Total,50.4
 348,Hungary,2010,Unemployment rate - Total,11.2
@@ -2591,16 +2591,16 @@
 348,Hungary,2010,Unemployment rate - Female,10.7
 348,Hungary,2015,Labour force participation - Total,54.5
 348,Hungary,2015,Unemployment rate - Total,6.8
-348,Hungary,2015,Labour force participation - Male,63
+348,Hungary,2015,Labour force participation - Male,63.0
 348,Hungary,2015,Unemployment rate - Male,6.6
-348,Hungary,2015,Labour force participation - Female,47
-348,Hungary,2015,Unemployment rate - Female,7
+348,Hungary,2015,Labour force participation - Female,47.0
+348,Hungary,2015,Unemployment rate - Female,7.0
 348,Hungary,2024,Labour force participation - Total,60.8
 348,Hungary,2024,Unemployment rate - Total,4.1
 348,Hungary,2024,Labour force participation - Male,69.1
 348,Hungary,2024,Unemployment rate - Male,4.1
 348,Hungary,2024,Labour force participation - Female,53.3
-348,Hungary,2024,Unemployment rate - Female,4
+348,Hungary,2024,Unemployment rate - Female,4.0
 352,Iceland,2005,Labour force participation - Total,75.9
 352,Iceland,2005,Unemployment rate - Total,2.6
 352,Iceland,2005,Labour force participation - Male,80.9
@@ -2614,13 +2614,13 @@
 352,Iceland,2010,Labour force participation - Female,70.6
 352,Iceland,2010,Unemployment rate - Female,6.7
 352,Iceland,2015,Labour force participation - Total,77.2
-352,Iceland,2015,Unemployment rate - Total,4
+352,Iceland,2015,Unemployment rate - Total,4.0
 352,Iceland,2015,Labour force participation - Male,81.1
 352,Iceland,2015,Unemployment rate - Male,3.9
 352,Iceland,2015,Labour force participation - Female,73.2
 352,Iceland,2015,Unemployment rate - Female,4.1
-352,Iceland,2024,Labour force participation - Total,74
-352,Iceland,2024,Unemployment rate - Total,3
+352,Iceland,2024,Labour force participation - Total,74.0
+352,Iceland,2024,Unemployment rate - Total,3.0
 352,Iceland,2024,Labour force participation - Male,77.9
 352,Iceland,2024,Unemployment rate - Male,3.4
 352,Iceland,2024,Labour force participation - Female,69.9
@@ -2630,7 +2630,7 @@
 356,India,2005,Labour force participation - Male,77.8
 356,India,2005,Unemployment rate - Male,8.6
 356,India,2005,Labour force participation - Female,30.1
-356,India,2005,Unemployment rate - Female,9
+356,India,2005,Unemployment rate - Female,9.0
 356,India,2010,Labour force participation - Total,54.7
 356,India,2010,Unemployment rate - Total,8.3
 356,India,2010,Labour force participation - Male,79.3
@@ -2641,20 +2641,20 @@
 356,India,2015,Unemployment rate - Total,7.9
 356,India,2015,Labour force participation - Male,77.1
 356,India,2015,Unemployment rate - Male,7.9
-356,India,2015,Labour force participation - Female,27
-356,India,2015,Unemployment rate - Female,8
+356,India,2015,Labour force participation - Female,27.0
+356,India,2015,Unemployment rate - Female,8.0
 356,India,2024,Labour force participation - Total,54.6
 356,India,2024,Unemployment rate - Total,4.7
 356,India,2024,Labour force participation - Male,76.8
-356,India,2024,Unemployment rate - Male,5
+356,India,2024,Unemployment rate - Male,5.0
 356,India,2024,Labour force participation - Female,31.1
 356,India,2024,Unemployment rate - Female,3.8
 360,Indonesia,2005,Labour force participation - Total,64.4
 360,Indonesia,2005,Unemployment rate - Total,7.9
 360,Indonesia,2005,Labour force participation - Male,82.8
 360,Indonesia,2005,Unemployment rate - Male,6.8
-360,Indonesia,2005,Labour force participation - Female,46
-360,Indonesia,2005,Unemployment rate - Female,10
+360,Indonesia,2005,Labour force participation - Female,46.0
+360,Indonesia,2005,Unemployment rate - Female,10.0
 360,Indonesia,2010,Labour force participation - Total,66.6
 360,Indonesia,2010,Unemployment rate - Total,5.6
 360,Indonesia,2010,Labour force participation - Male,82.3
@@ -2705,20 +2705,20 @@
 368,Iraq,2005,Unemployment rate - Female,7.4
 368,Iraq,2010,Labour force participation - Total,41.3
 368,Iraq,2010,Unemployment rate - Total,8.3
-368,Iraq,2010,Labour force participation - Male,72
+368,Iraq,2010,Labour force participation - Male,72.0
 368,Iraq,2010,Unemployment rate - Male,7.9
 368,Iraq,2010,Labour force participation - Female,12.1
 368,Iraq,2010,Unemployment rate - Female,10.5
-368,Iraq,2015,Labour force participation - Total,43
+368,Iraq,2015,Labour force participation - Total,43.0
 368,Iraq,2015,Unemployment rate - Total,10.8
-368,Iraq,2015,Labour force participation - Male,73
+368,Iraq,2015,Labour force participation - Male,73.0
 368,Iraq,2015,Unemployment rate - Male,8.5
 368,Iraq,2015,Labour force participation - Female,14.2
 368,Iraq,2015,Unemployment rate - Female,22.2
 368,Iraq,2024,Labour force participation - Total,41.6
 368,Iraq,2024,Unemployment rate - Total,15.5
 368,Iraq,2024,Labour force participation - Male,72.4
-368,Iraq,2024,Unemployment rate - Male,13
+368,Iraq,2024,Unemployment rate - Male,13.0
 368,Iraq,2024,Labour force participation - Female,11.5
 368,Iraq,2024,Unemployment rate - Female,30.8
 372,Ireland,2005,Labour force participation - Total,65.1
@@ -2726,7 +2726,7 @@
 372,Ireland,2005,Labour force participation - Male,75.9
 372,Ireland,2005,Unemployment rate - Male,4.6
 372,Ireland,2005,Labour force participation - Female,54.6
-372,Ireland,2005,Unemployment rate - Female,4
+372,Ireland,2005,Unemployment rate - Female,4.0
 372,Ireland,2010,Labour force participation - Total,62.6
 372,Ireland,2010,Unemployment rate - Total,14.5
 372,Ireland,2010,Labour force participation - Male,70.2
@@ -2742,7 +2742,7 @@
 372,Ireland,2024,Labour force participation - Total,65.4
 372,Ireland,2024,Unemployment rate - Total,4.8
 372,Ireland,2024,Labour force participation - Male,70.9
-372,Ireland,2024,Unemployment rate - Male,5
+372,Ireland,2024,Unemployment rate - Male,5.0
 372,Ireland,2024,Labour force participation - Female,59.9
 372,Ireland,2024,Unemployment rate - Female,4.7
 833,Isle of Man,2001,Labour force participation - Total,63.3
@@ -2756,7 +2756,7 @@
 833,Isle of Man,2006,Labour force participation - Male,69.9
 833,Isle of Man,2006,Unemployment rate - Male,2.8
 833,Isle of Man,2006,Labour force participation - Female,56.3
-833,Isle of Man,2006,Unemployment rate - Female,2
+833,Isle of Man,2006,Unemployment rate - Female,2.0
 833,Isle of Man,2011,Labour force participation - Total,63.3
 833,Isle of Man,2011,Unemployment rate - Total,3.3
 833,Isle of Man,2011,Labour force participation - Male,69.3
@@ -2777,14 +2777,14 @@
 376,Israel,2010,Labour force participation - Male,69.3
 376,Israel,2010,Unemployment rate - Male,8.9
 376,Israel,2010,Labour force participation - Female,57.5
-376,Israel,2010,Unemployment rate - Female,8
+376,Israel,2010,Unemployment rate - Female,8.0
 376,Israel,2015,Labour force participation - Total,65.6
 376,Israel,2015,Unemployment rate - Total,5.2
 376,Israel,2015,Labour force participation - Male,71.2
 376,Israel,2015,Unemployment rate - Male,5.1
 376,Israel,2015,Labour force participation - Female,60.1
 376,Israel,2015,Unemployment rate - Female,5.3
-376,Israel,2024,Labour force participation - Total,65
+376,Israel,2024,Labour force participation - Total,65.0
 376,Israel,2024,Unemployment rate - Total,3.8
 376,Israel,2024,Labour force participation - Male,69.1
 376,Israel,2024,Unemployment rate - Male,3.8
@@ -2795,14 +2795,14 @@
 380,Italy,2005,Labour force participation - Male,61.1
 380,Italy,2005,Unemployment rate - Male,6.2
 380,Italy,2005,Labour force participation - Female,38.1
-380,Italy,2005,Unemployment rate - Female,10
+380,Italy,2005,Unemployment rate - Female,10.0
 380,Italy,2010,Labour force participation - Total,48.2
 380,Italy,2010,Unemployment rate - Total,8.4
 380,Italy,2010,Labour force participation - Male,59.1
 380,Italy,2010,Unemployment rate - Male,7.5
 380,Italy,2010,Labour force participation - Female,38.2
 380,Italy,2010,Unemployment rate - Female,9.6
-380,Italy,2015,Labour force participation - Total,49
+380,Italy,2015,Labour force participation - Total,49.0
 380,Italy,2015,Unemployment rate - Total,11.9
 380,Italy,2015,Labour force participation - Male,58.9
 380,Italy,2015,Unemployment rate - Male,11.3
@@ -2811,9 +2811,9 @@
 380,Italy,2024,Labour force participation - Total,49.5
 380,Italy,2024,Unemployment rate - Total,7.9
 380,Italy,2024,Labour force participation - Male,58.7
-380,Italy,2024,Unemployment rate - Male,7
-380,Italy,2024,Labour force participation - Female,41
-380,Italy,2024,Unemployment rate - Female,9
+380,Italy,2024,Unemployment rate - Male,7.0
+380,Italy,2024,Labour force participation - Female,41.0
+380,Italy,2024,Unemployment rate - Female,9.0
 388,Jamaica,2005,Labour force participation - Total,65.1
 388,Jamaica,2005,Unemployment rate - Total,6.6
 388,Jamaica,2005,Labour force participation - Male,74.2
@@ -2823,7 +2823,7 @@
 388,Jamaica,2010,Labour force participation - Total,60.5
 388,Jamaica,2010,Unemployment rate - Total,7.6
 388,Jamaica,2010,Labour force participation - Male,68.9
-388,Jamaica,2010,Unemployment rate - Male,6
+388,Jamaica,2010,Unemployment rate - Male,6.0
 388,Jamaica,2010,Labour force participation - Female,52.3
 388,Jamaica,2010,Unemployment rate - Female,9.8
 388,Jamaica,2015,Labour force participation - Total,65.7
@@ -2836,7 +2836,7 @@
 388,Jamaica,2024,Unemployment rate - Total,5.3
 388,Jamaica,2024,Labour force participation - Male,76.2
 388,Jamaica,2024,Unemployment rate - Male,4.6
-388,Jamaica,2024,Labour force participation - Female,61
+388,Jamaica,2024,Labour force participation - Female,61.0
 388,Jamaica,2024,Unemployment rate - Female,6.2
 392,Japan,2005,Labour force participation - Total,60.4
 392,Japan,2005,Unemployment rate - Total,4.5
@@ -2881,14 +2881,14 @@
 400,Jordan,2015,Labour force participation - Female,13.6
 400,Jordan,2015,Unemployment rate - Female,22.8
 400,Jordan,2024,Labour force participation - Total,39.5
-400,Jordan,2024,Unemployment rate - Total,19
+400,Jordan,2024,Unemployment rate - Total,19.0
 400,Jordan,2024,Labour force participation - Male,62.7
 400,Jordan,2024,Unemployment rate - Male,17.5
 400,Jordan,2024,Labour force participation - Female,14.3
 400,Jordan,2024,Unemployment rate - Female,25.7
 398,Kazakhstan,2005,Labour force participation - Total,69.5
 398,Kazakhstan,2005,Unemployment rate - Total,8.1
-398,Kazakhstan,2005,Labour force participation - Male,75
+398,Kazakhstan,2005,Labour force participation - Male,75.0
 398,Kazakhstan,2005,Unemployment rate - Male,6.7
 398,Kazakhstan,2005,Labour force participation - Female,64.6
 398,Kazakhstan,2005,Unemployment rate - Female,9.5
@@ -2907,8 +2907,8 @@
 398,Kazakhstan,2024,Labour force participation - Total,68.3
 398,Kazakhstan,2024,Unemployment rate - Total,4.6
 398,Kazakhstan,2024,Labour force participation - Male,74.3
-398,Kazakhstan,2024,Unemployment rate - Male,4
-398,Kazakhstan,2024,Labour force participation - Female,63
+398,Kazakhstan,2024,Unemployment rate - Male,4.0
+398,Kazakhstan,2024,Labour force participation - Female,63.0
 398,Kazakhstan,2024,Unemployment rate - Female,5.2
 404,Kenya,2005,Labour force participation - Total,73.1
 404,Kenya,2005,Unemployment rate - Total,2.8
@@ -2921,13 +2921,13 @@
 404,Kenya,2010,Labour force participation - Male,76.4
 404,Kenya,2010,Unemployment rate - Male,2.7
 404,Kenya,2010,Labour force participation - Female,71.1
-404,Kenya,2010,Unemployment rate - Female,3
+404,Kenya,2010,Unemployment rate - Female,3.0
 404,Kenya,2015,Labour force participation - Total,74.3
 404,Kenya,2015,Unemployment rate - Total,2.8
 404,Kenya,2015,Labour force participation - Male,77.3
 404,Kenya,2015,Unemployment rate - Male,2.6
 404,Kenya,2015,Labour force participation - Female,71.4
-404,Kenya,2015,Unemployment rate - Female,3
+404,Kenya,2015,Unemployment rate - Female,3.0
 404,Kenya,2024,Labour force participation - Total,73.8
 404,Kenya,2024,Unemployment rate - Total,5.6
 404,Kenya,2024,Labour force participation - Male,75.3
@@ -2963,7 +2963,7 @@
 412,Kosovo,2012,Labour force participation - Male,55.5
 412,Kosovo,2012,Unemployment rate - Male,28.1
 412,Kosovo,2012,Labour force participation - Female,17.9
-412,Kosovo,2012,Unemployment rate - Female,40
+412,Kosovo,2012,Unemployment rate - Female,40.0
 412,Kosovo,2013,Labour force participation - Total,40.6
 412,Kosovo,2013,Labour force participation - Male,60.2
 412,Kosovo,2013,Labour force participation - Female,21.1
@@ -3002,7 +3002,7 @@
 417,Kyrgyzstan,2010,Labour force participation - Male,81.2
 417,Kyrgyzstan,2010,Unemployment rate - Male,2.7
 417,Kyrgyzstan,2010,Labour force participation - Female,61.3
-417,Kyrgyzstan,2010,Unemployment rate - Female,3
+417,Kyrgyzstan,2010,Unemployment rate - Female,3.0
 417,Kyrgyzstan,2015,Labour force participation - Total,65.2
 417,Kyrgyzstan,2015,Unemployment rate - Total,3.3
 417,Kyrgyzstan,2015,Labour force participation - Male,76.4
@@ -3029,7 +3029,7 @@
 418,Lao People's Dem. Rep.,2010,Unemployment rate - Female,0.7
 418,Lao People's Dem. Rep.,2015,Labour force participation - Total,60.1
 418,Lao People's Dem. Rep.,2015,Unemployment rate - Total,2.5
-418,Lao People's Dem. Rep.,2015,Labour force participation - Male,64
+418,Lao People's Dem. Rep.,2015,Labour force participation - Male,64.0
 418,Lao People's Dem. Rep.,2015,Unemployment rate - Male,2.8
 418,Lao People's Dem. Rep.,2015,Labour force participation - Female,56.3
 418,Lao People's Dem. Rep.,2015,Unemployment rate - Female,2.1
@@ -3040,14 +3040,14 @@
 418,Lao People's Dem. Rep.,2024,Labour force participation - Female,55.9
 418,Lao People's Dem. Rep.,2024,Unemployment rate - Female,3.2
 428,Latvia,2005,Labour force participation - Total,57.4
-428,Latvia,2005,Unemployment rate - Total,10
+428,Latvia,2005,Unemployment rate - Total,10.0
 428,Latvia,2005,Labour force participation - Male,65.6
 428,Latvia,2005,Unemployment rate - Male,10.1
 428,Latvia,2005,Labour force participation - Female,50.7
-428,Latvia,2005,Unemployment rate - Female,10
+428,Latvia,2005,Unemployment rate - Female,10.0
 428,Latvia,2010,Labour force participation - Total,58.9
 428,Latvia,2010,Unemployment rate - Total,19.5
-428,Latvia,2010,Labour force participation - Male,65
+428,Latvia,2010,Labour force participation - Male,65.0
 428,Latvia,2010,Unemployment rate - Male,22.7
 428,Latvia,2010,Labour force participation - Female,53.9
 428,Latvia,2010,Unemployment rate - Female,16.3
@@ -3065,7 +3065,7 @@
 428,Latvia,2024,Unemployment rate - Female,5.3
 422,Lebanon,2005,Labour force participation - Total,43.8
 422,Lebanon,2005,Unemployment rate - Total,8.2
-422,Lebanon,2005,Labour force participation - Male,68
+422,Lebanon,2005,Labour force participation - Male,68.0
 422,Lebanon,2005,Unemployment rate - Male,7.8
 422,Lebanon,2005,Labour force participation - Female,20.6
 422,Lebanon,2005,Unemployment rate - Female,9.7
@@ -3084,22 +3084,22 @@
 422,Lebanon,2024,Labour force participation - Total,45.4
 422,Lebanon,2024,Unemployment rate - Total,11.5
 422,Lebanon,2024,Labour force participation - Male,65.3
-422,Lebanon,2024,Unemployment rate - Male,10
+422,Lebanon,2024,Unemployment rate - Male,10.0
 422,Lebanon,2024,Labour force participation - Female,27.5
 422,Lebanon,2024,Unemployment rate - Female,14.7
 426,Lesotho,2005,Labour force participation - Total,69.8
-426,Lesotho,2005,Unemployment rate - Total,16
+426,Lesotho,2005,Unemployment rate - Total,16.0
 426,Lesotho,2005,Labour force participation - Male,76.9
 426,Lesotho,2005,Unemployment rate - Male,14.2
 426,Lesotho,2005,Labour force participation - Female,63.1
-426,Lesotho,2005,Unemployment rate - Female,18
-426,Lesotho,2010,Labour force participation - Total,67
-426,Lesotho,2010,Unemployment rate - Total,16
-426,Lesotho,2010,Labour force participation - Male,75
+426,Lesotho,2005,Unemployment rate - Female,18.0
+426,Lesotho,2010,Labour force participation - Total,67.0
+426,Lesotho,2010,Unemployment rate - Total,16.0
+426,Lesotho,2010,Labour force participation - Male,75.0
 426,Lesotho,2010,Unemployment rate - Male,14.3
 426,Lesotho,2010,Labour force participation - Female,59.4
 426,Lesotho,2010,Unemployment rate - Female,18.1
-426,Lesotho,2015,Labour force participation - Total,65
+426,Lesotho,2015,Labour force participation - Total,65.0
 426,Lesotho,2015,Unemployment rate - Total,16.2
 426,Lesotho,2015,Labour force participation - Male,73.1
 426,Lesotho,2015,Unemployment rate - Male,14.5
@@ -3119,17 +3119,17 @@
 430,Liberia,2005,Unemployment rate - Female,2.5
 430,Liberia,2010,Labour force participation - Total,77.3
 430,Liberia,2010,Unemployment rate - Total,2.3
-430,Liberia,2010,Labour force participation - Male,83
+430,Liberia,2010,Labour force participation - Male,83.0
 430,Liberia,2010,Unemployment rate - Male,2.2
 430,Liberia,2010,Labour force participation - Female,71.8
 430,Liberia,2010,Unemployment rate - Female,2.3
-430,Liberia,2015,Labour force participation - Total,77
+430,Liberia,2015,Labour force participation - Total,77.0
 430,Liberia,2015,Unemployment rate - Total,2.6
 430,Liberia,2015,Labour force participation - Male,82.3
-430,Liberia,2015,Unemployment rate - Male,3
+430,Liberia,2015,Unemployment rate - Male,3.0
 430,Liberia,2015,Labour force participation - Female,71.9
 430,Liberia,2015,Unemployment rate - Female,2.1
-430,Liberia,2024,Labour force participation - Total,77
+430,Liberia,2024,Labour force participation - Total,77.0
 430,Liberia,2024,Unemployment rate - Total,2.8
 430,Liberia,2024,Labour force participation - Male,81.5
 430,Liberia,2024,Unemployment rate - Male,3.4
@@ -3144,7 +3144,7 @@
 434,Libya,2010,Labour force participation - Total,47.8
 434,Libya,2010,Unemployment rate - Total,19.2
 434,Libya,2010,Labour force participation - Male,61.4
-434,Libya,2010,Unemployment rate - Male,16
+434,Libya,2010,Unemployment rate - Male,16.0
 434,Libya,2010,Labour force participation - Female,33.9
 434,Libya,2010,Unemployment rate - Female,25.1
 434,Libya,2015,Labour force participation - Total,47.6
@@ -3157,9 +3157,9 @@
 434,Libya,2024,Unemployment rate - Total,18.1
 434,Libya,2024,Labour force participation - Male,61.6
 434,Libya,2024,Unemployment rate - Male,14.6
-434,Libya,2024,Labour force participation - Female,35
+434,Libya,2024,Labour force participation - Female,35.0
 434,Libya,2024,Unemployment rate - Female,24.3
-438,Liechtenstein,2005,Labour force participation - Total,63
+438,Liechtenstein,2005,Labour force participation - Total,63.0
 438,Liechtenstein,2005,Labour force participation - Male,73.7
 438,Liechtenstein,2005,Labour force participation - Female,52.8
 438,Liechtenstein,2010,Labour force participation - Total,61.6
@@ -3186,7 +3186,7 @@
 440,Lithuania,2010,Unemployment rate - Male,21.2
 440,Lithuania,2010,Labour force participation - Female,52.1
 440,Lithuania,2010,Unemployment rate - Female,14.5
-440,Lithuania,2015,Labour force participation - Total,59
+440,Lithuania,2015,Labour force participation - Total,59.0
 440,Lithuania,2015,Unemployment rate - Total,9.1
 440,Lithuania,2015,Labour force participation - Male,64.8
 440,Lithuania,2015,Unemployment rate - Male,10.1
@@ -3210,7 +3210,7 @@
 442,Luxembourg,2010,Unemployment rate - Male,3.8
 442,Luxembourg,2010,Labour force participation - Female,49.8
 442,Luxembourg,2010,Unemployment rate - Female,5.1
-442,Luxembourg,2015,Labour force participation - Total,60
+442,Luxembourg,2015,Labour force participation - Total,60.0
 442,Luxembourg,2015,Unemployment rate - Total,6.7
 442,Luxembourg,2015,Labour force participation - Male,65.4
 442,Luxembourg,2015,Unemployment rate - Male,6.1
@@ -3218,13 +3218,13 @@
 442,Luxembourg,2015,Unemployment rate - Female,7.3
 442,Luxembourg,2024,Labour force participation - Total,62.2
 442,Luxembourg,2024,Unemployment rate - Total,5.4
-442,Luxembourg,2024,Labour force participation - Male,67
+442,Luxembourg,2024,Labour force participation - Male,67.0
 442,Luxembourg,2024,Unemployment rate - Male,5.5
 442,Luxembourg,2024,Labour force participation - Female,57.4
 442,Luxembourg,2024,Unemployment rate - Female,5.3
 450,Madagascar,2005,Labour force participation - Total,86.6
 450,Madagascar,2005,Unemployment rate - Total,2.6
-450,Madagascar,2005,Labour force participation - Male,89
+450,Madagascar,2005,Labour force participation - Male,89.0
 450,Madagascar,2005,Unemployment rate - Male,1.8
 450,Madagascar,2005,Labour force participation - Female,84.2
 450,Madagascar,2005,Unemployment rate - Female,3.5
@@ -3236,7 +3236,7 @@
 450,Madagascar,2010,Unemployment rate - Female,5.3
 450,Madagascar,2015,Labour force participation - Total,86.1
 450,Madagascar,2015,Unemployment rate - Total,1.8
-450,Madagascar,2015,Labour force participation - Male,89
+450,Madagascar,2015,Labour force participation - Male,89.0
 450,Madagascar,2015,Unemployment rate - Male,1.8
 450,Madagascar,2015,Labour force participation - Female,83.3
 450,Madagascar,2015,Unemployment rate - Female,1.8
@@ -3249,7 +3249,7 @@
 454,Malawi,2005,Labour force participation - Total,80.8
 454,Malawi,2005,Unemployment rate - Total,4.9
 454,Malawi,2005,Labour force participation - Male,83.7
-454,Malawi,2005,Unemployment rate - Male,4
+454,Malawi,2005,Unemployment rate - Male,4.0
 454,Malawi,2005,Labour force participation - Female,78.2
 454,Malawi,2005,Unemployment rate - Female,5.8
 454,Malawi,2010,Labour force participation - Total,74.7
@@ -3265,7 +3265,7 @@
 454,Malawi,2015,Labour force participation - Female,65.2
 454,Malawi,2015,Unemployment rate - Female,5.8
 454,Malawi,2024,Labour force participation - Total,68.9
-454,Malawi,2024,Unemployment rate - Total,5
+454,Malawi,2024,Unemployment rate - Total,5.0
 454,Malawi,2024,Labour force participation - Male,74.5
 454,Malawi,2024,Unemployment rate - Male,4.1
 454,Malawi,2024,Labour force participation - Female,63.7
@@ -3299,18 +3299,18 @@
 462,Maldives,2005,Labour force participation - Male,68.6
 462,Maldives,2005,Unemployment rate - Male,6.6
 462,Maldives,2005,Labour force participation - Female,37.3
-462,Maldives,2005,Unemployment rate - Female,9
-462,Maldives,2010,Labour force participation - Total,53
+462,Maldives,2005,Unemployment rate - Female,9.0
+462,Maldives,2010,Labour force participation - Total,53.0
 462,Maldives,2010,Unemployment rate - Total,10.8
 462,Maldives,2010,Labour force participation - Male,65.7
-462,Maldives,2010,Unemployment rate - Male,10
-462,Maldives,2010,Labour force participation - Female,37
+462,Maldives,2010,Unemployment rate - Male,10.0
+462,Maldives,2010,Labour force participation - Female,37.0
 462,Maldives,2010,Unemployment rate - Female,12.8
 462,Maldives,2015,Labour force participation - Total,57.6
 462,Maldives,2015,Unemployment rate - Total,6.6
 462,Maldives,2015,Labour force participation - Male,69.9
 462,Maldives,2015,Unemployment rate - Male,6.7
-462,Maldives,2015,Labour force participation - Female,40
+462,Maldives,2015,Labour force participation - Female,40.0
 462,Maldives,2015,Unemployment rate - Female,6.4
 462,Maldives,2024,Labour force participation - Total,63.4
 462,Maldives,2024,Unemployment rate - Total,4.3
@@ -3320,7 +3320,7 @@
 462,Maldives,2024,Unemployment rate - Female,3.7
 466,Mali,2005,Labour force participation - Total,70.3
 466,Mali,2005,Unemployment rate - Total,1.4
-466,Mali,2005,Labour force participation - Male,80
+466,Mali,2005,Labour force participation - Male,80.0
 466,Mali,2005,Unemployment rate - Male,1.4
 466,Mali,2005,Labour force participation - Female,60.3
 466,Mali,2005,Unemployment rate - Female,1.3
@@ -3340,7 +3340,7 @@
 466,Mali,2024,Unemployment rate - Total,3.2
 466,Mali,2024,Labour force participation - Male,82.2
 466,Mali,2024,Unemployment rate - Male,3.3
-466,Mali,2024,Labour force participation - Female,52
+466,Mali,2024,Labour force participation - Female,52.0
 466,Mali,2024,Unemployment rate - Female,3.2
 470,Malta,2005,Labour force participation - Total,48.2
 470,Malta,2005,Unemployment rate - Total,6.9
@@ -3377,7 +3377,7 @@
 474,Martinique,2005,Labour force participation - Female,39.6
 474,Martinique,2005,Unemployment rate - Female,20.4
 474,Martinique,2010,Labour force participation - Total,45.9
-474,Martinique,2010,Unemployment rate - Total,21
+474,Martinique,2010,Unemployment rate - Total,21.0
 474,Martinique,2010,Labour force participation - Male,49.1
 474,Martinique,2010,Unemployment rate - Male,19.7
 474,Martinique,2010,Labour force participation - Female,43.3
@@ -3388,13 +3388,13 @@
 474,Martinique,2013,Unemployment rate - Male,22.8
 474,Martinique,2013,Labour force participation - Female,52.6
 474,Martinique,2013,Unemployment rate - Female,22.8
-478,Mauritania,2005,Labour force participation - Total,45
+478,Mauritania,2005,Labour force participation - Total,45.0
 478,Mauritania,2005,Unemployment rate - Total,9.5
 478,Mauritania,2005,Labour force participation - Male,62.8
 478,Mauritania,2005,Unemployment rate - Male,8.3
 478,Mauritania,2005,Labour force participation - Female,27.9
 478,Mauritania,2005,Unemployment rate - Female,12.1
-478,Mauritania,2010,Labour force participation - Total,44
+478,Mauritania,2010,Labour force participation - Total,44.0
 478,Mauritania,2010,Unemployment rate - Total,10.1
 478,Mauritania,2010,Labour force participation - Male,61.6
 478,Mauritania,2010,Unemployment rate - Male,8.8
@@ -3402,7 +3402,7 @@
 478,Mauritania,2010,Unemployment rate - Female,12.9
 478,Mauritania,2015,Labour force participation - Total,42.1
 478,Mauritania,2015,Unemployment rate - Total,10.1
-478,Mauritania,2015,Labour force participation - Male,59
+478,Mauritania,2015,Labour force participation - Male,59.0
 478,Mauritania,2015,Unemployment rate - Male,9.2
 478,Mauritania,2015,Labour force participation - Female,26.7
 478,Mauritania,2015,Unemployment rate - Female,11.9
@@ -3422,8 +3422,8 @@
 480,Mauritius,2010,Unemployment rate - Total,7.7
 480,Mauritius,2010,Labour force participation - Male,74.4
 480,Mauritius,2010,Unemployment rate - Male,4.5
-480,Mauritius,2010,Labour force participation - Female,43
-480,Mauritius,2010,Unemployment rate - Female,13
+480,Mauritius,2010,Labour force participation - Female,43.0
+480,Mauritius,2010,Unemployment rate - Female,13.0
 480,Mauritius,2015,Labour force participation - Total,59.7
 480,Mauritius,2015,Unemployment rate - Total,7.4
 480,Mauritius,2015,Labour force participation - Male,73.9
@@ -3432,9 +3432,9 @@
 480,Mauritius,2015,Unemployment rate - Female,10.7
 480,Mauritius,2024,Labour force participation - Total,55.3
 480,Mauritius,2024,Unemployment rate - Total,4.2
-480,Mauritius,2024,Labour force participation - Male,68
+480,Mauritius,2024,Labour force participation - Male,68.0
 480,Mauritius,2024,Unemployment rate - Male,2.9
-480,Mauritius,2024,Labour force participation - Female,43
+480,Mauritius,2024,Labour force participation - Female,43.0
 480,Mauritius,2024,Unemployment rate - Female,6.2
 484,Mexico,2005,Labour force participation - Total,60.2
 484,Mexico,2005,Unemployment rate - Total,3.6
@@ -3455,11 +3455,11 @@
 484,Mexico,2015,Labour force participation - Female,43.8
 484,Mexico,2015,Unemployment rate - Female,4.5
 484,Mexico,2024,Labour force participation - Total,61.1
-484,Mexico,2024,Unemployment rate - Total,3
+484,Mexico,2024,Unemployment rate - Total,3.0
 484,Mexico,2024,Labour force participation - Male,77.1
-484,Mexico,2024,Unemployment rate - Male,3
+484,Mexico,2024,Unemployment rate - Male,3.0
 484,Mexico,2024,Labour force participation - Female,46.2
-484,Mexico,2024,Unemployment rate - Female,3
+484,Mexico,2024,Unemployment rate - Female,3.0
 492,Monaco,2000,Labour force participation - Total,45.7
 492,Monaco,2000,Unemployment rate - Total,3.6
 492,Monaco,2000,Labour force participation - Male,57.3
@@ -3467,7 +3467,7 @@
 492,Monaco,2000,Labour force participation - Female,35.1
 492,Monaco,2000,Unemployment rate - Female,5.2
 496,Mongolia,2005,Labour force participation - Total,60.1
-496,Mongolia,2005,Unemployment rate - Total,7
+496,Mongolia,2005,Unemployment rate - Total,7.0
 496,Mongolia,2005,Labour force participation - Male,64.4
 496,Mongolia,2005,Unemployment rate - Male,7.2
 496,Mongolia,2005,Labour force participation - Female,55.8
@@ -3480,13 +3480,13 @@
 496,Mongolia,2010,Unemployment rate - Female,5.9
 496,Mongolia,2015,Labour force participation - Total,59.8
 496,Mongolia,2015,Unemployment rate - Total,4.9
-496,Mongolia,2015,Labour force participation - Male,66
+496,Mongolia,2015,Labour force participation - Male,66.0
 496,Mongolia,2015,Unemployment rate - Male,5.4
 496,Mongolia,2015,Labour force participation - Female,53.9
 496,Mongolia,2015,Unemployment rate - Female,4.2
 496,Mongolia,2024,Labour force participation - Total,60.3
 496,Mongolia,2024,Unemployment rate - Total,5.1
-496,Mongolia,2024,Labour force participation - Male,68
+496,Mongolia,2024,Labour force participation - Male,68.0
 496,Mongolia,2024,Unemployment rate - Male,5.8
 496,Mongolia,2024,Labour force participation - Female,53.1
 496,Mongolia,2024,Unemployment rate - Female,4.3
@@ -3522,7 +3522,7 @@
 500,Montserrat,2011,Unemployment rate - Male,7.7
 500,Montserrat,2011,Unemployment rate - Female,3.3
 504,Morocco,2005,Labour force participation - Total,50.6
-504,Morocco,2005,Unemployment rate - Total,11
+504,Morocco,2005,Unemployment rate - Total,11.0
 504,Morocco,2005,Labour force participation - Male,76.2
 504,Morocco,2005,Unemployment rate - Male,10.8
 504,Morocco,2005,Labour force participation - Female,25.6
@@ -3530,7 +3530,7 @@
 504,Morocco,2010,Labour force participation - Total,49.6
 504,Morocco,2010,Unemployment rate - Total,9.1
 504,Morocco,2010,Labour force participation - Male,73.9
-504,Morocco,2010,Unemployment rate - Male,9
+504,Morocco,2010,Unemployment rate - Male,9.0
 504,Morocco,2010,Labour force participation - Female,25.6
 504,Morocco,2010,Unemployment rate - Female,9.5
 504,Morocco,2015,Labour force participation - Total,47.5
@@ -3539,14 +3539,14 @@
 504,Morocco,2015,Unemployment rate - Male,9.1
 504,Morocco,2015,Labour force participation - Female,24.4
 504,Morocco,2015,Unemployment rate - Female,10.4
-504,Morocco,2024,Labour force participation - Total,44
+504,Morocco,2024,Labour force participation - Total,44.0
 504,Morocco,2024,Unemployment rate - Total,9.7
 504,Morocco,2024,Labour force participation - Male,67.9
 504,Morocco,2024,Unemployment rate - Male,9.2
-504,Morocco,2024,Labour force participation - Female,20
+504,Morocco,2024,Labour force participation - Female,20.0
 504,Morocco,2024,Unemployment rate - Female,11.1
 508,Mozambique,2005,Labour force participation - Total,81.9
-508,Mozambique,2005,Unemployment rate - Total,3
+508,Mozambique,2005,Unemployment rate - Total,3.0
 508,Mozambique,2005,Labour force participation - Male,80.2
 508,Mozambique,2005,Unemployment rate - Male,3.7
 508,Mozambique,2005,Labour force participation - Female,83.4
@@ -3577,34 +3577,34 @@
 104,Myanmar,2005,Unemployment rate - Female,0.8
 104,Myanmar,2010,Labour force participation - Total,66.1
 104,Myanmar,2010,Unemployment rate - Total,0.7
-104,Myanmar,2010,Labour force participation - Male,80
+104,Myanmar,2010,Labour force participation - Male,80.0
 104,Myanmar,2010,Unemployment rate - Male,0.6
 104,Myanmar,2010,Labour force participation - Female,52.6
 104,Myanmar,2010,Unemployment rate - Female,0.9
 104,Myanmar,2015,Labour force participation - Total,64.7
 104,Myanmar,2015,Unemployment rate - Total,0.8
-104,Myanmar,2015,Labour force participation - Male,79
+104,Myanmar,2015,Labour force participation - Male,79.0
 104,Myanmar,2015,Unemployment rate - Male,0.7
 104,Myanmar,2015,Labour force participation - Female,50.8
 104,Myanmar,2015,Unemployment rate - Female,0.9
 104,Myanmar,2024,Labour force participation - Total,55.7
 104,Myanmar,2024,Unemployment rate - Total,2.9
-104,Myanmar,2024,Labour force participation - Male,70
+104,Myanmar,2024,Labour force participation - Male,70.0
 104,Myanmar,2024,Unemployment rate - Male,2.5
 104,Myanmar,2024,Labour force participation - Female,41.8
 104,Myanmar,2024,Unemployment rate - Female,3.5
 516,Namibia,2005,Labour force participation - Total,55.6
 516,Namibia,2005,Unemployment rate - Total,22.1
-516,Namibia,2005,Labour force participation - Male,62
+516,Namibia,2005,Labour force participation - Male,62.0
 516,Namibia,2005,Unemployment rate - Male,19.6
 516,Namibia,2005,Labour force participation - Female,49.7
-516,Namibia,2005,Unemployment rate - Female,25
-516,Namibia,2010,Labour force participation - Total,57
+516,Namibia,2005,Unemployment rate - Female,25.0
+516,Namibia,2010,Labour force participation - Total,57.0
 516,Namibia,2010,Unemployment rate - Total,22.1
 516,Namibia,2010,Labour force participation - Male,62.3
 516,Namibia,2010,Unemployment rate - Male,20.4
 516,Namibia,2010,Labour force participation - Female,52.1
-516,Namibia,2010,Unemployment rate - Female,24
+516,Namibia,2010,Unemployment rate - Female,24.0
 516,Namibia,2015,Labour force participation - Total,60.6
 516,Namibia,2015,Unemployment rate - Total,20.8
 516,Namibia,2015,Labour force participation - Male,65.4
@@ -3615,30 +3615,30 @@
 516,Namibia,2024,Unemployment rate - Total,19.4
 516,Namibia,2024,Labour force participation - Male,63.7
 516,Namibia,2024,Unemployment rate - Male,20.6
-516,Namibia,2024,Labour force participation - Female,56
+516,Namibia,2024,Labour force participation - Female,56.0
 516,Namibia,2024,Unemployment rate - Female,18.2
-520,Nauru,2002,Labour force participation - Total,78
+520,Nauru,2002,Labour force participation - Total,78.0
 520,Nauru,2002,Unemployment rate - Total,22.7
 520,Nauru,2002,Labour force participation - Male,86.8
 520,Nauru,2002,Unemployment rate - Male,17.1
 520,Nauru,2002,Labour force participation - Female,69.6
 520,Nauru,2002,Unemployment rate - Female,29.6
-520,Nauru,2011,Labour force participation - Total,64
-520,Nauru,2011,Unemployment rate - Total,23
+520,Nauru,2011,Labour force participation - Total,64.0
+520,Nauru,2011,Unemployment rate - Total,23.0
 520,Nauru,2011,Labour force participation - Male,78.9
 520,Nauru,2011,Unemployment rate - Male,21.4
 520,Nauru,2011,Labour force participation - Female,49.3
 520,Nauru,2011,Unemployment rate - Female,25.5
 524,Nepal,2005,Labour force participation - Total,40.6
 524,Nepal,2005,Unemployment rate - Total,10.7
-524,Nepal,2005,Labour force participation - Male,60
+524,Nepal,2005,Labour force participation - Male,60.0
 524,Nepal,2005,Unemployment rate - Male,10.1
 524,Nepal,2005,Labour force participation - Female,21.8
 524,Nepal,2005,Unemployment rate - Female,12.3
-524,Nepal,2010,Labour force participation - Total,40
+524,Nepal,2010,Labour force participation - Total,40.0
 524,Nepal,2010,Unemployment rate - Total,10.7
 524,Nepal,2010,Labour force participation - Male,58.3
-524,Nepal,2010,Unemployment rate - Male,10
+524,Nepal,2010,Unemployment rate - Male,10.0
 524,Nepal,2010,Labour force participation - Female,23.4
 524,Nepal,2010,Unemployment rate - Female,12.2
 524,Nepal,2015,Labour force participation - Total,39.6
@@ -3650,17 +3650,17 @@
 524,Nepal,2024,Labour force participation - Total,40.5
 524,Nepal,2024,Unemployment rate - Total,10.9
 524,Nepal,2024,Labour force participation - Male,53.9
-524,Nepal,2024,Unemployment rate - Male,10
+524,Nepal,2024,Unemployment rate - Male,10.0
 524,Nepal,2024,Labour force participation - Female,28.8
 524,Nepal,2024,Unemployment rate - Female,12.5
 528,Netherlands (Kingdom of the),2005,Labour force participation - Total,63.4
 528,Netherlands (Kingdom of the),2005,Unemployment rate - Total,5.9
 528,Netherlands (Kingdom of the),2005,Labour force participation - Male,71.5
-528,Netherlands (Kingdom of the),2005,Unemployment rate - Male,5
+528,Netherlands (Kingdom of the),2005,Unemployment rate - Male,5.0
 528,Netherlands (Kingdom of the),2005,Labour force participation - Female,55.6
 528,Netherlands (Kingdom of the),2005,Unemployment rate - Female,6.9
 528,Netherlands (Kingdom of the),2010,Labour force participation - Total,64.8
-528,Netherlands (Kingdom of the),2010,Unemployment rate - Total,5
+528,Netherlands (Kingdom of the),2010,Unemployment rate - Total,5.0
 528,Netherlands (Kingdom of the),2010,Labour force participation - Male,71.2
 528,Netherlands (Kingdom of the),2010,Unemployment rate - Male,4.5
 528,Netherlands (Kingdom of the),2010,Labour force participation - Female,58.7
@@ -3690,18 +3690,18 @@
 540,New Caledonia,2005,Labour force participation - Female,58.8
 540,New Caledonia,2005,Unemployment rate - Female,18.5
 540,New Caledonia,2010,Labour force participation - Total,64.3
-540,New Caledonia,2010,Unemployment rate - Total,14
+540,New Caledonia,2010,Unemployment rate - Total,14.0
 540,New Caledonia,2010,Labour force participation - Male,69.6
 540,New Caledonia,2010,Unemployment rate - Male,12.2
 540,New Caledonia,2010,Labour force participation - Female,58.9
-540,New Caledonia,2010,Unemployment rate - Female,16
+540,New Caledonia,2010,Unemployment rate - Female,16.0
 540,New Caledonia,2015,Labour force participation - Total,62.7
 540,New Caledonia,2015,Unemployment rate - Total,13.6
 540,New Caledonia,2015,Labour force participation - Male,67.7
 540,New Caledonia,2015,Unemployment rate - Male,12.6
 540,New Caledonia,2015,Labour force participation - Female,57.8
 540,New Caledonia,2015,Unemployment rate - Female,14.9
-540,New Caledonia,2024,Labour force participation - Total,57
+540,New Caledonia,2024,Labour force participation - Total,57.0
 540,New Caledonia,2024,Unemployment rate - Total,10.8
 540,New Caledonia,2024,Labour force participation - Male,61.4
 540,New Caledonia,2024,Unemployment rate - Male,10.1
@@ -3709,20 +3709,20 @@
 540,New Caledonia,2024,Unemployment rate - Female,11.5
 554,New Zealand,2005,Labour force participation - Total,67.7
 554,New Zealand,2005,Unemployment rate - Total,3.8
-554,New Zealand,2005,Labour force participation - Male,75
+554,New Zealand,2005,Labour force participation - Male,75.0
 554,New Zealand,2005,Unemployment rate - Male,3.5
 554,New Zealand,2005,Labour force participation - Female,60.8
 554,New Zealand,2005,Unemployment rate - Female,4.2
-554,New Zealand,2010,Labour force participation - Total,68
+554,New Zealand,2010,Labour force participation - Total,68.0
 554,New Zealand,2010,Unemployment rate - Total,6.6
 554,New Zealand,2010,Labour force participation - Male,74.4
 554,New Zealand,2010,Unemployment rate - Male,6.2
-554,New Zealand,2010,Labour force participation - Female,62
+554,New Zealand,2010,Labour force participation - Female,62.0
 554,New Zealand,2010,Unemployment rate - Female,6.9
 554,New Zealand,2015,Labour force participation - Total,68.8
 554,New Zealand,2015,Unemployment rate - Total,5.4
 554,New Zealand,2015,Labour force participation - Male,74.5
-554,New Zealand,2015,Unemployment rate - Male,5
+554,New Zealand,2015,Unemployment rate - Male,5.0
 554,New Zealand,2015,Labour force participation - Female,63.4
 554,New Zealand,2015,Unemployment rate - Female,5.9
 554,New Zealand,2024,Labour force participation - Total,71.6
@@ -3735,11 +3735,11 @@
 558,Nicaragua,2005,Unemployment rate - Total,5.4
 558,Nicaragua,2005,Labour force participation - Male,85.1
 558,Nicaragua,2005,Unemployment rate - Male,5.2
-558,Nicaragua,2005,Labour force participation - Female,40
+558,Nicaragua,2005,Labour force participation - Female,40.0
 558,Nicaragua,2005,Unemployment rate - Female,5.8
 558,Nicaragua,2010,Labour force participation - Total,63.6
 558,Nicaragua,2010,Unemployment rate - Total,7.8
-558,Nicaragua,2010,Labour force participation - Male,84
+558,Nicaragua,2010,Labour force participation - Male,84.0
 558,Nicaragua,2010,Unemployment rate - Male,7.3
 558,Nicaragua,2010,Labour force participation - Female,44.4
 558,Nicaragua,2010,Unemployment rate - Female,8.7
@@ -3787,7 +3787,7 @@
 566,Nigeria,2005,Unemployment rate - Female,3.6
 566,Nigeria,2010,Labour force participation - Total,60.4
 566,Nigeria,2010,Unemployment rate - Total,3.7
-566,Nigeria,2010,Labour force participation - Male,64
+566,Nigeria,2010,Labour force participation - Male,64.0
 566,Nigeria,2010,Unemployment rate - Male,3.8
 566,Nigeria,2010,Labour force participation - Female,56.8
 566,Nigeria,2010,Unemployment rate - Female,3.7
@@ -3802,7 +3802,7 @@
 566,Nigeria,2024,Labour force participation - Male,65.9
 566,Nigeria,2024,Unemployment rate - Male,2.3
 566,Nigeria,2024,Labour force participation - Female,52.3
-566,Nigeria,2024,Unemployment rate - Female,5
+566,Nigeria,2024,Unemployment rate - Female,5.0
 570,Niue,2001,Labour force participation - Total,75.5
 570,Niue,2001,Unemployment rate - Total,2.2
 570,Niue,2001,Labour force participation - Male,76.7
@@ -3837,7 +3837,7 @@
 580,Northern Mariana Islands,2003,Labour force participation - Total,81.8
 580,Northern Mariana Islands,2003,Unemployment rate - Total,4.6
 580,Northern Mariana Islands,2003,Labour force participation - Male,82.5
-580,Northern Mariana Islands,2003,Unemployment rate - Male,5
+580,Northern Mariana Islands,2003,Unemployment rate - Male,5.0
 580,Northern Mariana Islands,2003,Labour force participation - Female,81.3
 580,Northern Mariana Islands,2003,Unemployment rate - Female,4.3
 580,Northern Mariana Islands,2005,Unemployment rate - Total,6.5
@@ -3848,7 +3848,7 @@
 580,Northern Mariana Islands,2010,Labour force participation - Male,77.6
 580,Northern Mariana Islands,2010,Unemployment rate - Male,9.7
 580,Northern Mariana Islands,2010,Labour force participation - Female,66.6
-580,Northern Mariana Islands,2010,Unemployment rate - Female,13
+580,Northern Mariana Islands,2010,Unemployment rate - Female,13.0
 578,Norway,2005,Labour force participation - Total,65.6
 578,Norway,2005,Unemployment rate - Total,4.4
 578,Norway,2005,Labour force participation - Male,70.5
@@ -3858,7 +3858,7 @@
 578,Norway,2010,Labour force participation - Total,65.6
 578,Norway,2010,Unemployment rate - Total,3.5
 578,Norway,2010,Labour force participation - Male,69.6
-578,Norway,2010,Unemployment rate - Male,4
+578,Norway,2010,Unemployment rate - Male,4.0
 578,Norway,2010,Labour force participation - Female,61.7
 578,Norway,2010,Unemployment rate - Female,2.9
 578,Norway,2015,Labour force participation - Total,64.9
@@ -3866,18 +3866,18 @@
 578,Norway,2015,Labour force participation - Male,68.4
 578,Norway,2015,Unemployment rate - Male,4.6
 578,Norway,2015,Labour force participation - Female,61.4
-578,Norway,2015,Unemployment rate - Female,4
-578,Norway,2024,Labour force participation - Total,65
+578,Norway,2015,Unemployment rate - Female,4.0
+578,Norway,2024,Labour force participation - Total,65.0
 578,Norway,2024,Unemployment rate - Total,3.4
-578,Norway,2024,Labour force participation - Male,68
+578,Norway,2024,Labour force participation - Male,68.0
 578,Norway,2024,Unemployment rate - Male,3.6
 578,Norway,2024,Labour force participation - Female,61.9
 578,Norway,2024,Unemployment rate - Female,3.1
-512,Oman,2005,Labour force participation - Total,56
+512,Oman,2005,Labour force participation - Total,56.0
 512,Oman,2005,Unemployment rate - Total,4.6
 512,Oman,2005,Labour force participation - Male,76.9
 512,Oman,2005,Unemployment rate - Male,3.8
-512,Oman,2005,Labour force participation - Female,25
+512,Oman,2005,Labour force participation - Female,25.0
 512,Oman,2005,Unemployment rate - Female,8.5
 512,Oman,2010,Labour force participation - Total,60.4
 512,Oman,2010,Unemployment rate - Total,3.9
@@ -3888,12 +3888,12 @@
 512,Oman,2015,Labour force participation - Total,69.4
 512,Oman,2015,Unemployment rate - Total,3.4
 512,Oman,2015,Labour force participation - Male,87.4
-512,Oman,2015,Unemployment rate - Male,2
+512,Oman,2015,Unemployment rate - Male,2.0
 512,Oman,2015,Labour force participation - Female,29.8
 512,Oman,2015,Unemployment rate - Female,12.6
 512,Oman,2024,Labour force participation - Total,68.7
 512,Oman,2024,Unemployment rate - Total,1.5
-512,Oman,2024,Labour force participation - Male,89
+512,Oman,2024,Labour force participation - Male,89.0
 512,Oman,2024,Unemployment rate - Male,0.7
 512,Oman,2024,Labour force participation - Female,32.6
 512,Oman,2024,Unemployment rate - Female,5.3
@@ -3903,17 +3903,17 @@
 586,Pakistan,2005,Unemployment rate - Male,0.6
 586,Pakistan,2005,Labour force participation - Female,18.3
 586,Pakistan,2005,Unemployment rate - Female,0.3
-586,Pakistan,2010,Labour force participation - Total,51
+586,Pakistan,2010,Labour force participation - Total,51.0
 586,Pakistan,2010,Unemployment rate - Total,0.7
 586,Pakistan,2010,Labour force participation - Male,78.5
 586,Pakistan,2010,Unemployment rate - Male,0.7
-586,Pakistan,2010,Labour force participation - Female,22
+586,Pakistan,2010,Labour force participation - Female,22.0
 586,Pakistan,2010,Unemployment rate - Female,0.6
-586,Pakistan,2015,Labour force participation - Total,52
+586,Pakistan,2015,Labour force participation - Total,52.0
 586,Pakistan,2015,Unemployment rate - Total,3.6
 586,Pakistan,2015,Labour force participation - Male,78.9
 586,Pakistan,2015,Unemployment rate - Male,2.8
-586,Pakistan,2015,Labour force participation - Female,24
+586,Pakistan,2015,Labour force participation - Female,24.0
 586,Pakistan,2015,Unemployment rate - Female,6.2
 586,Pakistan,2024,Labour force participation - Total,52.7
 586,Pakistan,2024,Unemployment rate - Total,5.8
@@ -3932,7 +3932,7 @@
 591,Panama,2005,Labour force participation - Male,79.6
 591,Panama,2005,Unemployment rate - Male,4.9
 591,Panama,2005,Labour force participation - Female,47.1
-591,Panama,2005,Unemployment rate - Female,8
+591,Panama,2005,Unemployment rate - Female,8.0
 591,Panama,2010,Labour force participation - Total,63.1
 591,Panama,2010,Unemployment rate - Total,5.9
 591,Panama,2010,Labour force participation - Male,79.5
@@ -3943,7 +3943,7 @@
 591,Panama,2015,Unemployment rate - Total,4.4
 591,Panama,2015,Labour force participation - Male,77.5
 591,Panama,2015,Unemployment rate - Male,3.7
-591,Panama,2015,Labour force participation - Female,50
+591,Panama,2015,Labour force participation - Female,50.0
 591,Panama,2015,Unemployment rate - Female,5.4
 591,Panama,2024,Labour force participation - Total,63.3
 591,Panama,2024,Unemployment rate - Total,7.5
@@ -3953,13 +3953,13 @@
 591,Panama,2024,Unemployment rate - Female,9.2
 598,Papua New Guinea,2005,Labour force participation - Total,61.1
 598,Papua New Guinea,2005,Unemployment rate - Total,2.4
-598,Papua New Guinea,2005,Labour force participation - Male,62
+598,Papua New Guinea,2005,Labour force participation - Male,62.0
 598,Papua New Guinea,2005,Unemployment rate - Male,3.2
 598,Papua New Guinea,2005,Labour force participation - Female,60.1
 598,Papua New Guinea,2005,Unemployment rate - Female,1.5
 598,Papua New Guinea,2010,Labour force participation - Total,48.3
-598,Papua New Guinea,2010,Unemployment rate - Total,2
-598,Papua New Guinea,2010,Labour force participation - Male,49
+598,Papua New Guinea,2010,Unemployment rate - Total,2.0
+598,Papua New Guinea,2010,Labour force participation - Male,49.0
 598,Papua New Guinea,2010,Unemployment rate - Male,2.7
 598,Papua New Guinea,2010,Labour force participation - Female,47.7
 598,Papua New Guinea,2010,Unemployment rate - Female,1.3
@@ -3986,7 +3986,7 @@
 600,Paraguay,2010,Labour force participation - Male,82.4
 600,Paraguay,2010,Unemployment rate - Male,3.6
 600,Paraguay,2010,Labour force participation - Female,53.1
-600,Paraguay,2010,Unemployment rate - Female,6
+600,Paraguay,2010,Unemployment rate - Female,6.0
 600,Paraguay,2015,Labour force participation - Total,67.9
 600,Paraguay,2015,Unemployment rate - Total,4.6
 600,Paraguay,2015,Labour force participation - Male,81.1
@@ -4001,10 +4001,10 @@
 600,Paraguay,2024,Unemployment rate - Female,7.4
 604,Peru,2005,Labour force participation - Total,73.1
 604,Peru,2005,Unemployment rate - Total,4.9
-604,Peru,2005,Labour force participation - Male,82
+604,Peru,2005,Labour force participation - Male,82.0
 604,Peru,2005,Unemployment rate - Male,4.7
 604,Peru,2005,Labour force participation - Female,64.4
-604,Peru,2005,Unemployment rate - Female,5
+604,Peru,2005,Unemployment rate - Female,5.0
 604,Peru,2010,Labour force participation - Total,79.2
 604,Peru,2010,Unemployment rate - Total,3.6
 604,Peru,2010,Labour force participation - Male,86.6
@@ -4017,7 +4017,7 @@
 604,Peru,2015,Unemployment rate - Male,3.2
 604,Peru,2015,Labour force participation - Female,67.7
 604,Peru,2015,Unemployment rate - Female,3.3
-604,Peru,2024,Labour force participation - Total,72
+604,Peru,2024,Labour force participation - Total,72.0
 604,Peru,2024,Unemployment rate - Total,3.5
 604,Peru,2024,Labour force participation - Male,78.7
 604,Peru,2024,Unemployment rate - Male,2.9
@@ -4033,18 +4033,18 @@
 608,Philippines,2010,Unemployment rate - Total,3.6
 608,Philippines,2010,Labour force participation - Male,74.9
 608,Philippines,2010,Unemployment rate - Male,3.5
-608,Philippines,2010,Labour force participation - Female,48
+608,Philippines,2010,Labour force participation - Female,48.0
 608,Philippines,2010,Unemployment rate - Female,3.8
 608,Philippines,2015,Labour force participation - Total,61.4
 608,Philippines,2015,Unemployment rate - Total,3.1
 608,Philippines,2015,Labour force participation - Male,74.2
-608,Philippines,2015,Unemployment rate - Male,3
+608,Philippines,2015,Unemployment rate - Male,3.0
 608,Philippines,2015,Labour force participation - Female,48.5
 608,Philippines,2015,Unemployment rate - Female,3.2
 608,Philippines,2024,Labour force participation - Total,60.3
 608,Philippines,2024,Unemployment rate - Total,2.2
 608,Philippines,2024,Labour force participation - Male,73.2
-608,Philippines,2024,Unemployment rate - Male,2
+608,Philippines,2024,Unemployment rate - Male,2.0
 608,Philippines,2024,Labour force participation - Female,47.3
 608,Philippines,2024,Unemployment rate - Female,2.5
 616,Poland,2005,Labour force participation - Total,55.2
@@ -4053,12 +4053,12 @@
 616,Poland,2005,Unemployment rate - Male,16.6
 616,Poland,2005,Labour force participation - Female,47.8
 616,Poland,2005,Unemployment rate - Female,19.2
-616,Poland,2010,Labour force participation - Total,56
+616,Poland,2010,Labour force participation - Total,56.0
 616,Poland,2010,Unemployment rate - Total,9.6
 616,Poland,2010,Labour force participation - Male,64.3
 616,Poland,2010,Unemployment rate - Male,9.3
 616,Poland,2010,Labour force participation - Female,48.3
-616,Poland,2010,Unemployment rate - Female,10
+616,Poland,2010,Unemployment rate - Female,10.0
 616,Poland,2015,Labour force participation - Total,56.8
 616,Poland,2015,Unemployment rate - Total,7.5
 616,Poland,2015,Labour force participation - Male,65.1
@@ -4069,7 +4069,7 @@
 616,Poland,2024,Unemployment rate - Total,2.7
 616,Poland,2024,Labour force participation - Male,66.8
 616,Poland,2024,Unemployment rate - Male,2.6
-616,Poland,2024,Labour force participation - Female,51
+616,Poland,2024,Labour force participation - Female,51.0
 616,Poland,2024,Unemployment rate - Female,2.7
 620,Portugal,2005,Labour force participation - Total,61.9
 620,Portugal,2005,Unemployment rate - Total,7.6
@@ -4092,9 +4092,9 @@
 620,Portugal,2024,Labour force participation - Total,58.9
 620,Portugal,2024,Unemployment rate - Total,6.5
 620,Portugal,2024,Labour force participation - Male,63.5
-620,Portugal,2024,Unemployment rate - Male,6
+620,Portugal,2024,Unemployment rate - Male,6.0
 620,Portugal,2024,Labour force participation - Female,54.9
-620,Portugal,2024,Unemployment rate - Female,7
+620,Portugal,2024,Unemployment rate - Female,7.0
 630,Puerto Rico,2005,Labour force participation - Total,47.7
 630,Puerto Rico,2005,Unemployment rate - Total,11.4
 630,Puerto Rico,2005,Labour force participation - Male,59.1
@@ -4107,17 +4107,17 @@
 630,Puerto Rico,2010,Unemployment rate - Male,18.7
 630,Puerto Rico,2010,Labour force participation - Female,33.9
 630,Puerto Rico,2010,Unemployment rate - Female,12.6
-630,Puerto Rico,2015,Labour force participation - Total,40
-630,Puerto Rico,2015,Unemployment rate - Total,12
+630,Puerto Rico,2015,Labour force participation - Total,40.0
+630,Puerto Rico,2015,Unemployment rate - Total,12.0
 630,Puerto Rico,2015,Labour force participation - Male,49.2
 630,Puerto Rico,2015,Unemployment rate - Male,13.7
 630,Puerto Rico,2015,Labour force participation - Female,31.9
 630,Puerto Rico,2015,Unemployment rate - Female,9.6
 630,Puerto Rico,2024,Labour force participation - Total,41.4
-630,Puerto Rico,2024,Unemployment rate - Total,6
+630,Puerto Rico,2024,Unemployment rate - Total,6.0
 630,Puerto Rico,2024,Labour force participation - Male,52.3
 630,Puerto Rico,2024,Unemployment rate - Male,6.9
-630,Puerto Rico,2024,Labour force participation - Female,32
+630,Puerto Rico,2024,Labour force participation - Female,32.0
 630,Puerto Rico,2024,Unemployment rate - Female,4.8
 634,Qatar,2005,Labour force participation - Total,82.2
 634,Qatar,2005,Unemployment rate - Total,0.9
@@ -4151,7 +4151,7 @@
 410,Republic of Korea,2005,Unemployment rate - Female,3.1
 410,Republic of Korea,2010,Labour force participation - Total,61.4
 410,Republic of Korea,2010,Unemployment rate - Total,3.3
-410,Republic of Korea,2010,Labour force participation - Male,73
+410,Republic of Korea,2010,Labour force participation - Male,73.0
 410,Republic of Korea,2010,Unemployment rate - Male,3.7
 410,Republic of Korea,2010,Labour force participation - Female,49.9
 410,Republic of Korea,2010,Unemployment rate - Female,2.8
@@ -4171,10 +4171,10 @@
 498,Republic of Moldova,2005,Unemployment rate - Total,5.6
 498,Republic of Moldova,2005,Labour force participation - Male,54.6
 498,Republic of Moldova,2005,Unemployment rate - Male,6.8
-498,Republic of Moldova,2005,Labour force participation - Female,55
+498,Republic of Moldova,2005,Labour force participation - Female,55.0
 498,Republic of Moldova,2005,Unemployment rate - Female,4.6
 498,Republic of Moldova,2010,Labour force participation - Total,63.4
-498,Republic of Moldova,2010,Unemployment rate - Total,3
+498,Republic of Moldova,2010,Unemployment rate - Total,3.0
 498,Republic of Moldova,2010,Labour force participation - Male,64.2
 498,Republic of Moldova,2010,Unemployment rate - Male,3.8
 498,Republic of Moldova,2010,Labour force participation - Female,62.7
@@ -4200,9 +4200,9 @@
 638,Réunion,2010,Labour force participation - Total,52.1
 638,Réunion,2010,Unemployment rate - Total,28.9
 638,Réunion,2010,Labour force participation - Male,59.9
-638,Réunion,2010,Unemployment rate - Male,28
+638,Réunion,2010,Unemployment rate - Male,28.0
 638,Réunion,2010,Labour force participation - Female,45.3
-638,Réunion,2010,Unemployment rate - Female,30
+638,Réunion,2010,Unemployment rate - Female,30.0
 638,Réunion,2013,Labour force participation - Total,54.9
 638,Réunion,2013,Unemployment rate - Total,28.9
 638,Réunion,2013,Labour force participation - Male,61.3
@@ -4216,7 +4216,7 @@
 642,Romania,2005,Labour force participation - Female,46.9
 642,Romania,2005,Unemployment rate - Female,6.4
 642,Romania,2010,Labour force participation - Total,54.9
-642,Romania,2010,Unemployment rate - Total,7
+642,Romania,2010,Unemployment rate - Total,7.0
 642,Romania,2010,Labour force participation - Male,64.3
 642,Romania,2010,Unemployment rate - Male,7.6
 642,Romania,2010,Labour force participation - Female,46.2
@@ -4232,18 +4232,18 @@
 642,Romania,2024,Labour force participation - Male,61.9
 642,Romania,2024,Unemployment rate - Male,5.9
 642,Romania,2024,Labour force participation - Female,42.7
-642,Romania,2024,Unemployment rate - Female,5
+642,Romania,2024,Unemployment rate - Female,5.0
 643,Russian Federation,2005,Labour force participation - Total,60.8
 643,Russian Federation,2005,Unemployment rate - Total,7.1
 643,Russian Federation,2005,Labour force participation - Male,67.8
 643,Russian Federation,2005,Unemployment rate - Male,7.3
-643,Russian Federation,2005,Labour force participation - Female,55
+643,Russian Federation,2005,Labour force participation - Female,55.0
 643,Russian Federation,2005,Unemployment rate - Female,6.9
 643,Russian Federation,2010,Labour force participation - Total,62.6
 643,Russian Federation,2010,Unemployment rate - Total,7.4
 643,Russian Federation,2010,Labour force participation - Male,70.6
 643,Russian Federation,2010,Unemployment rate - Male,7.9
-643,Russian Federation,2010,Labour force participation - Female,56
+643,Russian Federation,2010,Labour force participation - Female,56.0
 643,Russian Federation,2010,Unemployment rate - Female,6.8
 643,Russian Federation,2015,Labour force participation - Total,62.7
 643,Russian Federation,2015,Unemployment rate - Total,5.6
@@ -4251,7 +4251,7 @@
 643,Russian Federation,2015,Unemployment rate - Male,5.8
 643,Russian Federation,2015,Labour force participation - Female,55.6
 643,Russian Federation,2015,Unemployment rate - Female,5.3
-643,Russian Federation,2024,Labour force participation - Total,60
+643,Russian Federation,2024,Labour force participation - Total,60.0
 643,Russian Federation,2024,Unemployment rate - Total,3.2
 643,Russian Federation,2024,Labour force participation - Male,67.9
 643,Russian Federation,2024,Unemployment rate - Male,3.1
@@ -4263,10 +4263,10 @@
 646,Rwanda,2005,Unemployment rate - Male,11.2
 646,Rwanda,2005,Labour force participation - Female,54.3
 646,Rwanda,2005,Unemployment rate - Female,12.7
-646,Rwanda,2010,Labour force participation - Total,61
+646,Rwanda,2010,Labour force participation - Total,61.0
 646,Rwanda,2010,Unemployment rate - Total,11.7
 646,Rwanda,2010,Labour force participation - Male,68.3
-646,Rwanda,2010,Unemployment rate - Male,11
+646,Rwanda,2010,Unemployment rate - Male,11.0
 646,Rwanda,2010,Labour force participation - Female,54.4
 646,Rwanda,2010,Unemployment rate - Female,12.5
 646,Rwanda,2015,Labour force participation - Total,60.6
@@ -4296,7 +4296,7 @@
 662,Saint Lucia,2010,Labour force participation - Total,66.8
 662,Saint Lucia,2010,Unemployment rate - Total,17.1
 662,Saint Lucia,2010,Labour force participation - Male,72.8
-662,Saint Lucia,2010,Unemployment rate - Male,16
+662,Saint Lucia,2010,Unemployment rate - Male,16.0
 662,Saint Lucia,2010,Labour force participation - Female,60.9
 662,Saint Lucia,2010,Unemployment rate - Female,18.4
 662,Saint Lucia,2015,Labour force participation - Total,69.7
@@ -4334,7 +4334,7 @@
 670,Saint Vincent & Grenadines,2024,Labour force participation - Male,75.2
 670,Saint Vincent & Grenadines,2024,Unemployment rate - Male,19.3
 670,Saint Vincent & Grenadines,2024,Labour force participation - Female,55.1
-670,Saint Vincent & Grenadines,2024,Unemployment rate - Female,16
+670,Saint Vincent & Grenadines,2024,Unemployment rate - Female,16.0
 882,Samoa,2005,Labour force participation - Total,54.4
 882,Samoa,2005,Unemployment rate - Total,5.2
 882,Samoa,2005,Labour force participation - Male,66.7
@@ -4344,7 +4344,7 @@
 882,Samoa,2010,Labour force participation - Total,54.3
 882,Samoa,2010,Unemployment rate - Total,5.6
 882,Samoa,2010,Labour force participation - Male,66.8
-882,Samoa,2010,Unemployment rate - Male,5
+882,Samoa,2010,Unemployment rate - Male,5.0
 882,Samoa,2010,Labour force participation - Female,41.2
 882,Samoa,2010,Unemployment rate - Female,6.6
 882,Samoa,2015,Labour force participation - Total,54.3
@@ -4373,7 +4373,7 @@
 678,Sao Tome and Principe,2005,Labour force participation - Male,72.3
 678,Sao Tome and Principe,2005,Unemployment rate - Male,11.4
 678,Sao Tome and Principe,2005,Labour force participation - Female,37.3
-678,Sao Tome and Principe,2005,Unemployment rate - Female,26
+678,Sao Tome and Principe,2005,Unemployment rate - Female,26.0
 678,Sao Tome and Principe,2010,Labour force participation - Total,54.4
 678,Sao Tome and Principe,2010,Unemployment rate - Total,14.7
 678,Sao Tome and Principe,2010,Labour force participation - Male,71.6
@@ -4391,16 +4391,16 @@
 678,Sao Tome and Principe,2024,Labour force participation - Male,70.4
 678,Sao Tome and Principe,2024,Unemployment rate - Male,9.9
 678,Sao Tome and Principe,2024,Labour force participation - Female,37.8
-678,Sao Tome and Principe,2024,Unemployment rate - Female,22
+678,Sao Tome and Principe,2024,Unemployment rate - Female,22.0
 682,Saudi Arabia,2005,Labour force participation - Total,53.1
 682,Saudi Arabia,2005,Unemployment rate - Total,6.1
-682,Saudi Arabia,2005,Labour force participation - Male,76
+682,Saudi Arabia,2005,Labour force participation - Male,76.0
 682,Saudi Arabia,2005,Unemployment rate - Male,4.7
 682,Saudi Arabia,2005,Labour force participation - Female,18.2
 682,Saudi Arabia,2005,Unemployment rate - Female,14.5
 682,Saudi Arabia,2010,Labour force participation - Total,53.2
 682,Saudi Arabia,2010,Unemployment rate - Total,5.6
-682,Saudi Arabia,2010,Labour force participation - Male,76
+682,Saudi Arabia,2010,Labour force participation - Male,76.0
 682,Saudi Arabia,2010,Unemployment rate - Male,3.5
 682,Saudi Arabia,2010,Labour force participation - Female,19.2
 682,Saudi Arabia,2010,Unemployment rate - Female,17.6
@@ -4416,13 +4416,13 @@
 682,Saudi Arabia,2024,Unemployment rate - Male,1.8
 682,Saudi Arabia,2024,Labour force participation - Female,34.2
 682,Saudi Arabia,2024,Unemployment rate - Female,14.8
-686,Senegal,2005,Labour force participation - Total,50
+686,Senegal,2005,Labour force participation - Total,50.0
 686,Senegal,2005,Unemployment rate - Total,8.7
 686,Senegal,2005,Labour force participation - Male,67.8
 686,Senegal,2005,Unemployment rate - Male,6.9
 686,Senegal,2005,Labour force participation - Female,33.5
 686,Senegal,2005,Unemployment rate - Female,11.9
-686,Senegal,2010,Labour force participation - Total,48
+686,Senegal,2010,Labour force participation - Total,48.0
 686,Senegal,2010,Unemployment rate - Total,10.2
 686,Senegal,2010,Labour force participation - Male,63.4
 686,Senegal,2010,Unemployment rate - Male,8.1
@@ -4468,7 +4468,7 @@
 690,Seychelles,2005,Unemployment rate - Total,5.5
 690,Seychelles,2005,Unemployment rate - Male,6.1
 690,Seychelles,2005,Unemployment rate - Female,4.9
-690,Seychelles,2011,Labour force participation - Total,65
+690,Seychelles,2011,Labour force participation - Total,65.0
 690,Seychelles,2011,Unemployment rate - Total,4.1
 690,Seychelles,2011,Labour force participation - Male,68.3
 690,Seychelles,2011,Unemployment rate - Male,3.8
@@ -4477,8 +4477,8 @@
 694,Sierra Leone,2005,Labour force participation - Total,65.2
 694,Sierra Leone,2005,Unemployment rate - Total,3.8
 694,Sierra Leone,2005,Labour force participation - Male,65.5
-694,Sierra Leone,2005,Unemployment rate - Male,5
-694,Sierra Leone,2005,Labour force participation - Female,65
+694,Sierra Leone,2005,Unemployment rate - Male,5.0
+694,Sierra Leone,2005,Labour force participation - Female,65.0
 694,Sierra Leone,2005,Unemployment rate - Female,2.6
 694,Sierra Leone,2010,Labour force participation - Total,60.7
 694,Sierra Leone,2010,Unemployment rate - Total,4.5
@@ -4500,7 +4500,7 @@
 694,Sierra Leone,2024,Unemployment rate - Female,2.1
 702,Singapore,2005,Labour force participation - Total,66.2
 702,Singapore,2005,Unemployment rate - Total,5.6
-702,Singapore,2005,Labour force participation - Male,78
+702,Singapore,2005,Labour force participation - Male,78.0
 702,Singapore,2005,Unemployment rate - Male,5.3
 702,Singapore,2005,Labour force participation - Female,54.2
 702,Singapore,2005,Unemployment rate - Female,6.1
@@ -4515,10 +4515,10 @@
 702,Singapore,2015,Labour force participation - Male,79.2
 702,Singapore,2015,Unemployment rate - Male,3.7
 702,Singapore,2015,Labour force participation - Female,62.3
-702,Singapore,2015,Unemployment rate - Female,4
+702,Singapore,2015,Unemployment rate - Female,4.0
 702,Singapore,2024,Labour force participation - Total,68.1
 702,Singapore,2024,Unemployment rate - Total,3.5
-702,Singapore,2024,Labour force participation - Male,75
+702,Singapore,2024,Labour force participation - Male,75.0
 702,Singapore,2024,Unemployment rate - Male,3.3
 702,Singapore,2024,Labour force participation - Female,60.5
 702,Singapore,2024,Unemployment rate - Female,3.7
@@ -4528,7 +4528,7 @@
 703,Slovakia,2005,Unemployment rate - Male,15.5
 703,Slovakia,2005,Labour force participation - Female,51.3
 703,Slovakia,2005,Unemployment rate - Female,17.3
-703,Slovakia,2010,Labour force participation - Total,59
+703,Slovakia,2010,Labour force participation - Total,59.0
 703,Slovakia,2010,Unemployment rate - Total,14.4
 703,Slovakia,2010,Labour force participation - Male,67.8
 703,Slovakia,2010,Unemployment rate - Male,14.2
@@ -4538,7 +4538,7 @@
 703,Slovakia,2015,Unemployment rate - Total,11.5
 703,Slovakia,2015,Labour force participation - Male,67.9
 703,Slovakia,2015,Unemployment rate - Male,10.3
-703,Slovakia,2015,Labour force participation - Female,52
+703,Slovakia,2015,Labour force participation - Female,52.0
 703,Slovakia,2015,Unemployment rate - Female,12.9
 703,Slovakia,2024,Labour force participation - Total,61.4
 703,Slovakia,2024,Unemployment rate - Total,5.7
@@ -4548,7 +4548,7 @@
 703,Slovakia,2024,Unemployment rate - Female,5.8
 705,Slovenia,2005,Labour force participation - Total,59.3
 705,Slovenia,2005,Unemployment rate - Total,6.6
-705,Slovenia,2005,Labour force participation - Male,66
+705,Slovenia,2005,Labour force participation - Male,66.0
 705,Slovenia,2005,Unemployment rate - Male,6.1
 705,Slovenia,2005,Labour force participation - Female,52.9
 705,Slovenia,2005,Unemployment rate - Female,7.1
@@ -4559,7 +4559,7 @@
 705,Slovenia,2010,Labour force participation - Female,53.3
 705,Slovenia,2010,Unemployment rate - Female,7.1
 705,Slovenia,2015,Labour force participation - Total,57.3
-705,Slovenia,2015,Unemployment rate - Total,9
+705,Slovenia,2015,Unemployment rate - Total,9.0
 705,Slovenia,2015,Labour force participation - Male,62.9
 705,Slovenia,2015,Unemployment rate - Male,8.1
 705,Slovenia,2015,Labour force participation - Female,51.9
@@ -4568,17 +4568,17 @@
 705,Slovenia,2024,Unemployment rate - Total,3.4
 705,Slovenia,2024,Labour force participation - Male,63.1
 705,Slovenia,2024,Unemployment rate - Male,3.2
-705,Slovenia,2024,Labour force participation - Female,54
+705,Slovenia,2024,Labour force participation - Female,54.0
 705,Slovenia,2024,Unemployment rate - Female,3.5
 90,Solomon Islands,2005,Labour force participation - Total,84.7
 90,Solomon Islands,2005,Unemployment rate - Total,1.9
 90,Solomon Islands,2005,Labour force participation - Male,86.3
 90,Solomon Islands,2005,Unemployment rate - Male,2.1
-90,Solomon Islands,2005,Labour force participation - Female,83
+90,Solomon Islands,2005,Labour force participation - Female,83.0
 90,Solomon Islands,2005,Unemployment rate - Female,1.7
 90,Solomon Islands,2010,Labour force participation - Total,84.2
 90,Solomon Islands,2010,Unemployment rate - Total,1.6
-90,Solomon Islands,2010,Labour force participation - Male,86
+90,Solomon Islands,2010,Labour force participation - Male,86.0
 90,Solomon Islands,2010,Unemployment rate - Male,1.8
 90,Solomon Islands,2010,Labour force participation - Female,82.5
 90,Solomon Islands,2010,Unemployment rate - Female,1.5
@@ -4609,7 +4609,7 @@
 706,Somalia,2015,Labour force participation - Total,34.3
 706,Somalia,2015,Unemployment rate - Total,18.4
 706,Somalia,2015,Labour force participation - Male,47.9
-706,Somalia,2015,Unemployment rate - Male,16
+706,Somalia,2015,Unemployment rate - Male,16.0
 706,Somalia,2015,Labour force participation - Female,20.9
 706,Somalia,2015,Unemployment rate - Female,23.9
 706,Somalia,2024,Labour force participation - Total,34.1
@@ -4618,7 +4618,7 @@
 706,Somalia,2024,Unemployment rate - Male,16.6
 706,Somalia,2024,Labour force participation - Female,21.2
 706,Somalia,2024,Unemployment rate - Female,24.8
-710,South Africa,2005,Labour force participation - Total,60
+710,South Africa,2005,Labour force participation - Total,60.0
 710,South Africa,2005,Unemployment rate - Total,19.6
 710,South Africa,2005,Labour force participation - Male,68.8
 710,South Africa,2005,Unemployment rate - Male,17.6
@@ -4628,13 +4628,13 @@
 710,South Africa,2010,Unemployment rate - Total,23.2
 710,South Africa,2010,Labour force participation - Male,62.2
 710,South Africa,2010,Unemployment rate - Male,21.7
-710,South Africa,2010,Labour force participation - Female,47
+710,South Africa,2010,Labour force participation - Female,47.0
 710,South Africa,2010,Unemployment rate - Female,24.9
 710,South Africa,2015,Labour force participation - Total,57.7
 710,South Africa,2015,Unemployment rate - Total,22.9
-710,South Africa,2015,Labour force participation - Male,65
+710,South Africa,2015,Labour force participation - Male,65.0
 710,South Africa,2015,Unemployment rate - Male,21.2
-710,South Africa,2015,Labour force participation - Female,51
+710,South Africa,2015,Labour force participation - Female,51.0
 710,South Africa,2015,Unemployment rate - Female,24.8
 710,South Africa,2024,Labour force participation - Total,57.9
 710,South Africa,2024,Unemployment rate - Total,28.6
@@ -4671,7 +4671,7 @@
 724,Spain,2005,Labour force participation - Male,67.9
 724,Spain,2005,Unemployment rate - Male,7.1
 724,Spain,2005,Labour force participation - Female,46.1
-724,Spain,2005,Unemployment rate - Female,12
+724,Spain,2005,Unemployment rate - Female,12.0
 724,Spain,2010,Labour force participation - Total,59.3
 724,Spain,2010,Unemployment rate - Total,19.9
 724,Spain,2010,Labour force participation - Male,67.2
@@ -4686,7 +4686,7 @@
 724,Spain,2015,Unemployment rate - Female,23.6
 724,Spain,2024,Labour force participation - Total,57.5
 724,Spain,2024,Unemployment rate - Total,12.2
-724,Spain,2024,Labour force participation - Male,63
+724,Spain,2024,Labour force participation - Male,63.0
 724,Spain,2024,Unemployment rate - Male,10.6
 724,Spain,2024,Labour force participation - Female,52.3
 724,Spain,2024,Unemployment rate - Female,14.1
@@ -4700,12 +4700,12 @@
 144,Sri Lanka,2010,Unemployment rate - Total,4.8
 144,Sri Lanka,2010,Labour force participation - Male,74.2
 144,Sri Lanka,2010,Unemployment rate - Male,3.5
-144,Sri Lanka,2010,Labour force participation - Female,34
+144,Sri Lanka,2010,Labour force participation - Female,34.0
 144,Sri Lanka,2010,Unemployment rate - Female,7.5
 144,Sri Lanka,2015,Labour force participation - Total,53.7
 144,Sri Lanka,2015,Unemployment rate - Total,4.5
 144,Sri Lanka,2015,Labour force participation - Male,73.8
-144,Sri Lanka,2015,Unemployment rate - Male,3
+144,Sri Lanka,2015,Unemployment rate - Male,3.0
 144,Sri Lanka,2015,Labour force participation - Female,35.4
 144,Sri Lanka,2015,Unemployment rate - Female,7.4
 144,Sri Lanka,2024,Labour force participation - Total,50.7
@@ -4715,29 +4715,29 @@
 144,Sri Lanka,2024,Labour force participation - Female,32.1
 144,Sri Lanka,2024,Unemployment rate - Female,10.2
 275,State of Palestine,2005,Labour force participation - Total,38.6
-275,State of Palestine,2005,Unemployment rate - Total,20
+275,State of Palestine,2005,Unemployment rate - Total,20.0
 275,State of Palestine,2005,Labour force participation - Male,65.1
 275,State of Palestine,2005,Unemployment rate - Male,20.7
 275,State of Palestine,2005,Labour force participation - Female,12.8
 275,State of Palestine,2005,Unemployment rate - Female,16.7
-275,State of Palestine,2010,Labour force participation - Total,40
+275,State of Palestine,2010,Labour force participation - Total,40.0
 275,State of Palestine,2010,Unemployment rate - Total,21.4
 275,State of Palestine,2010,Labour force participation - Male,66.7
 275,State of Palestine,2010,Unemployment rate - Male,21.4
 275,State of Palestine,2010,Labour force participation - Female,14.1
 275,State of Palestine,2010,Unemployment rate - Female,21.6
-275,State of Palestine,2015,Labour force participation - Total,44
-275,State of Palestine,2015,Unemployment rate - Total,23
+275,State of Palestine,2015,Labour force participation - Total,44.0
+275,State of Palestine,2015,Unemployment rate - Total,23.0
 275,State of Palestine,2015,Labour force participation - Male,70.8
 275,State of Palestine,2015,Unemployment rate - Male,20.1
-275,State of Palestine,2015,Labour force participation - Female,18
+275,State of Palestine,2015,Labour force participation - Female,18.0
 275,State of Palestine,2015,Unemployment rate - Female,34.1
-275,State of Palestine,2022,Labour force participation - Total,45
+275,State of Palestine,2022,Labour force participation - Total,45.0
 275,State of Palestine,2022,Unemployment rate - Total,24.4
 275,State of Palestine,2022,Labour force participation - Male,71.9
 275,State of Palestine,2022,Unemployment rate - Male,20.2
 275,State of Palestine,2022,Labour force participation - Female,18.9
-275,State of Palestine,2022,Unemployment rate - Female,40
+275,State of Palestine,2022,Unemployment rate - Female,40.0
 729,Sudan,2005,Labour force participation - Total,49.4
 729,Sudan,2005,Unemployment rate - Total,14.8
 729,Sudan,2005,Labour force participation - Male,70.5
@@ -4760,12 +4760,12 @@
 729,Sudan,2024,Unemployment rate - Total,20.8
 729,Sudan,2024,Labour force participation - Male,67.7
 729,Sudan,2024,Unemployment rate - Male,15.1
-729,Sudan,2024,Labour force participation - Female,28
+729,Sudan,2024,Labour force participation - Female,28.0
 729,Sudan,2024,Unemployment rate - Female,34.3
-740,Suriname,2005,Labour force participation - Total,50
+740,Suriname,2005,Labour force participation - Total,50.0
 740,Suriname,2005,Unemployment rate - Total,9.3
 740,Suriname,2005,Labour force participation - Male,62.8
-740,Suriname,2005,Unemployment rate - Male,6
+740,Suriname,2005,Unemployment rate - Male,6.0
 740,Suriname,2005,Labour force participation - Female,36.9
 740,Suriname,2005,Unemployment rate - Female,14.8
 740,Suriname,2010,Labour force participation - Total,52.8
@@ -4784,7 +4784,7 @@
 740,Suriname,2024,Unemployment rate - Total,7.7
 740,Suriname,2024,Labour force participation - Male,64.4
 740,Suriname,2024,Unemployment rate - Male,5.5
-740,Suriname,2024,Labour force participation - Female,45
+740,Suriname,2024,Labour force participation - Female,45.0
 740,Suriname,2024,Unemployment rate - Female,10.9
 752,Sweden,2005,Labour force participation - Total,62.9
 752,Sweden,2005,Unemployment rate - Total,7.5
@@ -4800,27 +4800,27 @@
 752,Sweden,2010,Unemployment rate - Female,8.5
 752,Sweden,2015,Labour force participation - Total,64.6
 752,Sweden,2015,Unemployment rate - Total,7.4
-752,Sweden,2015,Labour force participation - Male,68
+752,Sweden,2015,Labour force participation - Male,68.0
 752,Sweden,2015,Unemployment rate - Male,7.6
 752,Sweden,2015,Labour force participation - Female,61.2
 752,Sweden,2015,Unemployment rate - Female,7.3
-752,Sweden,2024,Labour force participation - Total,67
+752,Sweden,2024,Labour force participation - Total,67.0
 752,Sweden,2024,Unemployment rate - Total,8.7
 752,Sweden,2024,Labour force participation - Male,70.6
 752,Sweden,2024,Unemployment rate - Male,8.8
 752,Sweden,2024,Labour force participation - Female,63.4
 752,Sweden,2024,Unemployment rate - Female,8.7
-756,Switzerland,2005,Labour force participation - Total,67
+756,Switzerland,2005,Labour force participation - Total,67.0
 756,Switzerland,2005,Unemployment rate - Total,4.4
 756,Switzerland,2005,Labour force participation - Male,75.1
 756,Switzerland,2005,Unemployment rate - Male,3.9
 756,Switzerland,2005,Labour force participation - Female,59.3
 756,Switzerland,2005,Unemployment rate - Female,5.1
-756,Switzerland,2010,Labour force participation - Total,67
+756,Switzerland,2010,Labour force participation - Total,67.0
 756,Switzerland,2010,Unemployment rate - Total,4.8
 756,Switzerland,2010,Labour force participation - Male,74.3
 756,Switzerland,2010,Unemployment rate - Male,4.5
-756,Switzerland,2010,Labour force participation - Female,60
+756,Switzerland,2010,Labour force participation - Female,60.0
 756,Switzerland,2010,Unemployment rate - Female,5.2
 756,Switzerland,2015,Labour force participation - Total,68.2
 756,Switzerland,2015,Unemployment rate - Total,4.8
@@ -4844,11 +4844,11 @@
 760,Syrian Arab Republic,2010,Unemployment rate - Total,8.6
 760,Syrian Arab Republic,2010,Labour force participation - Male,72.3
 760,Syrian Arab Republic,2010,Unemployment rate - Male,6.2
-760,Syrian Arab Republic,2010,Labour force participation - Female,13
-760,Syrian Arab Republic,2010,Unemployment rate - Female,22
+760,Syrian Arab Republic,2010,Labour force participation - Female,13.0
+760,Syrian Arab Republic,2010,Unemployment rate - Female,22.0
 760,Syrian Arab Republic,2015,Labour force participation - Total,38.1
 760,Syrian Arab Republic,2015,Unemployment rate - Total,14.2
-760,Syrian Arab Republic,2015,Labour force participation - Male,63
+760,Syrian Arab Republic,2015,Labour force participation - Male,63.0
 760,Syrian Arab Republic,2015,Unemployment rate - Male,11.7
 760,Syrian Arab Republic,2015,Labour force participation - Female,13.5
 760,Syrian Arab Republic,2015,Unemployment rate - Female,26.2
@@ -4857,9 +4857,9 @@
 760,Syrian Arab Republic,2024,Labour force participation - Male,63.6
 760,Syrian Arab Republic,2024,Unemployment rate - Male,10.6
 760,Syrian Arab Republic,2024,Labour force participation - Female,14.1
-760,Syrian Arab Republic,2024,Unemployment rate - Female,25
+760,Syrian Arab Republic,2024,Unemployment rate - Female,25.0
 762,Tajikistan,2005,Labour force participation - Total,44.3
-762,Tajikistan,2005,Unemployment rate - Total,13
+762,Tajikistan,2005,Unemployment rate - Total,13.0
 762,Tajikistan,2005,Labour force participation - Male,58.7
 762,Tajikistan,2005,Unemployment rate - Male,13.7
 762,Tajikistan,2005,Labour force participation - Female,30.5
@@ -4877,7 +4877,7 @@
 762,Tajikistan,2015,Labour force participation - Female,31.9
 762,Tajikistan,2015,Unemployment rate - Female,6.1
 762,Tajikistan,2024,Labour force participation - Total,41.2
-762,Tajikistan,2024,Unemployment rate - Total,7
+762,Tajikistan,2024,Unemployment rate - Total,7.0
 762,Tajikistan,2024,Labour force participation - Male,51.1
 762,Tajikistan,2024,Unemployment rate - Male,7.9
 762,Tajikistan,2024,Labour force participation - Female,31.5
@@ -4890,7 +4890,7 @@
 764,Thailand,2005,Unemployment rate - Female,1.2
 764,Thailand,2010,Labour force participation - Total,71.6
 764,Thailand,2010,Unemployment rate - Total,0.6
-764,Thailand,2010,Labour force participation - Male,80
+764,Thailand,2010,Labour force participation - Male,80.0
 764,Thailand,2010,Unemployment rate - Male,0.6
 764,Thailand,2010,Labour force participation - Female,63.7
 764,Thailand,2010,Unemployment rate - Female,0.6
@@ -4902,7 +4902,7 @@
 764,Thailand,2015,Unemployment rate - Female,0.6
 764,Thailand,2024,Labour force participation - Total,66.5
 764,Thailand,2024,Unemployment rate - Total,0.8
-764,Thailand,2024,Labour force participation - Male,75
+764,Thailand,2024,Labour force participation - Male,75.0
 764,Thailand,2024,Unemployment rate - Male,0.7
 764,Thailand,2024,Labour force participation - Female,58.6
 764,Thailand,2024,Unemployment rate - Female,0.9
@@ -4914,10 +4914,10 @@
 626,Timor-Leste,2005,Unemployment rate - Female,4.2
 626,Timor-Leste,2010,Labour force participation - Total,67.7
 626,Timor-Leste,2010,Unemployment rate - Total,3.3
-626,Timor-Leste,2010,Labour force participation - Male,73
+626,Timor-Leste,2010,Labour force participation - Male,73.0
 626,Timor-Leste,2010,Unemployment rate - Male,2.7
 626,Timor-Leste,2010,Labour force participation - Female,62.1
-626,Timor-Leste,2010,Unemployment rate - Female,4
+626,Timor-Leste,2010,Unemployment rate - Female,4.0
 626,Timor-Leste,2015,Labour force participation - Total,67.1
 626,Timor-Leste,2015,Unemployment rate - Total,4.5
 626,Timor-Leste,2015,Labour force participation - Male,72.7
@@ -4967,7 +4967,7 @@
 776,Tonga,2010,Labour force participation - Female,43.3
 776,Tonga,2010,Unemployment rate - Female,2.1
 776,Tonga,2015,Labour force participation - Total,54.5
-776,Tonga,2015,Unemployment rate - Total,2
+776,Tonga,2015,Unemployment rate - Total,2.0
 776,Tonga,2015,Labour force participation - Male,66.8
 776,Tonga,2015,Unemployment rate - Male,1.5
 776,Tonga,2015,Labour force participation - Female,42.8
@@ -4977,20 +4977,20 @@
 776,Tonga,2024,Labour force participation - Male,66.2
 776,Tonga,2024,Unemployment rate - Male,1.8
 776,Tonga,2024,Labour force participation - Female,42.9
-776,Tonga,2024,Unemployment rate - Female,3
+776,Tonga,2024,Unemployment rate - Female,3.0
 780,Trinidad and Tobago,2005,Labour force participation - Total,63.7
-780,Trinidad and Tobago,2005,Unemployment rate - Total,8
+780,Trinidad and Tobago,2005,Unemployment rate - Total,8.0
 780,Trinidad and Tobago,2005,Labour force participation - Male,75.4
 780,Trinidad and Tobago,2005,Unemployment rate - Male,5.8
 780,Trinidad and Tobago,2005,Labour force participation - Female,52.5
 780,Trinidad and Tobago,2005,Unemployment rate - Female,10.9
 780,Trinidad and Tobago,2010,Labour force participation - Total,60.9
-780,Trinidad and Tobago,2010,Unemployment rate - Total,4
+780,Trinidad and Tobago,2010,Unemployment rate - Total,4.0
 780,Trinidad and Tobago,2010,Labour force participation - Male,72.4
 780,Trinidad and Tobago,2010,Unemployment rate - Male,3.6
 780,Trinidad and Tobago,2010,Labour force participation - Female,49.8
 780,Trinidad and Tobago,2010,Unemployment rate - Female,4.7
-780,Trinidad and Tobago,2015,Labour force participation - Total,60
+780,Trinidad and Tobago,2015,Labour force participation - Total,60.0
 780,Trinidad and Tobago,2015,Unemployment rate - Total,2.4
 780,Trinidad and Tobago,2015,Labour force participation - Male,70.9
 780,Trinidad and Tobago,2015,Unemployment rate - Male,2.1
@@ -5000,11 +5000,11 @@
 780,Trinidad and Tobago,2024,Unemployment rate - Total,3.3
 780,Trinidad and Tobago,2024,Labour force participation - Male,63.8
 780,Trinidad and Tobago,2024,Unemployment rate - Male,2.8
-780,Trinidad and Tobago,2024,Labour force participation - Female,46
+780,Trinidad and Tobago,2024,Labour force participation - Female,46.0
 780,Trinidad and Tobago,2024,Unemployment rate - Female,4.1
 788,Tunisia,2005,Labour force participation - Total,45.5
 788,Tunisia,2005,Unemployment rate - Total,12.9
-788,Tunisia,2005,Labour force participation - Male,68
+788,Tunisia,2005,Labour force participation - Male,68.0
 788,Tunisia,2005,Unemployment rate - Male,12.1
 788,Tunisia,2005,Labour force participation - Female,23.7
 788,Tunisia,2005,Unemployment rate - Female,15.2
@@ -5057,25 +5057,25 @@
 795,Turkmenistan,2005,Labour force participation - Female,52.7
 795,Turkmenistan,2005,Unemployment rate - Female,4.3
 795,Turkmenistan,2010,Labour force participation - Total,49.8
-795,Turkmenistan,2010,Unemployment rate - Total,4
+795,Turkmenistan,2010,Unemployment rate - Total,4.0
 795,Turkmenistan,2010,Labour force participation - Male,48.9
 795,Turkmenistan,2010,Unemployment rate - Male,5.7
 795,Turkmenistan,2010,Labour force participation - Female,50.6
 795,Turkmenistan,2010,Unemployment rate - Female,2.5
 795,Turkmenistan,2015,Labour force participation - Total,48.2
-795,Turkmenistan,2015,Unemployment rate - Total,4
-795,Turkmenistan,2015,Labour force participation - Male,47
+795,Turkmenistan,2015,Unemployment rate - Total,4.0
+795,Turkmenistan,2015,Labour force participation - Male,47.0
 795,Turkmenistan,2015,Unemployment rate - Male,5.7
 795,Turkmenistan,2015,Labour force participation - Female,49.3
 795,Turkmenistan,2015,Unemployment rate - Female,2.5
 795,Turkmenistan,2024,Labour force participation - Total,47.9
 795,Turkmenistan,2024,Unemployment rate - Total,4.2
 795,Turkmenistan,2024,Labour force participation - Male,46.6
-795,Turkmenistan,2024,Unemployment rate - Male,6
+795,Turkmenistan,2024,Unemployment rate - Male,6.0
 795,Turkmenistan,2024,Labour force participation - Female,49.2
 795,Turkmenistan,2024,Unemployment rate - Female,2.6
-796,Turks and Caicos Islands,2005,Labour force participation - Total,62
-796,Turks and Caicos Islands,2008,Labour force participation - Total,64
+796,Turks and Caicos Islands,2005,Labour force participation - Total,62.0
+796,Turks and Caicos Islands,2008,Labour force participation - Total,64.0
 796,Turks and Caicos Islands,2008,Unemployment rate - Total,8.3
 800,Uganda,2005,Labour force participation - Total,69.9
 800,Uganda,2005,Unemployment rate - Total,1.9
@@ -5085,8 +5085,8 @@
 800,Uganda,2005,Unemployment rate - Female,2.1
 800,Uganda,2010,Labour force participation - Total,70.1
 800,Uganda,2010,Unemployment rate - Total,3.6
-800,Uganda,2010,Labour force participation - Male,75
-800,Uganda,2010,Unemployment rate - Male,3
+800,Uganda,2010,Labour force participation - Male,75.0
+800,Uganda,2010,Unemployment rate - Male,3.0
 800,Uganda,2010,Labour force participation - Female,65.4
 800,Uganda,2010,Unemployment rate - Female,4.3
 800,Uganda,2015,Labour force participation - Total,70.2
@@ -5101,7 +5101,7 @@
 800,Uganda,2024,Unemployment rate - Male,2.3
 800,Uganda,2024,Labour force participation - Female,67.6
 800,Uganda,2024,Unemployment rate - Female,3.4
-804,Ukraine,2005,Labour force participation - Total,56
+804,Ukraine,2005,Labour force participation - Total,56.0
 804,Ukraine,2005,Unemployment rate - Total,7.2
 804,Ukraine,2005,Labour force participation - Male,60.1
 804,Ukraine,2005,Unemployment rate - Male,7.5
@@ -5125,7 +5125,7 @@
 804,Ukraine,2021,Unemployment rate - Male,9.5
 804,Ukraine,2021,Labour force participation - Female,47.8
 804,Ukraine,2021,Unemployment rate - Female,10.1
-784,United Arab Emirates,2005,Labour force participation - Total,77
+784,United Arab Emirates,2005,Labour force participation - Total,77.0
 784,United Arab Emirates,2005,Unemployment rate - Total,3.1
 784,United Arab Emirates,2005,Labour force participation - Male,91.7
 784,United Arab Emirates,2005,Unemployment rate - Male,2.5
@@ -5133,7 +5133,7 @@
 784,United Arab Emirates,2005,Unemployment rate - Female,7.1
 784,United Arab Emirates,2010,Labour force participation - Total,77.7
 784,United Arab Emirates,2010,Unemployment rate - Total,2.8
-784,United Arab Emirates,2010,Labour force participation - Male,89
+784,United Arab Emirates,2010,Labour force participation - Male,89.0
 784,United Arab Emirates,2010,Unemployment rate - Male,2.2
 784,United Arab Emirates,2010,Labour force participation - Female,42.4
 784,United Arab Emirates,2010,Unemployment rate - Female,6.3
@@ -5157,7 +5157,7 @@
 826,United Kingdom,2005,Unemployment rate - Female,4.3
 826,United Kingdom,2010,Labour force participation - Total,62.4
 826,United Kingdom,2010,Unemployment rate - Total,7.8
-826,United Kingdom,2010,Labour force participation - Male,69
+826,United Kingdom,2010,Labour force participation - Male,69.0
 826,United Kingdom,2010,Unemployment rate - Male,8.6
 826,United Kingdom,2010,Labour force participation - Female,56.1
 826,United Kingdom,2010,Unemployment rate - Female,6.9
@@ -5173,14 +5173,14 @@
 826,United Kingdom,2024,Unemployment rate - Male,5.1
 826,United Kingdom,2024,Labour force participation - Female,58.2
 826,United Kingdom,2024,Unemployment rate - Female,4.7
-834,United Rep. of Tanzania,2005,Labour force participation - Total,88
+834,United Rep. of Tanzania,2005,Labour force participation - Total,88.0
 834,United Rep. of Tanzania,2005,Unemployment rate - Total,3.2
 834,United Rep. of Tanzania,2005,Labour force participation - Male,89.4
 834,United Rep. of Tanzania,2005,Unemployment rate - Male,2.2
 834,United Rep. of Tanzania,2005,Labour force participation - Female,86.6
 834,United Rep. of Tanzania,2005,Unemployment rate - Female,4.1
 834,United Rep. of Tanzania,2010,Labour force participation - Total,86.3
-834,United Rep. of Tanzania,2010,Unemployment rate - Total,3
+834,United Rep. of Tanzania,2010,Unemployment rate - Total,3.0
 834,United Rep. of Tanzania,2010,Labour force participation - Male,88.9
 834,United Rep. of Tanzania,2010,Unemployment rate - Male,2.5
 834,United Rep. of Tanzania,2010,Labour force participation - Female,83.9
@@ -5193,7 +5193,7 @@
 834,United Rep. of Tanzania,2015,Unemployment rate - Female,2.7
 834,United Rep. of Tanzania,2024,Labour force participation - Total,81.5
 834,United Rep. of Tanzania,2024,Unemployment rate - Total,2.5
-834,United Rep. of Tanzania,2024,Labour force participation - Male,86
+834,United Rep. of Tanzania,2024,Labour force participation - Male,86.0
 834,United Rep. of Tanzania,2024,Unemployment rate - Male,1.7
 834,United Rep. of Tanzania,2024,Labour force participation - Female,77.2
 834,United Rep. of Tanzania,2024,Unemployment rate - Female,3.4
@@ -5213,7 +5213,7 @@
 840,United States of America,2015,Unemployment rate - Total,5.3
 840,United States of America,2015,Labour force participation - Male,68.4
 840,United States of America,2015,Unemployment rate - Male,5.4
-840,United States of America,2015,Labour force participation - Female,56
+840,United States of America,2015,Labour force participation - Female,56.0
 840,United States of America,2015,Unemployment rate - Female,5.2
 840,United States of America,2024,Labour force participation - Total,61.1
 840,United States of America,2024,Unemployment rate - Total,3.9
@@ -5241,12 +5241,12 @@
 850,United States Virgin Islands,2015,Unemployment rate - Female,13.3
 850,United States Virgin Islands,2024,Labour force participation - Total,54.5
 850,United States Virgin Islands,2024,Unemployment rate - Total,11.8
-850,United States Virgin Islands,2024,Labour force participation - Male,66
+850,United States Virgin Islands,2024,Labour force participation - Male,66.0
 850,United States Virgin Islands,2024,Unemployment rate - Male,10.8
 850,United States Virgin Islands,2024,Labour force participation - Female,44.9
 850,United States Virgin Islands,2024,Unemployment rate - Female,12.9
 858,Uruguay,2005,Labour force participation - Total,59.5
-858,Uruguay,2005,Unemployment rate - Total,12
+858,Uruguay,2005,Unemployment rate - Total,12.0
 858,Uruguay,2005,Labour force participation - Male,70.2
 858,Uruguay,2005,Unemployment rate - Male,9.4
 858,Uruguay,2005,Labour force participation - Female,49.9
@@ -5281,13 +5281,13 @@
 860,Uzbekistan,2010,Unemployment rate - Male,4.7
 860,Uzbekistan,2010,Labour force participation - Female,42.7
 860,Uzbekistan,2010,Unemployment rate - Female,6.4
-860,Uzbekistan,2015,Labour force participation - Total,57
+860,Uzbekistan,2015,Labour force participation - Total,57.0
 860,Uzbekistan,2015,Unemployment rate - Total,5.2
 860,Uzbekistan,2015,Labour force participation - Male,73.4
 860,Uzbekistan,2015,Unemployment rate - Male,5.3
 860,Uzbekistan,2015,Labour force participation - Female,40.9
 860,Uzbekistan,2015,Unemployment rate - Female,4.9
-860,Uzbekistan,2024,Labour force participation - Total,56
+860,Uzbekistan,2024,Labour force participation - Total,56.0
 860,Uzbekistan,2024,Unemployment rate - Total,4.3
 860,Uzbekistan,2024,Labour force participation - Male,72.7
 860,Uzbekistan,2024,Unemployment rate - Male,3.2
@@ -5320,7 +5320,7 @@
 862,Venezuela (Boliv. Rep. of),2005,Labour force participation - Total,64.3
 862,Venezuela (Boliv. Rep. of),2005,Unemployment rate - Total,10.7
 862,Venezuela (Boliv. Rep. of),2005,Labour force participation - Male,79.5
-862,Venezuela (Boliv. Rep. of),2005,Unemployment rate - Male,10
+862,Venezuela (Boliv. Rep. of),2005,Unemployment rate - Male,10.0
 862,Venezuela (Boliv. Rep. of),2005,Labour force participation - Female,49.4
 862,Venezuela (Boliv. Rep. of),2005,Unemployment rate - Female,11.6
 862,Venezuela (Boliv. Rep. of),2010,Labour force participation - Total,63.9
@@ -5338,9 +5338,9 @@
 862,Venezuela (Boliv. Rep. of),2024,Labour force participation - Total,55.3
 862,Venezuela (Boliv. Rep. of),2024,Unemployment rate - Total,5.4
 862,Venezuela (Boliv. Rep. of),2024,Labour force participation - Male,71.2
-862,Venezuela (Boliv. Rep. of),2024,Unemployment rate - Male,5
+862,Venezuela (Boliv. Rep. of),2024,Unemployment rate - Male,5.0
 862,Venezuela (Boliv. Rep. of),2024,Labour force participation - Female,40.2
-862,Venezuela (Boliv. Rep. of),2024,Unemployment rate - Female,6
+862,Venezuela (Boliv. Rep. of),2024,Unemployment rate - Female,6.0
 704,Viet Nam,2005,Labour force participation - Total,72.4
 704,Viet Nam,2005,Unemployment rate - Total,2.1
 704,Viet Nam,2005,Labour force participation - Male,76.5
@@ -5356,14 +5356,14 @@
 704,Viet Nam,2015,Labour force participation - Total,77.2
 704,Viet Nam,2015,Unemployment rate - Total,1.9
 704,Viet Nam,2015,Labour force participation - Male,82.2
-704,Viet Nam,2015,Unemployment rate - Male,2
+704,Viet Nam,2015,Unemployment rate - Male,2.0
 704,Viet Nam,2015,Labour force participation - Female,72.5
 704,Viet Nam,2015,Unemployment rate - Female,1.7
 704,Viet Nam,2024,Labour force participation - Total,72.8
 704,Viet Nam,2024,Unemployment rate - Total,1.7
 704,Viet Nam,2024,Labour force participation - Male,77.9
 704,Viet Nam,2024,Unemployment rate - Male,1.8
-704,Viet Nam,2024,Labour force participation - Female,68
+704,Viet Nam,2024,Labour force participation - Female,68.0
 704,Viet Nam,2024,Unemployment rate - Female,1.5
 732,Western Sahara,2005,Labour force participation - Total,54.1
 732,Western Sahara,2005,Unemployment rate - Total,7.2
@@ -5376,7 +5376,7 @@
 732,Western Sahara,2010,Labour force participation - Male,78.5
 732,Western Sahara,2010,Unemployment rate - Male,5.4
 732,Western Sahara,2010,Labour force participation - Female,28.1
-732,Western Sahara,2010,Unemployment rate - Female,11
+732,Western Sahara,2010,Unemployment rate - Female,11.0
 732,Western Sahara,2015,Labour force participation - Total,57.6
 732,Western Sahara,2015,Unemployment rate - Total,7.6
 732,Western Sahara,2015,Labour force participation - Male,79.2
@@ -5387,7 +5387,7 @@
 732,Western Sahara,2024,Unemployment rate - Total,8.1
 732,Western Sahara,2024,Labour force participation - Male,79.5
 732,Western Sahara,2024,Unemployment rate - Male,6.3
-732,Western Sahara,2024,Labour force participation - Female,31
+732,Western Sahara,2024,Labour force participation - Female,31.0
 732,Western Sahara,2024,Unemployment rate - Female,14.2
 887,Yemen,2005,Labour force participation - Total,41.7
 887,Yemen,2005,Unemployment rate - Total,12.2
@@ -5399,11 +5399,11 @@
 887,Yemen,2010,Unemployment rate - Total,12.8
 887,Yemen,2010,Labour force participation - Male,68.6
 887,Yemen,2010,Unemployment rate - Male,11.7
-887,Yemen,2010,Labour force participation - Female,10
+887,Yemen,2010,Labour force participation - Female,10.0
 887,Yemen,2010,Unemployment rate - Female,20.2
 887,Yemen,2015,Labour force participation - Total,31.7
 887,Yemen,2015,Unemployment rate - Total,17.9
-887,Yemen,2015,Labour force participation - Male,58
+887,Yemen,2015,Labour force participation - Male,58.0
 887,Yemen,2015,Unemployment rate - Male,16.8
 887,Yemen,2015,Labour force participation - Female,5.2
 887,Yemen,2015,Unemployment rate - Female,29.8
@@ -5424,7 +5424,7 @@
 894,Zambia,2010,Labour force participation - Male,67.5
 894,Zambia,2010,Unemployment rate - Male,13.3
 894,Zambia,2010,Labour force participation - Female,51.6
-894,Zambia,2010,Unemployment rate - Female,13
+894,Zambia,2010,Unemployment rate - Female,13.0
 894,Zambia,2015,Labour force participation - Total,58.9
 894,Zambia,2015,Unemployment rate - Total,8.3
 894,Zambia,2015,Labour force participation - Male,66.4
@@ -5455,13 +5455,13 @@
 716,Zimbabwe,2015,Unemployment rate - Male,5.2
 716,Zimbabwe,2015,Labour force participation - Female,60.7
 716,Zimbabwe,2015,Unemployment rate - Female,5.7
-716,Zimbabwe,2024,Labour force participation - Total,66
-716,Zimbabwe,2024,Unemployment rate - Total,9
+716,Zimbabwe,2024,Labour force participation - Total,66.0
+716,Zimbabwe,2024,Unemployment rate - Total,9.0
 716,Zimbabwe,2024,Labour force participation - Male,72.5
 716,Zimbabwe,2024,Unemployment rate - Male,8.6
 716,Zimbabwe,2024,Labour force participation - Female,60.6
 716,Zimbabwe,2024,Unemployment rate - Female,9.4
-97,European Union (EU),2005,Labour force participation - Total,56
+97,European Union (EU),2005,Labour force participation - Total,56.0
 97,European Union (EU),2005,Unemployment rate - Total,9.6
 97,European Union (EU),2005,Labour force participation - Male,64.5
 97,European Union (EU),2005,Unemployment rate - Male,8.8
@@ -5472,15 +5472,15 @@
 97,European Union (EU),2010,Labour force participation - Male,64.2
 97,European Union (EU),2010,Unemployment rate - Male,9.7
 97,European Union (EU),2010,Labour force participation - Female,49.6
-97,European Union (EU),2010,Unemployment rate - Female,10
+97,European Union (EU),2010,Unemployment rate - Female,10.0
 97,European Union (EU),2015,Labour force participation - Total,56.8
-97,European Union (EU),2015,Unemployment rate - Total,10
+97,European Union (EU),2015,Unemployment rate - Total,10.0
 97,European Union (EU),2015,Labour force participation - Male,63.6
 97,European Union (EU),2015,Unemployment rate - Male,9.9
 97,European Union (EU),2015,Labour force participation - Female,50.5
 97,European Union (EU),2015,Unemployment rate - Female,10.2
 97,European Union (EU),2024,Labour force participation - Total,57.7
-97,European Union (EU),2024,Unemployment rate - Total,6
+97,European Union (EU),2024,Unemployment rate - Total,6.0
 97,European Union (EU),2024,Labour force participation - Male,63.9
 97,European Union (EU),2024,Unemployment rate - Male,5.7
 97,European Union (EU),2024,Labour force participation - Female,51.8

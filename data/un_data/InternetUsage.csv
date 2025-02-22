@@ -1,4 +1,4 @@
-﻿Region/Country/Area,,Year,Series,Value
+Region/Country/Area,Country/Region Name,Year,Series,Value
 1,"Total, all countries or areas",2000,Percentage of individuals using the internet,5.3
 1,"Total, all countries or areas",2005,Percentage of individuals using the internet,15.6
 1,"Total, all countries or areas",2010,Percentage of individuals using the internet,28.5
@@ -14,8 +14,8 @@
 15,Northern Africa,2021,Percentage of individuals using the internet,65.8
 15,Northern Africa,2022,Percentage of individuals using the internet,67.3
 202,Sub-Saharan Africa,2000,Percentage of individuals using the internet,0.9
-202,Sub-Saharan Africa,2005,Percentage of individuals using the internet,2
-202,Sub-Saharan Africa,2010,Percentage of individuals using the internet,6
+202,Sub-Saharan Africa,2005,Percentage of individuals using the internet,2.0
+202,Sub-Saharan Africa,2010,Percentage of individuals using the internet,6.0
 202,Sub-Saharan Africa,2015,Percentage of individuals using the internet,15.6
 202,Sub-Saharan Africa,2020,Percentage of individuals using the internet,28.8
 202,Sub-Saharan Africa,2021,Percentage of individuals using the internet,31.6
@@ -24,19 +24,19 @@
 14,Eastern Africa,2005,Percentage of individuals using the internet,1.2
 14,Eastern Africa,2010,Percentage of individuals using the internet,3.2
 14,Eastern Africa,2015,Percentage of individuals using the internet,10.5
-14,Eastern Africa,2020,Percentage of individuals using the internet,20
+14,Eastern Africa,2020,Percentage of individuals using the internet,20.0
 14,Eastern Africa,2021,Percentage of individuals using the internet,23.4
-14,Eastern Africa,2022,Percentage of individuals using the internet,26
+14,Eastern Africa,2022,Percentage of individuals using the internet,26.0
 17,Middle Africa,2000,Percentage of individuals using the internet,0.3
 17,Middle Africa,2005,Percentage of individuals using the internet,0.7
 17,Middle Africa,2010,Percentage of individuals using the internet,2.1
-17,Middle Africa,2015,Percentage of individuals using the internet,10
+17,Middle Africa,2015,Percentage of individuals using the internet,10.0
 17,Middle Africa,2020,Percentage of individuals using the internet,25.7
 17,Middle Africa,2021,Percentage of individuals using the internet,29.9
 17,Middle Africa,2022,Percentage of individuals using the internet,31.3
 18,Southern Africa,2000,Percentage of individuals using the internet,4.9
-18,Southern Africa,2005,Percentage of individuals using the internet,7
-18,Southern Africa,2010,Percentage of individuals using the internet,22
+18,Southern Africa,2005,Percentage of individuals using the internet,7.0
+18,Southern Africa,2010,Percentage of individuals using the internet,22.0
 18,Southern Africa,2015,Percentage of individuals using the internet,49.1
 18,Southern Africa,2020,Percentage of individuals using the internet,69.9
 18,Southern Africa,2021,Percentage of individuals using the internet,72.4
@@ -60,21 +60,21 @@
 419,Latin America & the Caribbean,2010,Percentage of individuals using the internet,34.7
 419,Latin America & the Caribbean,2015,Percentage of individuals using the internet,54.3
 419,Latin America & the Caribbean,2020,Percentage of individuals using the internet,74.1
-419,Latin America & the Caribbean,2021,Percentage of individuals using the internet,76
+419,Latin America & the Caribbean,2021,Percentage of individuals using the internet,76.0
 419,Latin America & the Caribbean,2022,Percentage of individuals using the internet,77.6
 29,Caribbean,2000,Percentage of individuals using the internet,3.5
-29,Caribbean,2005,Percentage of individuals using the internet,11
+29,Caribbean,2005,Percentage of individuals using the internet,11.0
 29,Caribbean,2010,Percentage of individuals using the internet,21.2
-29,Caribbean,2015,Percentage of individuals using the internet,38
+29,Caribbean,2015,Percentage of individuals using the internet,38.0
 29,Caribbean,2020,Percentage of individuals using the internet,68.2
 29,Caribbean,2021,Percentage of individuals using the internet,70.3
 29,Caribbean,2022,Percentage of individuals using the internet,71.9
-143,Central Asia,2000,Percentage of individuals using the internet,1
+143,Central Asia,2000,Percentage of individuals using the internet,1.0
 143,Central Asia,2005,Percentage of individuals using the internet,3.3
 143,Central Asia,2010,Percentage of individuals using the internet,18.4
 143,Central Asia,2015,Percentage of individuals using the internet,43.7
 143,Central Asia,2020,Percentage of individuals using the internet,67.7
-143,Central Asia,2021,Percentage of individuals using the internet,73
+143,Central Asia,2021,Percentage of individuals using the internet,73.0
 143,Central Asia,2022,Percentage of individuals using the internet,77.5
 30,Eastern Asia,2000,Percentage of individuals using the internet,5.7
 30,Eastern Asia,2005,Percentage of individuals using the internet,16.2
@@ -88,13 +88,13 @@
 62,South-central Asia,2010,Percentage of individuals using the internet,7.9
 62,South-central Asia,2015,Percentage of individuals using the internet,16.5
 62,South-central Asia,2020,Percentage of individuals using the internet,41.6
-62,South-central Asia,2021,Percentage of individuals using the internet,45
+62,South-central Asia,2021,Percentage of individuals using the internet,45.0
 62,South-central Asia,2022,Percentage of individuals using the internet,47.8
 35,South-eastern Asia,2000,Percentage of individuals using the internet,2.6
 35,South-eastern Asia,2005,Percentage of individuals using the internet,8.7
 35,South-eastern Asia,2010,Percentage of individuals using the internet,18.9
 35,South-eastern Asia,2015,Percentage of individuals using the internet,31.6
-35,South-eastern Asia,2020,Percentage of individuals using the internet,62
+35,South-eastern Asia,2020,Percentage of individuals using the internet,62.0
 35,South-eastern Asia,2021,Percentage of individuals using the internet,68.9
 35,South-eastern Asia,2022,Percentage of individuals using the internet,73.4
 34,Southern Asia,2000,Percentage of individuals using the internet,0.6
@@ -102,48 +102,48 @@
 34,Southern Asia,2010,Percentage of individuals using the internet,7.5
 34,Southern Asia,2015,Percentage of individuals using the internet,15.5
 34,Southern Asia,2020,Percentage of individuals using the internet,40.6
-34,Southern Asia,2021,Percentage of individuals using the internet,44
+34,Southern Asia,2021,Percentage of individuals using the internet,44.0
 34,Southern Asia,2022,Percentage of individuals using the internet,46.6
 145,Western Asia,2000,Percentage of individuals using the internet,3.5
-145,Western Asia,2005,Percentage of individuals using the internet,11
+145,Western Asia,2005,Percentage of individuals using the internet,11.0
 145,Western Asia,2010,Percentage of individuals using the internet,32.4
-145,Western Asia,2015,Percentage of individuals using the internet,50
+145,Western Asia,2015,Percentage of individuals using the internet,50.0
 145,Western Asia,2020,Percentage of individuals using the internet,69.4
-145,Western Asia,2021,Percentage of individuals using the internet,73
+145,Western Asia,2021,Percentage of individuals using the internet,73.0
 145,Western Asia,2022,Percentage of individuals using the internet,76.3
 150,Europe,2005,Percentage of individuals using the internet,39.7
 150,Europe,2010,Percentage of individuals using the internet,62.5
 150,Europe,2015,Percentage of individuals using the internet,74.1
 150,Europe,2020,Percentage of individuals using the internet,85.6
-150,Europe,2021,Percentage of individuals using the internet,88
+150,Europe,2021,Percentage of individuals using the internet,88.0
 150,Europe,2022,Percentage of individuals using the internet,89.5
 9,Oceania,2000,Percentage of individuals using the internet,33.6
 9,Oceania,2005,Percentage of individuals using the internet,47.1
 9,Oceania,2010,Percentage of individuals using the internet,56.9
 9,Oceania,2015,Percentage of individuals using the internet,64.3
-9,Oceania,2020,Percentage of individuals using the internet,77
+9,Oceania,2020,Percentage of individuals using the internet,77.0
 9,Oceania,2021,Percentage of individuals using the internet,77.6
 9,Oceania,2022,Percentage of individuals using the internet,77.7
 53,Australia and New Zealand,2000,Percentage of individuals using the internet,46.8
-53,Australia and New Zealand,2005,Percentage of individuals using the internet,63
+53,Australia and New Zealand,2005,Percentage of individuals using the internet,63.0
 53,Australia and New Zealand,2010,Percentage of individuals using the internet,76.7
 53,Australia and New Zealand,2015,Percentage of individuals using the internet,84.7
 53,Australia and New Zealand,2020,Percentage of individuals using the internet,94.8
 53,Australia and New Zealand,2021,Percentage of individuals using the internet,95.1
-53,Australia and New Zealand,2022,Percentage of individuals using the internet,95
+53,Australia and New Zealand,2022,Percentage of individuals using the internet,95.0
 57,Micronesia,2000,Percentage of individuals using the internet,3.7
 57,Micronesia,2005,Percentage of individuals using the internet,11.9
-57,Micronesia,2010,Percentage of individuals using the internet,20
+57,Micronesia,2010,Percentage of individuals using the internet,20.0
 57,Micronesia,2015,Percentage of individuals using the internet,31.5
 57,Micronesia,2020,Percentage of individuals using the internet,39.4
-57,Micronesia,2021,Percentage of individuals using the internet,40
+57,Micronesia,2021,Percentage of individuals using the internet,40.0
 57,Micronesia,2022,Percentage of individuals using the internet,40.5
 4,Afghanistan,2005,Percentage of individuals using the internet,1.2
-4,Afghanistan,2010,Percentage of individuals using the internet,4
+4,Afghanistan,2010,Percentage of individuals using the internet,4.0
 4,Afghanistan,2015,Percentage of individuals using the internet,8.3
 8,Albania,2000,Percentage of individuals using the internet,0.1
-8,Albania,2005,Percentage of individuals using the internet,6
-8,Albania,2010,Percentage of individuals using the internet,45
+8,Albania,2005,Percentage of individuals using the internet,6.0
+8,Albania,2010,Percentage of individuals using the internet,45.0
 8,Albania,2015,Percentage of individuals using the internet,56.9
 8,Albania,2020,Percentage of individuals using the internet,72.2
 8,Albania,2021,Percentage of individuals using the internet,79.3
@@ -157,7 +157,7 @@
 12,Algeria,2022,Percentage of individuals using the internet,71.2
 20,Andorra,2000,Percentage of individuals using the internet,10.5
 20,Andorra,2005,Percentage of individuals using the internet,37.6
-20,Andorra,2010,Percentage of individuals using the internet,81
+20,Andorra,2010,Percentage of individuals using the internet,81.0
 20,Andorra,2015,Percentage of individuals using the internet,87.9
 20,Andorra,2020,Percentage of individuals using the internet,93.2
 20,Andorra,2021,Percentage of individuals using the internet,93.9
@@ -165,74 +165,74 @@
 24,Angola,2000,Percentage of individuals using the internet,0.1
 24,Angola,2005,Percentage of individuals using the internet,1.1
 24,Angola,2010,Percentage of individuals using the internet,2.8
-24,Angola,2015,Percentage of individuals using the internet,22
+24,Angola,2015,Percentage of individuals using the internet,22.0
 24,Angola,2020,Percentage of individuals using the internet,36.6
 24,Angola,2021,Percentage of individuals using the internet,37.8
 24,Angola,2022,Percentage of individuals using the internet,39.3
 660,Anguilla,2000,Percentage of individuals using the internet,22.4
-660,Anguilla,2005,Percentage of individuals using the internet,29
+660,Anguilla,2005,Percentage of individuals using the internet,29.0
 660,Anguilla,2010,Percentage of individuals using the internet,49.6
-660,Anguilla,2015,Percentage of individuals using the internet,76
+660,Anguilla,2015,Percentage of individuals using the internet,76.0
 28,Antigua and Barbuda,2000,Percentage of individuals using the internet,6.5
-28,Antigua and Barbuda,2005,Percentage of individuals using the internet,27
-28,Antigua and Barbuda,2010,Percentage of individuals using the internet,47
-28,Antigua and Barbuda,2015,Percentage of individuals using the internet,70
+28,Antigua and Barbuda,2005,Percentage of individuals using the internet,27.0
+28,Antigua and Barbuda,2010,Percentage of individuals using the internet,47.0
+28,Antigua and Barbuda,2015,Percentage of individuals using the internet,70.0
 28,Antigua and Barbuda,2020,Percentage of individuals using the internet,86.9
 28,Antigua and Barbuda,2021,Percentage of individuals using the internet,87.1
 28,Antigua and Barbuda,2022,Percentage of individuals using the internet,91.4
-32,Argentina,2000,Percentage of individuals using the internet,7
+32,Argentina,2000,Percentage of individuals using the internet,7.0
 32,Argentina,2005,Percentage of individuals using the internet,17.7
-32,Argentina,2010,Percentage of individuals using the internet,45
-32,Argentina,2015,Percentage of individuals using the internet,68
+32,Argentina,2010,Percentage of individuals using the internet,45.0
+32,Argentina,2015,Percentage of individuals using the internet,68.0
 32,Argentina,2020,Percentage of individuals using the internet,85.5
 32,Argentina,2021,Percentage of individuals using the internet,87.2
 32,Argentina,2022,Percentage of individuals using the internet,88.4
 51,Armenia,2000,Percentage of individuals using the internet,1.3
 51,Armenia,2005,Percentage of individuals using the internet,5.3
-51,Armenia,2010,Percentage of individuals using the internet,25
+51,Armenia,2010,Percentage of individuals using the internet,25.0
 51,Armenia,2015,Percentage of individuals using the internet,59.1
 51,Armenia,2020,Percentage of individuals using the internet,76.5
 51,Armenia,2021,Percentage of individuals using the internet,78.6
-51,Armenia,2022,Percentage of individuals using the internet,77
+51,Armenia,2022,Percentage of individuals using the internet,77.0
 533,Aruba,2000,Percentage of individuals using the internet,15.4
 533,Aruba,2005,Percentage of individuals using the internet,25.4
-533,Aruba,2010,Percentage of individuals using the internet,62
+533,Aruba,2010,Percentage of individuals using the internet,62.0
 533,Aruba,2015,Percentage of individuals using the internet,88.7
 36,Australia,2000,Percentage of individuals using the internet,46.8
-36,Australia,2005,Percentage of individuals using the internet,63
-36,Australia,2010,Percentage of individuals using the internet,76
+36,Australia,2005,Percentage of individuals using the internet,63.0
+36,Australia,2010,Percentage of individuals using the internet,76.0
 36,Australia,2015,Percentage of individuals using the internet,84.6
 36,Australia,2020,Percentage of individuals using the internet,94.7
-36,Australia,2021,Percentage of individuals using the internet,95
+36,Australia,2021,Percentage of individuals using the internet,95.0
 36,Australia,2022,Percentage of individuals using the internet,94.9
 40,Austria,2000,Percentage of individuals using the internet,33.7
-40,Austria,2005,Percentage of individuals using the internet,58
+40,Austria,2005,Percentage of individuals using the internet,58.0
 40,Austria,2010,Percentage of individuals using the internet,75.2
 40,Austria,2015,Percentage of individuals using the internet,83.9
 40,Austria,2020,Percentage of individuals using the internet,87.5
 40,Austria,2021,Percentage of individuals using the internet,92.5
 40,Austria,2022,Percentage of individuals using the internet,93.6
 31,Azerbaijan,2000,Percentage of individuals using the internet,0.1
-31,Azerbaijan,2005,Percentage of individuals using the internet,8
-31,Azerbaijan,2010,Percentage of individuals using the internet,46
-31,Azerbaijan,2015,Percentage of individuals using the internet,77
+31,Azerbaijan,2005,Percentage of individuals using the internet,8.0
+31,Azerbaijan,2010,Percentage of individuals using the internet,46.0
+31,Azerbaijan,2015,Percentage of individuals using the internet,77.0
 31,Azerbaijan,2020,Percentage of individuals using the internet,84.6
-31,Azerbaijan,2021,Percentage of individuals using the internet,86
+31,Azerbaijan,2021,Percentage of individuals using the internet,86.0
 31,Azerbaijan,2022,Percentage of individuals using the internet,88.2
-44,Bahamas,2000,Percentage of individuals using the internet,8
-44,Bahamas,2005,Percentage of individuals using the internet,25
-44,Bahamas,2010,Percentage of individuals using the internet,43
-44,Bahamas,2015,Percentage of individuals using the internet,78
+44,Bahamas,2000,Percentage of individuals using the internet,8.0
+44,Bahamas,2005,Percentage of individuals using the internet,25.0
+44,Bahamas,2010,Percentage of individuals using the internet,43.0
+44,Bahamas,2015,Percentage of individuals using the internet,78.0
 44,Bahamas,2020,Percentage of individuals using the internet,92.4
 44,Bahamas,2021,Percentage of individuals using the internet,93.8
 44,Bahamas,2022,Percentage of individuals using the internet,94.4
 48,Bahrain,2000,Percentage of individuals using the internet,6.2
 48,Bahrain,2005,Percentage of individuals using the internet,21.3
-48,Bahrain,2010,Percentage of individuals using the internet,55
+48,Bahrain,2010,Percentage of individuals using the internet,55.0
 48,Bahrain,2015,Percentage of individuals using the internet,93.5
 48,Bahrain,2020,Percentage of individuals using the internet,99.7
-48,Bahrain,2021,Percentage of individuals using the internet,100
-48,Bahrain,2022,Percentage of individuals using the internet,100
+48,Bahrain,2021,Percentage of individuals using the internet,100.0
+48,Bahrain,2022,Percentage of individuals using the internet,100.0
 50,Bangladesh,2000,Percentage of individuals using the internet,0.1
 50,Bangladesh,2005,Percentage of individuals using the internet,0.2
 50,Bangladesh,2010,Percentage of individuals using the internet,3.7
@@ -240,10 +240,10 @@
 50,Bangladesh,2020,Percentage of individuals using the internet,36.1
 50,Bangladesh,2021,Percentage of individuals using the internet,38.9
 50,Bangladesh,2022,Percentage of individuals using the internet,41.6
-52,Barbados,2000,Percentage of individuals using the internet,4
+52,Barbados,2000,Percentage of individuals using the internet,4.0
 52,Barbados,2005,Percentage of individuals using the internet,52.5
 52,Barbados,2010,Percentage of individuals using the internet,65.1
-52,Barbados,2015,Percentage of individuals using the internet,72
+52,Barbados,2015,Percentage of individuals using the internet,72.0
 52,Barbados,2020,Percentage of individuals using the internet,72.7
 52,Barbados,2021,Percentage of individuals using the internet,74.9
 52,Barbados,2022,Percentage of individuals using the internet,76.2
@@ -259,13 +259,13 @@
 56,Belgium,2015,Percentage of individuals using the internet,85.1
 56,Belgium,2020,Percentage of individuals using the internet,91.5
 56,Belgium,2021,Percentage of individuals using the internet,92.8
-56,Belgium,2022,Percentage of individuals using the internet,94
-84,Belize,2000,Percentage of individuals using the internet,6
-84,Belize,2005,Percentage of individuals using the internet,17
+56,Belgium,2022,Percentage of individuals using the internet,94.0
+84,Belize,2000,Percentage of individuals using the internet,6.0
+84,Belize,2005,Percentage of individuals using the internet,17.0
 84,Belize,2010,Percentage of individuals using the internet,28.2
 84,Belize,2015,Percentage of individuals using the internet,41.6
 84,Belize,2020,Percentage of individuals using the internet,57.1
-84,Belize,2021,Percentage of individuals using the internet,65
+84,Belize,2021,Percentage of individuals using the internet,65.0
 84,Belize,2022,Percentage of individuals using the internet,70.4
 204,Benin,2000,Percentage of individuals using the internet,0.2
 204,Benin,2005,Percentage of individuals using the internet,1.3
@@ -290,7 +290,7 @@
 68,Bolivia (Plurin. State of),2010,Percentage of individuals using the internet,22.4
 68,Bolivia (Plurin. State of),2015,Percentage of individuals using the internet,37.5
 68,Bolivia (Plurin. State of),2020,Percentage of individuals using the internet,59.9
-68,Bolivia (Plurin. State of),2021,Percentage of individuals using the internet,66
+68,Bolivia (Plurin. State of),2021,Percentage of individuals using the internet,66.0
 68,Bolivia (Plurin. State of),2022,Percentage of individuals using the internet,73.3
 70,Bosnia and Herzegovina,2000,Percentage of individuals using the internet,1.1
 70,Bosnia and Herzegovina,2005,Percentage of individuals using the internet,21.3
@@ -301,28 +301,28 @@
 70,Bosnia and Herzegovina,2022,Percentage of individuals using the internet,78.8
 72,Botswana,2000,Percentage of individuals using the internet,2.9
 72,Botswana,2005,Percentage of individuals using the internet,3.3
-72,Botswana,2010,Percentage of individuals using the internet,6
+72,Botswana,2010,Percentage of individuals using the internet,6.0
 72,Botswana,2015,Percentage of individuals using the internet,37.3
 72,Botswana,2020,Percentage of individuals using the internet,67.5
 72,Botswana,2021,Percentage of individuals using the internet,75.2
 72,Botswana,2022,Percentage of individuals using the internet,77.3
 76,Brazil,2000,Percentage of individuals using the internet,2.9
-76,Brazil,2005,Percentage of individuals using the internet,21
+76,Brazil,2005,Percentage of individuals using the internet,21.0
 76,Brazil,2010,Percentage of individuals using the internet,40.7
 76,Brazil,2015,Percentage of individuals using the internet,58.3
 76,Brazil,2020,Percentage of individuals using the internet,81.3
 76,Brazil,2021,Percentage of individuals using the internet,80.7
 76,Brazil,2022,Percentage of individuals using the internet,80.5
-92,British Virgin Islands,2010,Percentage of individuals using the internet,37
-96,Brunei Darussalam,2000,Percentage of individuals using the internet,9
+92,British Virgin Islands,2010,Percentage of individuals using the internet,37.0
+96,Brunei Darussalam,2000,Percentage of individuals using the internet,9.0
 96,Brunei Darussalam,2005,Percentage of individuals using the internet,36.5
-96,Brunei Darussalam,2010,Percentage of individuals using the internet,53
+96,Brunei Darussalam,2010,Percentage of individuals using the internet,53.0
 96,Brunei Darussalam,2015,Percentage of individuals using the internet,71.2
 96,Brunei Darussalam,2020,Percentage of individuals using the internet,95.1
 96,Brunei Darussalam,2021,Percentage of individuals using the internet,95.6
-96,Brunei Darussalam,2022,Percentage of individuals using the internet,99
+96,Brunei Darussalam,2022,Percentage of individuals using the internet,99.0
 100,Bulgaria,2000,Percentage of individuals using the internet,5.4
-100,Bulgaria,2005,Percentage of individuals using the internet,20
+100,Bulgaria,2005,Percentage of individuals using the internet,20.0
 100,Bulgaria,2010,Percentage of individuals using the internet,46.2
 100,Bulgaria,2015,Percentage of individuals using the internet,56.7
 100,Bulgaria,2020,Percentage of individuals using the internet,70.2
@@ -337,19 +337,19 @@
 854,Burkina Faso,2022,Percentage of individuals using the internet,19.9
 108,Burundi,2000,Percentage of individuals using the internet,0.1
 108,Burundi,2005,Percentage of individuals using the internet,0.5
-108,Burundi,2010,Percentage of individuals using the internet,1
-108,Burundi,2015,Percentage of individuals using the internet,2
+108,Burundi,2010,Percentage of individuals using the internet,1.0
+108,Burundi,2015,Percentage of individuals using the internet,2.0
 108,Burundi,2020,Percentage of individuals using the internet,9.2
 108,Burundi,2021,Percentage of individuals using the internet,10.2
 108,Burundi,2022,Percentage of individuals using the internet,11.3
 132,Cabo Verde,2000,Percentage of individuals using the internet,1.8
 132,Cabo Verde,2005,Percentage of individuals using the internet,6.1
-132,Cabo Verde,2010,Percentage of individuals using the internet,30
+132,Cabo Verde,2010,Percentage of individuals using the internet,30.0
 132,Cabo Verde,2015,Percentage of individuals using the internet,42.7
 132,Cabo Verde,2020,Percentage of individuals using the internet,69.4
 132,Cabo Verde,2021,Percentage of individuals using the internet,71.4
 132,Cabo Verde,2022,Percentage of individuals using the internet,72.1
-116,Cambodia,2000,Percentage of individuals using the internet,0
+116,Cambodia,2000,Percentage of individuals using the internet,0.0
 116,Cambodia,2005,Percentage of individuals using the internet,0.3
 116,Cambodia,2010,Percentage of individuals using the internet,1.3
 116,Cambodia,2015,Percentage of individuals using the internet,6.4
@@ -366,27 +366,27 @@
 124,Canada,2000,Percentage of individuals using the internet,51.3
 124,Canada,2005,Percentage of individuals using the internet,71.7
 124,Canada,2010,Percentage of individuals using the internet,80.3
-124,Canada,2015,Percentage of individuals using the internet,90
+124,Canada,2015,Percentage of individuals using the internet,90.0
 124,Canada,2020,Percentage of individuals using the internet,92.3
 124,Canada,2021,Percentage of individuals using the internet,93.3
-124,Canada,2022,Percentage of individuals using the internet,94
-136,Cayman Islands,2005,Percentage of individuals using the internet,38
-136,Cayman Islands,2010,Percentage of individuals using the internet,66
-136,Cayman Islands,2015,Percentage of individuals using the internet,77
+124,Canada,2022,Percentage of individuals using the internet,94.0
+136,Cayman Islands,2005,Percentage of individuals using the internet,38.0
+136,Cayman Islands,2010,Percentage of individuals using the internet,66.0
+136,Cayman Islands,2015,Percentage of individuals using the internet,77.0
 140,Central African Republic,2000,Percentage of individuals using the internet,0.1
 140,Central African Republic,2005,Percentage of individuals using the internet,0.3
-140,Central African Republic,2010,Percentage of individuals using the internet,2
+140,Central African Republic,2010,Percentage of individuals using the internet,2.0
 140,Central African Republic,2015,Percentage of individuals using the internet,2.9
-148,Chad,2000,Percentage of individuals using the internet,0
+148,Chad,2000,Percentage of individuals using the internet,0.0
 148,Chad,2005,Percentage of individuals using the internet,0.4
 148,Chad,2010,Percentage of individuals using the internet,1.7
 148,Chad,2015,Percentage of individuals using the internet,3.5
 148,Chad,2020,Percentage of individuals using the internet,8.3
-148,Chad,2021,Percentage of individuals using the internet,11
+148,Chad,2021,Percentage of individuals using the internet,11.0
 148,Chad,2022,Percentage of individuals using the internet,12.2
 152,Chile,2000,Percentage of individuals using the internet,16.6
 152,Chile,2005,Percentage of individuals using the internet,31.2
-152,Chile,2010,Percentage of individuals using the internet,45
+152,Chile,2010,Percentage of individuals using the internet,45.0
 152,Chile,2015,Percentage of individuals using the internet,76.6
 152,Chile,2020,Percentage of individuals using the internet,87.5
 152,Chile,2021,Percentage of individuals using the internet,88.8
@@ -400,7 +400,7 @@
 156,China,2022,Percentage of individuals using the internet,75.6
 344,"China, Hong Kong SAR",2000,Percentage of individuals using the internet,27.8
 344,"China, Hong Kong SAR",2005,Percentage of individuals using the internet,56.9
-344,"China, Hong Kong SAR",2010,Percentage of individuals using the internet,72
+344,"China, Hong Kong SAR",2010,Percentage of individuals using the internet,72.0
 344,"China, Hong Kong SAR",2015,Percentage of individuals using the internet,84.9
 344,"China, Hong Kong SAR",2020,Percentage of individuals using the internet,92.4
 344,"China, Hong Kong SAR",2021,Percentage of individuals using the internet,93.1
@@ -413,19 +413,19 @@
 446,"China, Macao SAR",2021,Percentage of individuals using the internet,88.5
 446,"China, Macao SAR",2022,Percentage of individuals using the internet,89.8
 170,Colombia,2000,Percentage of individuals using the internet,2.2
-170,Colombia,2005,Percentage of individuals using the internet,11
+170,Colombia,2005,Percentage of individuals using the internet,11.0
 170,Colombia,2010,Percentage of individuals using the internet,36.5
 170,Colombia,2015,Percentage of individuals using the internet,55.9
 170,Colombia,2020,Percentage of individuals using the internet,69.8
-170,Colombia,2021,Percentage of individuals using the internet,73
+170,Colombia,2021,Percentage of individuals using the internet,73.0
 170,Colombia,2022,Percentage of individuals using the internet,72.8
 174,Comoros,2000,Percentage of individuals using the internet,0.3
-174,Comoros,2005,Percentage of individuals using the internet,2
+174,Comoros,2005,Percentage of individuals using the internet,2.0
 174,Comoros,2010,Percentage of individuals using the internet,5.1
 174,Comoros,2015,Percentage of individuals using the internet,7.5
-178,Congo,2000,Percentage of individuals using the internet,0
+178,Congo,2000,Percentage of individuals using the internet,0.0
 178,Congo,2005,Percentage of individuals using the internet,1.5
-178,Congo,2010,Percentage of individuals using the internet,5
+178,Congo,2010,Percentage of individuals using the internet,5.0
 178,Congo,2015,Percentage of individuals using the internet,7.6
 178,Congo,2020,Percentage of individuals using the internet,24.8
 178,Congo,2021,Percentage of individuals using the internet,32.7
@@ -433,7 +433,7 @@
 184,Cook Islands,2000,Percentage of individuals using the internet,15.7
 184,Cook Islands,2005,Percentage of individuals using the internet,26.2
 184,Cook Islands,2010,Percentage of individuals using the internet,35.7
-184,Cook Islands,2015,Percentage of individuals using the internet,51
+184,Cook Islands,2015,Percentage of individuals using the internet,51.0
 188,Costa Rica,2000,Percentage of individuals using the internet,5.8
 188,Costa Rica,2005,Percentage of individuals using the internet,22.1
 188,Costa Rica,2010,Percentage of individuals using the internet,36.5
@@ -442,10 +442,10 @@
 188,Costa Rica,2021,Percentage of individuals using the internet,82.7
 188,Costa Rica,2022,Percentage of individuals using the internet,82.6
 384,Côte d’Ivoire,2000,Percentage of individuals using the internet,0.2
-384,Côte d’Ivoire,2005,Percentage of individuals using the internet,1
+384,Côte d’Ivoire,2005,Percentage of individuals using the internet,1.0
 384,Côte d’Ivoire,2010,Percentage of individuals using the internet,2.7
 384,Côte d’Ivoire,2015,Percentage of individuals using the internet,38.4
-384,Côte d’Ivoire,2020,Percentage of individuals using the internet,36
+384,Côte d’Ivoire,2020,Percentage of individuals using the internet,36.0
 384,Côte d’Ivoire,2021,Percentage of individuals using the internet,38.8
 384,Côte d’Ivoire,2022,Percentage of individuals using the internet,38.4
 191,Croatia,2000,Percentage of individuals using the internet,6.6
@@ -464,7 +464,7 @@
 192,Cuba,2022,Percentage of individuals using the internet,73.2
 196,Cyprus,2000,Percentage of individuals using the internet,15.3
 196,Cyprus,2005,Percentage of individuals using the internet,32.8
-196,Cyprus,2010,Percentage of individuals using the internet,53
+196,Cyprus,2010,Percentage of individuals using the internet,53.0
 196,Cyprus,2015,Percentage of individuals using the internet,71.7
 196,Cyprus,2020,Percentage of individuals using the internet,90.8
 196,Cyprus,2021,Percentage of individuals using the internet,90.8
@@ -476,10 +476,10 @@
 203,Czechia,2020,Percentage of individuals using the internet,81.3
 203,Czechia,2021,Percentage of individuals using the internet,82.7
 203,Czechia,2022,Percentage of individuals using the internet,84.5
-408,Dem. People's Rep. Korea,2000,Percentage of individuals using the internet,0
-408,Dem. People's Rep. Korea,2005,Percentage of individuals using the internet,0
-408,Dem. People's Rep. Korea,2010,Percentage of individuals using the internet,0
-180,Dem. Rep. of the Congo,2000,Percentage of individuals using the internet,0
+408,Dem. People's Rep. Korea,2000,Percentage of individuals using the internet,0.0
+408,Dem. People's Rep. Korea,2005,Percentage of individuals using the internet,0.0
+408,Dem. People's Rep. Korea,2010,Percentage of individuals using the internet,0.0
+180,Dem. Rep. of the Congo,2000,Percentage of individuals using the internet,0.0
 180,Dem. Rep. of the Congo,2005,Percentage of individuals using the internet,0.2
 180,Dem. Rep. of the Congo,2010,Percentage of individuals using the internet,0.7
 180,Dem. Rep. of the Congo,2015,Percentage of individuals using the internet,3.8
@@ -494,16 +494,16 @@
 208,Denmark,2021,Percentage of individuals using the internet,98.9
 208,Denmark,2022,Percentage of individuals using the internet,97.9
 262,Djibouti,2000,Percentage of individuals using the internet,0.2
-262,Djibouti,2005,Percentage of individuals using the internet,1
+262,Djibouti,2005,Percentage of individuals using the internet,1.0
 262,Djibouti,2010,Percentage of individuals using the internet,6.5
 262,Djibouti,2015,Percentage of individuals using the internet,22.9
 262,Djibouti,2020,Percentage of individuals using the internet,62.5
-262,Djibouti,2021,Percentage of individuals using the internet,64
-262,Djibouti,2022,Percentage of individuals using the internet,65
+262,Djibouti,2021,Percentage of individuals using the internet,64.0
+262,Djibouti,2022,Percentage of individuals using the internet,65.0
 212,Dominica,2000,Percentage of individuals using the internet,8.8
 212,Dominica,2005,Percentage of individuals using the internet,38.5
 212,Dominica,2010,Percentage of individuals using the internet,47.5
-212,Dominica,2015,Percentage of individuals using the internet,65
+212,Dominica,2015,Percentage of individuals using the internet,65.0
 212,Dominica,2020,Percentage of individuals using the internet,75.7
 212,Dominica,2021,Percentage of individuals using the internet,82.4
 212,Dominica,2022,Percentage of individuals using the internet,83.4
@@ -513,10 +513,10 @@
 214,Dominican Republic,2015,Percentage of individuals using the internet,54.2
 214,Dominican Republic,2020,Percentage of individuals using the internet,81.6
 214,Dominican Republic,2021,Percentage of individuals using the internet,85.2
-214,Dominican Republic,2022,Percentage of individuals using the internet,89
+214,Dominican Republic,2022,Percentage of individuals using the internet,89.0
 218,Ecuador,2000,Percentage of individuals using the internet,1.5
-218,Ecuador,2005,Percentage of individuals using the internet,6
-218,Ecuador,2010,Percentage of individuals using the internet,29
+218,Ecuador,2005,Percentage of individuals using the internet,6.0
+218,Ecuador,2010,Percentage of individuals using the internet,29.0
 218,Ecuador,2015,Percentage of individuals using the internet,48.9
 218,Ecuador,2020,Percentage of individuals using the internet,70.7
 218,Ecuador,2021,Percentage of individuals using the internet,70.2
@@ -537,9 +537,9 @@
 222,El Salvador,2022,Percentage of individuals using the internet,62.9
 226,Equatorial Guinea,2000,Percentage of individuals using the internet,0.1
 226,Equatorial Guinea,2005,Percentage of individuals using the internet,1.1
-226,Equatorial Guinea,2010,Percentage of individuals using the internet,6
+226,Equatorial Guinea,2010,Percentage of individuals using the internet,6.0
 226,Equatorial Guinea,2015,Percentage of individuals using the internet,21.3
-226,Equatorial Guinea,2020,Percentage of individuals using the internet,55
+226,Equatorial Guinea,2020,Percentage of individuals using the internet,55.0
 226,Equatorial Guinea,2021,Percentage of individuals using the internet,60.6
 226,Equatorial Guinea,2022,Percentage of individuals using the internet,66.8
 232,Eritrea,2000,Percentage of individuals using the internet,0.1
@@ -553,16 +553,16 @@
 233,Estonia,2010,Percentage of individuals using the internet,74.1
 233,Estonia,2015,Percentage of individuals using the internet,88.4
 233,Estonia,2020,Percentage of individuals using the internet,89.1
-233,Estonia,2021,Percentage of individuals using the internet,91
-233,Estonia,2022,Percentage of individuals using the internet,91
+233,Estonia,2021,Percentage of individuals using the internet,91.0
+233,Estonia,2022,Percentage of individuals using the internet,91.0
 748,Eswatini,2000,Percentage of individuals using the internet,0.9
 748,Eswatini,2005,Percentage of individuals using the internet,3.7
-748,Eswatini,2010,Percentage of individuals using the internet,11
+748,Eswatini,2010,Percentage of individuals using the internet,11.0
 748,Eswatini,2015,Percentage of individuals using the internet,25.6
-748,Eswatini,2020,Percentage of individuals using the internet,49
+748,Eswatini,2020,Percentage of individuals using the internet,49.0
 748,Eswatini,2021,Percentage of individuals using the internet,56.2
 748,Eswatini,2022,Percentage of individuals using the internet,58.3
-231,Ethiopia,2000,Percentage of individuals using the internet,0
+231,Ethiopia,2000,Percentage of individuals using the internet,0.0
 231,Ethiopia,2005,Percentage of individuals using the internet,0.2
 231,Ethiopia,2010,Percentage of individuals using the internet,0.8
 231,Ethiopia,2015,Percentage of individuals using the internet,13.9
@@ -570,7 +570,7 @@
 231,Ethiopia,2021,Percentage of individuals using the internet,16.7
 231,Ethiopia,2022,Percentage of individuals using the internet,19.4
 238,Falkland Islands (Malvinas),2000,Percentage of individuals using the internet,58.6
-238,Falkland Islands (Malvinas),2005,Percentage of individuals using the internet,84
+238,Falkland Islands (Malvinas),2005,Percentage of individuals using the internet,84.0
 238,Falkland Islands (Malvinas),2010,Percentage of individuals using the internet,95.8
 238,Falkland Islands (Malvinas),2015,Percentage of individuals using the internet,98.3
 234,Faroe Islands,2000,Percentage of individuals using the internet,32.9
@@ -579,9 +579,9 @@
 234,Faroe Islands,2015,Percentage of individuals using the internet,94.2
 242,Fiji,2000,Percentage of individuals using the internet,1.5
 242,Fiji,2005,Percentage of individuals using the internet,8.5
-242,Fiji,2010,Percentage of individuals using the internet,20
+242,Fiji,2010,Percentage of individuals using the internet,20.0
 242,Fiji,2015,Percentage of individuals using the internet,42.5
-242,Fiji,2020,Percentage of individuals using the internet,83
+242,Fiji,2020,Percentage of individuals using the internet,83.0
 242,Fiji,2021,Percentage of individuals using the internet,81.9
 242,Fiji,2022,Percentage of individuals using the internet,85.2
 246,Finland,2000,Percentage of individuals using the internet,37.2
@@ -590,11 +590,11 @@
 246,Finland,2015,Percentage of individuals using the internet,86.4
 246,Finland,2020,Percentage of individuals using the internet,92.2
 246,Finland,2021,Percentage of individuals using the internet,92.8
-246,Finland,2022,Percentage of individuals using the internet,93
+246,Finland,2022,Percentage of individuals using the internet,93.0
 250,France,2000,Percentage of individuals using the internet,14.3
 250,France,2005,Percentage of individuals using the internet,42.9
 250,France,2010,Percentage of individuals using the internet,77.3
-250,France,2015,Percentage of individuals using the internet,78
+250,France,2015,Percentage of individuals using the internet,78.0
 250,France,2020,Percentage of individuals using the internet,84.7
 250,France,2021,Percentage of individuals using the internet,86.1
 250,France,2022,Percentage of individuals using the internet,85.3
@@ -602,11 +602,11 @@
 254,French Guiana,2005,Percentage of individuals using the internet,20.8
 258,French Polynesia,2000,Percentage of individuals using the internet,6.4
 258,French Polynesia,2005,Percentage of individuals using the internet,21.5
-258,French Polynesia,2010,Percentage of individuals using the internet,49
+258,French Polynesia,2010,Percentage of individuals using the internet,49.0
 258,French Polynesia,2015,Percentage of individuals using the internet,64.6
 266,Gabon,2000,Percentage of individuals using the internet,1.2
 266,Gabon,2005,Percentage of individuals using the internet,4.9
-266,Gabon,2010,Percentage of individuals using the internet,13
+266,Gabon,2010,Percentage of individuals using the internet,13.0
 266,Gabon,2015,Percentage of individuals using the internet,45.8
 266,Gabon,2020,Percentage of individuals using the internet,72.3
 266,Gabon,2021,Percentage of individuals using the internet,73.1
@@ -627,7 +627,7 @@
 268,Georgia,2022,Percentage of individuals using the internet,78.7
 276,Germany,2000,Percentage of individuals using the internet,30.2
 276,Germany,2005,Percentage of individuals using the internet,68.7
-276,Germany,2010,Percentage of individuals using the internet,82
+276,Germany,2010,Percentage of individuals using the internet,82.0
 276,Germany,2015,Percentage of individuals using the internet,87.6
 276,Germany,2020,Percentage of individuals using the internet,89.8
 276,Germany,2021,Percentage of individuals using the internet,91.4
@@ -635,15 +635,15 @@
 288,Ghana,2000,Percentage of individuals using the internet,0.2
 288,Ghana,2005,Percentage of individuals using the internet,1.8
 288,Ghana,2010,Percentage of individuals using the internet,7.8
-288,Ghana,2015,Percentage of individuals using the internet,23
+288,Ghana,2015,Percentage of individuals using the internet,23.0
 288,Ghana,2020,Percentage of individuals using the internet,62.5
 288,Ghana,2021,Percentage of individuals using the internet,68.6
 288,Ghana,2022,Percentage of individuals using the internet,69.8
 292,Gibraltar,2000,Percentage of individuals using the internet,19.1
 292,Gibraltar,2005,Percentage of individuals using the internet,39.1
-292,Gibraltar,2010,Percentage of individuals using the internet,65
+292,Gibraltar,2010,Percentage of individuals using the internet,65.0
 300,Greece,2000,Percentage of individuals using the internet,9.1
-300,Greece,2005,Percentage of individuals using the internet,24
+300,Greece,2005,Percentage of individuals using the internet,24.0
 300,Greece,2010,Percentage of individuals using the internet,44.4
 300,Greece,2015,Percentage of individuals using the internet,66.8
 300,Greece,2020,Percentage of individuals using the internet,78.1
@@ -651,11 +651,11 @@
 300,Greece,2022,Percentage of individuals using the internet,83.2
 304,Greenland,2000,Percentage of individuals using the internet,31.7
 304,Greenland,2005,Percentage of individuals using the internet,57.7
-304,Greenland,2010,Percentage of individuals using the internet,63
+304,Greenland,2010,Percentage of individuals using the internet,63.0
 304,Greenland,2015,Percentage of individuals using the internet,67.6
 308,Grenada,2000,Percentage of individuals using the internet,4.1
 308,Grenada,2005,Percentage of individuals using the internet,20.5
-308,Grenada,2010,Percentage of individuals using the internet,27
+308,Grenada,2010,Percentage of individuals using the internet,27.0
 308,Grenada,2015,Percentage of individuals using the internet,52.5
 308,Grenada,2020,Percentage of individuals using the internet,73.3
 308,Grenada,2021,Percentage of individuals using the internet,71.1
@@ -664,7 +664,7 @@
 312,Guadeloupe,2005,Percentage of individuals using the internet,18.7
 316,Guam,2000,Percentage of individuals using the internet,16.1
 316,Guam,2005,Percentage of individuals using the internet,38.6
-316,Guam,2010,Percentage of individuals using the internet,54
+316,Guam,2010,Percentage of individuals using the internet,54.0
 316,Guam,2015,Percentage of individuals using the internet,73.1
 320,Guatemala,2000,Percentage of individuals using the internet,0.7
 320,Guatemala,2005,Percentage of individuals using the internet,5.7
@@ -677,7 +677,7 @@
 831,Guernsey,2005,Percentage of individuals using the internet,73.6
 324,Guinea,2000,Percentage of individuals using the internet,0.1
 324,Guinea,2005,Percentage of individuals using the internet,0.5
-324,Guinea,2010,Percentage of individuals using the internet,1
+324,Guinea,2010,Percentage of individuals using the internet,1.0
 324,Guinea,2015,Percentage of individuals using the internet,9.2
 324,Guinea,2020,Percentage of individuals using the internet,29.4
 324,Guinea,2021,Percentage of individuals using the internet,31.3
@@ -692,7 +692,7 @@
 328,Guyana,2000,Percentage of individuals using the internet,0.6
 328,Guyana,2005,Percentage of individuals using the internet,5.7
 328,Guyana,2010,Percentage of individuals using the internet,29.9
-328,Guyana,2015,Percentage of individuals using the internet,34
+328,Guyana,2015,Percentage of individuals using the internet,34.0
 328,Guyana,2020,Percentage of individuals using the internet,73.1
 328,Guyana,2021,Percentage of individuals using the internet,81.1
 328,Guyana,2022,Percentage of individuals using the internet,85.3
@@ -700,7 +700,7 @@
 332,Haiti,2005,Percentage of individuals using the internet,6.4
 332,Haiti,2010,Percentage of individuals using the internet,8.4
 332,Haiti,2015,Percentage of individuals using the internet,14.2
-336,Holy See,2020,Percentage of individuals using the internet,78
+336,Holy See,2020,Percentage of individuals using the internet,78.0
 336,Holy See,2021,Percentage of individuals using the internet,81.7
 336,Holy See,2022,Percentage of individuals using the internet,85.1
 340,Honduras,2000,Percentage of individuals using the internet,1.2
@@ -708,17 +708,17 @@
 340,Honduras,2010,Percentage of individuals using the internet,11.1
 340,Honduras,2015,Percentage of individuals using the internet,27.1
 340,Honduras,2020,Percentage of individuals using the internet,45.2
-340,Honduras,2021,Percentage of individuals using the internet,52
+340,Honduras,2021,Percentage of individuals using the internet,52.0
 340,Honduras,2022,Percentage of individuals using the internet,59.7
-348,Hungary,2000,Percentage of individuals using the internet,7
-348,Hungary,2005,Percentage of individuals using the internet,39
-348,Hungary,2010,Percentage of individuals using the internet,65
+348,Hungary,2000,Percentage of individuals using the internet,7.0
+348,Hungary,2005,Percentage of individuals using the internet,39.0
+348,Hungary,2010,Percentage of individuals using the internet,65.0
 348,Hungary,2015,Percentage of individuals using the internet,72.8
 348,Hungary,2020,Percentage of individuals using the internet,84.8
 348,Hungary,2021,Percentage of individuals using the internet,88.6
 348,Hungary,2022,Percentage of individuals using the internet,89.1
 352,Iceland,2000,Percentage of individuals using the internet,44.5
-352,Iceland,2005,Percentage of individuals using the internet,87
+352,Iceland,2005,Percentage of individuals using the internet,87.0
 352,Iceland,2010,Percentage of individuals using the internet,93.4
 352,Iceland,2015,Percentage of individuals using the internet,98.2
 352,Iceland,2020,Percentage of individuals using the internet,99.5
@@ -748,13 +748,13 @@
 368,Iraq,2010,Percentage of individuals using the internet,2.5
 368,Iraq,2015,Percentage of individuals using the internet,15.2
 368,Iraq,2020,Percentage of individuals using the internet,53.7
-368,Iraq,2021,Percentage of individuals using the internet,65
+368,Iraq,2021,Percentage of individuals using the internet,65.0
 368,Iraq,2022,Percentage of individuals using the internet,78.7
 372,Ireland,2000,Percentage of individuals using the internet,17.9
 372,Ireland,2005,Percentage of individuals using the internet,41.6
 372,Ireland,2010,Percentage of individuals using the internet,69.9
 372,Ireland,2015,Percentage of individuals using the internet,83.5
-372,Ireland,2020,Percentage of individuals using the internet,92
+372,Ireland,2020,Percentage of individuals using the internet,92.0
 372,Ireland,2021,Percentage of individuals using the internet,94.5
 372,Ireland,2022,Percentage of individuals using the internet,95.6
 376,Israel,2000,Percentage of individuals using the internet,20.9
@@ -765,7 +765,7 @@
 376,Israel,2021,Percentage of individuals using the internet,90.3
 376,Israel,2022,Percentage of individuals using the internet,92.1
 380,Italy,2000,Percentage of individuals using the internet,23.1
-380,Italy,2005,Percentage of individuals using the internet,35
+380,Italy,2005,Percentage of individuals using the internet,35.0
 380,Italy,2010,Percentage of individuals using the internet,53.7
 380,Italy,2015,Percentage of individuals using the internet,58.1
 380,Italy,2020,Percentage of individuals using the internet,70.5
@@ -778,7 +778,7 @@
 388,Jamaica,2020,Percentage of individuals using the internet,76.4
 388,Jamaica,2021,Percentage of individuals using the internet,82.4
 388,Jamaica,2022,Percentage of individuals using the internet,85.1
-392,Japan,2000,Percentage of individuals using the internet,30
+392,Japan,2000,Percentage of individuals using the internet,30.0
 392,Japan,2005,Percentage of individuals using the internet,66.9
 392,Japan,2010,Percentage of individuals using the internet,78.2
 392,Japan,2015,Percentage of individuals using the internet,91.1
@@ -792,10 +792,10 @@
 400,Jordan,2010,Percentage of individuals using the internet,27.2
 400,Jordan,2015,Percentage of individuals using the internet,54.2
 400,Jordan,2020,Percentage of individuals using the internet,78.4
-400,Jordan,2021,Percentage of individuals using the internet,86
+400,Jordan,2021,Percentage of individuals using the internet,86.0
 400,Jordan,2022,Percentage of individuals using the internet,90.5
 398,Kazakhstan,2000,Percentage of individuals using the internet,0.7
-398,Kazakhstan,2005,Percentage of individuals using the internet,3
+398,Kazakhstan,2005,Percentage of individuals using the internet,3.0
 398,Kazakhstan,2010,Percentage of individuals using the internet,31.6
 398,Kazakhstan,2015,Percentage of individuals using the internet,70.8
 398,Kazakhstan,2020,Percentage of individuals using the internet,85.9
@@ -809,69 +809,69 @@
 404,Kenya,2021,Percentage of individuals using the internet,38.2
 404,Kenya,2022,Percentage of individuals using the internet,40.8
 296,Kiribati,2000,Percentage of individuals using the internet,1.8
-296,Kiribati,2005,Percentage of individuals using the internet,4
+296,Kiribati,2005,Percentage of individuals using the internet,4.0
 296,Kiribati,2010,Percentage of individuals using the internet,9.1
 296,Kiribati,2015,Percentage of individuals using the internet,14.9
 296,Kiribati,2020,Percentage of individuals using the internet,52.1
-296,Kiribati,2021,Percentage of individuals using the internet,54
+296,Kiribati,2021,Percentage of individuals using the internet,54.0
 296,Kiribati,2022,Percentage of individuals using the internet,54.4
 414,Kuwait,2000,Percentage of individuals using the internet,6.7
 414,Kuwait,2005,Percentage of individuals using the internet,25.9
 414,Kuwait,2010,Percentage of individuals using the internet,61.4
-414,Kuwait,2015,Percentage of individuals using the internet,82
+414,Kuwait,2015,Percentage of individuals using the internet,82.0
 414,Kuwait,2020,Percentage of individuals using the internet,99.1
 414,Kuwait,2021,Percentage of individuals using the internet,99.7
 414,Kuwait,2022,Percentage of individuals using the internet,99.8
-417,Kyrgyzstan,2000,Percentage of individuals using the internet,1
+417,Kyrgyzstan,2000,Percentage of individuals using the internet,1.0
 417,Kyrgyzstan,2005,Percentage of individuals using the internet,10.5
 417,Kyrgyzstan,2010,Percentage of individuals using the internet,16.3
 417,Kyrgyzstan,2015,Percentage of individuals using the internet,30.2
-417,Kyrgyzstan,2020,Percentage of individuals using the internet,72
+417,Kyrgyzstan,2020,Percentage of individuals using the internet,72.0
 417,Kyrgyzstan,2021,Percentage of individuals using the internet,74.6
 417,Kyrgyzstan,2022,Percentage of individuals using the internet,79.8
 418,Lao People's Dem. Rep.,2000,Percentage of individuals using the internet,0.1
 418,Lao People's Dem. Rep.,2005,Percentage of individuals using the internet,0.9
-418,Lao People's Dem. Rep.,2010,Percentage of individuals using the internet,7
+418,Lao People's Dem. Rep.,2010,Percentage of individuals using the internet,7.0
 418,Lao People's Dem. Rep.,2015,Percentage of individuals using the internet,18.2
-418,Lao People's Dem. Rep.,2020,Percentage of individuals using the internet,54
-418,Lao People's Dem. Rep.,2021,Percentage of individuals using the internet,62
+418,Lao People's Dem. Rep.,2020,Percentage of individuals using the internet,54.0
+418,Lao People's Dem. Rep.,2021,Percentage of individuals using the internet,62.0
 418,Lao People's Dem. Rep.,2022,Percentage of individuals using the internet,66.2
 428,Latvia,2000,Percentage of individuals using the internet,6.3
-428,Latvia,2005,Percentage of individuals using the internet,46
+428,Latvia,2005,Percentage of individuals using the internet,46.0
 428,Latvia,2010,Percentage of individuals using the internet,68.4
 428,Latvia,2015,Percentage of individuals using the internet,79.2
 428,Latvia,2020,Percentage of individuals using the internet,88.9
 428,Latvia,2021,Percentage of individuals using the internet,91.2
-428,Latvia,2022,Percentage of individuals using the internet,91
-422,Lebanon,2000,Percentage of individuals using the internet,8
+428,Latvia,2022,Percentage of individuals using the internet,91.0
+422,Lebanon,2000,Percentage of individuals using the internet,8.0
 422,Lebanon,2005,Percentage of individuals using the internet,10.1
 422,Lebanon,2010,Percentage of individuals using the internet,43.7
-422,Lebanon,2015,Percentage of individuals using the internet,74
+422,Lebanon,2015,Percentage of individuals using the internet,74.0
 422,Lebanon,2020,Percentage of individuals using the internet,87.9
 422,Lebanon,2021,Percentage of individuals using the internet,87.9
 422,Lebanon,2022,Percentage of individuals using the internet,90.1
 426,Lesotho,2000,Percentage of individuals using the internet,0.2
 426,Lesotho,2005,Percentage of individuals using the internet,2.6
 426,Lesotho,2010,Percentage of individuals using the internet,3.9
-426,Lesotho,2015,Percentage of individuals using the internet,25
+426,Lesotho,2015,Percentage of individuals using the internet,25.0
 426,Lesotho,2020,Percentage of individuals using the internet,40.4
 426,Lesotho,2021,Percentage of individuals using the internet,43.7
-426,Lesotho,2022,Percentage of individuals using the internet,47
-430,Liberia,2000,Percentage of individuals using the internet,0
+426,Lesotho,2022,Percentage of individuals using the internet,47.0
+430,Liberia,2000,Percentage of individuals using the internet,0.0
 430,Liberia,2010,Percentage of individuals using the internet,2.3
-430,Liberia,2015,Percentage of individuals using the internet,10
+430,Liberia,2015,Percentage of individuals using the internet,10.0
 430,Liberia,2020,Percentage of individuals using the internet,27.5
 430,Liberia,2021,Percentage of individuals using the internet,27.8
 430,Liberia,2022,Percentage of individuals using the internet,30.1
 434,Libya,2000,Percentage of individuals using the internet,0.2
 434,Libya,2005,Percentage of individuals using the internet,3.9
-434,Libya,2010,Percentage of individuals using the internet,14
+434,Libya,2010,Percentage of individuals using the internet,14.0
 434,Libya,2020,Percentage of individuals using the internet,87.6
 434,Libya,2021,Percentage of individuals using the internet,84.3
 434,Libya,2022,Percentage of individuals using the internet,88.4
 438,Liechtenstein,2000,Percentage of individuals using the internet,36.5
 438,Liechtenstein,2005,Percentage of individuals using the internet,63.4
-438,Liechtenstein,2010,Percentage of individuals using the internet,80
+438,Liechtenstein,2010,Percentage of individuals using the internet,80.0
 438,Liechtenstein,2015,Percentage of individuals using the internet,96.6
 438,Liechtenstein,2020,Percentage of individuals using the internet,94.3
 438,Liechtenstein,2021,Percentage of individuals using the internet,95.6
@@ -884,7 +884,7 @@
 440,Lithuania,2021,Percentage of individuals using the internet,86.9
 440,Lithuania,2022,Percentage of individuals using the internet,87.7
 442,Luxembourg,2000,Percentage of individuals using the internet,22.9
-442,Luxembourg,2005,Percentage of individuals using the internet,70
+442,Luxembourg,2005,Percentage of individuals using the internet,70.0
 442,Luxembourg,2010,Percentage of individuals using the internet,90.6
 442,Luxembourg,2015,Percentage of individuals using the internet,96.4
 442,Luxembourg,2020,Percentage of individuals using the internet,98.5
@@ -900,7 +900,7 @@
 454,Malawi,2000,Percentage of individuals using the internet,0.1
 454,Malawi,2005,Percentage of individuals using the internet,0.4
 454,Malawi,2010,Percentage of individuals using the internet,2.3
-454,Malawi,2015,Percentage of individuals using the internet,6
+454,Malawi,2015,Percentage of individuals using the internet,6.0
 454,Malawi,2020,Percentage of individuals using the internet,22.2
 454,Malawi,2021,Percentage of individuals using the internet,26.9
 454,Malawi,2022,Percentage of individuals using the internet,27.7
@@ -920,21 +920,21 @@
 462,Maldives,2022,Percentage of individuals using the internet,83.9
 466,Mali,2000,Percentage of individuals using the internet,0.1
 466,Mali,2005,Percentage of individuals using the internet,0.5
-466,Mali,2010,Percentage of individuals using the internet,2
+466,Mali,2010,Percentage of individuals using the internet,2.0
 466,Mali,2015,Percentage of individuals using the internet,10.3
 466,Mali,2020,Percentage of individuals using the internet,28.3
 466,Mali,2021,Percentage of individuals using the internet,30.5
 466,Mali,2022,Percentage of individuals using the internet,33.1
 470,Malta,2000,Percentage of individuals using the internet,13.1
 470,Malta,2005,Percentage of individuals using the internet,41.2
-470,Malta,2010,Percentage of individuals using the internet,63
-470,Malta,2015,Percentage of individuals using the internet,76
+470,Malta,2010,Percentage of individuals using the internet,63.0
+470,Malta,2015,Percentage of individuals using the internet,76.0
 470,Malta,2020,Percentage of individuals using the internet,86.9
 470,Malta,2021,Percentage of individuals using the internet,87.5
 470,Malta,2022,Percentage of individuals using the internet,91.5
 584,Marshall Islands,2000,Percentage of individuals using the internet,1.5
 584,Marshall Islands,2005,Percentage of individuals using the internet,3.9
-584,Marshall Islands,2010,Percentage of individuals using the internet,7
+584,Marshall Islands,2010,Percentage of individuals using the internet,7.0
 584,Marshall Islands,2015,Percentage of individuals using the internet,19.3
 584,Marshall Islands,2020,Percentage of individuals using the internet,71.2
 584,Marshall Islands,2021,Percentage of individuals using the internet,72.2
@@ -943,7 +943,7 @@
 474,Martinique,2005,Percentage of individuals using the internet,32.7
 478,Mauritania,2000,Percentage of individuals using the internet,0.2
 478,Mauritania,2005,Percentage of individuals using the internet,0.7
-478,Mauritania,2010,Percentage of individuals using the internet,4
+478,Mauritania,2010,Percentage of individuals using the internet,4.0
 478,Mauritania,2015,Percentage of individuals using the internet,17.6
 478,Mauritania,2020,Percentage of individuals using the internet,41.1
 478,Mauritania,2021,Percentage of individuals using the internet,43.8
@@ -965,7 +965,7 @@
 484,Mexico,2022,Percentage of individuals using the internet,78.6
 492,Monaco,2000,Percentage of individuals using the internet,42.2
 492,Monaco,2005,Percentage of individuals using the internet,55.5
-492,Monaco,2010,Percentage of individuals using the internet,75
+492,Monaco,2010,Percentage of individuals using the internet,75.0
 492,Monaco,2015,Percentage of individuals using the internet,93.4
 492,Monaco,2020,Percentage of individuals using the internet,98.6
 492,Monaco,2021,Percentage of individuals using the internet,98.4
@@ -982,10 +982,10 @@
 499,Montenegro,2020,Percentage of individuals using the internet,77.6
 499,Montenegro,2021,Percentage of individuals using the internet,82.2
 499,Montenegro,2022,Percentage of individuals using the internet,88.2
-500,Montserrat,2010,Percentage of individuals using the internet,35
+500,Montserrat,2010,Percentage of individuals using the internet,35.0
 504,Morocco,2000,Percentage of individuals using the internet,0.7
 504,Morocco,2005,Percentage of individuals using the internet,15.1
-504,Morocco,2010,Percentage of individuals using the internet,52
+504,Morocco,2010,Percentage of individuals using the internet,52.0
 504,Morocco,2015,Percentage of individuals using the internet,57.1
 504,Morocco,2020,Percentage of individuals using the internet,84.1
 504,Morocco,2021,Percentage of individuals using the internet,88.1
@@ -995,13 +995,13 @@
 508,Mozambique,2010,Percentage of individuals using the internet,4.2
 508,Mozambique,2015,Percentage of individuals using the internet,6.5
 508,Mozambique,2020,Percentage of individuals using the internet,17.8
-508,Mozambique,2021,Percentage of individuals using the internet,20
+508,Mozambique,2021,Percentage of individuals using the internet,20.0
 508,Mozambique,2022,Percentage of individuals using the internet,21.2
 104,Myanmar,2005,Percentage of individuals using the internet,0.1
 104,Myanmar,2010,Percentage of individuals using the internet,0.3
 104,Myanmar,2015,Percentage of individuals using the internet,10.9
 516,Namibia,2000,Percentage of individuals using the internet,1.6
-516,Namibia,2005,Percentage of individuals using the internet,4
+516,Namibia,2005,Percentage of individuals using the internet,4.0
 516,Namibia,2010,Percentage of individuals using the internet,11.6
 516,Namibia,2015,Percentage of individuals using the internet,25.7
 516,Namibia,2020,Percentage of individuals using the internet,57.9
@@ -1017,8 +1017,8 @@
 524,Nepal,2020,Percentage of individuals using the internet,37.7
 524,Nepal,2021,Percentage of individuals using the internet,41.6
 524,Nepal,2022,Percentage of individuals using the internet,49.6
-528,Netherlands (Kingdom of the),2000,Percentage of individuals using the internet,44
-528,Netherlands (Kingdom of the),2005,Percentage of individuals using the internet,81
+528,Netherlands (Kingdom of the),2000,Percentage of individuals using the internet,44.0
+528,Netherlands (Kingdom of the),2005,Percentage of individuals using the internet,81.0
 528,Netherlands (Kingdom of the),2010,Percentage of individuals using the internet,90.7
 528,Netherlands (Kingdom of the),2015,Percentage of individuals using the internet,91.7
 528,Netherlands (Kingdom of the),2020,Percentage of individuals using the internet,91.3
@@ -1026,8 +1026,8 @@
 528,Netherlands (Kingdom of the),2022,Percentage of individuals using the internet,92.5
 540,New Caledonia,2000,Percentage of individuals using the internet,13.9
 540,New Caledonia,2005,Percentage of individuals using the internet,32.4
-540,New Caledonia,2010,Percentage of individuals using the internet,42
-540,New Caledonia,2015,Percentage of individuals using the internet,74
+540,New Caledonia,2010,Percentage of individuals using the internet,42.0
+540,New Caledonia,2015,Percentage of individuals using the internet,74.0
 554,New Zealand,2000,Percentage of individuals using the internet,47.4
 554,New Zealand,2005,Percentage of individuals using the internet,62.7
 554,New Zealand,2010,Percentage of individuals using the internet,80.5
@@ -1035,14 +1035,14 @@
 554,New Zealand,2020,Percentage of individuals using the internet,95.2
 554,New Zealand,2021,Percentage of individuals using the internet,95.7
 554,New Zealand,2022,Percentage of individuals using the internet,95.7
-558,Nicaragua,2000,Percentage of individuals using the internet,1
+558,Nicaragua,2000,Percentage of individuals using the internet,1.0
 558,Nicaragua,2005,Percentage of individuals using the internet,2.6
-558,Nicaragua,2010,Percentage of individuals using the internet,10
+558,Nicaragua,2010,Percentage of individuals using the internet,10.0
 558,Nicaragua,2015,Percentage of individuals using the internet,19.7
 558,Nicaragua,2020,Percentage of individuals using the internet,54.9
 558,Nicaragua,2021,Percentage of individuals using the internet,54.8
 558,Nicaragua,2022,Percentage of individuals using the internet,61.1
-562,Niger,2000,Percentage of individuals using the internet,0
+562,Niger,2000,Percentage of individuals using the internet,0.0
 562,Niger,2005,Percentage of individuals using the internet,0.2
 562,Niger,2010,Percentage of individuals using the internet,0.8
 562,Niger,2015,Percentage of individuals using the internet,2.5
@@ -1058,21 +1058,21 @@
 566,Nigeria,2022,Percentage of individuals using the internet,35.5
 570,Niue,2000,Percentage of individuals using the internet,26.5
 570,Niue,2005,Percentage of individuals using the internet,51.7
-570,Niue,2010,Percentage of individuals using the internet,77
+570,Niue,2010,Percentage of individuals using the internet,77.0
 807,North Macedonia,2000,Percentage of individuals using the internet,2.5
 807,North Macedonia,2005,Percentage of individuals using the internet,26.5
 807,North Macedonia,2010,Percentage of individuals using the internet,51.9
 807,North Macedonia,2015,Percentage of individuals using the internet,70.4
 807,North Macedonia,2020,Percentage of individuals using the internet,81.4
-807,North Macedonia,2021,Percentage of individuals using the internet,83
+807,North Macedonia,2021,Percentage of individuals using the internet,83.0
 807,North Macedonia,2022,Percentage of individuals using the internet,84.2
-578,Norway,2000,Percentage of individuals using the internet,52
-578,Norway,2005,Percentage of individuals using the internet,82
+578,Norway,2000,Percentage of individuals using the internet,52.0
+578,Norway,2005,Percentage of individuals using the internet,82.0
 578,Norway,2010,Percentage of individuals using the internet,93.4
 578,Norway,2015,Percentage of individuals using the internet,96.8
 578,Norway,2020,Percentage of individuals using the internet,94.6
-578,Norway,2021,Percentage of individuals using the internet,99
-578,Norway,2022,Percentage of individuals using the internet,99
+578,Norway,2021,Percentage of individuals using the internet,99.0
+578,Norway,2022,Percentage of individuals using the internet,99.0
 512,Oman,2000,Percentage of individuals using the internet,3.5
 512,Oman,2005,Percentage of individuals using the internet,6.7
 512,Oman,2010,Percentage of individuals using the internet,35.8
@@ -1081,17 +1081,17 @@
 512,Oman,2021,Percentage of individuals using the internet,95.8
 512,Oman,2022,Percentage of individuals using the internet,97.8
 158,Other non-specified areas,2000,Percentage of individuals using the internet,28.1
-158,Other non-specified areas,2005,Percentage of individuals using the internet,58
+158,Other non-specified areas,2005,Percentage of individuals using the internet,58.0
 158,Other non-specified areas,2010,Percentage of individuals using the internet,71.5
-158,Other non-specified areas,2015,Percentage of individuals using the internet,78
-158,Other non-specified areas,2020,Percentage of individuals using the internet,89
+158,Other non-specified areas,2015,Percentage of individuals using the internet,78.0
+158,Other non-specified areas,2020,Percentage of individuals using the internet,89.0
 158,Other non-specified areas,2021,Percentage of individuals using the internet,87.6
 158,Other non-specified areas,2022,Percentage of individuals using the internet,86.3
 586,Pakistan,2005,Percentage of individuals using the internet,6.3
-586,Pakistan,2010,Percentage of individuals using the internet,8
-586,Pakistan,2015,Percentage of individuals using the internet,11
+586,Pakistan,2010,Percentage of individuals using the internet,8.0
+586,Pakistan,2015,Percentage of individuals using the internet,11.0
 586,Pakistan,2020,Percentage of individuals using the internet,18.9
-586,Pakistan,2021,Percentage of individuals using the internet,25
+586,Pakistan,2021,Percentage of individuals using the internet,25.0
 586,Pakistan,2022,Percentage of individuals using the internet,32.9
 591,Panama,2000,Percentage of individuals using the internet,6.6
 591,Panama,2005,Percentage of individuals using the internet,11.5
@@ -1106,13 +1106,13 @@
 598,Papua New Guinea,2015,Percentage of individuals using the internet,7.9
 598,Papua New Guinea,2020,Percentage of individuals using the internet,24.4
 598,Papua New Guinea,2021,Percentage of individuals using the internet,25.7
-598,Papua New Guinea,2022,Percentage of individuals using the internet,27
+598,Papua New Guinea,2022,Percentage of individuals using the internet,27.0
 600,Paraguay,2000,Percentage of individuals using the internet,0.7
 600,Paraguay,2005,Percentage of individuals using the internet,7.9
 600,Paraguay,2010,Percentage of individuals using the internet,19.8
 600,Paraguay,2015,Percentage of individuals using the internet,49.7
-600,Paraguay,2020,Percentage of individuals using the internet,74
-600,Paraguay,2021,Percentage of individuals using the internet,77
+600,Paraguay,2020,Percentage of individuals using the internet,74.0
+600,Paraguay,2021,Percentage of individuals using the internet,77.0
 600,Paraguay,2022,Percentage of individuals using the internet,76.3
 604,Peru,2000,Percentage of individuals using the internet,3.1
 604,Peru,2005,Percentage of individuals using the internet,17.1
@@ -1121,9 +1121,9 @@
 604,Peru,2020,Percentage of individuals using the internet,65.3
 604,Peru,2021,Percentage of individuals using the internet,71.1
 604,Peru,2022,Percentage of individuals using the internet,74.7
-608,Philippines,2000,Percentage of individuals using the internet,2
+608,Philippines,2000,Percentage of individuals using the internet,2.0
 608,Philippines,2005,Percentage of individuals using the internet,5.4
-608,Philippines,2010,Percentage of individuals using the internet,25
+608,Philippines,2010,Percentage of individuals using the internet,25.0
 608,Philippines,2015,Percentage of individuals using the internet,36.9
 608,Philippines,2020,Percentage of individuals using the internet,53.8
 608,Philippines,2021,Percentage of individuals using the internet,63.4
@@ -1131,12 +1131,12 @@
 616,Poland,2000,Percentage of individuals using the internet,7.3
 616,Poland,2005,Percentage of individuals using the internet,38.8
 616,Poland,2010,Percentage of individuals using the internet,62.3
-616,Poland,2015,Percentage of individuals using the internet,68
+616,Poland,2015,Percentage of individuals using the internet,68.0
 616,Poland,2020,Percentage of individuals using the internet,83.2
 616,Poland,2021,Percentage of individuals using the internet,85.4
 616,Poland,2022,Percentage of individuals using the internet,86.9
 620,Portugal,2000,Percentage of individuals using the internet,16.4
-620,Portugal,2005,Percentage of individuals using the internet,35
+620,Portugal,2005,Percentage of individuals using the internet,35.0
 620,Portugal,2010,Percentage of individuals using the internet,53.3
 620,Portugal,2015,Percentage of individuals using the internet,68.6
 620,Portugal,2020,Percentage of individuals using the internet,78.3
@@ -1149,11 +1149,11 @@
 630,Puerto Rico,2021,Percentage of individuals using the internet,84.8
 634,Qatar,2000,Percentage of individuals using the internet,4.9
 634,Qatar,2005,Percentage of individuals using the internet,24.7
-634,Qatar,2010,Percentage of individuals using the internet,69
+634,Qatar,2010,Percentage of individuals using the internet,69.0
 634,Qatar,2015,Percentage of individuals using the internet,92.9
 634,Qatar,2020,Percentage of individuals using the internet,99.7
-634,Qatar,2021,Percentage of individuals using the internet,100
-634,Qatar,2022,Percentage of individuals using the internet,100
+634,Qatar,2021,Percentage of individuals using the internet,100.0
+634,Qatar,2022,Percentage of individuals using the internet,100.0
 410,Republic of Korea,2000,Percentage of individuals using the internet,44.7
 410,Republic of Korea,2005,Percentage of individuals using the internet,73.5
 410,Republic of Korea,2010,Percentage of individuals using the internet,83.7
@@ -1164,7 +1164,7 @@
 498,Republic of Moldova,2000,Percentage of individuals using the internet,1.3
 498,Republic of Moldova,2005,Percentage of individuals using the internet,14.6
 498,Republic of Moldova,2010,Percentage of individuals using the internet,29.7
-498,Republic of Moldova,2015,Percentage of individuals using the internet,69
+498,Republic of Moldova,2015,Percentage of individuals using the internet,69.0
 498,Republic of Moldova,2020,Percentage of individuals using the internet,58.2
 498,Republic of Moldova,2021,Percentage of individuals using the internet,60.5
 498,Republic of Moldova,2022,Percentage of individuals using the internet,63.5
@@ -1177,16 +1177,16 @@
 642,Romania,2020,Percentage of individuals using the internet,78.5
 642,Romania,2021,Percentage of individuals using the internet,83.6
 642,Romania,2022,Percentage of individuals using the internet,85.5
-643,Russian Federation,2000,Percentage of individuals using the internet,2
+643,Russian Federation,2000,Percentage of individuals using the internet,2.0
 643,Russian Federation,2005,Percentage of individuals using the internet,15.2
-643,Russian Federation,2010,Percentage of individuals using the internet,49
+643,Russian Federation,2010,Percentage of individuals using the internet,49.0
 643,Russian Federation,2015,Percentage of individuals using the internet,70.1
-643,Russian Federation,2020,Percentage of individuals using the internet,85
+643,Russian Federation,2020,Percentage of individuals using the internet,85.0
 643,Russian Federation,2021,Percentage of individuals using the internet,88.2
 643,Russian Federation,2022,Percentage of individuals using the internet,90.4
 646,Rwanda,2000,Percentage of individuals using the internet,0.1
 646,Rwanda,2005,Percentage of individuals using the internet,0.6
-646,Rwanda,2010,Percentage of individuals using the internet,8
+646,Rwanda,2010,Percentage of individuals using the internet,8.0
 646,Rwanda,2015,Percentage of individuals using the internet,12.5
 646,Rwanda,2020,Percentage of individuals using the internet,23.8
 646,Rwanda,2021,Percentage of individuals using the internet,29.4
@@ -1195,10 +1195,10 @@
 654,Saint Helena,2005,Percentage of individuals using the internet,15.9
 654,Saint Helena,2010,Percentage of individuals using the internet,24.9
 655,Ascension,2000,Percentage of individuals using the internet,34.9
-655,Ascension,2010,Percentage of individuals using the internet,35
+655,Ascension,2010,Percentage of individuals using the internet,35.0
 659,Saint Kitts and Nevis,2000,Percentage of individuals using the internet,5.9
-659,Saint Kitts and Nevis,2005,Percentage of individuals using the internet,34
-659,Saint Kitts and Nevis,2010,Percentage of individuals using the internet,63
+659,Saint Kitts and Nevis,2005,Percentage of individuals using the internet,34.0
+659,Saint Kitts and Nevis,2010,Percentage of individuals using the internet,63.0
 659,Saint Kitts and Nevis,2015,Percentage of individuals using the internet,66.2
 659,Saint Kitts and Nevis,2020,Percentage of individuals using the internet,70.3
 659,Saint Kitts and Nevis,2021,Percentage of individuals using the internet,69.1
@@ -1219,14 +1219,14 @@
 670,Saint Vincent & Grenadines,2022,Percentage of individuals using the internet,77.7
 882,Samoa,2000,Percentage of individuals using the internet,0.6
 882,Samoa,2005,Percentage of individuals using the internet,3.4
-882,Samoa,2010,Percentage of individuals using the internet,7
+882,Samoa,2010,Percentage of individuals using the internet,7.0
 882,Samoa,2015,Percentage of individuals using the internet,25.4
-882,Samoa,2020,Percentage of individuals using the internet,70
+882,Samoa,2020,Percentage of individuals using the internet,70.0
 882,Samoa,2021,Percentage of individuals using the internet,76.3
 882,Samoa,2022,Percentage of individuals using the internet,75.3
 674,San Marino,2000,Percentage of individuals using the internet,48.8
 674,San Marino,2005,Percentage of individuals using the internet,50.3
-674,San Marino,2020,Percentage of individuals using the internet,78
+674,San Marino,2020,Percentage of individuals using the internet,78.0
 674,San Marino,2021,Percentage of individuals using the internet,81.7
 674,San Marino,2022,Percentage of individuals using the internet,85.1
 678,Sao Tome and Principe,2000,Percentage of individuals using the internet,4.6
@@ -1235,21 +1235,21 @@
 678,Sao Tome and Principe,2015,Percentage of individuals using the internet,25.8
 678,Sao Tome and Principe,2020,Percentage of individuals using the internet,51.6
 678,Sao Tome and Principe,2021,Percentage of individuals using the internet,56.1
-678,Sao Tome and Principe,2022,Percentage of individuals using the internet,57
+678,Sao Tome and Principe,2022,Percentage of individuals using the internet,57.0
 682,Saudi Arabia,2000,Percentage of individuals using the internet,2.2
 682,Saudi Arabia,2005,Percentage of individuals using the internet,12.7
-682,Saudi Arabia,2010,Percentage of individuals using the internet,41
+682,Saudi Arabia,2010,Percentage of individuals using the internet,41.0
 682,Saudi Arabia,2015,Percentage of individuals using the internet,69.6
 682,Saudi Arabia,2020,Percentage of individuals using the internet,97.9
-682,Saudi Arabia,2021,Percentage of individuals using the internet,100
-682,Saudi Arabia,2022,Percentage of individuals using the internet,100
+682,Saudi Arabia,2021,Percentage of individuals using the internet,100.0
+682,Saudi Arabia,2022,Percentage of individuals using the internet,100.0
 686,Senegal,2000,Percentage of individuals using the internet,0.4
 686,Senegal,2005,Percentage of individuals using the internet,4.8
-686,Senegal,2010,Percentage of individuals using the internet,8
+686,Senegal,2010,Percentage of individuals using the internet,8.0
 686,Senegal,2015,Percentage of individuals using the internet,21.7
 686,Senegal,2020,Percentage of individuals using the internet,53.3
-686,Senegal,2021,Percentage of individuals using the internet,55
-686,Senegal,2022,Percentage of individuals using the internet,60
+686,Senegal,2021,Percentage of individuals using the internet,55.0
+686,Senegal,2022,Percentage of individuals using the internet,60.0
 688,Serbia,2005,Percentage of individuals using the internet,26.3
 688,Serbia,2010,Percentage of individuals using the internet,40.9
 688,Serbia,2015,Percentage of individuals using the internet,65.3
@@ -1259,7 +1259,7 @@
 891,Serbia and Monten. [former],2000,Percentage of individuals using the internet,3.8
 690,Seychelles,2000,Percentage of individuals using the internet,7.4
 690,Seychelles,2005,Percentage of individuals using the internet,25.4
-690,Seychelles,2010,Percentage of individuals using the internet,41
+690,Seychelles,2010,Percentage of individuals using the internet,41.0
 690,Seychelles,2015,Percentage of individuals using the internet,54.3
 690,Seychelles,2020,Percentage of individuals using the internet,84.8
 690,Seychelles,2021,Percentage of individuals using the internet,80.7
@@ -1271,13 +1271,13 @@
 694,Sierra Leone,2020,Percentage of individuals using the internet,27.5
 694,Sierra Leone,2021,Percentage of individuals using the internet,27.6
 694,Sierra Leone,2022,Percentage of individuals using the internet,30.4
-702,Singapore,2000,Percentage of individuals using the internet,36
-702,Singapore,2005,Percentage of individuals using the internet,61
-702,Singapore,2010,Percentage of individuals using the internet,71
-702,Singapore,2015,Percentage of individuals using the internet,79
-702,Singapore,2020,Percentage of individuals using the internet,92
+702,Singapore,2000,Percentage of individuals using the internet,36.0
+702,Singapore,2005,Percentage of individuals using the internet,61.0
+702,Singapore,2010,Percentage of individuals using the internet,71.0
+702,Singapore,2015,Percentage of individuals using the internet,79.0
+702,Singapore,2020,Percentage of individuals using the internet,92.0
 702,Singapore,2021,Percentage of individuals using the internet,96.9
-702,Singapore,2022,Percentage of individuals using the internet,96
+702,Singapore,2022,Percentage of individuals using the internet,96.0
 703,Slovakia,2000,Percentage of individuals using the internet,9.4
 703,Slovakia,2005,Percentage of individuals using the internet,55.2
 703,Slovakia,2010,Percentage of individuals using the internet,75.7
@@ -1287,32 +1287,32 @@
 703,Slovakia,2022,Percentage of individuals using the internet,91.4
 705,Slovenia,2000,Percentage of individuals using the internet,15.1
 705,Slovenia,2005,Percentage of individuals using the internet,46.8
-705,Slovenia,2010,Percentage of individuals using the internet,70
+705,Slovenia,2010,Percentage of individuals using the internet,70.0
 705,Slovenia,2015,Percentage of individuals using the internet,73.1
 705,Slovenia,2020,Percentage of individuals using the internet,86.6
-705,Slovenia,2021,Percentage of individuals using the internet,89
+705,Slovenia,2021,Percentage of individuals using the internet,89.0
 705,Slovenia,2022,Percentage of individuals using the internet,88.9
 90,Solomon Islands,2000,Percentage of individuals using the internet,0.5
 90,Solomon Islands,2005,Percentage of individuals using the internet,0.8
-90,Solomon Islands,2010,Percentage of individuals using the internet,5
-90,Solomon Islands,2015,Percentage of individuals using the internet,10
+90,Solomon Islands,2010,Percentage of individuals using the internet,5.0
+90,Solomon Islands,2015,Percentage of individuals using the internet,10.0
 90,Solomon Islands,2020,Percentage of individuals using the internet,39.6
 90,Solomon Islands,2021,Percentage of individuals using the internet,47.3
-90,Solomon Islands,2022,Percentage of individuals using the internet,45
-706,Somalia,2000,Percentage of individuals using the internet,0
+90,Solomon Islands,2022,Percentage of individuals using the internet,45.0
+706,Somalia,2000,Percentage of individuals using the internet,0.0
 706,Somalia,2005,Percentage of individuals using the internet,1.1
 706,Somalia,2015,Percentage of individuals using the internet,1.8
-706,Somalia,2020,Percentage of individuals using the internet,15
+706,Somalia,2020,Percentage of individuals using the internet,15.0
 706,Somalia,2021,Percentage of individuals using the internet,19.9
 706,Somalia,2022,Percentage of individuals using the internet,27.6
 710,South Africa,2000,Percentage of individuals using the internet,5.3
 710,South Africa,2005,Percentage of individuals using the internet,7.5
-710,South Africa,2010,Percentage of individuals using the internet,24
+710,South Africa,2010,Percentage of individuals using the internet,24.0
 710,South Africa,2015,Percentage of individuals using the internet,51.9
 710,South Africa,2020,Percentage of individuals using the internet,72.1
 710,South Africa,2021,Percentage of individuals using the internet,74.2
 710,South Africa,2022,Percentage of individuals using the internet,74.7
-728,South Sudan,2015,Percentage of individuals using the internet,3
+728,South Sudan,2015,Percentage of individuals using the internet,3.0
 728,South Sudan,2020,Percentage of individuals using the internet,9.3
 728,South Sudan,2021,Percentage of individuals using the internet,9.6
 728,South Sudan,2022,Percentage of individuals using the internet,12.1
@@ -1330,13 +1330,13 @@
 144,Sri Lanka,2021,Percentage of individuals using the internet,44.5
 144,Sri Lanka,2022,Percentage of individuals using the internet,50.1
 275,State of Palestine,2000,Percentage of individuals using the internet,1.1
-275,State of Palestine,2005,Percentage of individuals using the internet,16
+275,State of Palestine,2005,Percentage of individuals using the internet,16.0
 275,State of Palestine,2010,Percentage of individuals using the internet,37.4
 275,State of Palestine,2015,Percentage of individuals using the internet,56.7
-275,State of Palestine,2020,Percentage of individuals using the internet,76
+275,State of Palestine,2020,Percentage of individuals using the internet,76.0
 275,State of Palestine,2021,Percentage of individuals using the internet,81.8
 275,State of Palestine,2022,Percentage of individuals using the internet,88.6
-729,Sudan,2000,Percentage of individuals using the internet,0
+729,Sudan,2000,Percentage of individuals using the internet,0.0
 729,Sudan,2005,Percentage of individuals using the internet,1.3
 729,Sudan,2020,Percentage of individuals using the internet,26.4
 729,Sudan,2021,Percentage of individuals using the internet,27.6
@@ -1346,15 +1346,15 @@
 740,Suriname,2010,Percentage of individuals using the internet,31.6
 740,Suriname,2015,Percentage of individuals using the internet,42.8
 740,Suriname,2020,Percentage of individuals using the internet,69.8
-740,Suriname,2021,Percentage of individuals using the internet,72
+740,Suriname,2021,Percentage of individuals using the internet,72.0
 740,Suriname,2022,Percentage of individuals using the internet,75.8
 752,Sweden,2000,Percentage of individuals using the internet,45.7
 752,Sweden,2005,Percentage of individuals using the internet,84.8
-752,Sweden,2010,Percentage of individuals using the internet,90
+752,Sweden,2010,Percentage of individuals using the internet,90.0
 752,Sweden,2015,Percentage of individuals using the internet,90.6
 752,Sweden,2020,Percentage of individuals using the internet,94.5
 752,Sweden,2021,Percentage of individuals using the internet,94.7
-752,Sweden,2022,Percentage of individuals using the internet,95
+752,Sweden,2022,Percentage of individuals using the internet,95.0
 756,Switzerland,2000,Percentage of individuals using the internet,47.1
 756,Switzerland,2005,Percentage of individuals using the internet,70.1
 756,Switzerland,2010,Percentage of individuals using the internet,83.9
@@ -1365,46 +1365,46 @@
 760,Syrian Arab Republic,2000,Percentage of individuals using the internet,0.2
 760,Syrian Arab Republic,2005,Percentage of individuals using the internet,5.6
 760,Syrian Arab Republic,2010,Percentage of individuals using the internet,20.7
-760,Syrian Arab Republic,2015,Percentage of individuals using the internet,30
-762,Tajikistan,2000,Percentage of individuals using the internet,0
+760,Syrian Arab Republic,2015,Percentage of individuals using the internet,30.0
+762,Tajikistan,2000,Percentage of individuals using the internet,0.0
 762,Tajikistan,2005,Percentage of individuals using the internet,0.3
 762,Tajikistan,2010,Percentage of individuals using the internet,11.6
-762,Tajikistan,2015,Percentage of individuals using the internet,19
+762,Tajikistan,2015,Percentage of individuals using the internet,19.0
 762,Tajikistan,2020,Percentage of individuals using the internet,27.5
 762,Tajikistan,2021,Percentage of individuals using the internet,28.3
 762,Tajikistan,2022,Percentage of individuals using the internet,36.1
 764,Thailand,2000,Percentage of individuals using the internet,3.7
-764,Thailand,2005,Percentage of individuals using the internet,15
+764,Thailand,2005,Percentage of individuals using the internet,15.0
 764,Thailand,2010,Percentage of individuals using the internet,22.4
 764,Thailand,2015,Percentage of individuals using the internet,39.3
 764,Thailand,2020,Percentage of individuals using the internet,77.8
 764,Thailand,2021,Percentage of individuals using the internet,85.3
-764,Thailand,2022,Percentage of individuals using the internet,88
+764,Thailand,2022,Percentage of individuals using the internet,88.0
 626,Timor-Leste,2005,Percentage of individuals using the internet,0.1
-626,Timor-Leste,2010,Percentage of individuals using the internet,3
+626,Timor-Leste,2010,Percentage of individuals using the internet,3.0
 626,Timor-Leste,2015,Percentage of individuals using the internet,18.6
-626,Timor-Leste,2020,Percentage of individuals using the internet,32
+626,Timor-Leste,2020,Percentage of individuals using the internet,32.0
 626,Timor-Leste,2021,Percentage of individuals using the internet,35.5
 626,Timor-Leste,2022,Percentage of individuals using the internet,40.8
 768,Togo,2000,Percentage of individuals using the internet,0.8
 768,Togo,2005,Percentage of individuals using the internet,1.8
-768,Togo,2010,Percentage of individuals using the internet,3
+768,Togo,2010,Percentage of individuals using the internet,3.0
 768,Togo,2015,Percentage of individuals using the internet,7.1
-768,Togo,2020,Percentage of individuals using the internet,29
+768,Togo,2020,Percentage of individuals using the internet,29.0
 768,Togo,2021,Percentage of individuals using the internet,32.5
 768,Togo,2022,Percentage of individuals using the internet,37.6
 776,Tonga,2000,Percentage of individuals using the internet,2.4
 776,Tonga,2005,Percentage of individuals using the internet,4.9
-776,Tonga,2010,Percentage of individuals using the internet,16
+776,Tonga,2010,Percentage of individuals using the internet,16.0
 776,Tonga,2015,Percentage of individuals using the internet,38.7
 776,Tonga,2021,Percentage of individuals using the internet,57.5
 780,Trinidad and Tobago,2000,Percentage of individuals using the internet,7.7
-780,Trinidad and Tobago,2005,Percentage of individuals using the internet,29
+780,Trinidad and Tobago,2005,Percentage of individuals using the internet,29.0
 780,Trinidad and Tobago,2010,Percentage of individuals using the internet,48.5
 780,Trinidad and Tobago,2015,Percentage of individuals using the internet,65.1
 780,Trinidad and Tobago,2020,Percentage of individuals using the internet,77.3
-780,Trinidad and Tobago,2021,Percentage of individuals using the internet,79
-780,Trinidad and Tobago,2022,Percentage of individuals using the internet,80
+780,Trinidad and Tobago,2021,Percentage of individuals using the internet,79.0
+780,Trinidad and Tobago,2022,Percentage of individuals using the internet,80.0
 788,Tunisia,2000,Percentage of individuals using the internet,2.8
 788,Tunisia,2005,Percentage of individuals using the internet,9.7
 788,Tunisia,2010,Percentage of individuals using the internet,36.8
@@ -1420,9 +1420,9 @@
 792,Türkiye,2021,Percentage of individuals using the internet,81.4
 792,Türkiye,2022,Percentage of individuals using the internet,83.4
 795,Turkmenistan,2000,Percentage of individuals using the internet,0.1
-795,Turkmenistan,2005,Percentage of individuals using the internet,1
-795,Turkmenistan,2010,Percentage of individuals using the internet,3
-795,Turkmenistan,2015,Percentage of individuals using the internet,15
+795,Turkmenistan,2005,Percentage of individuals using the internet,1.0
+795,Turkmenistan,2010,Percentage of individuals using the internet,3.0
+795,Turkmenistan,2015,Percentage of individuals using the internet,15.0
 798,Tuvalu,2000,Percentage of individuals using the internet,5.2
 798,Tuvalu,2005,Percentage of individuals using the internet,8.3
 798,Tuvalu,2010,Percentage of individuals using the internet,14.6
@@ -1435,36 +1435,36 @@
 800,Uganda,2010,Percentage of individuals using the internet,4.3
 800,Uganda,2015,Percentage of individuals using the internet,5.8
 800,Uganda,2020,Percentage of individuals using the internet,7.4
-800,Uganda,2021,Percentage of individuals using the internet,10
+800,Uganda,2021,Percentage of individuals using the internet,10.0
 804,Ukraine,2000,Percentage of individuals using the internet,0.7
 804,Ukraine,2005,Percentage of individuals using the internet,3.7
 804,Ukraine,2010,Percentage of individuals using the internet,23.3
 804,Ukraine,2015,Percentage of individuals using the internet,48.9
-804,Ukraine,2020,Percentage of individuals using the internet,75
+804,Ukraine,2020,Percentage of individuals using the internet,75.0
 804,Ukraine,2021,Percentage of individuals using the internet,79.2
 784,United Arab Emirates,2000,Percentage of individuals using the internet,23.6
-784,United Arab Emirates,2005,Percentage of individuals using the internet,40
-784,United Arab Emirates,2010,Percentage of individuals using the internet,68
+784,United Arab Emirates,2005,Percentage of individuals using the internet,40.0
+784,United Arab Emirates,2010,Percentage of individuals using the internet,68.0
 784,United Arab Emirates,2015,Percentage of individuals using the internet,90.5
-784,United Arab Emirates,2020,Percentage of individuals using the internet,100
-784,United Arab Emirates,2021,Percentage of individuals using the internet,100
-784,United Arab Emirates,2022,Percentage of individuals using the internet,100
+784,United Arab Emirates,2020,Percentage of individuals using the internet,100.0
+784,United Arab Emirates,2021,Percentage of individuals using the internet,100.0
+784,United Arab Emirates,2022,Percentage of individuals using the internet,100.0
 826,United Kingdom,2000,Percentage of individuals using the internet,26.8
-826,United Kingdom,2005,Percentage of individuals using the internet,70
-826,United Kingdom,2010,Percentage of individuals using the internet,85
-826,United Kingdom,2015,Percentage of individuals using the internet,92
+826,United Kingdom,2005,Percentage of individuals using the internet,70.0
+826,United Kingdom,2010,Percentage of individuals using the internet,85.0
+826,United Kingdom,2015,Percentage of individuals using the internet,92.0
 826,United Kingdom,2020,Percentage of individuals using the internet,94.8
 826,United Kingdom,2021,Percentage of individuals using the internet,95.3
 826,United Kingdom,2022,Percentage of individuals using the internet,95.3
 834,United Rep. of Tanzania,2000,Percentage of individuals using the internet,0.1
 834,United Rep. of Tanzania,2005,Percentage of individuals using the internet,1.1
 834,United Rep. of Tanzania,2010,Percentage of individuals using the internet,2.9
-834,United Rep. of Tanzania,2015,Percentage of individuals using the internet,10
+834,United Rep. of Tanzania,2015,Percentage of individuals using the internet,10.0
 834,United Rep. of Tanzania,2020,Percentage of individuals using the internet,25.6
 834,United Rep. of Tanzania,2021,Percentage of individuals using the internet,29.7
 834,United Rep. of Tanzania,2022,Percentage of individuals using the internet,31.9
 840,United States of America,2000,Percentage of individuals using the internet,43.1
-840,United States of America,2005,Percentage of individuals using the internet,68
+840,United States of America,2005,Percentage of individuals using the internet,68.0
 840,United States of America,2010,Percentage of individuals using the internet,71.7
 840,United States of America,2015,Percentage of individuals using the internet,74.6
 840,United States of America,2020,Percentage of individuals using the internet,96.6
@@ -1490,7 +1490,7 @@
 860,Uzbekistan,2022,Percentage of individuals using the internet,83.9
 548,Vanuatu,2000,Percentage of individuals using the internet,2.1
 548,Vanuatu,2005,Percentage of individuals using the internet,5.1
-548,Vanuatu,2010,Percentage of individuals using the internet,8
+548,Vanuatu,2010,Percentage of individuals using the internet,8.0
 548,Vanuatu,2015,Percentage of individuals using the internet,22.4
 548,Vanuatu,2020,Percentage of individuals using the internet,64.3
 548,Vanuatu,2021,Percentage of individuals using the internet,68.6
@@ -1498,11 +1498,11 @@
 862,Venezuela (Boliv. Rep. of),2000,Percentage of individuals using the internet,3.4
 862,Venezuela (Boliv. Rep. of),2005,Percentage of individuals using the internet,12.6
 862,Venezuela (Boliv. Rep. of),2010,Percentage of individuals using the internet,37.4
-862,Venezuela (Boliv. Rep. of),2015,Percentage of individuals using the internet,58
+862,Venezuela (Boliv. Rep. of),2015,Percentage of individuals using the internet,58.0
 704,Viet Nam,2000,Percentage of individuals using the internet,0.3
 704,Viet Nam,2005,Percentage of individuals using the internet,12.7
 704,Viet Nam,2010,Percentage of individuals using the internet,30.7
-704,Viet Nam,2015,Percentage of individuals using the internet,45
+704,Viet Nam,2015,Percentage of individuals using the internet,45.0
 704,Viet Nam,2020,Percentage of individuals using the internet,70.3
 704,Viet Nam,2021,Percentage of individuals using the internet,74.2
 704,Viet Nam,2022,Percentage of individuals using the internet,78.6
@@ -1510,7 +1510,7 @@
 876,Wallis and Futuna Islands,2005,Percentage of individuals using the internet,6.7
 876,Wallis and Futuna Islands,2010,Percentage of individuals using the internet,8.2
 887,Yemen,2000,Percentage of individuals using the internet,0.1
-887,Yemen,2005,Percentage of individuals using the internet,1
+887,Yemen,2005,Percentage of individuals using the internet,1.0
 887,Yemen,2010,Percentage of individuals using the internet,12.4
 887,Yemen,2015,Percentage of individuals using the internet,24.1
 887,Yemen,2020,Percentage of individuals using the internet,13.8
@@ -1518,10 +1518,10 @@
 887,Yemen,2022,Percentage of individuals using the internet,17.7
 894,Zambia,2000,Percentage of individuals using the internet,0.2
 894,Zambia,2005,Percentage of individuals using the internet,1.3
-894,Zambia,2010,Percentage of individuals using the internet,3
+894,Zambia,2010,Percentage of individuals using the internet,3.0
 894,Zambia,2015,Percentage of individuals using the internet,8.8
 894,Zambia,2020,Percentage of individuals using the internet,24.5
-894,Zambia,2021,Percentage of individuals using the internet,27
+894,Zambia,2021,Percentage of individuals using the internet,27.0
 894,Zambia,2022,Percentage of individuals using the internet,31.2
 716,Zimbabwe,2000,Percentage of individuals using the internet,0.4
 716,Zimbabwe,2005,Percentage of individuals using the internet,2.4
@@ -1536,7 +1536,7 @@
 199,LDC§,2015,Percentage of individuals using the internet,10.7
 199,LDC§,2020,Percentage of individuals using the internet,26.9
 199,LDC§,2021,Percentage of individuals using the internet,29.5
-199,LDC§,2022,Percentage of individuals using the internet,32
+199,LDC§,2022,Percentage of individuals using the internet,32.0
 432,LLDCs,2000,Percentage of individuals using the internet,0.5
 432,LLDCs,2005,Percentage of individuals using the internet,1.9
 432,LLDCs,2010,Percentage of individuals using the internet,7.7
@@ -1544,10 +1544,10 @@
 432,LLDCs,2020,Percentage of individuals using the internet,29.9
 432,LLDCs,2021,Percentage of individuals using the internet,32.6
 432,LLDCs,2022,Percentage of individuals using the internet,35.8
-722,SIDS,2000,Percentage of individuals using the internet,6
+722,SIDS,2000,Percentage of individuals using the internet,6.0
 722,SIDS,2005,Percentage of individuals using the internet,13.1
 722,SIDS,2010,Percentage of individuals using the internet,22.2
 722,SIDS,2015,Percentage of individuals using the internet,36.3
 722,SIDS,2020,Percentage of individuals using the internet,61.3
 722,SIDS,2021,Percentage of individuals using the internet,63.6
-722,SIDS,2022,Percentage of individuals using the internet,65
+722,SIDS,2022,Percentage of individuals using the internet,65.0

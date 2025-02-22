@@ -1,4 +1,4 @@
-﻿Region/Country/Area,,Year,Series,Value
+Region/Country/Area,Country/Region Name,Year,Series,Value
 4,Afghanistan,2005,Current health expenditure (% of GDP),9.9
 4,Afghanistan,2010,Current health expenditure (% of GDP),8.6
 4,Afghanistan,2015,Current health expenditure (% of GDP),10.1
@@ -7,7 +7,7 @@
 4,Afghanistan,2021,Current health expenditure (% of GDP),21.8
 4,Afghanistan,2005,Domestic general government health expenditure (% of total government expenditure),3.4
 4,Afghanistan,2010,Domestic general government health expenditure (% of total government expenditure),2.3
-4,Afghanistan,2015,Domestic general government health expenditure (% of total government expenditure),2
+4,Afghanistan,2015,Domestic general government health expenditure (% of total government expenditure),2.0
 4,Afghanistan,2019,Domestic general government health expenditure (% of total government expenditure),1.8
 4,Afghanistan,2020,Domestic general government health expenditure (% of total government expenditure),4.2
 4,Afghanistan,2021,Domestic general government health expenditure (% of total government expenditure),4.1
@@ -25,7 +25,7 @@
 8,Albania,2021,Domestic general government health expenditure (% of total government expenditure),9.1
 12,Algeria,2005,Current health expenditure (% of GDP),3.2
 12,Algeria,2010,Current health expenditure (% of GDP),5.1
-12,Algeria,2015,Current health expenditure (% of GDP),7
+12,Algeria,2015,Current health expenditure (% of GDP),7.0
 12,Algeria,2019,Current health expenditure (% of GDP),5.9
 12,Algeria,2020,Current health expenditure (% of GDP),6.1
 12,Algeria,2021,Current health expenditure (% of GDP),5.5
@@ -52,14 +52,14 @@
 24,Angola,2015,Current health expenditure (% of GDP),2.6
 24,Angola,2019,Current health expenditure (% of GDP),2.5
 24,Angola,2020,Current health expenditure (% of GDP),3.2
-24,Angola,2021,Current health expenditure (% of GDP),3
+24,Angola,2021,Current health expenditure (% of GDP),3.0
 24,Angola,2005,Domestic general government health expenditure (% of total government expenditure),4.8
 24,Angola,2010,Domestic general government health expenditure (% of total government expenditure),4.2
 24,Angola,2015,Domestic general government health expenditure (% of total government expenditure),4.6
 24,Angola,2019,Domestic general government health expenditure (% of total government expenditure),5.5
 24,Angola,2020,Domestic general government health expenditure (% of total government expenditure),7.3
 24,Angola,2021,Domestic general government health expenditure (% of total government expenditure),8.8
-28,Antigua and Barbuda,2005,Current health expenditure (% of GDP),5
+28,Antigua and Barbuda,2005,Current health expenditure (% of GDP),5.0
 28,Antigua and Barbuda,2010,Current health expenditure (% of GDP),5.4
 28,Antigua and Barbuda,2015,Current health expenditure (% of GDP),5.3
 28,Antigua and Barbuda,2019,Current health expenditure (% of GDP),4.4
@@ -74,10 +74,10 @@
 32,Argentina,2005,Current health expenditure (% of GDP),7.6
 32,Argentina,2010,Current health expenditure (% of GDP),9.4
 32,Argentina,2015,Current health expenditure (% of GDP),10.2
-32,Argentina,2019,Current health expenditure (% of GDP),10
+32,Argentina,2019,Current health expenditure (% of GDP),10.0
 32,Argentina,2020,Current health expenditure (% of GDP),10.3
 32,Argentina,2021,Current health expenditure (% of GDP),9.7
-32,Argentina,2005,Domestic general government health expenditure (% of total government expenditure),16
+32,Argentina,2005,Domestic general government health expenditure (% of total government expenditure),16.0
 32,Argentina,2010,Domestic general government health expenditure (% of total government expenditure),16.7
 32,Argentina,2015,Domestic general government health expenditure (% of total government expenditure),16.5
 32,Argentina,2019,Domestic general government health expenditure (% of total government expenditure),16.1
@@ -95,7 +95,7 @@
 51,Armenia,2019,Domestic general government health expenditure (% of total government expenditure),5.7
 51,Armenia,2020,Domestic general government health expenditure (% of total government expenditure),7.7
 51,Armenia,2021,Domestic general government health expenditure (% of total government expenditure),7.6
-36,Australia,2005,Current health expenditure (% of GDP),8
+36,Australia,2005,Current health expenditure (% of GDP),8.0
 36,Australia,2010,Current health expenditure (% of GDP),8.4
 36,Australia,2015,Current health expenditure (% of GDP),10.2
 36,Australia,2019,Current health expenditure (% of GDP),10.2
@@ -114,7 +114,7 @@
 40,Austria,2020,Current health expenditure (% of GDP),11.4
 40,Austria,2021,Current health expenditure (% of GDP),12.1
 40,Austria,2005,Domestic general government health expenditure (% of total government expenditure),13.7
-40,Austria,2010,Domestic general government health expenditure (% of total government expenditure),14
+40,Austria,2010,Domestic general government health expenditure (% of total government expenditure),14.0
 40,Austria,2015,Domestic general government health expenditure (% of total government expenditure),14.7
 40,Austria,2019,Domestic general government health expenditure (% of total government expenditure),16.1
 40,Austria,2020,Domestic general government health expenditure (% of total government expenditure),15.4
@@ -125,13 +125,13 @@
 31,Azerbaijan,2019,Current health expenditure (% of GDP),4.2
 31,Azerbaijan,2020,Current health expenditure (% of GDP),5.8
 31,Azerbaijan,2021,Current health expenditure (% of GDP),4.7
-31,Azerbaijan,2005,Domestic general government health expenditure (% of total government expenditure),4
+31,Azerbaijan,2005,Domestic general government health expenditure (% of total government expenditure),4.0
 31,Azerbaijan,2010,Domestic general government health expenditure (% of total government expenditure),3.2
 31,Azerbaijan,2015,Domestic general government health expenditure (% of total government expenditure),3.4
 31,Azerbaijan,2019,Domestic general government health expenditure (% of total government expenditure),3.3
 31,Azerbaijan,2020,Domestic general government health expenditure (% of total government expenditure),5.8
 31,Azerbaijan,2021,Domestic general government health expenditure (% of total government expenditure),4.6
-44,Bahamas,2005,Current health expenditure (% of GDP),4
+44,Bahamas,2005,Current health expenditure (% of GDP),4.0
 44,Bahamas,2010,Current health expenditure (% of GDP),5.3
 44,Bahamas,2015,Current health expenditure (% of GDP),5.2
 44,Bahamas,2019,Current health expenditure (% of GDP),5.8
@@ -140,13 +140,13 @@
 44,Bahamas,2005,Domestic general government health expenditure (% of total government expenditure),12.9
 44,Bahamas,2010,Domestic general government health expenditure (% of total government expenditure),15.4
 44,Bahamas,2015,Domestic general government health expenditure (% of total government expenditure),12.8
-44,Bahamas,2019,Domestic general government health expenditure (% of total government expenditure),15
+44,Bahamas,2019,Domestic general government health expenditure (% of total government expenditure),15.0
 44,Bahamas,2020,Domestic general government health expenditure (% of total government expenditure),15.4
 44,Bahamas,2021,Domestic general government health expenditure (% of total government expenditure),13.8
 48,Bahrain,2005,Current health expenditure (% of GDP),3.3
 48,Bahrain,2010,Current health expenditure (% of GDP),4.1
-48,Bahrain,2015,Current health expenditure (% of GDP),5
-48,Bahrain,2019,Current health expenditure (% of GDP),4
+48,Bahrain,2015,Current health expenditure (% of GDP),5.0
+48,Bahrain,2019,Current health expenditure (% of GDP),4.0
 48,Bahrain,2020,Current health expenditure (% of GDP),4.7
 48,Bahrain,2021,Current health expenditure (% of GDP),4.3
 48,Bahrain,2005,Domestic general government health expenditure (% of total government expenditure),9.1
@@ -177,7 +177,7 @@
 52,Barbados,2010,Domestic general government health expenditure (% of total government expenditure),10.7
 52,Barbados,2015,Domestic general government health expenditure (% of total government expenditure),9.1
 52,Barbados,2019,Domestic general government health expenditure (% of total government expenditure),10.6
-52,Barbados,2020,Domestic general government health expenditure (% of total government expenditure),11
+52,Barbados,2020,Domestic general government health expenditure (% of total government expenditure),11.0
 52,Barbados,2021,Domestic general government health expenditure (% of total government expenditure),12.4
 112,Belarus,2005,Current health expenditure (% of GDP),6.1
 112,Belarus,2010,Current health expenditure (% of GDP),5.7
@@ -188,7 +188,7 @@
 112,Belarus,2005,Domestic general government health expenditure (% of total government expenditure),10.1
 112,Belarus,2010,Domestic general government health expenditure (% of total government expenditure),8.7
 112,Belarus,2015,Domestic general government health expenditure (% of total government expenditure),8.8
-112,Belarus,2019,Domestic general government health expenditure (% of total government expenditure),11
+112,Belarus,2019,Domestic general government health expenditure (% of total government expenditure),11.0
 112,Belarus,2020,Domestic general government health expenditure (% of total government expenditure),11.9
 112,Belarus,2021,Domestic general government health expenditure (% of total government expenditure),13.1
 56,Belgium,2005,Current health expenditure (% of GDP),9.2
@@ -196,7 +196,7 @@
 56,Belgium,2015,Current health expenditure (% of GDP),10.8
 56,Belgium,2019,Current health expenditure (% of GDP),10.8
 56,Belgium,2020,Current health expenditure (% of GDP),11.2
-56,Belgium,2021,Current health expenditure (% of GDP),11
+56,Belgium,2021,Current health expenditure (% of GDP),11.0
 56,Belgium,2005,Domestic general government health expenditure (% of total government expenditure),13.3
 56,Belgium,2010,Domestic general government health expenditure (% of total government expenditure),14.4
 56,Belgium,2015,Domestic general government health expenditure (% of total government expenditure),15.4
@@ -208,7 +208,7 @@
 84,Belize,2015,Current health expenditure (% of GDP),4.7
 84,Belize,2019,Current health expenditure (% of GDP),4.8
 84,Belize,2020,Current health expenditure (% of GDP),5.3
-84,Belize,2021,Current health expenditure (% of GDP),5
+84,Belize,2021,Current health expenditure (% of GDP),5.0
 84,Belize,2005,Domestic general government health expenditure (% of total government expenditure),8.3
 84,Belize,2010,Domestic general government health expenditure (% of total government expenditure),12.8
 84,Belize,2015,Domestic general government health expenditure (% of total government expenditure),11.3
@@ -216,7 +216,7 @@
 84,Belize,2020,Domestic general government health expenditure (% of total government expenditure),11.5
 84,Belize,2021,Domestic general government health expenditure (% of total government expenditure),13.7
 204,Benin,2005,Current health expenditure (% of GDP),3.2
-204,Benin,2010,Current health expenditure (% of GDP),3
+204,Benin,2010,Current health expenditure (% of GDP),3.0
 204,Benin,2015,Current health expenditure (% of GDP),2.7
 204,Benin,2019,Current health expenditure (% of GDP),2.5
 204,Benin,2020,Current health expenditure (% of GDP),2.5
@@ -243,7 +243,7 @@
 68,Bolivia (Plurin. State of),2010,Current health expenditure (% of GDP),5.2
 68,Bolivia (Plurin. State of),2015,Current health expenditure (% of GDP),6.6
 68,Bolivia (Plurin. State of),2019,Current health expenditure (% of GDP),6.9
-68,Bolivia (Plurin. State of),2020,Current health expenditure (% of GDP),8
+68,Bolivia (Plurin. State of),2020,Current health expenditure (% of GDP),8.0
 68,Bolivia (Plurin. State of),2021,Current health expenditure (% of GDP),8.2
 68,Bolivia (Plurin. State of),2005,Domestic general government health expenditure (% of total government expenditure),8.3
 68,Bolivia (Plurin. State of),2010,Domestic general government health expenditure (% of total government expenditure),9.7
@@ -252,14 +252,14 @@
 68,Bolivia (Plurin. State of),2020,Domestic general government health expenditure (% of total government expenditure),15.3
 68,Bolivia (Plurin. State of),2021,Domestic general government health expenditure (% of total government expenditure),17.1
 70,Bosnia and Herzegovina,2005,Current health expenditure (% of GDP),9.1
-70,Bosnia and Herzegovina,2010,Current health expenditure (% of GDP),9
+70,Bosnia and Herzegovina,2010,Current health expenditure (% of GDP),9.0
 70,Bosnia and Herzegovina,2015,Current health expenditure (% of GDP),9.2
 70,Bosnia and Herzegovina,2019,Current health expenditure (% of GDP),8.9
 70,Bosnia and Herzegovina,2020,Current health expenditure (% of GDP),9.7
 70,Bosnia and Herzegovina,2021,Current health expenditure (% of GDP),9.6
 70,Bosnia and Herzegovina,2005,Domestic general government health expenditure (% of total government expenditure),10.8
 70,Bosnia and Herzegovina,2010,Domestic general government health expenditure (% of total government expenditure),12.6
-70,Bosnia and Herzegovina,2015,Domestic general government health expenditure (% of total government expenditure),15
+70,Bosnia and Herzegovina,2015,Domestic general government health expenditure (% of total government expenditure),15.0
 70,Bosnia and Herzegovina,2019,Domestic general government health expenditure (% of total government expenditure),15.4
 70,Bosnia and Herzegovina,2020,Domestic general government health expenditure (% of total government expenditure),14.9
 70,Bosnia and Herzegovina,2021,Domestic general government health expenditure (% of total government expenditure),16.4
@@ -272,17 +272,17 @@
 72,Botswana,2005,Domestic general government health expenditure (% of total government expenditure),8.2
 72,Botswana,2010,Domestic general government health expenditure (% of total government expenditure),8.1
 72,Botswana,2015,Domestic general government health expenditure (% of total government expenditure),10.4
-72,Botswana,2019,Domestic general government health expenditure (% of total government expenditure),12
+72,Botswana,2019,Domestic general government health expenditure (% of total government expenditure),12.0
 72,Botswana,2020,Domestic general government health expenditure (% of total government expenditure),11.7
 72,Botswana,2021,Domestic general government health expenditure (% of total government expenditure),14.6
-76,Brazil,2005,Current health expenditure (% of GDP),8
+76,Brazil,2005,Current health expenditure (% of GDP),8.0
 76,Brazil,2010,Current health expenditure (% of GDP),7.9
 76,Brazil,2015,Current health expenditure (% of GDP),8.9
 76,Brazil,2019,Current health expenditure (% of GDP),9.6
 76,Brazil,2020,Current health expenditure (% of GDP),10.2
 76,Brazil,2021,Current health expenditure (% of GDP),9.9
 76,Brazil,2005,Domestic general government health expenditure (% of total government expenditure),8.4
-76,Brazil,2010,Domestic general government health expenditure (% of total government expenditure),9
+76,Brazil,2010,Domestic general government health expenditure (% of total government expenditure),9.0
 76,Brazil,2015,Domestic general government health expenditure (% of total government expenditure),8.9
 76,Brazil,2019,Domestic general government health expenditure (% of total government expenditure),9.2
 76,Brazil,2020,Domestic general government health expenditure (% of total government expenditure),9.6
@@ -311,14 +311,14 @@
 100,Bulgaria,2019,Domestic general government health expenditure (% of total government expenditure),11.6
 100,Bulgaria,2020,Domestic general government health expenditure (% of total government expenditure),12.2
 100,Bulgaria,2021,Domestic general government health expenditure (% of total government expenditure),12.9
-854,Burkina Faso,2005,Current health expenditure (% of GDP),4
+854,Burkina Faso,2005,Current health expenditure (% of GDP),4.0
 854,Burkina Faso,2010,Current health expenditure (% of GDP),5.2
 854,Burkina Faso,2015,Current health expenditure (% of GDP),5.1
 854,Burkina Faso,2019,Current health expenditure (% of GDP),5.3
 854,Burkina Faso,2020,Current health expenditure (% of GDP),6.5
 854,Burkina Faso,2021,Current health expenditure (% of GDP),6.4
-854,Burkina Faso,2005,Domestic general government health expenditure (% of total government expenditure),6
-854,Burkina Faso,2010,Domestic general government health expenditure (% of total government expenditure),6
+854,Burkina Faso,2005,Domestic general government health expenditure (% of total government expenditure),6.0
+854,Burkina Faso,2010,Domestic general government health expenditure (% of total government expenditure),6.0
 854,Burkina Faso,2015,Domestic general government health expenditure (% of total government expenditure),7.2
 854,Burkina Faso,2019,Domestic general government health expenditure (% of total government expenditure),9.6
 854,Burkina Faso,2020,Domestic general government health expenditure (% of total government expenditure),11.6
@@ -356,9 +356,9 @@
 116,Cambodia,2005,Domestic general government health expenditure (% of total government expenditure),9.9
 116,Cambodia,2010,Domestic general government health expenditure (% of total government expenditure),6.5
 116,Cambodia,2015,Domestic general government health expenditure (% of total government expenditure),6.6
-116,Cambodia,2019,Domestic general government health expenditure (% of total government expenditure),7
-116,Cambodia,2020,Domestic general government health expenditure (% of total government expenditure),7
-116,Cambodia,2021,Domestic general government health expenditure (% of total government expenditure),7
+116,Cambodia,2019,Domestic general government health expenditure (% of total government expenditure),7.0
+116,Cambodia,2020,Domestic general government health expenditure (% of total government expenditure),7.0
+116,Cambodia,2021,Domestic general government health expenditure (% of total government expenditure),7.0
 120,Cameroon,2005,Current health expenditure (% of GDP),3.8
 120,Cameroon,2010,Current health expenditure (% of GDP),3.6
 120,Cameroon,2015,Current health expenditure (% of GDP),3.6
@@ -371,23 +371,23 @@
 120,Cameroon,2019,Domestic general government health expenditure (% of total government expenditure),2.2
 120,Cameroon,2020,Domestic general government health expenditure (% of total government expenditure),3.7
 120,Cameroon,2021,Domestic general government health expenditure (% of total government expenditure),2.9
-124,Canada,2005,Current health expenditure (% of GDP),9
+124,Canada,2005,Current health expenditure (% of GDP),9.0
 124,Canada,2010,Current health expenditure (% of GDP),10.7
 124,Canada,2015,Current health expenditure (% of GDP),10.7
-124,Canada,2019,Current health expenditure (% of GDP),11
-124,Canada,2020,Current health expenditure (% of GDP),13
+124,Canada,2019,Current health expenditure (% of GDP),11.0
+124,Canada,2020,Current health expenditure (% of GDP),13.0
 124,Canada,2021,Current health expenditure (% of GDP),12.3
 124,Canada,2005,Domestic general government health expenditure (% of total government expenditure),17.1
 124,Canada,2010,Domestic general government health expenditure (% of total government expenditure),17.3
-124,Canada,2015,Domestic general government health expenditure (% of total government expenditure),19
+124,Canada,2015,Domestic general government health expenditure (% of total government expenditure),19.0
 124,Canada,2019,Domestic general government health expenditure (% of total government expenditure),18.9
 124,Canada,2020,Domestic general government health expenditure (% of total government expenditure),18.2
 124,Canada,2021,Domestic general government health expenditure (% of total government expenditure),19.6
 140,Central African Republic,2005,Current health expenditure (% of GDP),4.4
 140,Central African Republic,2010,Current health expenditure (% of GDP),3.6
-140,Central African Republic,2015,Current health expenditure (% of GDP),5
+140,Central African Republic,2015,Current health expenditure (% of GDP),5.0
 140,Central African Republic,2019,Current health expenditure (% of GDP),7.8
-140,Central African Republic,2020,Current health expenditure (% of GDP),9
+140,Central African Republic,2020,Current health expenditure (% of GDP),9.0
 140,Central African Republic,2021,Current health expenditure (% of GDP),9.1
 140,Central African Republic,2005,Domestic general government health expenditure (% of total government expenditure),6.4
 140,Central African Republic,2010,Domestic general government health expenditure (% of total government expenditure),3.3
@@ -415,8 +415,8 @@
 152,Chile,2021,Current health expenditure (% of GDP),9.3
 152,Chile,2005,Domestic general government health expenditure (% of total government expenditure),12.9
 152,Chile,2010,Domestic general government health expenditure (% of total government expenditure),13.7
-152,Chile,2015,Domestic general government health expenditure (% of total government expenditure),16
-152,Chile,2019,Domestic general government health expenditure (% of total government expenditure),18
+152,Chile,2015,Domestic general government health expenditure (% of total government expenditure),16.0
+152,Chile,2019,Domestic general government health expenditure (% of total government expenditure),18.0
 152,Chile,2020,Domestic general government health expenditure (% of total government expenditure),18.8
 152,Chile,2021,Domestic general government health expenditure (% of total government expenditure),15.5
 156,China,2005,Current health expenditure (% of GDP),4.2
@@ -436,15 +436,15 @@
 170,Colombia,2015,Current health expenditure (% of GDP),7.5
 170,Colombia,2019,Current health expenditure (% of GDP),7.8
 170,Colombia,2020,Current health expenditure (% of GDP),8.7
-170,Colombia,2021,Current health expenditure (% of GDP),9
+170,Colombia,2021,Current health expenditure (% of GDP),9.0
 170,Colombia,2005,Domestic general government health expenditure (% of total government expenditure),16.8
 170,Colombia,2010,Domestic general government health expenditure (% of total government expenditure),16.8
-170,Colombia,2015,Domestic general government health expenditure (% of total government expenditure),17
+170,Colombia,2015,Domestic general government health expenditure (% of total government expenditure),17.0
 170,Colombia,2019,Domestic general government health expenditure (% of total government expenditure),16.5
 170,Colombia,2020,Domestic general government health expenditure (% of total government expenditure),18.5
-170,Colombia,2021,Domestic general government health expenditure (% of total government expenditure),19
+170,Colombia,2021,Domestic general government health expenditure (% of total government expenditure),19.0
 174,Comoros,2005,Current health expenditure (% of GDP),6.1
-174,Comoros,2010,Current health expenditure (% of GDP),5
+174,Comoros,2010,Current health expenditure (% of GDP),5.0
 174,Comoros,2015,Current health expenditure (% of GDP),4.6
 174,Comoros,2019,Current health expenditure (% of GDP),5.2
 174,Comoros,2020,Current health expenditure (% of GDP),5.9
@@ -461,7 +461,7 @@
 178,Congo,2019,Current health expenditure (% of GDP),2.5
 178,Congo,2020,Current health expenditure (% of GDP),4.4
 178,Congo,2021,Current health expenditure (% of GDP),3.9
-178,Congo,2005,Domestic general government health expenditure (% of total government expenditure),2
+178,Congo,2005,Domestic general government health expenditure (% of total government expenditure),2.0
 178,Congo,2010,Domestic general government health expenditure (% of total government expenditure),3.6
 178,Congo,2015,Domestic general government health expenditure (% of total government expenditure),2.7
 178,Congo,2019,Domestic general government health expenditure (% of total government expenditure),5.1
@@ -480,7 +480,7 @@
 184,Cook Islands,2020,Domestic general government health expenditure (% of total government expenditure),7.1
 184,Cook Islands,2021,Domestic general government health expenditure (% of total government expenditure),7.8
 188,Costa Rica,2005,Current health expenditure (% of GDP),6.7
-188,Costa Rica,2010,Current health expenditure (% of GDP),8
+188,Costa Rica,2010,Current health expenditure (% of GDP),8.0
 188,Costa Rica,2015,Current health expenditure (% of GDP),7.6
 188,Costa Rica,2019,Current health expenditure (% of GDP),7.2
 188,Costa Rica,2020,Current health expenditure (% of GDP),7.8
@@ -491,7 +491,7 @@
 188,Costa Rica,2019,Domestic general government health expenditure (% of total government expenditure),24.1
 188,Costa Rica,2020,Domestic general government health expenditure (% of total government expenditure),25.2
 188,Costa Rica,2021,Domestic general government health expenditure (% of total government expenditure),25.4
-384,Côte d’Ivoire,2005,Current health expenditure (% of GDP),5
+384,Côte d’Ivoire,2005,Current health expenditure (% of GDP),5.0
 384,Côte d’Ivoire,2010,Current health expenditure (% of GDP),4.4
 384,Côte d’Ivoire,2015,Current health expenditure (% of GDP),3.2
 384,Côte d’Ivoire,2019,Current health expenditure (% of GDP),3.2
@@ -504,7 +504,7 @@
 384,Côte d’Ivoire,2020,Domestic general government health expenditure (% of total government expenditure),6.7
 384,Côte d’Ivoire,2021,Domestic general government health expenditure (% of total government expenditure),5.1
 191,Croatia,2005,Current health expenditure (% of GDP),6.8
-191,Croatia,2010,Current health expenditure (% of GDP),8
+191,Croatia,2010,Current health expenditure (% of GDP),8.0
 191,Croatia,2015,Current health expenditure (% of GDP),6.7
 191,Croatia,2019,Current health expenditure (% of GDP),6.8
 191,Croatia,2020,Current health expenditure (% of GDP),7.7
@@ -512,9 +512,9 @@
 191,Croatia,2005,Domestic general government health expenditure (% of total government expenditure),12.8
 191,Croatia,2010,Domestic general government health expenditure (% of total government expenditure),13.7
 191,Croatia,2015,Domestic general government health expenditure (% of total government expenditure),11.7
-191,Croatia,2019,Domestic general government health expenditure (% of total government expenditure),12
+191,Croatia,2019,Domestic general government health expenditure (% of total government expenditure),12.0
 191,Croatia,2020,Domestic general government health expenditure (% of total government expenditure),11.7
-191,Croatia,2021,Domestic general government health expenditure (% of total government expenditure),14
+191,Croatia,2021,Domestic general government health expenditure (% of total government expenditure),14.0
 192,Cuba,2005,Current health expenditure (% of GDP),8.8
 192,Cuba,2010,Current health expenditure (% of GDP),10.7
 192,Cuba,2015,Current health expenditure (% of GDP),12.8
@@ -536,7 +536,7 @@
 196,Cyprus,2005,Domestic general government health expenditure (% of total government expenditure),5.7
 196,Cyprus,2010,Domestic general government health expenditure (% of total government expenditure),7.1
 196,Cyprus,2015,Domestic general government health expenditure (% of total government expenditure),7.1
-196,Cyprus,2019,Domestic general government health expenditure (% of total government expenditure),10
+196,Cyprus,2019,Domestic general government health expenditure (% of total government expenditure),10.0
 196,Cyprus,2020,Domestic general government health expenditure (% of total government expenditure),14.2
 196,Cyprus,2021,Domestic general government health expenditure (% of total government expenditure),18.4
 203,Czechia,2005,Current health expenditure (% of GDP),6.3
@@ -551,7 +551,7 @@
 203,Czechia,2019,Domestic general government health expenditure (% of total government expenditure),15.7
 203,Czechia,2020,Domestic general government health expenditure (% of total government expenditure),17.1
 203,Czechia,2021,Domestic general government health expenditure (% of total government expenditure),17.6
-180,Dem. Rep. of the Congo,2005,Current health expenditure (% of GDP),4
+180,Dem. Rep. of the Congo,2005,Current health expenditure (% of GDP),4.0
 180,Dem. Rep. of the Congo,2010,Current health expenditure (% of GDP),3.7
 180,Dem. Rep. of the Congo,2015,Current health expenditure (% of GDP),3.7
 180,Dem. Rep. of the Congo,2019,Current health expenditure (% of GDP),3.5
@@ -571,7 +571,7 @@
 208,Denmark,2021,Current health expenditure (% of GDP),10.8
 208,Denmark,2005,Domestic general government health expenditure (% of total government expenditure),14.9
 208,Denmark,2010,Domestic general government health expenditure (% of total government expenditure),15.8
-208,Denmark,2015,Domestic general government health expenditure (% of total government expenditure),16
+208,Denmark,2015,Domestic general government health expenditure (% of total government expenditure),16.0
 208,Denmark,2019,Domestic general government health expenditure (% of total government expenditure),17.1
 208,Denmark,2020,Domestic general government health expenditure (% of total government expenditure),16.7
 208,Denmark,2021,Domestic general government health expenditure (% of total government expenditure),18.2
@@ -582,16 +582,16 @@
 262,Djibouti,2020,Current health expenditure (% of GDP),2.2
 262,Djibouti,2021,Current health expenditure (% of GDP),2.9
 262,Djibouti,2005,Domestic general government health expenditure (% of total government expenditure),5.3
-262,Djibouti,2010,Domestic general government health expenditure (% of total government expenditure),7
+262,Djibouti,2010,Domestic general government health expenditure (% of total government expenditure),7.0
 262,Djibouti,2015,Domestic general government health expenditure (% of total government expenditure),4.1
 262,Djibouti,2019,Domestic general government health expenditure (% of total government expenditure),4.3
 262,Djibouti,2020,Domestic general government health expenditure (% of total government expenditure),4.3
 262,Djibouti,2021,Domestic general government health expenditure (% of total government expenditure),4.2
-212,Dominica,2005,Current health expenditure (% of GDP),5
+212,Dominica,2005,Current health expenditure (% of GDP),5.0
 212,Dominica,2010,Current health expenditure (% of GDP),5.2
 212,Dominica,2015,Current health expenditure (% of GDP),5.2
 212,Dominica,2019,Current health expenditure (% of GDP),5.2
-212,Dominica,2020,Current health expenditure (% of GDP),6
+212,Dominica,2020,Current health expenditure (% of GDP),6.0
 212,Dominica,2021,Current health expenditure (% of GDP),6.5
 212,Dominica,2005,Domestic general government health expenditure (% of total government expenditure),8.7
 212,Dominica,2010,Domestic general government health expenditure (% of total government expenditure),7.4
@@ -646,7 +646,7 @@
 222,El Salvador,2015,Domestic general government health expenditure (% of total government expenditure),17.7
 222,El Salvador,2019,Domestic general government health expenditure (% of total government expenditure),17.3
 222,El Salvador,2020,Domestic general government health expenditure (% of total government expenditure),17.8
-222,El Salvador,2021,Domestic general government health expenditure (% of total government expenditure),20
+222,El Salvador,2021,Domestic general government health expenditure (% of total government expenditure),20.0
 226,Equatorial Guinea,2005,Current health expenditure (% of GDP),1.3
 226,Equatorial Guinea,2010,Current health expenditure (% of GDP),1.6
 226,Equatorial Guinea,2015,Current health expenditure (% of GDP),2.3
@@ -678,17 +678,17 @@
 233,Estonia,2020,Current health expenditure (% of GDP),7.6
 233,Estonia,2021,Current health expenditure (% of GDP),7.5
 233,Estonia,2005,Domestic general government health expenditure (% of total government expenditure),11.6
-233,Estonia,2010,Domestic general government health expenditure (% of total government expenditure),12
+233,Estonia,2010,Domestic general government health expenditure (% of total government expenditure),12.0
 233,Estonia,2015,Domestic general government health expenditure (% of total government expenditure),12.5
 233,Estonia,2019,Domestic general government health expenditure (% of total government expenditure),12.9
-233,Estonia,2020,Domestic general government health expenditure (% of total government expenditure),13
+233,Estonia,2020,Domestic general government health expenditure (% of total government expenditure),13.0
 233,Estonia,2021,Domestic general government health expenditure (% of total government expenditure),13.8
 748,Eswatini,2005,Current health expenditure (% of GDP),7.4
 748,Eswatini,2010,Current health expenditure (% of GDP),8.6
 748,Eswatini,2015,Current health expenditure (% of GDP),7.1
 748,Eswatini,2019,Current health expenditure (% of GDP),7.2
 748,Eswatini,2020,Current health expenditure (% of GDP),6.6
-748,Eswatini,2021,Current health expenditure (% of GDP),7
+748,Eswatini,2021,Current health expenditure (% of GDP),7.0
 748,Eswatini,2005,Domestic general government health expenditure (% of total government expenditure),12.6
 748,Eswatini,2010,Domestic general government health expenditure (% of total government expenditure),13.8
 748,Eswatini,2015,Domestic general government health expenditure (% of total government expenditure),8.6
@@ -715,7 +715,7 @@
 242,Fiji,2021,Current health expenditure (% of GDP),5.4
 242,Fiji,2005,Domestic general government health expenditure (% of total government expenditure),10.4
 242,Fiji,2010,Domestic general government health expenditure (% of total government expenditure),8.8
-242,Fiji,2015,Domestic general government health expenditure (% of total government expenditure),7
+242,Fiji,2015,Domestic general government health expenditure (% of total government expenditure),7.0
 242,Fiji,2019,Domestic general government health expenditure (% of total government expenditure),8.7
 242,Fiji,2020,Domestic general government health expenditure (% of total government expenditure),9.1
 242,Fiji,2021,Domestic general government health expenditure (% of total government expenditure),9.4
@@ -751,7 +751,7 @@
 266,Gabon,2021,Current health expenditure (% of GDP),2.7
 266,Gabon,2005,Domestic general government health expenditure (% of total government expenditure),5.1
 266,Gabon,2010,Domestic general government health expenditure (% of total government expenditure),6.8
-266,Gabon,2015,Domestic general government health expenditure (% of total government expenditure),7
+266,Gabon,2015,Domestic general government health expenditure (% of total government expenditure),7.0
 266,Gabon,2019,Domestic general government health expenditure (% of total government expenditure),9.6
 266,Gabon,2020,Domestic general government health expenditure (% of total government expenditure),9.6
 266,Gabon,2021,Domestic general government health expenditure (% of total government expenditure),9.6
@@ -795,7 +795,7 @@
 288,Ghana,2010,Current health expenditure (% of GDP),4.2
 288,Ghana,2015,Current health expenditure (% of GDP),4.5
 288,Ghana,2019,Current health expenditure (% of GDP),4.3
-288,Ghana,2020,Current health expenditure (% of GDP),4
+288,Ghana,2020,Current health expenditure (% of GDP),4.0
 288,Ghana,2021,Current health expenditure (% of GDP),4.2
 288,Ghana,2005,Domestic general government health expenditure (% of total government expenditure),10.6
 288,Ghana,2010,Domestic general government health expenditure (% of total government expenditure),11.9
@@ -826,10 +826,10 @@
 308,Grenada,2015,Domestic general government health expenditure (% of total government expenditure),7.7
 308,Grenada,2019,Domestic general government health expenditure (% of total government expenditure),9.4
 308,Grenada,2020,Domestic general government health expenditure (% of total government expenditure),8.5
-308,Grenada,2021,Domestic general government health expenditure (% of total government expenditure),7
+308,Grenada,2021,Domestic general government health expenditure (% of total government expenditure),7.0
 320,Guatemala,2005,Current health expenditure (% of GDP),6.1
 320,Guatemala,2010,Current health expenditure (% of GDP),6.1
-320,Guatemala,2015,Current health expenditure (% of GDP),6
+320,Guatemala,2015,Current health expenditure (% of GDP),6.0
 320,Guatemala,2019,Current health expenditure (% of GDP),6.2
 320,Guatemala,2020,Current health expenditure (% of GDP),6.5
 320,Guatemala,2021,Current health expenditure (% of GDP),6.9
@@ -839,7 +839,7 @@
 320,Guatemala,2019,Domestic general government health expenditure (% of total government expenditure),17.7
 320,Guatemala,2020,Domestic general government health expenditure (% of total government expenditure),15.9
 320,Guatemala,2021,Domestic general government health expenditure (% of total government expenditure),17.4
-324,Guinea,2005,Current health expenditure (% of GDP),4
+324,Guinea,2005,Current health expenditure (% of GDP),4.0
 324,Guinea,2010,Current health expenditure (% of GDP),3.4
 324,Guinea,2015,Current health expenditure (% of GDP),5.8
 324,Guinea,2019,Current health expenditure (% of GDP),4.1
@@ -847,7 +847,7 @@
 324,Guinea,2021,Current health expenditure (% of GDP),3.8
 324,Guinea,2005,Domestic general government health expenditure (% of total government expenditure),2.4
 324,Guinea,2010,Domestic general government health expenditure (% of total government expenditure),1.8
-324,Guinea,2015,Domestic general government health expenditure (% of total government expenditure),2
+324,Guinea,2015,Domestic general government health expenditure (% of total government expenditure),2.0
 324,Guinea,2019,Domestic general government health expenditure (% of total government expenditure),6.1
 324,Guinea,2020,Domestic general government health expenditure (% of total government expenditure),4.5
 324,Guinea,2021,Domestic general government health expenditure (% of total government expenditure),4.5
@@ -855,7 +855,7 @@
 624,Guinea-Bissau,2010,Current health expenditure (% of GDP),5.3
 624,Guinea-Bissau,2015,Current health expenditure (% of GDP),8.1
 624,Guinea-Bissau,2019,Current health expenditure (% of GDP),7.2
-624,Guinea-Bissau,2020,Current health expenditure (% of GDP),9
+624,Guinea-Bissau,2020,Current health expenditure (% of GDP),9.0
 624,Guinea-Bissau,2021,Current health expenditure (% of GDP),8.2
 624,Guinea-Bissau,2005,Domestic general government health expenditure (% of total government expenditure),2.5
 624,Guinea-Bissau,2010,Domestic general government health expenditure (% of total government expenditure),2.5
@@ -865,7 +865,7 @@
 624,Guinea-Bissau,2021,Domestic general government health expenditure (% of total government expenditure),4.6
 328,Guyana,2005,Current health expenditure (% of GDP),3.8
 328,Guyana,2010,Current health expenditure (% of GDP),4.2
-328,Guyana,2015,Current health expenditure (% of GDP),4
+328,Guyana,2015,Current health expenditure (% of GDP),4.0
 328,Guyana,2019,Current health expenditure (% of GDP),4.9
 328,Guyana,2020,Current health expenditure (% of GDP),5.5
 328,Guyana,2021,Current health expenditure (% of GDP),4.9
@@ -873,7 +873,7 @@
 328,Guyana,2010,Domestic general government health expenditure (% of total government expenditure),7.6
 328,Guyana,2015,Domestic general government health expenditure (% of total government expenditure),10.8
 328,Guyana,2019,Domestic general government health expenditure (% of total government expenditure),10.3
-328,Guyana,2020,Domestic general government health expenditure (% of total government expenditure),13
+328,Guyana,2020,Domestic general government health expenditure (% of total government expenditure),13.0
 328,Guyana,2021,Domestic general government health expenditure (% of total government expenditure),12.9
 332,Haiti,2005,Current health expenditure (% of GDP),3.3
 332,Haiti,2010,Current health expenditure (% of GDP),4.5
@@ -884,22 +884,22 @@
 332,Haiti,2005,Domestic general government health expenditure (% of total government expenditure),6.7
 332,Haiti,2010,Domestic general government health expenditure (% of total government expenditure),6.4
 332,Haiti,2015,Domestic general government health expenditure (% of total government expenditure),4.4
-332,Haiti,2019,Domestic general government health expenditure (% of total government expenditure),4
+332,Haiti,2019,Domestic general government health expenditure (% of total government expenditure),4.0
 332,Haiti,2020,Domestic general government health expenditure (% of total government expenditure),4.1
 332,Haiti,2021,Domestic general government health expenditure (% of total government expenditure),3.9
 340,Honduras,2005,Current health expenditure (% of GDP),7.5
 340,Honduras,2010,Current health expenditure (% of GDP),8.7
 340,Honduras,2015,Current health expenditure (% of GDP),7.5
 340,Honduras,2019,Current health expenditure (% of GDP),7.3
-340,Honduras,2020,Current health expenditure (% of GDP),9
+340,Honduras,2020,Current health expenditure (% of GDP),9.0
 340,Honduras,2021,Current health expenditure (% of GDP),9.2
 340,Honduras,2005,Domestic general government health expenditure (% of total government expenditure),12.4
-340,Honduras,2010,Domestic general government health expenditure (% of total government expenditure),14
+340,Honduras,2010,Domestic general government health expenditure (% of total government expenditure),14.0
 340,Honduras,2015,Domestic general government health expenditure (% of total government expenditure),11.3
 340,Honduras,2019,Domestic general government health expenditure (% of total government expenditure),11.2
 340,Honduras,2020,Domestic general government health expenditure (% of total government expenditure),12.3
 340,Honduras,2021,Domestic general government health expenditure (% of total government expenditure),12.1
-348,Hungary,2005,Current health expenditure (% of GDP),8
+348,Hungary,2005,Current health expenditure (% of GDP),8.0
 348,Hungary,2010,Current health expenditure (% of GDP),7.4
 348,Hungary,2015,Current health expenditure (% of GDP),6.9
 348,Hungary,2019,Current health expenditure (% of GDP),6.3
@@ -910,7 +910,7 @@
 348,Hungary,2015,Domestic general government health expenditure (% of total government expenditure),9.2
 348,Hungary,2019,Domestic general government health expenditure (% of total government expenditure),9.3
 348,Hungary,2020,Domestic general government health expenditure (% of total government expenditure),10.1
-348,Hungary,2021,Domestic general government health expenditure (% of total government expenditure),11
+348,Hungary,2021,Domestic general government health expenditure (% of total government expenditure),11.0
 352,Iceland,2005,Current health expenditure (% of GDP),8.9
 352,Iceland,2010,Current health expenditure (% of GDP),8.4
 352,Iceland,2015,Current health expenditure (% of GDP),8.1
@@ -919,14 +919,14 @@
 352,Iceland,2021,Current health expenditure (% of GDP),9.7
 352,Iceland,2005,Domestic general government health expenditure (% of total government expenditure),16.1
 352,Iceland,2010,Domestic general government health expenditure (% of total government expenditure),13.7
-352,Iceland,2015,Domestic general government health expenditure (% of total government expenditure),15
+352,Iceland,2015,Domestic general government health expenditure (% of total government expenditure),15.0
 352,Iceland,2019,Domestic general government health expenditure (% of total government expenditure),16.3
 352,Iceland,2020,Domestic general government health expenditure (% of total government expenditure),15.7
 352,Iceland,2021,Domestic general government health expenditure (% of total government expenditure),16.4
 356,India,2005,Current health expenditure (% of GDP),3.8
 356,India,2010,Current health expenditure (% of GDP),3.3
 356,India,2015,Current health expenditure (% of GDP),3.6
-356,India,2019,Current health expenditure (% of GDP),3
+356,India,2019,Current health expenditure (% of GDP),3.0
 356,India,2020,Current health expenditure (% of GDP),3.3
 356,India,2021,Current health expenditure (% of GDP),3.3
 356,India,2005,Domestic general government health expenditure (% of total government expenditure),2.9
@@ -953,13 +953,13 @@
 364,Iran (Islamic Republic of),2019,Current health expenditure (% of GDP),6.3
 364,Iran (Islamic Republic of),2020,Current health expenditure (% of GDP),5.4
 364,Iran (Islamic Republic of),2021,Current health expenditure (% of GDP),5.8
-364,Iran (Islamic Republic of),2005,Domestic general government health expenditure (% of total government expenditure),9
+364,Iran (Islamic Republic of),2005,Domestic general government health expenditure (% of total government expenditure),9.0
 364,Iran (Islamic Republic of),2010,Domestic general government health expenditure (% of total government expenditure),12.5
 364,Iran (Islamic Republic of),2015,Domestic general government health expenditure (% of total government expenditure),22.6
 364,Iran (Islamic Republic of),2019,Domestic general government health expenditure (% of total government expenditure),19.7
 364,Iran (Islamic Republic of),2020,Domestic general government health expenditure (% of total government expenditure),21.4
 364,Iran (Islamic Republic of),2021,Domestic general government health expenditure (% of total government expenditure),26.1
-368,Iraq,2005,Current health expenditure (% of GDP),3
+368,Iraq,2005,Current health expenditure (% of GDP),3.0
 368,Iraq,2010,Current health expenditure (% of GDP),3.2
 368,Iraq,2015,Current health expenditure (% of GDP),3.2
 368,Iraq,2019,Current health expenditure (% of GDP),4.3
@@ -968,9 +968,9 @@
 368,Iraq,2005,Domestic general government health expenditure (% of total government expenditure),3.2
 368,Iraq,2010,Domestic general government health expenditure (% of total government expenditure),4.8
 368,Iraq,2015,Domestic general government health expenditure (% of total government expenditure),1.7
-368,Iraq,2019,Domestic general government health expenditure (% of total government expenditure),6
+368,Iraq,2019,Domestic general government health expenditure (% of total government expenditure),6.0
 368,Iraq,2020,Domestic general government health expenditure (% of total government expenditure),6.2
-368,Iraq,2021,Domestic general government health expenditure (% of total government expenditure),7
+368,Iraq,2021,Domestic general government health expenditure (% of total government expenditure),7.0
 372,Ireland,2005,Current health expenditure (% of GDP),7.6
 372,Ireland,2010,Current health expenditure (% of GDP),10.5
 372,Ireland,2015,Current health expenditure (% of GDP),7.3
@@ -982,10 +982,10 @@
 372,Ireland,2015,Domestic general government health expenditure (% of total government expenditure),18.1
 372,Ireland,2019,Domestic general government health expenditure (% of total government expenditure),20.5
 372,Ireland,2020,Domestic general government health expenditure (% of total government expenditure),20.3
-372,Ireland,2021,Domestic general government health expenditure (% of total government expenditure),21
+372,Ireland,2021,Domestic general government health expenditure (% of total government expenditure),21.0
 376,Israel,2005,Current health expenditure (% of GDP),6.9
 376,Israel,2010,Current health expenditure (% of GDP),6.9
-376,Israel,2015,Current health expenditure (% of GDP),7
+376,Israel,2015,Current health expenditure (% of GDP),7.0
 376,Israel,2019,Current health expenditure (% of GDP),7.2
 376,Israel,2020,Current health expenditure (% of GDP),7.7
 376,Israel,2021,Current health expenditure (% of GDP),7.9
@@ -1002,7 +1002,7 @@
 380,Italy,2020,Current health expenditure (% of GDP),9.6
 380,Italy,2021,Current health expenditure (% of GDP),9.4
 380,Italy,2005,Domestic general government health expenditure (% of total government expenditure),13.7
-380,Italy,2010,Domestic general government health expenditure (% of total government expenditure),14
+380,Italy,2010,Domestic general government health expenditure (% of total government expenditure),14.0
 380,Italy,2015,Domestic general government health expenditure (% of total government expenditure),13.1
 380,Italy,2019,Domestic general government health expenditure (% of total government expenditure),13.2
 380,Italy,2020,Domestic general government health expenditure (% of total government expenditure),12.9
@@ -1014,38 +1014,38 @@
 388,Jamaica,2020,Current health expenditure (% of GDP),6.6
 388,Jamaica,2021,Current health expenditure (% of GDP),7.2
 388,Jamaica,2005,Domestic general government health expenditure (% of total government expenditure),7.4
-388,Jamaica,2010,Domestic general government health expenditure (% of total government expenditure),9
+388,Jamaica,2010,Domestic general government health expenditure (% of total government expenditure),9.0
 388,Jamaica,2015,Domestic general government health expenditure (% of total government expenditure),12.8
 388,Jamaica,2019,Domestic general government health expenditure (% of total government expenditure),13.3
-388,Jamaica,2020,Domestic general government health expenditure (% of total government expenditure),14
+388,Jamaica,2020,Domestic general government health expenditure (% of total government expenditure),14.0
 388,Jamaica,2021,Domestic general government health expenditure (% of total government expenditure),16.2
 392,Japan,2005,Current health expenditure (% of GDP),7.7
 392,Japan,2010,Current health expenditure (% of GDP),9.1
 392,Japan,2015,Current health expenditure (% of GDP),10.7
-392,Japan,2019,Current health expenditure (% of GDP),11
-392,Japan,2020,Current health expenditure (% of GDP),11
+392,Japan,2019,Current health expenditure (% of GDP),11.0
+392,Japan,2020,Current health expenditure (% of GDP),11.0
 392,Japan,2021,Current health expenditure (% of GDP),10.8
 392,Japan,2005,Domestic general government health expenditure (% of total government expenditure),17.8
 392,Japan,2010,Domestic general government health expenditure (% of total government expenditure),18.9
 392,Japan,2015,Domestic general government health expenditure (% of total government expenditure),23.2
 392,Japan,2019,Domestic general government health expenditure (% of total government expenditure),24.7
-392,Japan,2020,Domestic general government health expenditure (% of total government expenditure),21
+392,Japan,2020,Domestic general government health expenditure (% of total government expenditure),21.0
 392,Japan,2021,Domestic general government health expenditure (% of total government expenditure),21.4
 400,Jordan,2005,Current health expenditure (% of GDP),8.5
 400,Jordan,2010,Current health expenditure (% of GDP),8.2
 400,Jordan,2015,Current health expenditure (% of GDP),7.5
-400,Jordan,2019,Current health expenditure (% of GDP),7
-400,Jordan,2020,Current health expenditure (% of GDP),7
+400,Jordan,2019,Current health expenditure (% of GDP),7.0
+400,Jordan,2020,Current health expenditure (% of GDP),7.0
 400,Jordan,2021,Current health expenditure (% of GDP),7.3
 400,Jordan,2005,Domestic general government health expenditure (% of total government expenditure),11.8
-400,Jordan,2010,Domestic general government health expenditure (% of total government expenditure),17
+400,Jordan,2010,Domestic general government health expenditure (% of total government expenditure),17.0
 400,Jordan,2015,Domestic general government health expenditure (% of total government expenditure),12.2
 400,Jordan,2019,Domestic general government health expenditure (% of total government expenditure),10.1
 400,Jordan,2020,Domestic general government health expenditure (% of total government expenditure),8.9
 400,Jordan,2021,Domestic general government health expenditure (% of total government expenditure),7.9
 398,Kazakhstan,2005,Current health expenditure (% of GDP),3.9
 398,Kazakhstan,2010,Current health expenditure (% of GDP),2.7
-398,Kazakhstan,2015,Current health expenditure (% of GDP),3
+398,Kazakhstan,2015,Current health expenditure (% of GDP),3.0
 398,Kazakhstan,2019,Current health expenditure (% of GDP),2.8
 398,Kazakhstan,2020,Current health expenditure (% of GDP),3.8
 398,Kazakhstan,2021,Current health expenditure (% of GDP),3.9
@@ -1071,28 +1071,28 @@
 296,Kiribati,2010,Current health expenditure (% of GDP),9.3
 296,Kiribati,2015,Current health expenditure (% of GDP),8.1
 296,Kiribati,2019,Current health expenditure (% of GDP),12.6
-296,Kiribati,2020,Current health expenditure (% of GDP),17
+296,Kiribati,2020,Current health expenditure (% of GDP),17.0
 296,Kiribati,2021,Current health expenditure (% of GDP),14.8
 296,Kiribati,2005,Domestic general government health expenditure (% of total government expenditure),11.4
 296,Kiribati,2010,Domestic general government health expenditure (% of total government expenditure),10.4
 296,Kiribati,2015,Domestic general government health expenditure (% of total government expenditure),6.7
 296,Kiribati,2019,Domestic general government health expenditure (% of total government expenditure),8.5
 296,Kiribati,2020,Domestic general government health expenditure (% of total government expenditure),9.3
-296,Kiribati,2021,Domestic general government health expenditure (% of total government expenditure),10
-414,Kuwait,2005,Current health expenditure (% of GDP),2
+296,Kiribati,2021,Domestic general government health expenditure (% of total government expenditure),10.0
+414,Kuwait,2005,Current health expenditure (% of GDP),2.0
 414,Kuwait,2010,Current health expenditure (% of GDP),2.7
 414,Kuwait,2015,Current health expenditure (% of GDP),4.2
 414,Kuwait,2019,Current health expenditure (% of GDP),5.4
 414,Kuwait,2020,Current health expenditure (% of GDP),6.3
 414,Kuwait,2021,Current health expenditure (% of GDP),5.8
 414,Kuwait,2005,Domestic general government health expenditure (% of total government expenditure),5.5
-414,Kuwait,2010,Domestic general government health expenditure (% of total government expenditure),5
+414,Kuwait,2010,Domestic general government health expenditure (% of total government expenditure),5.0
 414,Kuwait,2015,Domestic general government health expenditure (% of total government expenditure),6.6
 414,Kuwait,2019,Domestic general government health expenditure (% of total government expenditure),8.9
 414,Kuwait,2020,Domestic general government health expenditure (% of total government expenditure),8.5
 414,Kuwait,2021,Domestic general government health expenditure (% of total government expenditure),9.9
 417,Kyrgyzstan,2005,Current health expenditure (% of GDP),7.5
-417,Kyrgyzstan,2010,Current health expenditure (% of GDP),7
+417,Kyrgyzstan,2010,Current health expenditure (% of GDP),7.0
 417,Kyrgyzstan,2015,Current health expenditure (% of GDP),7.1
 417,Kyrgyzstan,2019,Current health expenditure (% of GDP),4.5
 417,Kyrgyzstan,2020,Current health expenditure (% of GDP),5.3
@@ -1120,9 +1120,9 @@
 428,Latvia,2015,Current health expenditure (% of GDP),5.7
 428,Latvia,2019,Current health expenditure (% of GDP),6.6
 428,Latvia,2020,Current health expenditure (% of GDP),7.2
-428,Latvia,2021,Current health expenditure (% of GDP),9
+428,Latvia,2021,Current health expenditure (% of GDP),9.0
 428,Latvia,2005,Domestic general government health expenditure (% of total government expenditure),9.3
-428,Latvia,2010,Domestic general government health expenditure (% of total government expenditure),8
+428,Latvia,2010,Domestic general government health expenditure (% of total government expenditure),8.0
 428,Latvia,2015,Domestic general government health expenditure (% of total government expenditure),8.6
 428,Latvia,2019,Domestic general government health expenditure (% of total government expenditure),10.3
 428,Latvia,2020,Domestic general government health expenditure (% of total government expenditure),10.9
@@ -1145,20 +1145,20 @@
 426,Lesotho,2019,Current health expenditure (% of GDP),11.9
 426,Lesotho,2020,Current health expenditure (% of GDP),10.3
 426,Lesotho,2021,Current health expenditure (% of GDP),10.2
-426,Lesotho,2005,Domestic general government health expenditure (% of total government expenditure),6
+426,Lesotho,2005,Domestic general government health expenditure (% of total government expenditure),6.0
 426,Lesotho,2010,Domestic general government health expenditure (% of total government expenditure),7.2
 426,Lesotho,2015,Domestic general government health expenditure (% of total government expenditure),10.9
 426,Lesotho,2019,Domestic general government health expenditure (% of total government expenditure),11.1
-426,Lesotho,2020,Domestic general government health expenditure (% of total government expenditure),9
-426,Lesotho,2021,Domestic general government health expenditure (% of total government expenditure),8
+426,Lesotho,2020,Domestic general government health expenditure (% of total government expenditure),9.0
+426,Lesotho,2021,Domestic general government health expenditure (% of total government expenditure),8.0
 430,Liberia,2005,Current health expenditure (% of GDP),7.1
 430,Liberia,2010,Current health expenditure (% of GDP),10.4
 430,Liberia,2015,Current health expenditure (% of GDP),10.5
 430,Liberia,2019,Current health expenditure (% of GDP),8.4
-430,Liberia,2020,Current health expenditure (% of GDP),17
+430,Liberia,2020,Current health expenditure (% of GDP),17.0
 430,Liberia,2021,Current health expenditure (% of GDP),16.6
 430,Liberia,2005,Domestic general government health expenditure (% of total government expenditure),4.3
-430,Liberia,2010,Domestic general government health expenditure (% of total government expenditure),5
+430,Liberia,2010,Domestic general government health expenditure (% of total government expenditure),5.0
 430,Liberia,2015,Domestic general government health expenditure (% of total government expenditure),3.2
 430,Liberia,2019,Domestic general government health expenditure (% of total government expenditure),4.2
 430,Liberia,2020,Domestic general government health expenditure (% of total government expenditure),2.6
@@ -1170,7 +1170,7 @@
 440,Lithuania,2005,Current health expenditure (% of GDP),5.6
 440,Lithuania,2010,Current health expenditure (% of GDP),6.8
 440,Lithuania,2015,Current health expenditure (% of GDP),6.5
-440,Lithuania,2019,Current health expenditure (% of GDP),7
+440,Lithuania,2019,Current health expenditure (% of GDP),7.0
 440,Lithuania,2020,Current health expenditure (% of GDP),7.5
 440,Lithuania,2021,Current health expenditure (% of GDP),7.8
 440,Lithuania,2005,Domestic general government health expenditure (% of total government expenditure),10.1
@@ -1178,7 +1178,7 @@
 440,Lithuania,2015,Domestic general government health expenditure (% of total government expenditure),12.2
 440,Lithuania,2019,Domestic general government health expenditure (% of total government expenditure),13.1
 440,Lithuania,2020,Domestic general government health expenditure (% of total government expenditure),12.1
-440,Lithuania,2021,Domestic general government health expenditure (% of total government expenditure),14
+440,Lithuania,2021,Domestic general government health expenditure (% of total government expenditure),14.0
 442,Luxembourg,2005,Current health expenditure (% of GDP),7.1
 442,Luxembourg,2010,Current health expenditure (% of GDP),6.7
 442,Luxembourg,2015,Current health expenditure (% of GDP),5.1
@@ -1193,7 +1193,7 @@
 442,Luxembourg,2021,Domestic general government health expenditure (% of total government expenditure),11.5
 450,Madagascar,2005,Current health expenditure (% of GDP),5.2
 450,Madagascar,2010,Current health expenditure (% of GDP),4.7
-450,Madagascar,2015,Current health expenditure (% of GDP),5
+450,Madagascar,2015,Current health expenditure (% of GDP),5.0
 450,Madagascar,2019,Current health expenditure (% of GDP),3.1
 450,Madagascar,2020,Current health expenditure (% of GDP),3.7
 450,Madagascar,2021,Current health expenditure (% of GDP),3.5
@@ -1207,9 +1207,9 @@
 454,Malawi,2010,Current health expenditure (% of GDP),5.1
 454,Malawi,2015,Current health expenditure (% of GDP),6.6
 454,Malawi,2019,Current health expenditure (% of GDP),7.2
-454,Malawi,2020,Current health expenditure (% of GDP),7
+454,Malawi,2020,Current health expenditure (% of GDP),7.0
 454,Malawi,2021,Current health expenditure (% of GDP),7.4
-454,Malawi,2005,Domestic general government health expenditure (% of total government expenditure),6
+454,Malawi,2005,Domestic general government health expenditure (% of total government expenditure),6.0
 454,Malawi,2010,Domestic general government health expenditure (% of total government expenditure),5.8
 454,Malawi,2015,Domestic general government health expenditure (% of total government expenditure),9.7
 454,Malawi,2019,Domestic general government health expenditure (% of total government expenditure),8.7
@@ -1232,7 +1232,7 @@
 462,Maldives,2015,Current health expenditure (% of GDP),8.7
 462,Maldives,2019,Current health expenditure (% of GDP),7.7
 462,Maldives,2020,Current health expenditure (% of GDP),11.3
-462,Maldives,2021,Current health expenditure (% of GDP),10
+462,Maldives,2021,Current health expenditure (% of GDP),10.0
 462,Maldives,2005,Domestic general government health expenditure (% of total government expenditure),7.7
 462,Maldives,2010,Domestic general government health expenditure (% of total government expenditure),13.5
 462,Maldives,2015,Domestic general government health expenditure (% of total government expenditure),18.5
@@ -1250,9 +1250,9 @@
 466,Mali,2015,Domestic general government health expenditure (% of total government expenditure),4.4
 466,Mali,2019,Domestic general government health expenditure (% of total government expenditure),4.8
 466,Mali,2020,Domestic general government health expenditure (% of total government expenditure),5.4
-466,Mali,2021,Domestic general government health expenditure (% of total government expenditure),5
+466,Mali,2021,Domestic general government health expenditure (% of total government expenditure),5.0
 470,Malta,2005,Current health expenditure (% of GDP),8.7
-470,Malta,2010,Current health expenditure (% of GDP),8
+470,Malta,2010,Current health expenditure (% of GDP),8.0
 470,Malta,2015,Current health expenditure (% of GDP),8.9
 470,Malta,2019,Current health expenditure (% of GDP),9.1
 470,Malta,2020,Current health expenditure (% of GDP),10.7
@@ -1290,7 +1290,7 @@
 480,Mauritius,2005,Current health expenditure (% of GDP),3.5
 480,Mauritius,2010,Current health expenditure (% of GDP),4.5
 480,Mauritius,2015,Current health expenditure (% of GDP),5.6
-480,Mauritius,2019,Current health expenditure (% of GDP),6
+480,Mauritius,2019,Current health expenditure (% of GDP),6.0
 480,Mauritius,2020,Current health expenditure (% of GDP),6.5
 480,Mauritius,2021,Current health expenditure (% of GDP),6.4
 480,Mauritius,2005,Domestic general government health expenditure (% of total government expenditure),7.4
@@ -1310,13 +1310,13 @@
 484,Mexico,2015,Domestic general government health expenditure (% of total government expenditure),10.9
 484,Mexico,2019,Domestic general government health expenditure (% of total government expenditure),10.3
 484,Mexico,2020,Domestic general government health expenditure (% of total government expenditure),11.5
-484,Mexico,2021,Domestic general government health expenditure (% of total government expenditure),11
+484,Mexico,2021,Domestic general government health expenditure (% of total government expenditure),11.0
 583,Micronesia (Fed. States of),2005,Current health expenditure (% of GDP),17.7
 583,Micronesia (Fed. States of),2010,Current health expenditure (% of GDP),13.1
 583,Micronesia (Fed. States of),2015,Current health expenditure (% of GDP),12.5
 583,Micronesia (Fed. States of),2019,Current health expenditure (% of GDP),11.3
 583,Micronesia (Fed. States of),2020,Current health expenditure (% of GDP),10.8
-583,Micronesia (Fed. States of),2021,Current health expenditure (% of GDP),11
+583,Micronesia (Fed. States of),2021,Current health expenditure (% of GDP),11.0
 583,Micronesia (Fed. States of),2005,Domestic general government health expenditure (% of total government expenditure),4.5
 583,Micronesia (Fed. States of),2010,Domestic general government health expenditure (% of total government expenditure),3.4
 583,Micronesia (Fed. States of),2015,Domestic general government health expenditure (% of total government expenditure),5.8
@@ -1324,7 +1324,7 @@
 583,Micronesia (Fed. States of),2020,Domestic general government health expenditure (% of total government expenditure),4.8
 583,Micronesia (Fed. States of),2021,Domestic general government health expenditure (% of total government expenditure),2.6
 492,Monaco,2005,Current health expenditure (% of GDP),4.5
-492,Monaco,2010,Current health expenditure (% of GDP),5
+492,Monaco,2010,Current health expenditure (% of GDP),5.0
 492,Monaco,2015,Current health expenditure (% of GDP),4.3
 492,Monaco,2019,Current health expenditure (% of GDP),3.9
 492,Monaco,2020,Current health expenditure (% of GDP),4.3
@@ -1341,13 +1341,13 @@
 496,Mongolia,2019,Current health expenditure (% of GDP),4.5
 496,Mongolia,2020,Current health expenditure (% of GDP),4.7
 496,Mongolia,2021,Current health expenditure (% of GDP),6.9
-496,Mongolia,2005,Domestic general government health expenditure (% of total government expenditure),9
+496,Mongolia,2005,Domestic general government health expenditure (% of total government expenditure),9.0
 496,Mongolia,2010,Domestic general government health expenditure (% of total government expenditure),7.7
 496,Mongolia,2015,Domestic general government health expenditure (% of total government expenditure),7.7
 496,Mongolia,2019,Domestic general government health expenditure (% of total government expenditure),6.9
 496,Mongolia,2020,Domestic general government health expenditure (% of total government expenditure),6.9
 496,Mongolia,2021,Domestic general government health expenditure (% of total government expenditure),12.6
-499,Montenegro,2015,Current health expenditure (% of GDP),9
+499,Montenegro,2015,Current health expenditure (% of GDP),9.0
 499,Montenegro,2019,Current health expenditure (% of GDP),8.3
 499,Montenegro,2020,Current health expenditure (% of GDP),11.4
 499,Montenegro,2021,Current health expenditure (% of GDP),10.6
@@ -1358,19 +1358,19 @@
 504,Morocco,2005,Current health expenditure (% of GDP),4.4
 504,Morocco,2010,Current health expenditure (% of GDP),5.4
 504,Morocco,2015,Current health expenditure (% of GDP),5.1
-504,Morocco,2019,Current health expenditure (% of GDP),5
+504,Morocco,2019,Current health expenditure (% of GDP),5.0
 504,Morocco,2020,Current health expenditure (% of GDP),5.8
 504,Morocco,2021,Current health expenditure (% of GDP),5.7
 504,Morocco,2005,Domestic general government health expenditure (% of total government expenditure),3.9
 504,Morocco,2010,Domestic general government health expenditure (% of total government expenditure),7.5
-504,Morocco,2015,Domestic general government health expenditure (% of total government expenditure),7
+504,Morocco,2015,Domestic general government health expenditure (% of total government expenditure),7.0
 504,Morocco,2019,Domestic general government health expenditure (% of total government expenditure),7.4
 504,Morocco,2020,Domestic general government health expenditure (% of total government expenditure),7.2
 504,Morocco,2021,Domestic general government health expenditure (% of total government expenditure),7.2
 508,Mozambique,2005,Current health expenditure (% of GDP),4.4
 508,Mozambique,2010,Current health expenditure (% of GDP),5.4
 508,Mozambique,2015,Current health expenditure (% of GDP),6.7
-508,Mozambique,2019,Current health expenditure (% of GDP),8
+508,Mozambique,2019,Current health expenditure (% of GDP),8.0
 508,Mozambique,2020,Current health expenditure (% of GDP),7.6
 508,Mozambique,2021,Current health expenditure (% of GDP),9.1
 508,Mozambique,2005,Domestic general government health expenditure (% of total government expenditure),8.4
@@ -1380,20 +1380,20 @@
 508,Mozambique,2020,Domestic general government health expenditure (% of total government expenditure),7.3
 508,Mozambique,2021,Domestic general government health expenditure (% of total government expenditure),8.2
 104,Myanmar,2005,Current health expenditure (% of GDP),2.3
-104,Myanmar,2010,Current health expenditure (% of GDP),2
+104,Myanmar,2010,Current health expenditure (% of GDP),2.0
 104,Myanmar,2015,Current health expenditure (% of GDP),5.5
 104,Myanmar,2019,Current health expenditure (% of GDP),4.7
 104,Myanmar,2020,Current health expenditure (% of GDP),4.6
 104,Myanmar,2021,Current health expenditure (% of GDP),5.6
 104,Myanmar,2005,Domestic general government health expenditure (% of total government expenditure),1.3
 104,Myanmar,2010,Domestic general government health expenditure (% of total government expenditure),1.4
-104,Myanmar,2015,Domestic general government health expenditure (% of total government expenditure),5
+104,Myanmar,2015,Domestic general government health expenditure (% of total government expenditure),5.0
 104,Myanmar,2019,Domestic general government health expenditure (% of total government expenditure),3.3
 104,Myanmar,2020,Domestic general government health expenditure (% of total government expenditure),3.2
 104,Myanmar,2021,Domestic general government health expenditure (% of total government expenditure),4.4
 516,Namibia,2005,Current health expenditure (% of GDP),10.1
 516,Namibia,2010,Current health expenditure (% of GDP),9.7
-516,Namibia,2015,Current health expenditure (% of GDP),10
+516,Namibia,2015,Current health expenditure (% of GDP),10.0
 516,Namibia,2019,Current health expenditure (% of GDP),8.4
 516,Namibia,2020,Current health expenditure (% of GDP),8.9
 516,Namibia,2021,Current health expenditure (% of GDP),9.4
@@ -1405,7 +1405,7 @@
 516,Namibia,2021,Domestic general government health expenditure (% of total government expenditure),11.2
 520,Nauru,2005,Current health expenditure (% of GDP),10.8
 520,Nauru,2010,Current health expenditure (% of GDP),12.7
-520,Nauru,2015,Current health expenditure (% of GDP),14
+520,Nauru,2015,Current health expenditure (% of GDP),14.0
 520,Nauru,2019,Current health expenditure (% of GDP),11.6
 520,Nauru,2020,Current health expenditure (% of GDP),12.7
 520,Nauru,2021,Current health expenditure (% of GDP),13.1
@@ -1413,9 +1413,9 @@
 520,Nauru,2010,Domestic general government health expenditure (% of total government expenditure),10.2
 520,Nauru,2015,Domestic general government health expenditure (% of total government expenditure),9.9
 520,Nauru,2019,Domestic general government health expenditure (% of total government expenditure),9.2
-520,Nauru,2020,Domestic general government health expenditure (% of total government expenditure),8
+520,Nauru,2020,Domestic general government health expenditure (% of total government expenditure),8.0
 520,Nauru,2021,Domestic general government health expenditure (% of total government expenditure),9.1
-524,Nepal,2005,Current health expenditure (% of GDP),4
+524,Nepal,2005,Current health expenditure (% of GDP),4.0
 524,Nepal,2010,Current health expenditure (% of GDP),4.4
 524,Nepal,2015,Current health expenditure (% of GDP),5.5
 524,Nepal,2019,Current health expenditure (% of GDP),4.4
@@ -1424,7 +1424,7 @@
 524,Nepal,2005,Domestic general government health expenditure (% of total government expenditure),6.3
 524,Nepal,2010,Domestic general government health expenditure (% of total government expenditure),4.8
 524,Nepal,2015,Domestic general government health expenditure (% of total government expenditure),5.1
-524,Nepal,2019,Domestic general government health expenditure (% of total government expenditure),4
+524,Nepal,2019,Domestic general government health expenditure (% of total government expenditure),4.0
 524,Nepal,2020,Domestic general government health expenditure (% of total government expenditure),5.7
 524,Nepal,2021,Domestic general government health expenditure (% of total government expenditure),6.5
 528,Netherlands (Kingdom of the),2005,Current health expenditure (% of GDP),9.1
@@ -1444,7 +1444,7 @@
 554,New Zealand,2015,Current health expenditure (% of GDP),9.3
 554,New Zealand,2019,Current health expenditure (% of GDP),9.5
 554,New Zealand,2020,Current health expenditure (% of GDP),10.1
-554,New Zealand,2021,Current health expenditure (% of GDP),10
+554,New Zealand,2021,Current health expenditure (% of GDP),10.0
 554,New Zealand,2005,Domestic general government health expenditure (% of total government expenditure),17.4
 554,New Zealand,2010,Domestic general government health expenditure (% of total government expenditure),17.6
 554,New Zealand,2015,Domestic general government health expenditure (% of total government expenditure),18.9
@@ -1453,18 +1453,18 @@
 554,New Zealand,2021,Domestic general government health expenditure (% of total government expenditure),18.6
 558,Nicaragua,2005,Current health expenditure (% of GDP),6.2
 558,Nicaragua,2010,Current health expenditure (% of GDP),7.7
-558,Nicaragua,2015,Current health expenditure (% of GDP),8
+558,Nicaragua,2015,Current health expenditure (% of GDP),8.0
 558,Nicaragua,2019,Current health expenditure (% of GDP),8.6
 558,Nicaragua,2020,Current health expenditure (% of GDP),8.7
 558,Nicaragua,2021,Current health expenditure (% of GDP),9.7
 558,Nicaragua,2005,Domestic general government health expenditure (% of total government expenditure),11.8
 558,Nicaragua,2010,Domestic general government health expenditure (% of total government expenditure),15.7
 558,Nicaragua,2015,Domestic general government health expenditure (% of total government expenditure),17.6
-558,Nicaragua,2019,Domestic general government health expenditure (% of total government expenditure),19
+558,Nicaragua,2019,Domestic general government health expenditure (% of total government expenditure),19.0
 558,Nicaragua,2020,Domestic general government health expenditure (% of total government expenditure),18.4
 558,Nicaragua,2021,Domestic general government health expenditure (% of total government expenditure),20.1
 562,Niger,2005,Current health expenditure (% of GDP),5.9
-562,Niger,2010,Current health expenditure (% of GDP),5
+562,Niger,2010,Current health expenditure (% of GDP),5.0
 562,Niger,2015,Current health expenditure (% of GDP),5.3
 562,Niger,2019,Current health expenditure (% of GDP),5.7
 562,Niger,2020,Current health expenditure (% of GDP),6.2
@@ -1478,7 +1478,7 @@
 566,Nigeria,2005,Current health expenditure (% of GDP),4.5
 566,Nigeria,2010,Current health expenditure (% of GDP),3.3
 566,Nigeria,2015,Current health expenditure (% of GDP),3.6
-566,Nigeria,2019,Current health expenditure (% of GDP),3
+566,Nigeria,2019,Current health expenditure (% of GDP),3.0
 566,Nigeria,2020,Current health expenditure (% of GDP),3.4
 566,Nigeria,2021,Current health expenditure (% of GDP),4.1
 566,Nigeria,2005,Domestic general government health expenditure (% of total government expenditure),6.4
@@ -1491,7 +1491,7 @@
 570,Niue,2010,Current health expenditure (% of GDP),15.5
 570,Niue,2015,Current health expenditure (% of GDP),8.7
 570,Niue,2019,Current health expenditure (% of GDP),7.3
-570,Niue,2020,Current health expenditure (% of GDP),9
+570,Niue,2020,Current health expenditure (% of GDP),9.0
 570,Niue,2021,Current health expenditure (% of GDP),13.8
 570,Niue,2005,Domestic general government health expenditure (% of total government expenditure),7.2
 570,Niue,2010,Domestic general government health expenditure (% of total government expenditure),6.9
@@ -1510,7 +1510,7 @@
 807,North Macedonia,2015,Domestic general government health expenditure (% of total government expenditure),12.8
 807,North Macedonia,2019,Domestic general government health expenditure (% of total government expenditure),13.6
 807,North Macedonia,2020,Domestic general government health expenditure (% of total government expenditure),12.8
-807,North Macedonia,2021,Domestic general government health expenditure (% of total government expenditure),13
+807,North Macedonia,2021,Domestic general government health expenditure (% of total government expenditure),13.0
 578,Norway,2005,Current health expenditure (% of GDP),8.3
 578,Norway,2010,Current health expenditure (% of GDP),8.9
 578,Norway,2015,Current health expenditure (% of GDP),10.1
@@ -1521,7 +1521,7 @@
 578,Norway,2010,Domestic general government health expenditure (% of total government expenditure),16.6
 578,Norway,2015,Domestic general government health expenditure (% of total government expenditure),17.6
 578,Norway,2019,Domestic general government health expenditure (% of total government expenditure),17.5
-578,Norway,2020,Domestic general government health expenditure (% of total government expenditure),17
+578,Norway,2020,Domestic general government health expenditure (% of total government expenditure),17.0
 578,Norway,2021,Domestic general government health expenditure (% of total government expenditure),17.9
 512,Oman,2005,Current health expenditure (% of GDP),2.3
 512,Oman,2010,Current health expenditure (% of GDP),2.5
@@ -1539,9 +1539,9 @@
 586,Pakistan,2010,Current health expenditure (% of GDP),2.4
 586,Pakistan,2015,Current health expenditure (% of GDP),2.5
 586,Pakistan,2019,Current health expenditure (% of GDP),2.8
-586,Pakistan,2020,Current health expenditure (% of GDP),3
+586,Pakistan,2020,Current health expenditure (% of GDP),3.0
 586,Pakistan,2021,Current health expenditure (% of GDP),2.9
-586,Pakistan,2005,Domestic general government health expenditure (% of total government expenditure),4
+586,Pakistan,2005,Domestic general government health expenditure (% of total government expenditure),4.0
 586,Pakistan,2010,Domestic general government health expenditure (% of total government expenditure),2.9
 586,Pakistan,2015,Domestic general government health expenditure (% of total government expenditure),3.9
 586,Pakistan,2019,Domestic general government health expenditure (% of total government expenditure),4.9
@@ -1579,7 +1579,7 @@
 598,Papua New Guinea,2021,Current health expenditure (% of GDP),2.3
 598,Papua New Guinea,2005,Domestic general government health expenditure (% of total government expenditure),7.8
 598,Papua New Guinea,2010,Domestic general government health expenditure (% of total government expenditure),7.1
-598,Papua New Guinea,2015,Domestic general government health expenditure (% of total government expenditure),6
+598,Papua New Guinea,2015,Domestic general government health expenditure (% of total government expenditure),6.0
 598,Papua New Guinea,2019,Domestic general government health expenditure (% of total government expenditure),6.5
 598,Papua New Guinea,2020,Domestic general government health expenditure (% of total government expenditure),6.7
 598,Papua New Guinea,2021,Domestic general government health expenditure (% of total government expenditure),5.3
@@ -1588,16 +1588,16 @@
 600,Paraguay,2015,Current health expenditure (% of GDP),6.7
 600,Paraguay,2019,Current health expenditure (% of GDP),7.2
 600,Paraguay,2020,Current health expenditure (% of GDP),7.7
-600,Paraguay,2021,Current health expenditure (% of GDP),8
+600,Paraguay,2021,Current health expenditure (% of GDP),8.0
 600,Paraguay,2005,Domestic general government health expenditure (% of total government expenditure),10.7
 600,Paraguay,2010,Domestic general government health expenditure (% of total government expenditure),14.4
 600,Paraguay,2015,Domestic general government health expenditure (% of total government expenditure),15.4
 600,Paraguay,2019,Domestic general government health expenditure (% of total government expenditure),14.5
-600,Paraguay,2020,Domestic general government health expenditure (% of total government expenditure),16
-600,Paraguay,2021,Domestic general government health expenditure (% of total government expenditure),18
+600,Paraguay,2020,Domestic general government health expenditure (% of total government expenditure),16.0
+600,Paraguay,2021,Domestic general government health expenditure (% of total government expenditure),18.0
 604,Peru,2005,Current health expenditure (% of GDP),4.7
 604,Peru,2010,Current health expenditure (% of GDP),4.7
-604,Peru,2015,Current health expenditure (% of GDP),5
+604,Peru,2015,Current health expenditure (% of GDP),5.0
 604,Peru,2019,Current health expenditure (% of GDP),5.2
 604,Peru,2020,Current health expenditure (% of GDP),6.3
 604,Peru,2021,Current health expenditure (% of GDP),6.2
@@ -1617,7 +1617,7 @@
 608,Philippines,2010,Domestic general government health expenditure (% of total government expenditure),7.2
 608,Philippines,2015,Domestic general government health expenditure (% of total government expenditure),8.1
 608,Philippines,2019,Domestic general government health expenditure (% of total government expenditure),7.8
-608,Philippines,2020,Domestic general government health expenditure (% of total government expenditure),9
+608,Philippines,2020,Domestic general government health expenditure (% of total government expenditure),9.0
 608,Philippines,2021,Domestic general government health expenditure (% of total government expenditure),8.5
 616,Poland,2005,Current health expenditure (% of GDP),5.8
 616,Poland,2010,Current health expenditure (% of GDP),6.5
@@ -1625,14 +1625,14 @@
 616,Poland,2019,Current health expenditure (% of GDP),6.5
 616,Poland,2020,Current health expenditure (% of GDP),6.5
 616,Poland,2021,Current health expenditure (% of GDP),6.4
-616,Poland,2005,Domestic general government health expenditure (% of total government expenditure),9
-616,Poland,2010,Domestic general government health expenditure (% of total government expenditure),10
+616,Poland,2005,Domestic general government health expenditure (% of total government expenditure),9.0
+616,Poland,2010,Domestic general government health expenditure (% of total government expenditure),10.0
 616,Poland,2015,Domestic general government health expenditure (% of total government expenditure),10.6
-616,Poland,2019,Domestic general government health expenditure (% of total government expenditure),11
+616,Poland,2019,Domestic general government health expenditure (% of total government expenditure),11.0
 616,Poland,2020,Domestic general government health expenditure (% of total government expenditure),9.7
 616,Poland,2021,Domestic general government health expenditure (% of total government expenditure),10.5
 620,Portugal,2005,Current health expenditure (% of GDP),9.7
-620,Portugal,2010,Current health expenditure (% of GDP),10
+620,Portugal,2010,Current health expenditure (% of GDP),10.0
 620,Portugal,2015,Current health expenditure (% of GDP),9.3
 620,Portugal,2019,Current health expenditure (% of GDP),9.5
 620,Portugal,2020,Current health expenditure (% of GDP),10.5
@@ -1664,14 +1664,14 @@
 410,Republic of Korea,2005,Domestic general government health expenditure (% of total government expenditure),9.1
 410,Republic of Korea,2010,Domestic general government health expenditure (% of total government expenditure),11.5
 410,Republic of Korea,2015,Domestic general government health expenditure (% of total government expenditure),12.2
-410,Republic of Korea,2019,Domestic general government health expenditure (% of total government expenditure),14
+410,Republic of Korea,2019,Domestic general government health expenditure (% of total government expenditure),14.0
 410,Republic of Korea,2020,Domestic general government health expenditure (% of total government expenditure),13.1
 410,Republic of Korea,2021,Domestic general government health expenditure (% of total government expenditure),14.8
 498,Republic of Moldova,2005,Current health expenditure (% of GDP),9.6
 498,Republic of Moldova,2010,Current health expenditure (% of GDP),10.1
 498,Republic of Moldova,2015,Current health expenditure (% of GDP),8.6
 498,Republic of Moldova,2019,Current health expenditure (% of GDP),6.5
-498,Republic of Moldova,2020,Current health expenditure (% of GDP),7
+498,Republic of Moldova,2020,Current health expenditure (% of GDP),7.0
 498,Republic of Moldova,2021,Current health expenditure (% of GDP),7.7
 498,Republic of Moldova,2005,Domestic general government health expenditure (% of total government expenditure),13.6
 498,Republic of Moldova,2010,Domestic general government health expenditure (% of total government expenditure),13.6
@@ -1689,10 +1689,10 @@
 642,Romania,2010,Domestic general government health expenditure (% of total government expenditure),11.4
 642,Romania,2015,Domestic general government health expenditure (% of total government expenditure),10.7
 642,Romania,2019,Domestic general government health expenditure (% of total government expenditure),12.7
-642,Romania,2020,Domestic general government health expenditure (% of total government expenditure),12
+642,Romania,2020,Domestic general government health expenditure (% of total government expenditure),12.0
 642,Romania,2021,Domestic general government health expenditure (% of total government expenditure),12.3
 643,Russian Federation,2005,Current health expenditure (% of GDP),4.8
-643,Russian Federation,2010,Current health expenditure (% of GDP),5
+643,Russian Federation,2010,Current health expenditure (% of GDP),5.0
 643,Russian Federation,2015,Current health expenditure (% of GDP),5.3
 643,Russian Federation,2019,Current health expenditure (% of GDP),5.6
 643,Russian Federation,2020,Current health expenditure (% of GDP),7.6
@@ -1713,7 +1713,7 @@
 646,Rwanda,2010,Domestic general government health expenditure (% of total government expenditure),8.6
 646,Rwanda,2015,Domestic general government health expenditure (% of total government expenditure),7.9
 646,Rwanda,2019,Domestic general government health expenditure (% of total government expenditure),8.9
-646,Rwanda,2020,Domestic general government health expenditure (% of total government expenditure),9
+646,Rwanda,2020,Domestic general government health expenditure (% of total government expenditure),9.0
 646,Rwanda,2021,Domestic general government health expenditure (% of total government expenditure),9.5
 659,Saint Kitts and Nevis,2005,Current health expenditure (% of GDP),4.7
 659,Saint Kitts and Nevis,2010,Current health expenditure (% of GDP),5.2
@@ -1725,7 +1725,7 @@
 659,Saint Kitts and Nevis,2010,Domestic general government health expenditure (% of total government expenditure),5.9
 659,Saint Kitts and Nevis,2015,Domestic general government health expenditure (% of total government expenditure),6.6
 659,Saint Kitts and Nevis,2019,Domestic general government health expenditure (% of total government expenditure),6.7
-659,Saint Kitts and Nevis,2020,Domestic general government health expenditure (% of total government expenditure),8
+659,Saint Kitts and Nevis,2020,Domestic general government health expenditure (% of total government expenditure),8.0
 659,Saint Kitts and Nevis,2021,Domestic general government health expenditure (% of total government expenditure),7.9
 662,Saint Lucia,2005,Current health expenditure (% of GDP),4.9
 662,Saint Lucia,2010,Current health expenditure (% of GDP),5.1
@@ -1734,7 +1734,7 @@
 662,Saint Lucia,2020,Current health expenditure (% of GDP),6.8
 662,Saint Lucia,2021,Current health expenditure (% of GDP),6.2
 662,Saint Lucia,2005,Domestic general government health expenditure (% of total government expenditure),6.2
-662,Saint Lucia,2010,Domestic general government health expenditure (% of total government expenditure),7
+662,Saint Lucia,2010,Domestic general government health expenditure (% of total government expenditure),7.0
 662,Saint Lucia,2015,Domestic general government health expenditure (% of total government expenditure),8.4
 662,Saint Lucia,2019,Domestic general government health expenditure (% of total government expenditure),8.3
 662,Saint Lucia,2020,Domestic general government health expenditure (% of total government expenditure),8.6
@@ -1745,7 +1745,7 @@
 670,Saint Vincent & Grenadines,2019,Current health expenditure (% of GDP),4.3
 670,Saint Vincent & Grenadines,2020,Current health expenditure (% of GDP),4.8
 670,Saint Vincent & Grenadines,2021,Current health expenditure (% of GDP),5.4
-670,Saint Vincent & Grenadines,2005,Domestic general government health expenditure (% of total government expenditure),9
+670,Saint Vincent & Grenadines,2005,Domestic general government health expenditure (% of total government expenditure),9.0
 670,Saint Vincent & Grenadines,2010,Domestic general government health expenditure (% of total government expenditure),8.2
 670,Saint Vincent & Grenadines,2015,Domestic general government health expenditure (% of total government expenditure),9.2
 670,Saint Vincent & Grenadines,2019,Domestic general government health expenditure (% of total government expenditure),9.7
@@ -1768,9 +1768,9 @@
 674,San Marino,2015,Current health expenditure (% of GDP),8.4
 674,San Marino,2019,Current health expenditure (% of GDP),8.1
 674,San Marino,2020,Current health expenditure (% of GDP),8.5
-674,San Marino,2021,Current health expenditure (% of GDP),8
+674,San Marino,2021,Current health expenditure (% of GDP),8.0
 674,San Marino,2005,Domestic general government health expenditure (% of total government expenditure),19.7
-674,San Marino,2010,Domestic general government health expenditure (% of total government expenditure),22
+674,San Marino,2010,Domestic general government health expenditure (% of total government expenditure),22.0
 674,San Marino,2015,Domestic general government health expenditure (% of total government expenditure),27.7
 674,San Marino,2019,Domestic general government health expenditure (% of total government expenditure),32.2
 674,San Marino,2020,Domestic general government health expenditure (% of total government expenditure),12.9
@@ -1792,15 +1792,15 @@
 682,Saudi Arabia,2015,Current health expenditure (% of GDP),5.9
 682,Saudi Arabia,2019,Current health expenditure (% of GDP),5.5
 682,Saudi Arabia,2020,Current health expenditure (% of GDP),6.6
-682,Saudi Arabia,2021,Current health expenditure (% of GDP),6
+682,Saudi Arabia,2021,Current health expenditure (% of GDP),6.0
 682,Saudi Arabia,2005,Domestic general government health expenditure (% of total government expenditure),8.8
 682,Saudi Arabia,2010,Domestic general government health expenditure (% of total government expenditure),6.8
 682,Saudi Arabia,2015,Domestic general government health expenditure (% of total government expenditure),10.1
-682,Saudi Arabia,2019,Domestic general government health expenditure (% of total government expenditure),12
+682,Saudi Arabia,2019,Domestic general government health expenditure (% of total government expenditure),12.0
 682,Saudi Arabia,2020,Domestic general government health expenditure (% of total government expenditure),13.3
 682,Saudi Arabia,2021,Domestic general government health expenditure (% of total government expenditure),14.4
 686,Senegal,2005,Current health expenditure (% of GDP),3.7
-686,Senegal,2010,Current health expenditure (% of GDP),4
+686,Senegal,2010,Current health expenditure (% of GDP),4.0
 686,Senegal,2015,Current health expenditure (% of GDP),4.4
 686,Senegal,2019,Current health expenditure (% of GDP),4.5
 686,Senegal,2020,Current health expenditure (% of GDP),5.2
@@ -1816,12 +1816,12 @@
 688,Serbia,2015,Current health expenditure (% of GDP),8.8
 688,Serbia,2019,Current health expenditure (% of GDP),8.7
 688,Serbia,2020,Current health expenditure (% of GDP),8.7
-688,Serbia,2021,Current health expenditure (% of GDP),10
+688,Serbia,2021,Current health expenditure (% of GDP),10.0
 688,Serbia,2005,Domestic general government health expenditure (% of total government expenditure),13.6
 688,Serbia,2010,Domestic general government health expenditure (% of total government expenditure),13.6
 688,Serbia,2015,Domestic general government health expenditure (% of total government expenditure),11.9
-688,Serbia,2019,Domestic general government health expenditure (% of total government expenditure),12
-688,Serbia,2020,Domestic general government health expenditure (% of total government expenditure),11
+688,Serbia,2019,Domestic general government health expenditure (% of total government expenditure),12.0
+688,Serbia,2020,Domestic general government health expenditure (% of total government expenditure),11.0
 688,Serbia,2021,Domestic general government health expenditure (% of total government expenditure),13.4
 690,Seychelles,2005,Current health expenditure (% of GDP),4.7
 690,Seychelles,2010,Current health expenditure (% of GDP),4.5
@@ -1830,12 +1830,12 @@
 690,Seychelles,2020,Current health expenditure (% of GDP),6.5
 690,Seychelles,2021,Current health expenditure (% of GDP),5.3
 690,Seychelles,2005,Domestic general government health expenditure (% of total government expenditure),9.3
-690,Seychelles,2010,Domestic general government health expenditure (% of total government expenditure),9
-690,Seychelles,2015,Domestic general government health expenditure (% of total government expenditure),10
+690,Seychelles,2010,Domestic general government health expenditure (% of total government expenditure),9.0
+690,Seychelles,2015,Domestic general government health expenditure (% of total government expenditure),10.0
 690,Seychelles,2019,Domestic general government health expenditure (% of total government expenditure),10.2
 690,Seychelles,2020,Domestic general government health expenditure (% of total government expenditure),10.2
 690,Seychelles,2021,Domestic general government health expenditure (% of total government expenditure),10.2
-694,Sierra Leone,2005,Current health expenditure (% of GDP),9
+694,Sierra Leone,2005,Current health expenditure (% of GDP),9.0
 694,Sierra Leone,2010,Current health expenditure (% of GDP),9.1
 694,Sierra Leone,2015,Current health expenditure (% of GDP),19.7
 694,Sierra Leone,2019,Current health expenditure (% of GDP),9.1
@@ -1847,7 +1847,7 @@
 694,Sierra Leone,2019,Domestic general government health expenditure (% of total government expenditure),5.8
 694,Sierra Leone,2020,Domestic general government health expenditure (% of total government expenditure),5.3
 694,Sierra Leone,2021,Domestic general government health expenditure (% of total government expenditure),6.9
-702,Singapore,2005,Current health expenditure (% of GDP),3
+702,Singapore,2005,Current health expenditure (% of GDP),3.0
 702,Singapore,2010,Current health expenditure (% of GDP),3.2
 702,Singapore,2015,Current health expenditure (% of GDP),4.2
 702,Singapore,2019,Current health expenditure (% of GDP),4.4
@@ -1871,7 +1871,7 @@
 703,Slovakia,2019,Domestic general government health expenditure (% of total government expenditure),13.5
 703,Slovakia,2020,Domestic general government health expenditure (% of total government expenditure),12.8
 703,Slovakia,2021,Domestic general government health expenditure (% of total government expenditure),13.6
-705,Slovenia,2005,Current health expenditure (% of GDP),8
+705,Slovenia,2005,Current health expenditure (% of GDP),8.0
 705,Slovenia,2010,Current health expenditure (% of GDP),8.6
 705,Slovenia,2015,Current health expenditure (% of GDP),8.5
 705,Slovenia,2019,Current health expenditure (% of GDP),8.5
@@ -1882,8 +1882,8 @@
 705,Slovenia,2015,Domestic general government health expenditure (% of total government expenditure),12.4
 705,Slovenia,2019,Domestic general government health expenditure (% of total government expenditure),14.2
 705,Slovenia,2020,Domestic general government health expenditure (% of total government expenditure),13.3
-705,Slovenia,2021,Domestic general government health expenditure (% of total government expenditure),14
-90,Solomon Islands,2005,Current health expenditure (% of GDP),9
+705,Slovenia,2021,Domestic general government health expenditure (% of total government expenditure),14.0
+90,Solomon Islands,2005,Current health expenditure (% of GDP),9.0
 90,Solomon Islands,2010,Current health expenditure (% of GDP),4.7
 90,Solomon Islands,2015,Current health expenditure (% of GDP),4.4
 90,Solomon Islands,2019,Current health expenditure (% of GDP),4.3
@@ -1907,7 +1907,7 @@
 710,South Africa,2019,Domestic general government health expenditure (% of total government expenditure),15.3
 710,South Africa,2020,Domestic general government health expenditure (% of total government expenditure),15.3
 710,South Africa,2021,Domestic general government health expenditure (% of total government expenditure),15.3
-728,South Sudan,2019,Current health expenditure (% of GDP),9
+728,South Sudan,2019,Current health expenditure (% of GDP),9.0
 728,South Sudan,2020,Current health expenditure (% of GDP),9.4
 728,South Sudan,2021,Current health expenditure (% of GDP),5.9
 728,South Sudan,2019,Domestic general government health expenditure (% of total government expenditure),2.1
@@ -1929,7 +1929,7 @@
 144,Sri Lanka,2010,Current health expenditure (% of GDP),3.7
 144,Sri Lanka,2015,Current health expenditure (% of GDP),3.7
 144,Sri Lanka,2019,Current health expenditure (% of GDP),3.9
-144,Sri Lanka,2020,Current health expenditure (% of GDP),4
+144,Sri Lanka,2020,Current health expenditure (% of GDP),4.0
 144,Sri Lanka,2021,Current health expenditure (% of GDP),4.1
 144,Sri Lanka,2005,Domestic general government health expenditure (% of total government expenditure),10.1
 144,Sri Lanka,2010,Domestic general government health expenditure (% of total government expenditure),7.8
@@ -1941,7 +1941,7 @@
 729,Sudan,2010,Current health expenditure (% of GDP),5.1
 729,Sudan,2015,Current health expenditure (% of GDP),5.8
 729,Sudan,2019,Current health expenditure (% of GDP),4.6
-729,Sudan,2020,Current health expenditure (% of GDP),3
+729,Sudan,2020,Current health expenditure (% of GDP),3.0
 729,Sudan,2021,Current health expenditure (% of GDP),2.8
 729,Sudan,2005,Domestic general government health expenditure (% of total government expenditure),8.1
 729,Sudan,2010,Domestic general government health expenditure (% of total government expenditure),9.5
@@ -1960,7 +1960,7 @@
 740,Suriname,2015,Domestic general government health expenditure (% of total government expenditure),10.9
 740,Suriname,2019,Domestic general government health expenditure (% of total government expenditure),15.7
 740,Suriname,2020,Domestic general government health expenditure (% of total government expenditure),14.8
-740,Suriname,2021,Domestic general government health expenditure (% of total government expenditure),10
+740,Suriname,2021,Domestic general government health expenditure (% of total government expenditure),10.0
 752,Sweden,2005,Current health expenditure (% of GDP),8.2
 752,Sweden,2010,Current health expenditure (% of GDP),8.3
 752,Sweden,2015,Current health expenditure (% of GDP),10.8
@@ -1983,7 +1983,7 @@
 756,Switzerland,2010,Domestic general government health expenditure (% of total government expenditure),10.4
 756,Switzerland,2015,Domestic general government health expenditure (% of total government expenditure),10.7
 756,Switzerland,2019,Domestic general government health expenditure (% of total government expenditure),11.2
-756,Switzerland,2020,Domestic general government health expenditure (% of total government expenditure),11
+756,Switzerland,2020,Domestic general government health expenditure (% of total government expenditure),11.0
 756,Switzerland,2021,Domestic general government health expenditure (% of total government expenditure),11.7
 760,Syrian Arab Republic,2005,Current health expenditure (% of GDP),4.1
 760,Syrian Arab Republic,2010,Current health expenditure (% of GDP),3.3
@@ -1994,13 +1994,13 @@
 762,Tajikistan,2015,Current health expenditure (% of GDP),6.9
 762,Tajikistan,2019,Current health expenditure (% of GDP),6.9
 762,Tajikistan,2020,Current health expenditure (% of GDP),8.2
-762,Tajikistan,2021,Current health expenditure (% of GDP),8
+762,Tajikistan,2021,Current health expenditure (% of GDP),8.0
 762,Tajikistan,2005,Domestic general government health expenditure (% of total government expenditure),4.3
 762,Tajikistan,2010,Domestic general government health expenditure (% of total government expenditure),4.5
 762,Tajikistan,2015,Domestic general government health expenditure (% of total government expenditure),6.4
 762,Tajikistan,2019,Domestic general government health expenditure (% of total government expenditure),6.6
 762,Tajikistan,2020,Domestic general government health expenditure (% of total government expenditure),7.4
-762,Tajikistan,2021,Domestic general government health expenditure (% of total government expenditure),7
+762,Tajikistan,2021,Domestic general government health expenditure (% of total government expenditure),7.0
 764,Thailand,2005,Current health expenditure (% of GDP),3.2
 764,Thailand,2010,Current health expenditure (% of GDP),3.4
 764,Thailand,2015,Current health expenditure (% of GDP),3.9
@@ -2016,24 +2016,24 @@
 626,Timor-Leste,2005,Current health expenditure (% of GDP),5.3
 626,Timor-Leste,2010,Current health expenditure (% of GDP),6.5
 626,Timor-Leste,2015,Current health expenditure (% of GDP),7.7
-626,Timor-Leste,2019,Current health expenditure (% of GDP),6
-626,Timor-Leste,2020,Current health expenditure (% of GDP),10
+626,Timor-Leste,2019,Current health expenditure (% of GDP),6.0
+626,Timor-Leste,2020,Current health expenditure (% of GDP),10.0
 626,Timor-Leste,2021,Current health expenditure (% of GDP),11.4
 626,Timor-Leste,2005,Domestic general government health expenditure (% of total government expenditure),3.6
 626,Timor-Leste,2010,Domestic general government health expenditure (% of total government expenditure),2.7
 626,Timor-Leste,2015,Domestic general government health expenditure (% of total government expenditure),4.5
 626,Timor-Leste,2019,Domestic general government health expenditure (% of total government expenditure),4.2
 626,Timor-Leste,2020,Domestic general government health expenditure (% of total government expenditure),6.6
-626,Timor-Leste,2021,Domestic general government health expenditure (% of total government expenditure),7
+626,Timor-Leste,2021,Domestic general government health expenditure (% of total government expenditure),7.0
 768,Togo,2005,Current health expenditure (% of GDP),3.3
 768,Togo,2010,Current health expenditure (% of GDP),4.5
-768,Togo,2015,Current health expenditure (% of GDP),5
+768,Togo,2015,Current health expenditure (% of GDP),5.0
 768,Togo,2019,Current health expenditure (% of GDP),5.7
-768,Togo,2020,Current health expenditure (% of GDP),6
+768,Togo,2020,Current health expenditure (% of GDP),6.0
 768,Togo,2021,Current health expenditure (% of GDP),5.6
 768,Togo,2005,Domestic general government health expenditure (% of total government expenditure),3.8
 768,Togo,2010,Domestic general government health expenditure (% of total government expenditure),7.4
-768,Togo,2015,Domestic general government health expenditure (% of total government expenditure),4
+768,Togo,2015,Domestic general government health expenditure (% of total government expenditure),4.0
 768,Togo,2019,Domestic general government health expenditure (% of total government expenditure),5.4
 768,Togo,2020,Domestic general government health expenditure (% of total government expenditure),3.9
 768,Togo,2021,Domestic general government health expenditure (% of total government expenditure),2.6
@@ -2054,9 +2054,9 @@
 780,Trinidad and Tobago,2015,Current health expenditure (% of GDP),5.7
 780,Trinidad and Tobago,2019,Current health expenditure (% of GDP),6.8
 780,Trinidad and Tobago,2020,Current health expenditure (% of GDP),7.5
-780,Trinidad and Tobago,2021,Current health expenditure (% of GDP),7
-780,Trinidad and Tobago,2005,Domestic general government health expenditure (% of total government expenditure),8
-780,Trinidad and Tobago,2010,Domestic general government health expenditure (% of total government expenditure),8
+780,Trinidad and Tobago,2021,Current health expenditure (% of GDP),7.0
+780,Trinidad and Tobago,2005,Domestic general government health expenditure (% of total government expenditure),8.0
+780,Trinidad and Tobago,2010,Domestic general government health expenditure (% of total government expenditure),8.0
 780,Trinidad and Tobago,2015,Domestic general government health expenditure (% of total government expenditure),8.3
 780,Trinidad and Tobago,2019,Domestic general government health expenditure (% of total government expenditure),10.2
 780,Trinidad and Tobago,2020,Domestic general government health expenditure (% of total government expenditure),9.6
@@ -2064,17 +2064,17 @@
 788,Tunisia,2005,Current health expenditure (% of GDP),5.1
 788,Tunisia,2010,Current health expenditure (% of GDP),5.6
 788,Tunisia,2015,Current health expenditure (% of GDP),6.2
-788,Tunisia,2019,Current health expenditure (% of GDP),6
+788,Tunisia,2019,Current health expenditure (% of GDP),6.0
 788,Tunisia,2020,Current health expenditure (% of GDP),7.1
-788,Tunisia,2021,Current health expenditure (% of GDP),7
+788,Tunisia,2021,Current health expenditure (% of GDP),7.0
 788,Tunisia,2005,Domestic general government health expenditure (% of total government expenditure),11.4
-788,Tunisia,2010,Domestic general government health expenditure (% of total government expenditure),13
+788,Tunisia,2010,Domestic general government health expenditure (% of total government expenditure),13.0
 788,Tunisia,2015,Domestic general government health expenditure (% of total government expenditure),12.2
 788,Tunisia,2019,Domestic general government health expenditure (% of total government expenditure),12.1
 788,Tunisia,2020,Domestic general government health expenditure (% of total government expenditure),12.5
 788,Tunisia,2021,Domestic general government health expenditure (% of total government expenditure),12.4
 792,Türkiye,2005,Current health expenditure (% of GDP),4.9
-792,Türkiye,2010,Current health expenditure (% of GDP),5
+792,Türkiye,2010,Current health expenditure (% of GDP),5.0
 792,Türkiye,2015,Current health expenditure (% of GDP),4.1
 792,Türkiye,2019,Current health expenditure (% of GDP),4.4
 792,Türkiye,2020,Current health expenditure (% of GDP),4.6
@@ -2102,9 +2102,9 @@
 798,Tuvalu,2015,Current health expenditure (% of GDP),13.5
 798,Tuvalu,2019,Current health expenditure (% of GDP),22.4
 798,Tuvalu,2020,Current health expenditure (% of GDP),18.9
-798,Tuvalu,2021,Current health expenditure (% of GDP),20
+798,Tuvalu,2021,Current health expenditure (% of GDP),20.0
 798,Tuvalu,2005,Domestic general government health expenditure (% of total government expenditure),11.6
-798,Tuvalu,2010,Domestic general government health expenditure (% of total government expenditure),14
+798,Tuvalu,2010,Domestic general government health expenditure (% of total government expenditure),14.0
 798,Tuvalu,2015,Domestic general government health expenditure (% of total government expenditure),8.7
 798,Tuvalu,2019,Domestic general government health expenditure (% of total government expenditure),15.2
 798,Tuvalu,2020,Domestic general government health expenditure (% of total government expenditure),12.1
@@ -2126,7 +2126,7 @@
 804,Ukraine,2015,Current health expenditure (% of GDP),7.8
 804,Ukraine,2019,Current health expenditure (% of GDP),7.1
 804,Ukraine,2020,Current health expenditure (% of GDP),7.6
-804,Ukraine,2021,Current health expenditure (% of GDP),8
+804,Ukraine,2021,Current health expenditure (% of GDP),8.0
 804,Ukraine,2005,Domestic general government health expenditure (% of total government expenditure),8.4
 804,Ukraine,2010,Domestic general government health expenditure (% of total government expenditure),7.5
 804,Ukraine,2015,Domestic general government health expenditure (% of total government expenditure),8.6
@@ -2148,7 +2148,7 @@
 826,United Kingdom,2005,Current health expenditure (% of GDP),8.4
 826,United Kingdom,2010,Current health expenditure (% of GDP),9.9
 826,United Kingdom,2015,Current health expenditure (% of GDP),9.8
-826,United Kingdom,2019,Current health expenditure (% of GDP),10
+826,United Kingdom,2019,Current health expenditure (% of GDP),10.0
 826,United Kingdom,2020,Current health expenditure (% of GDP),12.2
 826,United Kingdom,2021,Current health expenditure (% of GDP),12.4
 826,United Kingdom,2005,Domestic general government health expenditure (% of total government expenditure),16.6
@@ -2191,7 +2191,7 @@
 858,Uruguay,2010,Domestic general government health expenditure (% of total government expenditure),17.3
 858,Uruguay,2015,Domestic general government health expenditure (% of total government expenditure),19.9
 858,Uruguay,2019,Domestic general government health expenditure (% of total government expenditure),20.1
-858,Uruguay,2020,Domestic general government health expenditure (% of total government expenditure),20
+858,Uruguay,2020,Domestic general government health expenditure (% of total government expenditure),20.0
 858,Uruguay,2021,Domestic general government health expenditure (% of total government expenditure),22.4
 860,Uzbekistan,2005,Current health expenditure (% of GDP),4.8
 860,Uzbekistan,2010,Current health expenditure (% of GDP),5.3
@@ -2200,7 +2200,7 @@
 860,Uzbekistan,2020,Current health expenditure (% of GDP),6.8
 860,Uzbekistan,2021,Current health expenditure (% of GDP),7.7
 860,Uzbekistan,2005,Domestic general government health expenditure (% of total government expenditure),6.5
-860,Uzbekistan,2010,Domestic general government health expenditure (% of total government expenditure),8
+860,Uzbekistan,2010,Domestic general government health expenditure (% of total government expenditure),8.0
 860,Uzbekistan,2015,Domestic general government health expenditure (% of total government expenditure),9.6
 860,Uzbekistan,2019,Domestic general government health expenditure (% of total government expenditure),8.3
 860,Uzbekistan,2020,Domestic general government health expenditure (% of total government expenditure),10.8
@@ -2209,7 +2209,7 @@
 548,Vanuatu,2010,Current health expenditure (% of GDP),3.5
 548,Vanuatu,2015,Current health expenditure (% of GDP),4.3
 548,Vanuatu,2019,Current health expenditure (% of GDP),3.3
-548,Vanuatu,2020,Current health expenditure (% of GDP),4
+548,Vanuatu,2020,Current health expenditure (% of GDP),4.0
 548,Vanuatu,2021,Current health expenditure (% of GDP),4.4
 548,Vanuatu,2005,Domestic general government health expenditure (% of total government expenditure),11.7
 548,Vanuatu,2010,Domestic general government health expenditure (% of total government expenditure),6.8
@@ -2219,14 +2219,14 @@
 548,Vanuatu,2021,Domestic general government health expenditure (% of total government expenditure),2.8
 862,Venezuela (Boliv. Rep. of),2019,Current health expenditure (% of GDP),2.2
 862,Venezuela (Boliv. Rep. of),2020,Current health expenditure (% of GDP),4.1
-862,Venezuela (Boliv. Rep. of),2021,Current health expenditure (% of GDP),4
+862,Venezuela (Boliv. Rep. of),2021,Current health expenditure (% of GDP),4.0
 862,Venezuela (Boliv. Rep. of),2019,Domestic general government health expenditure (% of total government expenditure),1.8
 862,Venezuela (Boliv. Rep. of),2020,Domestic general government health expenditure (% of total government expenditure),6.9
 862,Venezuela (Boliv. Rep. of),2021,Domestic general government health expenditure (% of total government expenditure),5.5
 704,Viet Nam,2005,Current health expenditure (% of GDP),4.3
 704,Viet Nam,2010,Current health expenditure (% of GDP),5.1
 704,Viet Nam,2015,Current health expenditure (% of GDP),4.7
-704,Viet Nam,2019,Current health expenditure (% of GDP),5
+704,Viet Nam,2019,Current health expenditure (% of GDP),5.0
 704,Viet Nam,2020,Current health expenditure (% of GDP),4.3
 704,Viet Nam,2021,Current health expenditure (% of GDP),4.6
 704,Viet Nam,2005,Domestic general government health expenditure (% of total government expenditure),8.7
@@ -2234,7 +2234,7 @@
 704,Viet Nam,2015,Domestic general government health expenditure (% of total government expenditure),8.5
 704,Viet Nam,2019,Domestic general government health expenditure (% of total government expenditure),10.2
 704,Viet Nam,2020,Domestic general government health expenditure (% of total government expenditure),8.4
-704,Viet Nam,2021,Domestic general government health expenditure (% of total government expenditure),9
+704,Viet Nam,2021,Domestic general government health expenditure (% of total government expenditure),9.0
 887,Yemen,2005,Current health expenditure (% of GDP),5.2
 887,Yemen,2010,Current health expenditure (% of GDP),5.2
 887,Yemen,2015,Current health expenditure (% of GDP),4.3
@@ -2242,7 +2242,7 @@
 887,Yemen,2010,Domestic general government health expenditure (% of total government expenditure),3.8
 887,Yemen,2015,Domestic general government health expenditure (% of total government expenditure),2.2
 894,Zambia,2005,Current health expenditure (% of GDP),6.3
-894,Zambia,2010,Current health expenditure (% of GDP),4
+894,Zambia,2010,Current health expenditure (% of GDP),4.0
 894,Zambia,2015,Current health expenditure (% of GDP),4.4
 894,Zambia,2019,Current health expenditure (% of GDP),6.8
 894,Zambia,2020,Current health expenditure (% of GDP),6.3
@@ -2256,7 +2256,7 @@
 716,Zimbabwe,2010,Current health expenditure (% of GDP),10.5
 716,Zimbabwe,2015,Current health expenditure (% of GDP),7.4
 716,Zimbabwe,2019,Current health expenditure (% of GDP),3.2
-716,Zimbabwe,2020,Current health expenditure (% of GDP),3
+716,Zimbabwe,2020,Current health expenditure (% of GDP),3.0
 716,Zimbabwe,2021,Current health expenditure (% of GDP),2.8
 716,Zimbabwe,2010,Domestic general government health expenditure (% of total government expenditure),15.2
 716,Zimbabwe,2015,Domestic general government health expenditure (% of total government expenditure),7.6
