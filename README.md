@@ -1,1 +1,1 @@
-# ml_3021_project
+# DS3021 Machine Learning Project
