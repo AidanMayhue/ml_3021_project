@@ -3,10 +3,10 @@
 ## Please Git push all of your code once you finish completing a task so we don't do the same work. Also pull all recent work before you start working
 
 ### Writing tasks
-** Answer these questions 
-- [] What is in your data?
-- [] How will these data be useful for studying the phenomenon you're interested in?
-- [] What are the challenges you've resolved or expect to face in using them?
+**Answer these questions**
+- [ ] What is in your data?
+- [ ] How will these data be useful for studying the phenomenon you're interested in?
+- [ ] What are the challenges you've resolved or expect to face in using them?
 
 ### Create Visuals
-- [] Create 5 interesting graphs
+- [ ] Create 5 interesting graphs include titles etc
