@@ -8,5 +8,8 @@
 - [ ] How will these data be useful for studying the phenomenon you're interested in?
 - [ ] What are the challenges you've resolved or expect to face in using them?
 
+### Cleaning data
+- [ ] Cleaned the data
+
 ### Create Visuals
 - [ ] Create 5 interesting graphs include titles etc
