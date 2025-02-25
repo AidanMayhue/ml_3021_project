@@ -4,9 +4,9 @@
 
 ### Writing tasks
 **Answer these questions**
-- [ ] What is in your data?
-- [ ] How will these data be useful for studying the phenomenon you're interested in?
-- [ ] What are the challenges you've resolved or expect to face in using them?
+- [x] What is in your data?
+- [x] How will these data be useful for studying the phenomenon you're interested in?
+- [x] What are the challenges you've resolved or expect to face in using them?
 
 ### Cleaning data
 - [ ] Cleaned the data
