@@ -1,7 +1,7 @@
 # Question Responses 
 
 ### What is in your data?
-The combined dataset consists of 1,536 observations and 52 variables, combining freedom, economic, education, employment, and demographic indicators for various countries and regions. We will analyze these variables to create a definition of "freedom". 
+The combined dataset consists of 1,150 observations and 51 variables, combining freedom, economic, education, employment, and demographic indicators for various countries and regions. We will analyze these variables to create a definition of "freedom". 
 
 Some Key Variables:
 1. Freedom & Governance Metrics
