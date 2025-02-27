@@ -12,4 +12,4 @@
 - [x] Cleaned the data
 
 ### Create Visuals
-- [ ] Create 5 interesting graphs include titles etc
+- [x] Create 5 interesting graphs include titles etc
