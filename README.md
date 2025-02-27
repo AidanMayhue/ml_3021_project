@@ -9,7 +9,7 @@
 - [x] What are the challenges you've resolved or expect to face in using them?
 
 ### Cleaning data
-- [ ] Cleaned the data
+- [x] Cleaned the data
 
 ### Create Visuals
 - [ ] Create 5 interesting graphs include titles etc
