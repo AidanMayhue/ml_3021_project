@@ -9,7 +9,7 @@ https://docs.google.com/document/d/1HuKBrsKSfoglAmf6ZqCxkBJz1YPdCvSgY640Jge7FX0/
 - Does economic prosperity lead to more political and civil freedom
   
 Rameez answer:
-This study aims to investigate the relationship between economic prosperity and levels of political and civil freedom across countries. Specifically, we are looking to answer the question, Does economic prosperity lead to more political and civil freedom? This is a central question in international development, as many policymakers debate whether improving economic indicators—such as GDP growth, education, or internet access—correlate with or cause democratic reforms and greater civil liberties.
+This study aims to investigate the relationship between economic prosperity and levels of political and civil freedom across countries. Specifically, we are looking to answer the question, Does economic prosperity lead to more political and civil freedom? This is a central question in international development, as many policymakers debate whether improving economic indicators (such as GDP growth, education, or internet access) correlate with or cause democratic reforms and greater civil liberties.
 
 Understanding this relationship is crucial. If economic growth fosters freedom, then investing in development may lead to stronger institutions and better human rights. On the other hand, if no clear relationship exists or if prosperity can exist without freedom, it may challenge assumptions about global democratization. This question also has implications for foreign aid, international diplomacy, and long-term peacebuilding. Which are all topics that are prevalent today. 
 
