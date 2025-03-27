@@ -22,7 +22,7 @@ Understanding this relationship is crucial. If economic growth fosters freedom, 
 3. **Our Prediction Type** (1 paragraph)  
    * Supervised vs. unsupervised? Classification or regression?
   
-   We intend on using a method of regression.  
+   We intend on using regression methods for our data, it would not make sense to track economic prosperity in terms of classification since the data in regards to economic prosperity is purely quantitative.  
 
 4. **Planned Models and Methods** (2ish paragraphs)  
    * Which models are we going to use? Why? How will we tune or evaluate them?
