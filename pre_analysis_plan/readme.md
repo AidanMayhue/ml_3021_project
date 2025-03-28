@@ -23,6 +23,8 @@ Understanding this relationship is crucial. If economic growth fosters freedom, 
 
 4. **Planned Models and Methods** (2ish paragraphs)  
    * Which models are we going to use? Why? How will we tune or evaluate them?
+
+  
 Ian's Answer:
 In our study, in order to investigate whether economic prosperity leads to greater political and civil freedom, we will use Principal Component Analysis (PCA) with the aim of reducing the dimensionality across our economic and demographic features. Our dataset utilizes a variety of features ranging from GDP growth rate and popluation distribution by age, to internet usage and and gross enrollment ratios. Due to these indicators being likely correlated, PCA will allow us to transform the features into smaller set of linearly independent principle components that we will use to capture as well as identify areas that are sensative in variance. This would reduce multicollinearity and return resulting variables that are more adequate for regression analysis. We will condunct PCA separately for the economic/demographic indicators and the freedom related scores to return interpretable summaries whcih will enable us to reflect how one predicts the other.
 
