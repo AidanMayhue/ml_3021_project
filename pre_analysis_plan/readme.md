@@ -1,8 +1,5 @@
 # Pre-Analysis Plan
 
-### Link to Shared Google Document Outline
-https://docs.google.com/document/d/1HuKBrsKSfoglAmf6ZqCxkBJz1YPdCvSgY640Jge7FX0/edit?tab=t.0
-
 1. **Our Research Question** (1–2 paragraphs)  **(Done By Rameez)**
  * What are you trying to predict? Why is it interesting?  
 
