@@ -18,7 +18,7 @@ Understanding this relationship is crucial. If economic growth fosters freedom, 
 
 3. **Our Prediction Type** (1 paragraph)  
    * Supervised vs. unsupervised? Classification or regression?
-  
+  Aidan:
    We intend on using regression methods for our data, it would not make sense to track economic prosperity in terms of classification since the data in regards to economic prosperity is purely quantitative. We are using supervised learning methods as we already have the variables available and intend on using them to identify relationships between the variables.
 
 4. **Planned Models and Methods** (2ish paragraphs)  
@@ -38,7 +38,8 @@ When we have the resulting principal components is computed, we will use multipl
 
 6. **Anticipated Challengess** (1 paragraph)  
    * What are some potential challenges that we might face during the project
-  
+  Aidan:
+I think a significant challenge we face in the data is deciding which data is highly correlated within the context of PCA. While knowing which columns are correlated is not a necessity, PCA is the most effective when there are several columns of data that are highly correlated with each other. If many of these columns happen to be independent, we should expect to see a less effective model as a result. If we are unsure about the number of independent variables, an additional challenge that may arise is we have several independent highly correlated variables, which may also lead to a less effective linear model. In this case we would have to pivot to using multiple linear regression or a decision tree to better solve this potential issue.
      
 
 7. **Feature Engineering / Prep Work** (optional, 1 paragraph)  
