@@ -46,8 +46,12 @@ A potential weakness we may face is seperating factors of correlation. Predictin
   Beyond cleaning the data, which was done in the EDA process, some feature engineering is necessary for the model. Due to the moderate to strong correlation between many economic and demographic variables, principal component analysis will be used to reduce the effects of multicollinearity, and lower the dimensionality of the feature space into a collection of uncorrelated principal components. Before the principal component analysis, however, the features will be standardized to account for the sensitivity of PCA to scale.
   
 
-8. **Results Presentation Plan** (optional, 1 paragraph)  
-   * How are we going to present the findings, graphs, charts,
+8. **Results Presentation Plan** (optional, 1 paragraph) **(Done By Kalenga)**
+   * How are we going to present the findings?
+
+     The findings will be presented using graphs, tables, and charts, all emphasizing relationships between economic prosperity and political/civil freedom. For example, scatterplots would be useful to visualize the correlation between key economic factors and political/civil freedom scores. We will also present the results of PCA through scree plots to show how the components explain the overall variance of the data. Additionally, bar graphs and/or line graphs will be useful to visualize regression results, mainly showing relationships between the principal components of the economic and freedom variables. Tables will summarize $R^2$ values and RMSE for model evaluation.
+
+     
   
   
 
