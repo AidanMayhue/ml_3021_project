@@ -40,13 +40,13 @@
    * What are weaknesses that you anticipate being an issue? How will you deal with them if they come up? If your approach fails, what might you learn from this unfortunate outcome?
 A potential weakness we may face is seperating factors of correlation. Predicting correlation between variables or ensuring that outside variables are not effecting the data would weaken our data. It's best to approach these situations with nuance, looking deeper in to the way these variables may affect eachother, and exploring unexpected correlations. If our approach fails, we would learn how to deal with complex multi-variable situations and the importance of understanding all of the components of our data set.
      
-7. **Feature Engineering / Prep Work** (optional, 1 paragraph) **(Done By Brian)** 
+8. **Feature Engineering / Prep Work** (optional, 1 paragraph) **(Done By Brian)** 
    * How are we preparing the data before utilizing it for models and analysis?
   
   Beyond cleaning the data, which was done in the EDA process, some feature engineering is necessary for the model. Due to the moderate to strong correlation between many economic and demographic variables, principal component analysis will be used to reduce the effects of multicollinearity, and lower the dimensionality of the feature space into a collection of uncorrelated principal components. Before the principal component analysis, however, the features will be standardized to account for the sensitivity of PCA to scale.
   
 
-8. **Results Presentation Plan** (optional, 1 paragraph) **(Done By Kalenga)**
+9. **Results Presentation Plan** (optional, 1 paragraph) **(Done By Kalenga)**
    * How are we going to present the findings?
 
      The findings will be presented using graphs, tables, and charts, all emphasizing relationships between economic prosperity and political/civil freedom. For example, scatterplots would be useful to visualize the correlation between key economic factors and political/civil freedom scores. We will also present the results of PCA through scree plots to show how the components explain the overall variance of the data. Additionally, bar graphs and/or line graphs will be useful to visualize regression results, mainly showing relationships between the principal components of the economic and freedom variables. Tables will summarize $R^2$ values and RMSE for model evaluation.
