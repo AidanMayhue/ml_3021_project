@@ -33,7 +33,8 @@ When we have the resulting principal components is computed, we will use multipl
 
 5. **Success Metrics** (1 paragraph)  
    * How will we know that the the model is working? What metrics are we using?
-  
+  Brian:
+  Whether or not the approach/model “works” will be based on the r2 coefficent of determination of the multiple linear regression, as well as the root mean squared error of the predicted freedom score values. The r2 value will be used to determine the extent to which the freedom score of a country can be explained by its economic and demographic factors. The RMSE will be used to measure how far off the freedom scores predicted by the MLR are from the actual freedom scores. If the model is successful, we would expect to see an r2 value greater than 0.5, along with an RMSE in or below the range of 10-15. The degree of success of the model would vary for r2 and RMSE values outside of these ranges, with lower r2 values and higher RMSE values indicating a worse/less sucessful model. 
      
 
 6. **Anticipated Challengess** (1 paragraph)  
