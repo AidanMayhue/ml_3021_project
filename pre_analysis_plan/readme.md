@@ -36,8 +36,9 @@
 
   I think a significant challenge we face in the data is deciding which data is highly correlated within the context of PCA. While knowing which columns are correlated is not a necessity, PCA is the most effective when there are several columns of data that are highly correlated with each other. If many of these columns happen to be independent, we should expect to see a less effective model as a result. If we are unsure about the number of independent variables, an additional challenge that may arise is we have several independent highly correlated variables, which may also lead to a less effective linear model. In this case we would have to pivot to using multiple linear regression or a decision tree to better solve this potential issue.
 
-7. **Anticipated Weaknessess** (1 paragraph)
+7. **Anticipated Weaknessess** (1 paragraph)**(Done By Claire)**
    * What are weaknesses that you anticipate being an issue? How will you deal with them if they come up? If your approach fails, what might you learn from this unfortunate outcome?
+A potential weakness we may face is seperating factors of correlation. Predicting correlation between variables or ensuring that outside variables are not effecting the data would weaken our data. It's best to approach these situations with nuance, looking deeper in to the way these variables may affect eachother, and exploring unexpected correlations. If our approach fails, we would learn how to deal with complex multi-variable situations and the importance of understanding all of the components of our data set.
      
 7. **Feature Engineering / Prep Work** (optional, 1 paragraph) **(Done By Brian)** 
    * How are we preparing the data before utilizing it for models and analysis?
