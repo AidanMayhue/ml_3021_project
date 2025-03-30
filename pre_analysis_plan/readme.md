@@ -31,10 +31,13 @@
   
   Whether or not the approach/model “works” will be based on the $R^2$ coefficent of determination of the multiple linear regression, as well as the root mean squared error of the predicted freedom score values. The $R^2$ value will be used to determine the extent to which the freedom score of a country can be explained by its economic and demographic factors. The RMSE will be used to measure how far off the freedom scores predicted by the MLR are from the actual freedom scores. If the model is successful, we would expect to see an $R^2$ value greater than 0.5, along with an RMSE in or below the range of 10-15. The degree of success of the model would vary for $R^2$ and RMSE values outside of these ranges, with lower $R^2$ values and higher RMSE values indicating a worse/less sucessful model. 
      
-6. **Anticipated Challengess** (1 paragraph) **(Done By Aidan)** 
+6. **Anticipated Challenges** (1 paragraph) **(Done By Aidan)** 
    * What are some potential challenges that we might face during the project?
 
   I think a significant challenge we face in the data is deciding which data is highly correlated within the context of PCA. While knowing which columns are correlated is not a necessity, PCA is the most effective when there are several columns of data that are highly correlated with each other. If many of these columns happen to be independent, we should expect to see a less effective model as a result. If we are unsure about the number of independent variables, an additional challenge that may arise is we have several independent highly correlated variables, which may also lead to a less effective linear model. In this case we would have to pivot to using multiple linear regression or a decision tree to better solve this potential issue.
+
+7. **Anticipated Weaknessess** (1 paragraph)
+   * What are weaknesses that you anticipate being an issue? How will you deal with them if they come up? If your approach fails, what might you learn from this unfortunate outcome?
      
 7. **Feature Engineering / Prep Work** (optional, 1 paragraph) **(Done By Brian)** 
    * How are we preparing the data before utilizing it for models and analysis?
@@ -43,5 +46,7 @@
   
 
 8. **Results Presentation Plan** (optional, 1 paragraph)  
-   * How are we going to present the findings, graphs, charts, 
+   * How are we going to present the findings, graphs, charts,
+  
+  
 
