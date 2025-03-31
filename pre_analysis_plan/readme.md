@@ -29,7 +29,7 @@
 5. **Success Metrics** (1 paragraph) **(Done By Brian)**
    * How will we know that the the model is working? What metrics are we using?
   
-  Whether or not the approach/model “works” will be based on the $R^2$ coefficent of determination of the multiple linear regression, as well as the root mean squared error of the predicted freedom score values. The $R^2$ value will be used to determine the extent to which the freedom score of a country can be explained by its economic and demographic factors. The RMSE will be used to measure how far off the freedom scores predicted by the MLR are from the actual freedom scores. If the model is successful, we would expect to see an $R^2$ value greater than 0.5, along with an RMSE in or below the range of 10-15. The degree of success of the model would vary for $R^2$ and RMSE values outside of these ranges, with lower $R^2$ values and higher RMSE values indicating a worse/less sucessful model. 
+  Whether or not the approach/model “works” will be based on the $R^2$ coefficent of determination of the multiple linear regression on the test data, as well as the root mean squared error of the predicted freedom score values. The $R^2$ value will be used to determine the extent to which the freedom score of a country can be explained by its economic and demographic factors. The RMSE will be used to measure how far off the freedom scores predicted by the MLR are from the actual freedom scores. If the model is successful, we would expect to see an $R^2$ value greater than 0.5, along with an RMSE in or below the range of 10-15. The degree of success of the model would vary for $R^2$ and RMSE values outside of these ranges, with lower $R^2$ values and higher RMSE values indicating a worse/less sucessful model. 
      
 6. **Anticipated Challenges** (1 paragraph) **(Done By Aidan)** 
    * What are some potential challenges that we might face during the project?
@@ -43,7 +43,7 @@ A potential weakness we may face is seperating factors of correlation. Predictin
 8. **Feature Engineering / Prep Work** (optional, 1 paragraph) **(Done By Brian)** 
    * How are we preparing the data before utilizing it for models and analysis?
   
-  Beyond cleaning the data, which was done in the EDA process, some feature engineering is necessary for the model. Due to the moderate to strong correlation between many economic and demographic variables, principal component analysis will be used to reduce the effects of multicollinearity, and lower the dimensionality of the feature space into a collection of uncorrelated principal components. Before the principal component analysis, however, the features will be standardized to account for the sensitivity of PCA to scale.
+  Beyond cleaning the data, which was done in the EDA process, some feature engineering is necessary for the model. Due to the moderate to strong correlation between many economic and demographic variables, principal component analysis will be used to reduce the effects of multicollinearity, and lower the dimensionality of the feature space into a collection of uncorrelated principal components. Before the principal component analysis, however, the features will be standardized to account for the sensitivity of PCA to scale. Likewise, the data will be seprerated into training and testing data at an 80/20 split, to ensure the model generalizes outside of the training set.
   
 
 9. **Results Presentation Plan** (optional, 1 paragraph) **(Done By Kalenga)**
