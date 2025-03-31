@@ -47,7 +47,7 @@
 8. **Results Presentation Plan** (optional, 1 paragraph) **(Done By Kalenga)**
    * How are we going to present the findings?
 
-     The findings will be presented using graphs and tables, emphasizing the process and results of using PCA and MLR to determine the relationship between economic prosperity and political/civil freedom. We will present the process of determining the number of principle components through a scatterplot to show how the cumulative explained variance increases with the number of components, and what number of components puts the explained variance passed the 95% threshold. Additionally, a table of regression coefficients for the PCA and non-PCA multiple linear regression will be presented, along with their $R^2$ values and root mean squared error for model evaluation.
+   The findings will be presented using graphs and tables, emphasizing the process and results of using PCA and MLR to determine the relationship between economic prosperity and political/civil freedom. We will present the process of determining the number of principle components through a scatterplot to show how the cumulative explained variance increases with the number of components, and what number of components puts the explained variance passed the 95% threshold. Additionally, a table of regression coefficients for the PCA and non-PCA multiple linear regression will be presented, along with their $R^2$ values and root mean squared error for model evaluation.
 
      
   
