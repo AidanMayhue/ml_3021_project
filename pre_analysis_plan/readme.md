@@ -17,7 +17,7 @@ Each row in our dataset represents a country-year observation, combining politic
 3. **Our Prediction Type** (1 paragraph) **(Done By Aidan)**
    * Supervised vs. unsupervised? Classification or regression?
 
-We intend on using multiple linear regression to predict the total freedom score of countries, based on their economic and demographic factors. While the available data makes it possible to do a classification model, we have opted to do regression instead, as this will return predictions that differentiate each country, even those within the same categorical label of freedom. Since, the data contains the target variable (total freedom score) necessary for supervised learning, and a multitude of independent variables, we have decided that multiple linear regression is the best method to answer our research question.
+We intend on using multiple linear regression to predict the total freedom score of countries, based on their economic and demographic factors. While the available data makes it possible to do a classification model, we have opted to do regression instead, as this will return predictions that differentiate each country, even those within the same categorical label of freedom. Since the data contains the target variable (total freedom score) necessary for supervised learning, and a multitude of independent variables, we have decided that multiple linear regression is the best method to answer our research question.
 
 4. **Feature Engineering / Prep Work** (optional, 1 paragraph) **(Done By Brian)** 
    * How are we preparing the data before utilizing it for models and analysis?
