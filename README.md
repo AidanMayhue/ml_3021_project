@@ -4,15 +4,15 @@
 
 ## Pre analysis plan tasks
 ### Objectives 
-- [ ] Figure out what method of ML we need
-- [ ] Create a plan to find a solution
+- [X] Figure out what method of ML we need
+- [X] Create a plan to find a solution
 ### Writing tasks
 **Answer these question** 
-- [ ] What is an observation in your study?
-- [ ] Are you doing supervised or unsupervised learning? Classification or regression?
-- [ ] What models or algorithms do you plan to use in your analysis? How?
-- [ ] How will you know if your approach "works"? What does success mean?
-- [ ] What are weaknesses that you anticipate being an issue? How will you deal with them if they come up? If your approach fails, what might you learn from this unfortunate outcome?
+- [X] What is an observation in your study?
+- [X] Are you doing supervised or unsupervised learning? Classification or regression?
+- [X] What models or algorithms do you plan to use in your analysis? How?
+- [X] How will you know if your approach "works"? What does success mean?
+- [X] What are weaknesses that you anticipate being an issue? How will you deal with them if they come up? If your approach fails, what might you learn from this unfortunate outcome?
 
 ## EDA Tasks 
 ### Writing tasks
