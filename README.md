@@ -2,6 +2,12 @@
 
 ## Please Git push all of your code once you finish completing a task so we don't do the same work. Also pull all recent work before you start working
 
+## Project Results
+### Objectives
+- [ ]  State a clear prediction question
+- [ ]  Organize your discussion around two or three key tables or plots or numbers.
+- [ ]  You can handle criticisms or concerns in the results section if they are relevant or interesting, but most probably belong in the conclusion.
+
 ## Pre analysis plan tasks
 ### Objectives 
 - [X] Figure out what method of ML we need
