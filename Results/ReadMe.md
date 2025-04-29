@@ -13,7 +13,7 @@ Our key findings can be summarized in three insights. First, there is a strong p
 
 Economic and demographic variables do offer meaningful predictive power for national freedom, with GDP and Internet access being particularly useful indicators. However, the results also highlight the complexity of the phenomenon: freedom is not determined by a small set of features but instead emerges from a broader mix of socio-economic factors. Our model is limited by data quality, missing values, and the absence of institutional or historical variables that may play an essential role. It is also worth noting the potential for reverse causality—greater freedom may itself enable economic growth and education. While quantitative models like PCA and Lasso can offer valuable insights, a more comprehensive understanding of national freedom likely requires integrating qualitative political, historical, and institutional analyses.
 
-
+### Old answer
 
 **Clear prediction question**
 Can you predict the freedom of a country using its economic and demographic factors, and which factors have the greatest impact on the freedom index?
