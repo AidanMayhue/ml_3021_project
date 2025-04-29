@@ -1,6 +1,8 @@
 # Results
 *I added some of the answers, the old answer is still below. Feel free to edit my answer and Im open to any feedbakck -Rameez*
 
+https://docs.google.com/document/d/1WqInJt89Ys7HtVmCQvcXF7ePTz2VBPu3pYU8hFIenoA/edit?usp=sharing
+
 ## Prediction Question and Overview
 
 Our project investigates whether a country’s political and civil freedom can be predicted using its economic and demographic characteristics. Specifically, we ask: Can you predict the freedom of a country using its economic and demographic factors, and which factors have the greatest impact on the Freedom Index? 
