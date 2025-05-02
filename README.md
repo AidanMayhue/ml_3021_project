@@ -4,9 +4,9 @@
 
 ## Project Results
 ### Objectives
-- [ ]  State a clear prediction question
-- [ ]  Organize your discussion around two or three key tables or plots or numbers.
-- [ ]  You can handle criticisms or concerns in the results section if they are relevant or interesting, but most probably belong in the conclusion.
+- [x]  State a clear prediction question
+- [x]  Organize your discussion around two or three key tables or plots or numbers.
+- [x]  You can handle criticisms or concerns in the results section if they are relevant or interesting, but most probably belong in the conclusion.
 
 ## Pre analysis plan tasks
 ### Objectives 
