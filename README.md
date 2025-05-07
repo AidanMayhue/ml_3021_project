@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1-KVN3N3Q4X963WEcfPOMwlxXQjuYZaWTtkeVmxW_ZLg/edit?usp=sharing
+
 # DS3021 Machine Learning Project
 
 ## Please Git push all of your code once you finish completing a task so we don't do the same work. Also pull all recent work before you start working
